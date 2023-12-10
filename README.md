@@ -1,1 +1,1 @@
-# Szakdolgozat_Thesis
+# Szakdolgozat-Thesis
