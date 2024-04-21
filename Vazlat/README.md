@@ -1,6 +1,6 @@
 # Szakdolgozat vázlat
 
-## "Mély tanulás és Szövegfeldolgozás alkalmazása a sportfogadásban"
+## "Gépi tanulás és mély tanulás a sportfogadásban"
 
 (A cím irányadó, nem végleges)
 
