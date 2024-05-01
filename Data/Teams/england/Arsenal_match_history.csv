@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+03/09/23,PRL,Arsenal,3-1,Manchester United
+17/09/23,PRL,Everton,0-1,Arsenal
+20/09/23,UCL,Arsenal,4-0,PSV
+24/09/23,PRL,Arsenal,2-2,Tottenham Hotspur
+27/09/23,LEC,Brentford,0-1,Arsenal
+30/09/23,PRL,AFC Bournemouth,0-4,Arsenal
+03/10/23,UCL,Lens,2-1,Arsenal
+08/10/23,PRL,Arsenal,1-0,Manchester City
+21/10/23,PRL,Chelsea,2-2,Arsenal
+24/10/23,UCL,Sevilla,1-2,Arsenal
+28/10/23,PRL,Arsenal,5-0,Sheffield United
+01/11/23,LEC,West Ham United,3-1,Arsenal
+04/11/23,PRL,Newcastle United,1-0,Arsenal
+08/11/23,UCL,Arsenal,2-0,Sevilla
+11/11/23,PRL,Arsenal,3-1,Burnley
+25/11/23,PRL,Brentford,0-1,Arsenal
+29/11/23,UCL,Arsenal,6-0,Lens
+02/12/23,PRL,Arsenal,2-1,Wolverhampton Wanderers
+05/12/23,PRL,Luton Town,3-4,Arsenal
+09/12/23,PRL,Aston Villa,1-0,Arsenal
+12/12/23,UCL,PSV,1-1,Arsenal
+17/12/23,PRL,Arsenal,2-0,Brighton & Hove Albion
+23/12/23,PRL,Liverpool,1-1,Arsenal
+28/12/23,PRL,Arsenal,0-2,West Ham United
+31/12/23,PRL,Fulham,2-1,Arsenal
+07/01/24,FAC,Arsenal,0-2,Liverpool
+20/01/24,PRL,Arsenal,5-0,Crystal Palace
+30/01/24,PRL,Nottingham Forest,1-2,Arsenal
+04/02/24,PRL,Arsenal,3-1,Liverpool
+11/02/24,PRL,West Ham United,0-6,Arsenal
+17/02/24,PRL,Burnley,0-5,Arsenal
+21/02/24,UCL,Porto,1-0,Arsenal
+24/02/24,PRL,Arsenal,4-1,Newcastle United
+04/03/24,PRL,Sheffield United,0-6,Arsenal
+09/03/24,PRL,Arsenal,2-1,Brentford
+12/03/24,UCL,Arsenal,P1-0P,Porto
+31/03/24,PRL,Manchester City,0-0,Arsenal
+03/04/24,PRL,Arsenal,2-0,Luton Town
+06/04/24,PRL,Brighton & Hove Albion,0-3,Arsenal
+09/04/24,UCL,Arsenal,2-2,Bayern Munich
+14/04/24,PRL,Arsenal,0-2,Aston Villa
+17/04/24,UCL,Bayern Munich,1-0,Arsenal
+20/04/24,PRL,Wolverhampton Wanderers,0-2,Arsenal
+23/04/24,PRL,Arsenal,5-0,Chelsea
+28/04/24,PRL,Tottenham Hotspur,2-3,Arsenal
+04/05/24,PRL,Arsenal,13:30,AFC Bournemouth
+12/05/24,PRL,Manchester United,17:30,Arsenal
+19/05/24,PRL,Arsenal,17:00,Everton
+28/07/24,CLF,Arsenal,02:00,Manchester United
+31/07/24,CLF,Liverpool,-,Arsenal
+13/10/22,UEL,Bodø / Glimt,0-1,Arsenal
+16/10/22,PRL,Leeds United,0-1,Arsenal
+20/10/22,UEL,Arsenal,1-0,PSV
+23/10/22,PRL,Southampton,1-1,Arsenal
+27/10/22,UEL,PSV,2-0,Arsenal
+30/10/22,PRL,Arsenal,5-0,Nottingham Forest
+03/11/22,UEL,Arsenal,1-0,Zürich
+06/11/22,PRL,Chelsea,0-1,Arsenal
+09/11/22,LEC,Arsenal,1-3,Brighton & Hove Albion
+12/11/22,PRL,Wolverhampton Wanderers,0-2,Arsenal
+08/12/22,CLF,Arsenal,P3-0P,Lyon
+13/12/22,CLF,Arsenal,P2-1P,AC Milan
+17/12/22,CLF,Arsenal,0-2,Juventus
+26/12/22,PRL,Arsenal,3-1,West Ham United
+31/12/22,PRL,Brighton & Hove Albion,2-4,Arsenal
+03/01/23,PRL,Arsenal,0-0,Newcastle United
+09/01/23,FAC,Oxford United,0-3,Arsenal
+15/01/23,PRL,Tottenham Hotspur,0-2,Arsenal
+22/01/23,PRL,Arsenal,3-2,Manchester United
+27/01/23,FAC,Manchester City,1-0,Arsenal
+04/02/23,PRL,Everton,1-0,Arsenal
+11/02/23,PRL,Arsenal,1-1,Brentford
+15/02/23,PRL,Arsenal,1-3,Manchester City
+18/02/23,PRL,Aston Villa,2-4,Arsenal
+25/02/23,PRL,Leicester City,0-1,Arsenal
+01/03/23,PRL,Arsenal,4-0,Everton
+04/03/23,PRL,Arsenal,3-2,AFC Bournemouth
+09/03/23,UEL,Sporting Lisbon,2-2,Arsenal
+12/03/23,PRL,Fulham,0-3,Arsenal
+16/03/23,UEL,Arsenal,P1-1P,Sporting Lisbon
+19/03/23,PRL,Arsenal,4-1,Crystal Palace
+01/04/23,PRL,Arsenal,4-1,Leeds United
+09/04/23,PRL,Liverpool,2-2,Arsenal
+16/04/23,PRL,West Ham United,2-2,Arsenal
+21/04/23,PRL,Arsenal,3-3,Southampton
+26/04/23,PRL,Manchester City,4-1,Arsenal
+02/05/23,PRL,Arsenal,3-1,Chelsea
+07/05/23,PRL,Newcastle United,0-2,Arsenal
+14/05/23,PRL,Arsenal,0-3,Brighton & Hove Albion
+20/05/23,PRL,Nottingham Forest,1-0,Arsenal
+28/05/23,PRL,Arsenal,5-0,Wolverhampton Wanderers
+13/07/23,CLF,Nürnberg,1-1,Arsenal
+20/07/23,MLA,MLS All-Stars,0-5,Arsenal
+22/07/23,CLF,Arsenal,P0-2P,Manchester United
+27/07/23,CLF,Arsenal,5-3,Barcelona
+02/08/23,EMC,Arsenal,P1-1P,Monaco
+06/08/23,COS,Arsenal,P1-1P,Manchester City
+12/08/23,PRL,Arsenal,2-1,Nottingham Forest
+21/08/23,PRL,Crystal Palace,0-1,Arsenal
+26/08/23,PRL,Arsenal,2-2,Fulham
+26/10/21,LEC,Arsenal,2-0,Leeds United
+30/10/21,PRL,Leicester City,0-2,Arsenal
+07/11/21,PRL,Arsenal,1-0,Watford
+20/11/21,PRL,Liverpool,4-0,Arsenal
+27/11/21,PRL,Arsenal,2-0,Newcastle United
+02/12/21,PRL,Manchester United,3-2,Arsenal
+06/12/21,PRL,Everton,2-1,Arsenal
+11/12/21,PRL,Arsenal,3-0,Southampton
+15/12/21,PRL,Arsenal,2-0,West Ham United
+18/12/21,PRL,Leeds United,1-4,Arsenal
+21/12/21,LEC,Arsenal,5-1,Sunderland
+26/12/21,PRL,Norwich City,0-5,Arsenal
+01/01/22,PRL,Arsenal,1-2,Manchester City
+09/01/22,FAC,Nottingham Forest,1-0,Arsenal
+13/01/22,LEC,Liverpool,0-0,Arsenal
+20/01/22,LEC,Arsenal,0-2,Liverpool
+23/01/22,PRL,Arsenal,0-0,Burnley
+10/02/22,PRL,Wolverhampton Wanderers,0-1,Arsenal
+19/02/22,PRL,Arsenal,2-1,Brentford
+24/02/22,PRL,Arsenal,2-1,Wolverhampton Wanderers
+06/03/22,PRL,Watford,2-3,Arsenal
+13/03/22,PRL,Arsenal,2-0,Leicester City
+16/03/22,PRL,Arsenal,0-2,Liverpool
+19/03/22,PRL,Aston Villa,0-1,Arsenal
+04/04/22,PRL,Crystal Palace,3-0,Arsenal
+09/04/22,PRL,Arsenal,1-2,Brighton & Hove Albion
+16/04/22,PRL,Southampton,1-0,Arsenal
+20/04/22,PRL,Chelsea,2-4,Arsenal
+23/04/22,PRL,Arsenal,3-1,Manchester United
+01/05/22,PRL,West Ham United,1-2,Arsenal
+08/05/22,PRL,Arsenal,2-1,Leeds United
+12/05/22,PRL,Tottenham Hotspur,3-0,Arsenal
+16/05/22,PRL,Newcastle United,2-0,Arsenal
+22/05/22,PRL,Arsenal,5-1,Everton
+08/07/22,CLF,Nürnberg,3-5,Arsenal
+17/07/22,CLF,Arsenal,2-0,Everton
+21/07/22,CLF,Orlando City,1-3,Arsenal
+24/07/22,FLC,Arsenal,4-0,Chelsea
+30/07/22,EMC,Arsenal,6-0,Sevilla
+05/08/22,PRL,Crystal Palace,0-2,Arsenal
+13/08/22,PRL,Arsenal,4-2,Leicester City
+20/08/22,PRL,AFC Bournemouth,0-3,Arsenal
+27/08/22,PRL,Arsenal,2-1,Fulham
+31/08/22,PRL,Arsenal,2-1,Aston Villa
+04/09/22,PRL,Manchester United,3-1,Arsenal
+08/09/22,UEL,Zürich,1-2,Arsenal
+18/09/22,PRL,Brentford,0-3,Arsenal
+01/10/22,PRL,Arsenal,3-1,Tottenham Hotspur
+06/10/22,UEL,Arsenal,3-0,Bodø / Glimt
+09/10/22,PRL,Arsenal,3-2,Liverpool
+22/12/20,LEC,Arsenal,1-4,Manchester City
+26/12/20,PRL,Arsenal,3-1,Chelsea
+29/12/20,PRL,Brighton & Hove Albion,0-1,Arsenal
+02/01/21,PRL,West Bromwich Albion,0-4,Arsenal
+09/01/21,FAC,Arsenal,E2-0E,Newcastle United
+14/01/21,PRL,Arsenal,0-0,Crystal Palace
+18/01/21,PRL,Arsenal,3-0,Newcastle United
+23/01/21,FAC,Southampton,1-0,Arsenal
+26/01/21,PRL,Southampton,1-3,Arsenal
+30/01/21,PRL,Arsenal,0-0,Manchester United
+02/02/21,PRL,Wolverhampton Wanderers,2-1,Arsenal
+06/02/21,PRL,Aston Villa,1-0,Arsenal
+14/02/21,PRL,Arsenal,4-2,Leeds United
+18/02/21,UEL,Benfica,1-1,Arsenal
+21/02/21,PRL,Arsenal,0-1,Manchester City
+25/02/21,UEL,Arsenal,3-2,Benfica
+28/02/21,PRL,Leicester City,1-3,Arsenal
+06/03/21,PRL,Burnley,1-1,Arsenal
+11/03/21,UEL,Olympiakos,1-3,Arsenal
+14/03/21,PRL,Arsenal,2-1,Tottenham Hotspur
+18/03/21,UEL,Arsenal,0-1,Olympiakos
+21/03/21,PRL,West Ham United,3-3,Arsenal
+03/04/21,PRL,Arsenal,0-3,Liverpool
+08/04/21,UEL,Arsenal,1-1,Slavia Prague
+11/04/21,PRL,Sheffield United,0-3,Arsenal
+15/04/21,UEL,Slavia Prague,0-4,Arsenal
+18/04/21,PRL,Arsenal,1-1,Fulham
+23/04/21,PRL,Arsenal,0-1,Everton
+29/04/21,UEL,Villarreal,2-1,Arsenal
+02/05/21,PRL,Newcastle United,0-2,Arsenal
+06/05/21,UEL,Arsenal,0-0,Villarreal
+09/05/21,PRL,Arsenal,3-1,West Bromwich Albion
+12/05/21,PRL,Chelsea,0-1,Arsenal
+19/05/21,PRL,Crystal Palace,1-3,Arsenal
+23/05/21,PRL,Arsenal,2-0,Brighton & Hove Albion
+13/07/21,CLF,Hibernian,2-1,Arsenal
+17/07/21,CLF,Rangers,2-2,Arsenal
+01/08/21,CLF,Arsenal,1-2,Chelsea
+08/08/21,CLF,Tottenham Hotspur,1-0,Arsenal
+13/08/21,PRL,Brentford,2-0,Arsenal
+22/08/21,PRL,Arsenal,0-2,Chelsea
+25/08/21,LEC,West Bromwich Albion,0-6,Arsenal
+28/08/21,PRL,Manchester City,5-0,Arsenal
+11/09/21,PRL,Arsenal,1-0,Norwich City
+18/09/21,PRL,Burnley,0-1,Arsenal
+22/09/21,LEC,Arsenal,3-0,AFC Wimbledon
+26/09/21,PRL,Arsenal,3-1,Tottenham Hotspur
+02/10/21,PRL,Brighton & Hove Albion,0-0,Arsenal
+18/10/21,PRL,Arsenal,2-2,Crystal Palace
+22/10/21,PRL,Arsenal,3-1,Aston Villa
+01/01/20,PRL,Arsenal,2-0,Manchester United
+06/01/20,FAC,Arsenal,1-0,Leeds United
+11/01/20,PRL,Crystal Palace,1-1,Arsenal
+18/01/20,PRL,Arsenal,1-1,Sheffield United
+21/01/20,PRL,Chelsea,2-2,Arsenal
+27/01/20,FAC,AFC Bournemouth,1-2,Arsenal
+02/02/20,PRL,Burnley,0-0,Arsenal
+16/02/20,PRL,Arsenal,4-0,Newcastle United
+20/02/20,UEL,Olympiakos,0-1,Arsenal
+23/02/20,PRL,Arsenal,3-2,Everton
+27/02/20,UEL,Arsenal,E1-2E,Olympiakos
+02/03/20,FAC,Portsmouth,0-2,Arsenal
+07/03/20,PRL,Arsenal,1-0,West Ham United
+17/06/20,PRL,Manchester City,3-0,Arsenal
+20/06/20,PRL,Brighton & Hove Albion,2-1,Arsenal
+25/06/20,PRL,Southampton,0-2,Arsenal
+28/06/20,FAC,Sheffield United,1-2,Arsenal
+01/07/20,PRL,Arsenal,4-0,Norwich City
+04/07/20,PRL,Wolverhampton Wanderers,0-2,Arsenal
+07/07/20,PRL,Arsenal,1-1,Leicester City
+12/07/20,PRL,Tottenham Hotspur,2-1,Arsenal
+15/07/20,PRL,Arsenal,2-1,Liverpool
+18/07/20,FAC,Arsenal,2-0,Manchester City
+21/07/20,PRL,Aston Villa,1-0,Arsenal
+26/07/20,PRL,Arsenal,3-2,Watford
+01/08/20,FAC,Arsenal,2-1,Chelsea
+25/08/20,CLF,Milton Keynes Dons,1-4,Arsenal
+29/08/20,COS,Arsenal,P1-1P,Liverpool
+12/09/20,PRL,Fulham,0-3,Arsenal
+19/09/20,PRL,Arsenal,2-1,West Ham United
+23/09/20,LEC,Leicester City,0-2,Arsenal
+28/09/20,PRL,Liverpool,3-1,Arsenal
+01/10/20,LEC,Liverpool,P0-0P,Arsenal
+04/10/20,PRL,Arsenal,2-1,Sheffield United
+17/10/20,PRL,Manchester City,1-0,Arsenal
+22/10/20,UEL,Rapid Vienna,1-2,Arsenal
+25/10/20,PRL,Arsenal,0-1,Leicester City
+29/10/20,UEL,Arsenal,3-0,Dundalk
+01/11/20,PRL,Manchester United,0-1,Arsenal
+05/11/20,UEL,Arsenal,4-1,Molde
+08/11/20,PRL,Arsenal,0-3,Aston Villa
+22/11/20,PRL,Leeds United,0-0,Arsenal
+26/11/20,UEL,Molde,0-3,Arsenal
+29/11/20,PRL,Arsenal,1-2,Wolverhampton Wanderers
+03/12/20,UEL,Arsenal,4-1,Rapid Vienna
+06/12/20,PRL,Tottenham Hotspur,2-0,Arsenal
+10/12/20,UEL,Dundalk,2-4,Arsenal
+13/12/20,PRL,Arsenal,0-1,Burnley
+16/12/20,PRL,Arsenal,1-1,Southampton
+19/12/20,PRL,Everton,2-1,Arsenal
+10/03/19,PRL,Arsenal,2-0,Manchester United
+14/03/19,UEL,Arsenal,3-0,Rennes
+01/04/19,PRL,Arsenal,2-0,Newcastle United
+07/04/19,PRL,Everton,1-0,Arsenal
+11/04/19,UEL,Arsenal,2-0,Napoli
+15/04/19,PRL,Watford,0-1,Arsenal
+18/04/19,UEL,Napoli,0-1,Arsenal
+21/04/19,PRL,Arsenal,2-3,Crystal Palace
+24/04/19,PRL,Wolverhampton Wanderers,3-1,Arsenal
+28/04/19,PRL,Leicester City,3-0,Arsenal
+02/05/19,UEL,Arsenal,3-1,Valencia
+05/05/19,PRL,Arsenal,1-1,Brighton & Hove Albion
+09/05/19,UEL,Valencia,2-4,Arsenal
+12/05/19,PRL,Burnley,1-3,Arsenal
+29/05/19,UEL,Chelsea,4-1,Arsenal
+16/07/19,CLF,Colorado Rapids,0-3,Arsenal
+18/07/19,ICC,Arsenal,2-1,Bayern Munich
+21/07/19,ICC,Arsenal,3-0,Fiorentina
+24/07/19,ICC,Real Madrid,P2-2P,Arsenal
+28/07/19,EMC,Arsenal,1-2,Lyon
+31/07/19,CLF,Angers,P1-1P,Arsenal
+04/08/19,TJG,Barcelona,2-1,Arsenal
+11/08/19,PRL,Newcastle United,0-1,Arsenal
+17/08/19,PRL,Arsenal,2-1,Burnley
+24/08/19,PRL,Liverpool,3-1,Arsenal
+01/09/19,PRL,Arsenal,2-2,Tottenham Hotspur
+15/09/19,PRL,Watford,2-2,Arsenal
+19/09/19,UEL,Eintracht Frankfurt,0-3,Arsenal
+22/09/19,PRL,Arsenal,3-2,Aston Villa
+24/09/19,LEC,Arsenal,5-0,Nottingham Forest
+30/09/19,PRL,Manchester United,1-1,Arsenal
+03/10/19,UEL,Arsenal,4-0,Standard Liège
+06/10/19,PRL,Arsenal,1-0,AFC Bournemouth
+21/10/19,PRL,Sheffield United,1-0,Arsenal
+24/10/19,UEL,Arsenal,3-2,Vitoria Guimaraes
+27/10/19,PRL,Arsenal,2-2,Crystal Palace
+30/10/19,LEC,Liverpool,P5-5P,Arsenal
+02/11/19,PRL,Arsenal,1-1,Wolverhampton Wanderers
+06/11/19,UEL,Vitoria Guimaraes,1-1,Arsenal
+09/11/19,PRL,Leicester City,2-0,Arsenal
+23/11/19,PRL,Arsenal,2-2,Southampton
+28/11/19,UEL,Arsenal,1-2,Eintracht Frankfurt
+01/12/19,PRL,Norwich City,2-2,Arsenal
+05/12/19,PRL,Arsenal,1-2,Brighton & Hove Albion
+09/12/19,PRL,West Ham United,1-3,Arsenal
+12/12/19,UEL,Standard Liège,2-2,Arsenal
+15/12/19,PRL,Arsenal,0-3,Manchester City
+21/12/19,PRL,Everton,0-0,Arsenal
+26/12/19,PRL,AFC Bournemouth,1-1,Arsenal
+29/12/19,PRL,Arsenal,1-2,Chelsea
+09/05/18,PRL,Leicester City,3-1,Arsenal
+13/05/18,PRL,Huddersfield Town,0-1,Arsenal
+14/07/18,CLF,Boreham Wood,0-8,Arsenal
+26/07/18,ICC,Atletico Madrid,P1-1P,Arsenal
+28/07/18,ICC,Arsenal,5-1,PSG
+01/08/18,ICC,Arsenal,P1-1P,Chelsea
+04/08/18,CLF,Arsenal,2-0,Lazio
+12/08/18,PRL,Arsenal,0-2,Manchester City
+18/08/18,PRL,Chelsea,3-2,Arsenal
+25/08/18,PRL,Arsenal,3-1,West Ham United
+02/09/18,PRL,Cardiff City,2-3,Arsenal
+15/09/18,PRL,Newcastle United,1-2,Arsenal
+20/09/18,UEL,Arsenal,4-2,Vorskla
+23/09/18,PRL,Arsenal,2-0,Everton
+26/09/18,LEC,Arsenal,3-1,Brentford
+29/09/18,PRL,Arsenal,2-0,Watford
+04/10/18,UEL,Qarabag,0-3,Arsenal
+07/10/18,PRL,Fulham,1-5,Arsenal
+22/10/18,PRL,Arsenal,3-1,Leicester City
+25/10/18,UEL,Sporting Lisbon,0-1,Arsenal
+28/10/18,PRL,Crystal Palace,2-2,Arsenal
+31/10/18,LEC,Arsenal,2-1,Blackpool
+03/11/18,PRL,Arsenal,1-1,Liverpool
+08/11/18,UEL,Arsenal,0-0,Sporting Lisbon
+11/11/18,PRL,Arsenal,1-1,Wolverhampton Wanderers
+25/11/18,PRL,AFC Bournemouth,1-2,Arsenal
+29/11/18,UEL,Vorskla,0-3,Arsenal
+02/12/18,PRL,Arsenal,4-2,Tottenham Hotspur
+05/12/18,PRL,Manchester United,2-2,Arsenal
+08/12/18,PRL,Arsenal,1-0,Huddersfield Town
+13/12/18,UEL,Arsenal,1-0,Qarabag
+16/12/18,PRL,Southampton,3-2,Arsenal
+19/12/18,LEC,Arsenal,0-2,Tottenham Hotspur
+22/12/18,PRL,Arsenal,3-1,Burnley
+26/12/18,PRL,Brighton & Hove Albion,1-1,Arsenal
+29/12/18,PRL,Liverpool,5-1,Arsenal
+01/01/19,PRL,Arsenal,4-1,Fulham
+05/01/19,FAC,Blackpool,0-3,Arsenal
+12/01/19,PRL,West Ham United,1-0,Arsenal
+19/01/19,PRL,Arsenal,2-0,Chelsea
+25/01/19,FAC,Arsenal,1-3,Manchester United
+29/01/19,PRL,Arsenal,2-1,Cardiff City
+03/02/19,PRL,Manchester City,3-1,Arsenal
+09/02/19,PRL,Huddersfield Town,1-2,Arsenal
+14/02/19,UEL,BATE,1-0,Arsenal
+21/02/19,UEL,Arsenal,3-0,BATE
+24/02/19,PRL,Arsenal,2-0,Southampton
+27/02/19,PRL,Arsenal,5-1,AFC Bournemouth
+02/03/19,PRL,Tottenham Hotspur,1-1,Arsenal
+07/03/19,UEL,Rennes,3-1,Arsenal
+25/09/17,PRL,Arsenal,2-0,West Bromwich Albion
+28/09/17,UEL,BATE,2-4,Arsenal
+01/10/17,PRL,Arsenal,2-0,Brighton & Hove Albion
+14/10/17,PRL,Watford,2-1,Arsenal
+19/10/17,UEL,Red Star Belgrade,0-1,Arsenal
+22/10/17,PRL,Everton,2-5,Arsenal
+24/10/17,LEC,Arsenal,E2-1E,Norwich City
+28/10/17,PRL,Arsenal,2-1,Swansea City
+02/11/17,UEL,Arsenal,0-0,Red Star Belgrade
+05/11/17,PRL,Manchester City,3-1,Arsenal
+18/11/17,PRL,Arsenal,2-0,Tottenham Hotspur
+23/11/17,UEL,FC Cologne,1-0,Arsenal
+26/11/17,PRL,Burnley,0-1,Arsenal
+29/11/17,PRL,Arsenal,5-0,Huddersfield Town
+02/12/17,PRL,Arsenal,1-3,Manchester United
+07/12/17,UEL,Arsenal,6-0,BATE
+10/12/17,PRL,Southampton,1-1,Arsenal
+13/12/17,PRL,West Ham United,0-0,Arsenal
+16/12/17,PRL,Arsenal,1-0,Newcastle United
+19/12/17,LEC,Arsenal,1-0,West Ham United
+22/12/17,PRL,Arsenal,3-3,Liverpool
+28/12/17,PRL,Crystal Palace,2-3,Arsenal
+31/12/17,PRL,West Bromwich Albion,1-1,Arsenal
+03/01/18,PRL,Arsenal,2-2,Chelsea
+07/01/18,FAC,Nottingham Forest,4-2,Arsenal
+10/01/18,LEC,Chelsea,0-0,Arsenal
+14/01/18,PRL,AFC Bournemouth,2-1,Arsenal
+20/01/18,PRL,Arsenal,4-1,Crystal Palace
+24/01/18,LEC,Arsenal,2-1,Chelsea
+30/01/18,PRL,Swansea City,3-1,Arsenal
+03/02/18,PRL,Arsenal,5-1,Everton
+10/02/18,PRL,Tottenham Hotspur,1-0,Arsenal
+15/02/18,UEL,Östersunds FK,0-3,Arsenal
+22/02/18,UEL,Arsenal,1-2,Östersunds FK
+25/02/18,LEC,Arsenal,0-3,Manchester City
+01/03/18,PRL,Arsenal,0-3,Manchester City
+04/03/18,PRL,Brighton & Hove Albion,2-1,Arsenal
+08/03/18,UEL,AC Milan,0-2,Arsenal
+11/03/18,PRL,Arsenal,3-0,Watford
+15/03/18,UEL,Arsenal,3-1,AC Milan
+01/04/18,PRL,Arsenal,3-0,Stoke City
+05/04/18,UEL,Arsenal,4-1,CSKA Moscow
+08/04/18,PRL,Arsenal,3-2,Southampton
+12/04/18,UEL,CSKA Moscow,2-2,Arsenal
+15/04/18,PRL,Newcastle United,2-1,Arsenal
+22/04/18,PRL,Arsenal,4-1,West Ham United
+26/04/18,UEL,Arsenal,1-1,Atletico Madrid
+29/04/18,PRL,Manchester United,2-1,Arsenal
+03/05/18,UEL,Atletico Madrid,1-0,Arsenal
+06/05/18,PRL,Arsenal,5-0,Burnley
+27/11/16,PRL,Arsenal,3-1,AFC Bournemouth
+30/11/16,LEC,Arsenal,0-2,Southampton
+03/12/16,PRL,West Ham United,1-5,Arsenal
+06/12/16,UCL,Basel,1-4,Arsenal
+10/12/16,PRL,Arsenal,3-1,Stoke City
+13/12/16,PRL,Everton,2-1,Arsenal
+18/12/16,PRL,Manchester City,2-1,Arsenal
+26/12/16,PRL,Arsenal,1-0,West Bromwich Albion
+01/01/17,PRL,Arsenal,2-0,Crystal Palace
+03/01/17,PRL,AFC Bournemouth,3-3,Arsenal
+07/01/17,FAC,Preston North End,1-2,Arsenal
+14/01/17,PRL,Swansea City,0-4,Arsenal
+22/01/17,PRL,Arsenal,2-1,Burnley
+28/01/17,FAC,Southampton,0-5,Arsenal
+31/01/17,PRL,Arsenal,1-2,Watford
+04/02/17,PRL,Chelsea,3-1,Arsenal
+11/02/17,PRL,Arsenal,2-0,Hull City
+15/02/17,UCL,Bayern Munich,5-1,Arsenal
+20/02/17,FAC,Sutton United,0-2,Arsenal
+04/03/17,PRL,Liverpool,3-1,Arsenal
+07/03/17,UCL,Arsenal,1-5,Bayern Munich
+11/03/17,FAC,Arsenal,5-0,Lincoln City
+18/03/17,PRL,West Bromwich Albion,3-1,Arsenal
+02/04/17,PRL,Arsenal,2-2,Manchester City
+05/04/17,PRL,Arsenal,3-0,West Ham United
+10/04/17,PRL,Crystal Palace,3-0,Arsenal
+17/04/17,PRL,Middlesbrough,1-2,Arsenal
+23/04/17,FAC,Arsenal,E2-1E,Manchester City
+26/04/17,PRL,Arsenal,1-0,Leicester City
+30/04/17,PRL,Tottenham Hotspur,2-0,Arsenal
+07/05/17,PRL,Arsenal,2-0,Manchester United
+10/05/17,PRL,Southampton,0-2,Arsenal
+13/05/17,PRL,Stoke City,1-4,Arsenal
+16/05/17,PRL,Arsenal,2-0,Sunderland
+21/05/17,PRL,Arsenal,3-1,Everton
+27/05/17,FAC,Arsenal,2-1,Chelsea
+13/07/17,CLF,Sydney,0-2,Arsenal
+15/07/17,CLF,Western Sydney Wanderers,1-3,Arsenal
+19/07/17,ICC,Bayern Munich,P1-1P,Arsenal
+22/07/17,CLF,Arsenal,0-3,Chelsea
+29/07/17,EMC,Arsenal,5-2,Benfica
+30/07/17,EMC,Arsenal,1-2,Sevilla
+06/08/17,COS,Arsenal,P1-1P,Chelsea
+11/08/17,PRL,Arsenal,4-3,Leicester City
+19/08/17,PRL,Stoke City,1-0,Arsenal
+27/08/17,PRL,Liverpool,4-0,Arsenal
+09/09/17,PRL,Arsenal,3-0,AFC Bournemouth
+14/09/17,UEL,Arsenal,3-1,FC Cologne
+17/09/17,PRL,Chelsea,0-0,Arsenal
+20/09/17,LEC,Arsenal,1-0,Doncaster Rovers
+02/01/16,PRL,Arsenal,1-0,Newcastle United
+09/01/16,FAC,Arsenal,3-1,Sunderland
+13/01/16,PRL,Liverpool,3-3,Arsenal
+17/01/16,PRL,Stoke City,0-0,Arsenal
+24/01/16,PRL,Arsenal,0-1,Chelsea
+30/01/16,FAC,Arsenal,2-1,Burnley
+02/02/16,PRL,Arsenal,0-0,Southampton
+07/02/16,PRL,AFC Bournemouth,0-2,Arsenal
+14/02/16,PRL,Arsenal,2-1,Leicester City
+20/02/16,FAC,Arsenal,0-0,Hull City
+23/02/16,UCL,Arsenal,0-2,Barcelona
+28/02/16,PRL,Manchester United,3-2,Arsenal
+02/03/16,PRL,Arsenal,1-2,Swansea City
+05/03/16,PRL,Tottenham Hotspur,2-2,Arsenal
+08/03/16,FAC,Hull City,0-4,Arsenal
+13/03/16,FAC,Arsenal,1-2,Watford
+16/03/16,UCL,Barcelona,3-1,Arsenal
+19/03/16,PRL,Everton,0-2,Arsenal
+02/04/16,PRL,Arsenal,4-0,Watford
+09/04/16,PRL,West Ham United,3-3,Arsenal
+17/04/16,PRL,Arsenal,1-1,Crystal Palace
+21/04/16,PRL,Arsenal,2-0,West Bromwich Albion
+24/04/16,PRL,Sunderland,0-0,Arsenal
+30/04/16,PRL,Arsenal,1-0,Norwich City
+08/05/16,PRL,Manchester City,2-2,Arsenal
+15/05/16,PRL,Arsenal,4-0,Aston Villa
+22/07/16,CLF,Lens,1-1,Arsenal
+29/07/16,MLA,MLS All-Stars,1-2,Arsenal
+01/08/16,CLF,Guadalajara,1-3,Arsenal
+05/08/16,CLF,Viking,0-8,Arsenal
+07/08/16,CLF,Arsenal,3-2,Manchester City
+14/08/16,PRL,Arsenal,3-4,Liverpool
+20/08/16,PRL,Leicester City,0-0,Arsenal
+27/08/16,PRL,Watford,1-3,Arsenal
+10/09/16,PRL,Arsenal,2-1,Southampton
+13/09/16,UCL,PSG,1-1,Arsenal
+17/09/16,PRL,Hull City,1-4,Arsenal
+20/09/16,LEC,Nottingham Forest,0-4,Arsenal
+24/09/16,PRL,Arsenal,3-0,Chelsea
+28/09/16,UCL,Arsenal,2-0,Basel
+02/10/16,PRL,Burnley,0-1,Arsenal
+15/10/16,PRL,Arsenal,3-2,Swansea City
+19/10/16,UCL,Arsenal,6-0,Ludogorets
+22/10/16,PRL,Arsenal,0-0,Middlesbrough
+25/10/16,LEC,Arsenal,2-0,Reading
+29/10/16,PRL,Sunderland,1-4,Arsenal
+01/11/16,UCL,Ludogorets,2-3,Arsenal
+06/11/16,PRL,Arsenal,1-1,Tottenham Hotspur
+19/11/16,PRL,Manchester United,1-1,Arsenal
+23/11/16,UCL,Arsenal,2-2,PSG

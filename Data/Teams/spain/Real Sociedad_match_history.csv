@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+17/09/23,LAL,Real Madrid,2-1,Real Sociedad
+20/09/23,UCL,Real Sociedad,1-1,Inter Milan
+24/09/23,LAL,Real Sociedad,4-3,Getafe
+27/09/23,LAL,Valencia,0-1,Real Sociedad
+30/09/23,LAL,Real Sociedad,3-0,Athletic Bilbao
+03/10/23,UCL,Salzburg,0-2,Real Sociedad
+08/10/23,LAL,Atletico Madrid,2-1,Real Sociedad
+21/10/23,LAL,Real Sociedad,1-0,Mallorca
+24/10/23,UCL,Benfica,0-1,Real Sociedad
+29/10/23,LAL,Rayo Vallecano,2-2,Real Sociedad
+01/11/23,CDR,Buñol,0-1,Real Sociedad
+04/11/23,LAL,Real Sociedad,0-1,Barcelona
+08/11/23,UCL,Real Sociedad,3-1,Benfica
+11/11/23,LAL,Almeria,1-3,Real Sociedad
+26/11/23,LAL,Real Sociedad,2-1,Sevilla
+29/11/23,UCL,Real Sociedad,0-0,Salzburg
+02/12/23,LAL,Osasuna,1-1,Real Sociedad
+06/12/23,CDR,Andratx,0-1,Real Sociedad
+09/12/23,LAL,Villarreal,0-3,Real Sociedad
+12/12/23,UCL,Inter Milan,0-0,Real Sociedad
+17/12/23,LAL,Real Sociedad,0-0,Real Betis
+21/12/23,LAL,Cadiz,0-0,Real Sociedad
+02/01/24,LAL,Real Sociedad,1-1,Alaves
+07/01/24,CDR,Malaga,0-1,Real Sociedad
+13/01/24,LAL,Athletic Bilbao,2-1,Real Sociedad
+17/01/24,CDR,Osasuna,0-2,Real Sociedad
+20/01/24,LAL,Celta Vigo,0-1,Real Sociedad
+23/01/24,CDR,Celta Vigo,1-2,Real Sociedad
+27/01/24,LAL,Real Sociedad,0-0,Rayo Vallecano
+03/02/24,LAL,Girona,0-0,Real Sociedad
+06/02/24,CDR,Mallorca,0-0,Real Sociedad
+10/02/24,LAL,Real Sociedad,0-1,Osasuna
+14/02/24,UCL,PSG,2-0,Real Sociedad
+18/02/24,LAL,Mallorca,1-2,Real Sociedad
+23/02/24,LAL,Real Sociedad,1-3,Villarreal
+27/02/24,CDR,Real Sociedad,P1-1P,Mallorca
+02/03/24,LAL,Sevilla,3-2,Real Sociedad
+05/03/24,UCL,Real Sociedad,1-2,PSG
+09/03/24,LAL,Granada,2-3,Real Sociedad
+15/03/24,LAL,Real Sociedad,2-0,Cadiz
+31/03/24,LAL,Alaves,0-1,Real Sociedad
+14/04/24,LAL,Real Sociedad,2-2,Almeria
+21/04/24,LAL,Getafe,1-1,Real Sociedad
+26/04/24,LAL,Real Sociedad,0-1,Real Madrid
+04/05/24,LAL,Real Sociedad,14:00,Las Palmas
+13/05/24,LAL,Barcelona,21:00,Real Sociedad
+16/05/24,LAL,Real Sociedad,22:00,Valencia
+19/05/24,LAL,Real Betis,-,Real Sociedad
+26/05/24,LAL,Real Sociedad,-,Atletico Madrid
+29/05/24,CLF,Tokyo Verdy,12:30,Real Sociedad
+16/10/22,LAL,Celta Vigo,1-2,Real Sociedad
+19/10/22,LAL,Real Sociedad,1-0,Mallorca
+22/10/22,LAL,Real Valladolid,1-0,Real Sociedad
+27/10/22,UEL,Omonia Nicosia,0-2,Real Sociedad
+30/10/22,LAL,Real Sociedad,0-2,Real Betis
+03/11/22,UEL,Real Sociedad,0-1,Manchester United
+06/11/22,LAL,Real Sociedad,1-1,Valencia
+09/11/22,LAL,Sevilla,1-2,Real Sociedad
+13/11/22,CDR,Cazalegas,1-4,Real Sociedad
+10/12/22,CLF,Real Sociedad,1-1,Rayo Vallecano
+16/12/22,CLF,Leeds United,2-1,Real Sociedad
+21/12/22,CDR,CD Coria,0-5,Real Sociedad
+31/12/22,LAL,Real Sociedad,2-0,Osasuna
+04/01/23,CDR,UD Logroñés,0-1,Real Sociedad
+08/01/23,LAL,Almeria,0-2,Real Sociedad
+14/01/23,LAL,Real Sociedad,3-1,Athletic Bilbao
+17/01/23,CDR,Real Sociedad,1-0,Mallorca
+21/01/23,LAL,Rayo Vallecano,0-2,Real Sociedad
+25/01/23,CDR,Barcelona,1-0,Real Sociedad
+29/01/23,LAL,Real Madrid,0-0,Real Sociedad
+05/02/23,LAL,Real Sociedad,0-1,Real Valladolid
+13/02/23,LAL,Espanyol,2-3,Real Sociedad
+18/02/23,LAL,Real Sociedad,1-1,Celta Vigo
+25/02/23,LAL,Valencia,1-0,Real Sociedad
+03/03/23,LAL,Real Sociedad,0-0,Cadiz
+09/03/23,UEL,Roma,2-0,Real Sociedad
+12/03/23,LAL,Mallorca,1-1,Real Sociedad
+16/03/23,UEL,Real Sociedad,0-0,Roma
+19/03/23,LAL,Real Sociedad,2-0,Elche
+02/04/23,LAL,Villarreal,2-0,Real Sociedad
+08/04/23,LAL,Real Sociedad,2-0,Getafe
+15/04/23,LAL,Athletic Bilbao,2-0,Real Sociedad
+22/04/23,LAL,Real Sociedad,2-1,Rayo Vallecano
+25/04/23,LAL,Real Betis,0-0,Real Sociedad
+28/04/23,LAL,Osasuna,0-2,Real Sociedad
+02/05/23,LAL,Real Sociedad,2-0,Real Madrid
+13/05/23,LAL,Real Sociedad,2-2,Girona
+20/05/23,LAL,Barcelona,1-2,Real Sociedad
+23/05/23,LAL,Real Sociedad,1-0,Almeria
+28/05/23,LAL,Atletico Madrid,2-1,Real Sociedad
+04/06/23,LAL,Real Sociedad,2-1,Sevilla
+21/07/23,CLF,Real Sociedad,1-3,Osasuna
+25/07/23,CLF,Sporting Lisbon,3-0,Real Sociedad
+29/07/23,CLF,Real Sociedad,1-0,Bayer Leverkusen
+03/08/23,CLF,Atletico Madrid,0-0,Real Sociedad
+06/08/23,CLF,Real Betis,0-1,Real Sociedad
+12/08/23,LAL,Real Sociedad,1-1,Girona
+19/08/23,LAL,Real Sociedad,1-1,Celta Vigo
+25/08/23,LAL,Las Palmas,0-0,Real Sociedad
+02/09/23,LAL,Real Sociedad,5-3,Granada
+28/11/21,LAL,Espanyol,1-0,Real Sociedad
+01/12/21,CDR,Panadería Pulido,0-4,Real Sociedad
+04/12/21,LAL,Real Sociedad,0-2,Real Madrid
+09/12/21,UEL,Real Sociedad,3-0,PSV
+12/12/21,LAL,Real Betis,4-0,Real Sociedad
+15/12/21,CDR,Zamora,0-3,Real Sociedad
+18/12/21,LAL,Real Sociedad,1-3,Villarreal
+02/01/22,LAL,Alaves,1-1,Real Sociedad
+05/01/22,CDR,Leganes,2-3,Real Sociedad
+08/01/22,LAL,Real Sociedad,1-0,Celta Vigo
+19/01/22,CDR,Real Sociedad,2-0,Atletico Madrid
+23/01/22,LAL,Real Sociedad,0-0,Getafe
+03/02/22,CDR,Real Sociedad,0-4,Real Betis
+06/02/22,LAL,Valencia,0-0,Real Sociedad
+13/02/22,LAL,Real Sociedad,2-0,Granada
+17/02/22,UEL,RB Leipzig,2-2,Real Sociedad
+20/02/22,LAL,Athletic Bilbao,4-0,Real Sociedad
+24/02/22,UEL,Real Sociedad,1-3,RB Leipzig
+27/02/22,LAL,Real Sociedad,1-0,Osasuna
+02/03/22,LAL,Mallorca,0-2,Real Sociedad
+05/03/22,LAL,Real Madrid,4-1,Real Sociedad
+13/03/22,LAL,Real Sociedad,1-0,Alaves
+20/03/22,LAL,Sevilla,0-0,Real Sociedad
+04/04/22,LAL,Real Sociedad,1-0,Espanyol
+10/04/22,LAL,Elche,1-2,Real Sociedad
+15/04/22,LAL,Real Sociedad,0-0,Real Betis
+21/04/22,LAL,Real Sociedad,0-1,Barcelona
+01/05/22,LAL,Rayo Vallecano,1-1,Real Sociedad
+06/05/22,LAL,Levante,2-1,Real Sociedad
+12/05/22,LAL,Real Sociedad,3-0,Cadiz
+15/05/22,LAL,Villarreal,1-2,Real Sociedad
+22/05/22,LAL,Real Sociedad,1-2,Atletico Madrid
+16/07/22,CLF,Real Sociedad,0-1,Toulouse
+23/07/22,CLF,Borussia M'gladbach,1-1,Real Sociedad
+27/07/22,CLF,Real Sociedad,1-0,Osasuna
+30/07/22,CLF,AFC Bournemouth,1-2,Real Sociedad
+05/08/22,CLF,Real Sociedad,1-2,Eibar
+05/08/22,CLF,Athletic Bilbao,1-0,Real Sociedad
+14/08/22,LAL,Cadiz,0-1,Real Sociedad
+21/08/22,LAL,Real Sociedad,1-4,Barcelona
+27/08/22,LAL,Elche,0-1,Real Sociedad
+03/09/22,LAL,Real Sociedad,1-1,Atletico Madrid
+08/09/22,UEL,Manchester United,0-1,Real Sociedad
+11/09/22,LAL,Getafe,2-1,Real Sociedad
+15/09/22,UEL,Real Sociedad,2-1,Omonia Nicosia
+18/09/22,LAL,Real Sociedad,2-1,Espanyol
+02/10/22,LAL,Girona,3-5,Real Sociedad
+06/10/22,UEL,Sheriff,0-2,Real Sociedad
+09/10/22,LAL,Real Sociedad,1-0,Villarreal
+13/10/22,UEL,Real Sociedad,3-0,Sheriff
+09/01/21,LAL,Sevilla,3-2,Real Sociedad
+13/01/21,SUC,Real Sociedad,P1-1P,Barcelona
+20/01/21,CDR,Córdoba,0-2,Real Sociedad
+23/01/21,LAL,Real Sociedad,2-2,Real Betis
+26/01/21,CDR,Real Betis,E3-1E,Real Sociedad
+30/01/21,LAL,Villarreal,1-1,Real Sociedad
+07/02/21,LAL,Real Sociedad,4-1,Cadiz
+14/02/21,LAL,Getafe,0-1,Real Sociedad
+18/02/21,UEL,Real Sociedad,0-4,Manchester United
+21/02/21,LAL,Real Sociedad,4-0,Alaves
+25/02/21,UEL,Manchester United,0-0,Real Sociedad
+01/03/21,LAL,Real Madrid,1-1,Real Sociedad
+07/03/21,LAL,Real Sociedad,1-0,Levante
+14/03/21,LAL,Granada,1-0,Real Sociedad
+21/03/21,LAL,Real Sociedad,1-6,Barcelona
+03/04/21,CDR,Athletic Bilbao,0-1,Real Sociedad
+07/04/21,LAL,Real Sociedad,1-1,Athletic Bilbao
+11/04/21,LAL,Valencia,2-2,Real Sociedad
+18/04/21,LAL,Real Sociedad,1-2,Sevilla
+22/04/21,LAL,Real Sociedad,2-1,Celta Vigo
+26/04/21,LAL,Eibar,0-1,Real Sociedad
+01/05/21,LAL,Huesca,1-0,Real Sociedad
+07/05/21,LAL,Real Sociedad,2-0,Elche
+12/05/21,LAL,Atletico Madrid,2-1,Real Sociedad
+16/05/21,LAL,Real Sociedad,4-1,Real Valladolid
+22/05/21,LAL,Osasuna,0-1,Real Sociedad
+24/07/21,CLF,Real Sociedad,3-1,Alaves
+28/07/21,CLF,Real Sociedad,2-1,Monaco
+31/07/21,CLF,AZ,1-0,Real Sociedad
+06/08/21,CLF,Real Sociedad,3-1,Eibar
+06/08/21,CLF,Real Sociedad,1-3,Osasuna
+15/08/21,LAL,Barcelona,4-2,Real Sociedad
+22/08/21,LAL,Real Sociedad,1-0,Rayo Vallecano
+28/08/21,LAL,Real Sociedad,1-0,Levante
+12/09/21,LAL,Cadiz,0-2,Real Sociedad
+16/09/21,UEL,PSV,2-2,Real Sociedad
+19/09/21,LAL,Real Sociedad,0-0,Sevilla
+23/09/21,LAL,Granada,2-3,Real Sociedad
+26/09/21,LAL,Real Sociedad,1-0,Elche
+30/09/21,UEL,Real Sociedad,1-1,Monaco
+03/10/21,LAL,Getafe,1-1,Real Sociedad
+16/10/21,LAL,Real Sociedad,1-0,Mallorca
+21/10/21,UEL,Sturm Graz,0-1,Real Sociedad
+24/10/21,LAL,Atletico Madrid,2-2,Real Sociedad
+28/10/21,LAL,Celta Vigo,0-2,Real Sociedad
+31/10/21,LAL,Real Sociedad,1-1,Athletic Bilbao
+04/11/21,UEL,Real Sociedad,1-1,Sturm Graz
+07/11/21,LAL,Osasuna,0-2,Real Sociedad
+21/11/21,LAL,Real Sociedad,0-0,Valencia
+25/11/21,UEL,Monaco,2-1,Real Sociedad
+29/01/20,CDR,Real Sociedad,3-1,Osasuna
+02/02/20,LAL,Leganes,2-1,Real Sociedad
+06/02/20,CDR,Real Madrid,3-4,Real Sociedad
+09/02/20,LAL,Real Sociedad,2-1,Athletic Bilbao
+13/02/20,CDR,Real Sociedad,2-1,Mirandes
+22/02/20,LAL,Real Sociedad,3-0,Valencia
+28/02/20,LAL,Real Sociedad,1-0,Real Valladolid
+04/03/20,CDR,Mirandes,0-1,Real Sociedad
+07/03/20,LAL,Barcelona,1-0,Real Sociedad
+10/03/20,LAL,Eibar,1-2,Real Sociedad
+14/06/20,LAL,Real Sociedad,1-1,Osasuna
+18/06/20,LAL,Alaves,2-0,Real Sociedad
+21/06/20,LAL,Real Sociedad,1-2,Real Madrid
+24/06/20,LAL,Real Sociedad,0-1,Celta Vigo
+29/06/20,LAL,Getafe,2-1,Real Sociedad
+02/07/20,LAL,Real Sociedad,2-1,Espanyol
+06/07/20,LAL,Levante,1-1,Real Sociedad
+10/07/20,LAL,Real Sociedad,2-3,Granada
+13/07/20,LAL,Villarreal,1-2,Real Sociedad
+16/07/20,LAL,Real Sociedad,0-0,Sevilla
+19/07/20,LAL,Atletico Madrid,1-1,Real Sociedad
+28/08/20,CLF,Rio Ave,CANC,Real Sociedad
+29/08/20,CLF,Famalicão,CANC,Real Sociedad
+02/09/20,CLF,Villarreal,2-0,Real Sociedad
+05/09/20,CLF,Real Sociedad,2-2,Alaves
+05/09/20,CLF,Real Sociedad,1-0,Osasuna
+13/09/20,LAL,Real Valladolid,1-1,Real Sociedad
+20/09/20,LAL,Real Sociedad,0-0,Real Madrid
+26/09/20,LAL,Elche,0-3,Real Sociedad
+29/09/20,LAL,Real Sociedad,0-1,Valencia
+03/10/20,LAL,Real Sociedad,3-0,Getafe
+18/10/20,LAL,Real Betis,0-3,Real Sociedad
+22/10/20,UEL,Rijeka,0-1,Real Sociedad
+25/10/20,LAL,Real Sociedad,4-1,Huesca
+29/10/20,UEL,Real Sociedad,0-1,Napoli
+01/11/20,LAL,Celta Vigo,1-4,Real Sociedad
+05/11/20,UEL,Real Sociedad,1-0,AZ
+08/11/20,LAL,Real Sociedad,2-0,Granada
+22/11/20,LAL,Cadiz,0-1,Real Sociedad
+26/11/20,UEL,AZ,0-0,Real Sociedad
+29/11/20,LAL,Real Sociedad,1-1,Villarreal
+03/12/20,UEL,Real Sociedad,2-2,Rijeka
+06/12/20,LAL,Alaves,0-0,Real Sociedad
+10/12/20,UEL,Napoli,1-1,Real Sociedad
+13/12/20,LAL,Real Sociedad,1-1,Eibar
+16/12/20,LAL,Barcelona,2-1,Real Sociedad
+19/12/20,LAL,Levante,2-1,Real Sociedad
+22/12/20,LAL,Real Sociedad,0-2,Atletico Madrid
+31/12/20,LAL,Athletic Bilbao,0-1,Real Sociedad
+03/01/21,LAL,Real Sociedad,1-1,Osasuna
+10/02/19,LAL,Valencia,0-0,Real Sociedad
+16/02/19,LAL,Real Sociedad,3-0,Leganes
+25/02/19,LAL,Girona,0-0,Real Sociedad
+03/03/19,LAL,Real Sociedad,0-2,Atletico Madrid
+10/03/19,LAL,Sevilla,5-2,Real Sociedad
+15/03/19,LAL,Real Sociedad,1-1,Levante
+31/03/19,LAL,Real Valladolid,1-1,Real Sociedad
+04/04/19,LAL,Real Sociedad,2-1,Real Betis
+07/04/19,LAL,Celta Vigo,3-1,Real Sociedad
+14/04/19,LAL,Real Sociedad,1-1,Eibar
+20/04/19,LAL,Barcelona,2-1,Real Sociedad
+25/04/19,LAL,Real Sociedad,0-1,Villarreal
+28/04/19,LAL,Real Sociedad,2-1,Getafe
+04/05/19,LAL,Alaves,0-1,Real Sociedad
+12/05/19,LAL,Real Sociedad,3-1,Real Madrid
+18/05/19,LAL,Espanyol,2-0,Real Sociedad
+13/07/19,CLF,Lagun Onak,0-5,Real Sociedad
+20/07/19,CLF,Real Sociedad,0-1,Racing Santander
+26/07/19,CLF,Nottingham Forest,2-2,Real Sociedad
+27/07/19,CLF,Millwall,3-3,Real Sociedad
+31/07/19,CLF,Real Sociedad,1-0,Alaves
+03/08/19,CLF,Watford,2-1,Real Sociedad
+09/08/19,CLF,Real Sociedad,2-0,Osasuna
+10/08/19,CLF,Real Sociedad,1-2,Eibar
+17/08/19,LAL,Valencia,1-1,Real Sociedad
+25/08/19,LAL,Mallorca,0-1,Real Sociedad
+30/08/19,LAL,Athletic Bilbao,2-0,Real Sociedad
+05/09/19,CLF,Real Sociedad,0-0,Alaves
+14/09/19,LAL,Real Sociedad,2-0,Atletico Madrid
+22/09/19,LAL,Espanyol,1-3,Real Sociedad
+26/09/19,LAL,Real Sociedad,3-0,Alaves
+29/09/19,LAL,Sevilla,3-2,Real Sociedad
+06/10/19,LAL,Real Sociedad,1-2,Getafe
+10/10/19,CLF,Osasuna,0-0,Real Sociedad
+20/10/19,LAL,Real Sociedad,3-1,Real Betis
+27/10/19,LAL,Celta Vigo,0-1,Real Sociedad
+30/10/19,LAL,Real Sociedad,1-2,Levante
+03/11/19,LAL,Granada,1-2,Real Sociedad
+08/11/19,LAL,Real Sociedad,1-1,Leganes
+23/11/19,LAL,Real Madrid,3-1,Real Sociedad
+30/11/19,LAL,Real Sociedad,4-1,Eibar
+08/12/19,LAL,Real Valladolid,0-0,Real Sociedad
+14/12/19,LAL,Real Sociedad,2-2,Barcelona
+19/12/19,CDR,Becerril Campos,0-8,Real Sociedad
+22/12/19,LAL,Osasuna,3-4,Real Sociedad
+05/01/20,LAL,Real Sociedad,1-2,Villarreal
+12/01/20,CDR,Ceuta,0-4,Real Sociedad
+19/01/20,LAL,Real Betis,3-0,Real Sociedad
+22/01/20,CDR,Real Sociedad,2-0,Espanyol
+26/01/20,LAL,Real Sociedad,3-0,Mallorca
+18/02/18,LAL,Real Sociedad,3-0,Levante
+22/02/18,UEL,Salzburg,2-1,Real Sociedad
+25/02/18,LAL,Valencia,2-1,Real Sociedad
+01/03/18,LAL,Real Betis,0-0,Real Sociedad
+04/03/18,LAL,Real Sociedad,2-1,Alaves
+11/03/18,LAL,Espanyol,2-1,Real Sociedad
+17/03/18,LAL,Real Sociedad,1-2,Getafe
+01/04/18,LAL,Eibar,0-0,Real Sociedad
+08/04/18,LAL,Real Sociedad,5-0,Girona
+14/04/18,LAL,Las Palmas,0-1,Real Sociedad
+19/04/18,LAL,Real Sociedad,3-0,Atletico Madrid
+22/04/18,LAL,Malaga,2-0,Real Sociedad
+28/04/18,LAL,Real Sociedad,3-1,Athletic Bilbao
+04/05/18,LAL,Sevilla,1-0,Real Sociedad
+12/05/18,LAL,Real Sociedad,3-2,Leganes
+20/05/18,LAL,Barcelona,1-0,Real Sociedad
+20/07/18,CLF,Eibar,2-3,Real Sociedad
+25/07/18,CLF,Real Unión,1-1,Real Sociedad
+28/07/18,CLF,Real Sociedad,3-2,Osasuna
+01/08/18,CLF,Real Zaragoza,2-1,Real Sociedad
+04/08/18,CLF,Athletic Bilbao,1-0,Real Sociedad
+08/08/18,CLF,Real Sociedad,1-2,Alaves
+11/08/18,CLF,Stuttgart,1-0,Real Sociedad
+12/08/18,CLF,Freiburg,1-1,Real Sociedad
+18/08/18,LAL,Villarreal,1-2,Real Sociedad
+24/08/18,LAL,Leganes,2-2,Real Sociedad
+31/08/18,LAL,Eibar,2-1,Real Sociedad
+15/09/18,LAL,Real Sociedad,1-2,Barcelona
+21/09/18,LAL,Huesca,0-1,Real Sociedad
+25/09/18,LAL,Real Sociedad,2-2,Rayo Vallecano
+29/09/18,LAL,Real Sociedad,0-1,Valencia
+05/10/18,LAL,Athletic Bilbao,1-3,Real Sociedad
+22/10/18,LAL,Real Sociedad,0-0,Girona
+27/10/18,LAL,Atletico Madrid,2-0,Real Sociedad
+01/11/18,CDR,Celta Vigo,1-1,Real Sociedad
+04/11/18,LAL,Real Sociedad,0-0,Sevilla
+09/11/18,LAL,Levante,1-3,Real Sociedad
+26/11/18,LAL,Real Sociedad,2-1,Celta Vigo
+02/12/18,LAL,Real Betis,1-0,Real Sociedad
+05/12/18,CDR,Real Sociedad,2-0,Celta Vigo
+09/12/18,LAL,Real Sociedad,1-2,Real Valladolid
+15/12/18,LAL,Getafe,1-0,Real Sociedad
+21/12/18,LAL,Real Sociedad,0-1,Alaves
+06/01/19,LAL,Real Madrid,0-2,Real Sociedad
+10/01/19,CDR,Real Betis,0-0,Real Sociedad
+14/01/19,LAL,Real Sociedad,3-2,Espanyol
+17/01/19,CDR,Real Sociedad,2-2,Real Betis
+20/01/19,LAL,Rayo Vallecano,2-2,Real Sociedad
+27/01/19,LAL,Real Sociedad,0-0,Huesca
+02/02/19,LAL,Real Sociedad,2-1,Athletic Bilbao
+10/04/17,LAL,Real Sociedad,3-1,Sporting Gijon
+15/04/17,LAL,Barcelona,3-2,Real Sociedad
+23/04/17,LAL,Real Sociedad,1-0,Deportivo La Coruña
+26/04/17,LAL,Valencia,2-3,Real Sociedad
+29/04/17,LAL,Real Sociedad,2-1,Granada
+05/05/17,LAL,Sevilla,1-1,Real Sociedad
+14/05/17,LAL,Real Sociedad,2-2,Malaga
+21/05/17,LAL,Celta Vigo,2-2,Real Sociedad
+15/07/17,CLF,Elgoibar,0-5,Real Sociedad
+18/07/17,CLF,Real Sociedad,0-1,Bordeaux
+22/07/17,CLF,Real Sociedad,1-1,Saint-Etienne
+23/07/17,CLF,Real Sociedad,CANC,Villarreal
+25/07/17,CLF,Gençlerbirliği,1-1,Real Sociedad
+27/07/17,CLF,VVV,2-0,Real Sociedad
+29/07/17,CLF,Feyenoord,1-0,Real Sociedad
+02/08/17,CLF,Groningen,0-2,Real Sociedad
+05/08/17,CLF,Watford,0-0,Real Sociedad
+12/08/17,CLF,Sporting Gijon,2-2,Real Sociedad
+19/08/17,LAL,Celta Vigo,2-3,Real Sociedad
+25/08/17,LAL,Real Sociedad,3-0,Villarreal
+10/09/17,LAL,Deportivo La Coruña,2-4,Real Sociedad
+14/09/17,UEL,Real Sociedad,4-0,Rosenborg
+17/09/17,LAL,Real Sociedad,1-3,Real Madrid
+21/09/17,LAL,Levante,3-0,Real Sociedad
+24/09/17,LAL,Real Sociedad,2-3,Valencia
+28/09/17,UEL,Zenit,3-1,Real Sociedad
+01/10/17,LAL,Real Sociedad,4-4,Real Betis
+14/10/17,LAL,Alaves,0-2,Real Sociedad
+19/10/17,UEL,Vardar Skopje,0-6,Real Sociedad
+23/10/17,LAL,Real Sociedad,1-1,Espanyol
+26/10/17,CDR,Lleida Esportiu,0-1,Real Sociedad
+29/10/17,LAL,Getafe,2-1,Real Sociedad
+02/11/17,UEL,Real Sociedad,3-0,Vardar Skopje
+05/11/17,LAL,Real Sociedad,3-1,Eibar
+17/11/17,LAL,Girona,1-1,Real Sociedad
+23/11/17,UEL,Rosenborg,0-1,Real Sociedad
+26/11/17,LAL,Real Sociedad,2-2,Las Palmas
+29/11/17,CDR,Real Sociedad,2-3,Lleida Esportiu
+02/12/17,LAL,Atletico Madrid,2-1,Real Sociedad
+07/12/17,UEL,Real Sociedad,1-3,Zenit
+10/12/17,LAL,Real Sociedad,0-2,Malaga
+16/12/17,LAL,Athletic Bilbao,0-0,Real Sociedad
+20/12/17,LAL,Real Sociedad,3-1,Sevilla
+07/01/18,LAL,Leganes,1-0,Real Sociedad
+14/01/18,LAL,Real Sociedad,2-4,Barcelona
+21/01/18,LAL,Real Sociedad,1-2,Celta Vigo
+27/01/18,LAL,Villarreal,4-2,Real Sociedad
+02/02/18,LAL,Real Sociedad,5-0,Deportivo La Coruña
+10/02/18,LAL,Real Madrid,5-2,Real Sociedad
+15/02/18,UEL,Real Sociedad,2-2,Salzburg
+13/05/16,LAL,Valencia,0-1,Real Sociedad
+19/05/16,CLF,SJ Earthquakes,2-1,Real Sociedad
+25/05/16,CLF,Houston Dynamo,P3-3P,Real Sociedad
+16/07/16,CLF,Tolosa,0-5,Real Sociedad
+20/07/16,CLF,UD Logroñés,0-1,Real Sociedad
+23/07/16,CLF,Real Sociedad,1-1,Villarreal
+27/07/16,CLF,Konyaspor,0-1,Real Sociedad
+29/07/16,CLF,NEC,0-2,Real Sociedad
+30/07/16,CLF,Heerenveen,0-2,Real Sociedad
+05/08/16,CLF,Burnley,1-1,Real Sociedad
+06/08/16,CLF,Middlesbrough,0-0,Real Sociedad
+10/08/16,CLF,Real Sociedad,1-1,Eibar
+13/08/16,CLF,Bayer Leverkusen,2-0,Real Sociedad
+21/08/16,LAL,Real Sociedad,0-3,Real Madrid
+27/08/16,LAL,Osasuna,0-2,Real Sociedad
+09/09/16,LAL,Real Sociedad,1-1,Espanyol
+18/09/16,LAL,Villarreal,2-1,Real Sociedad
+21/09/16,LAL,Real Sociedad,4-1,Las Palmas
+24/09/16,LAL,Eibar,2-0,Real Sociedad
+30/09/16,LAL,Real Sociedad,1-0,Real Betis
+06/10/16,CLF,Sporting Gijon,2-1,Real Sociedad
+16/10/16,LAL,Athletic Bilbao,3-2,Real Sociedad
+22/10/16,LAL,Real Sociedad,3-0,Alaves
+28/10/16,LAL,Leganes,0-2,Real Sociedad
+05/11/16,LAL,Real Sociedad,2-0,Atletico Madrid
+20/11/16,LAL,Sporting Gijon,1-3,Real Sociedad
+27/11/16,LAL,Real Sociedad,1-1,Barcelona
+01/12/16,CDR,Real Valladolid,1-3,Real Sociedad
+05/12/16,LAL,Deportivo La Coruña,5-1,Real Sociedad
+10/12/16,LAL,Real Sociedad,3-2,Valencia
+17/12/16,LAL,Granada,0-2,Real Sociedad
+20/12/16,CDR,Real Sociedad,1-1,Real Valladolid
+04/01/17,CDR,Real Sociedad,3-1,Villarreal
+07/01/17,LAL,Real Sociedad,0-4,Sevilla
+11/01/17,CDR,Villarreal,1-1,Real Sociedad
+16/01/17,LAL,Malaga,0-2,Real Sociedad
+19/01/17,CDR,Real Sociedad,0-1,Barcelona
+22/01/17,LAL,Real Sociedad,1-0,Celta Vigo
+26/01/17,CDR,Barcelona,5-2,Real Sociedad
+29/01/17,LAL,Real Madrid,3-0,Real Sociedad
+05/02/17,LAL,Real Sociedad,3-2,Osasuna
+10/02/17,LAL,Espanyol,1-2,Real Sociedad
+19/02/17,LAL,Real Sociedad,0-1,Villarreal
+24/02/17,LAL,Las Palmas,0-1,Real Sociedad
+28/02/17,LAL,Real Sociedad,2-2,Eibar
+03/03/17,LAL,Real Betis,2-3,Real Sociedad
+12/03/17,LAL,Real Sociedad,0-2,Athletic Bilbao
+18/03/17,LAL,Alaves,1-0,Real Sociedad
+01/04/17,LAL,Real Sociedad,1-1,Leganes
+04/04/17,LAL,Atletico Madrid,1-0,Real Sociedad
+01/05/15,LAL,Real Sociedad,3-0,Levante
+09/05/15,LAL,Barcelona,2-0,Real Sociedad
+17/05/15,LAL,Real Sociedad,0-3,Granada
+23/05/15,LAL,Rayo Vallecano,2-4,Real Sociedad
+10/07/15,CLF,Celtic,1-0,Real Sociedad
+12/07/15,CLF,St. Johnstone,0-0,Real Sociedad
+13/07/15,CLF,Livingston,0-1,Real Sociedad
+18/07/15,CLF,Real Unión,0-0,Real Sociedad
+25/07/15,CLF,Toulouse,1-1,Real Sociedad
+29/07/15,CLF,Real Sociedad,0-1,Rayo Vallecano
+08/08/15,CLF,Real Sociedad,0-2,Atletico Madrid
+22/08/15,LAL,Deportivo La Coruña,0-0,Real Sociedad
+29/08/15,LAL,Real Sociedad,0-0,Sporting Gijon
+12/09/15,LAL,Real Betis,1-0,Real Sociedad
+19/09/15,LAL,Real Sociedad,2-3,Espanyol
+22/09/15,LAL,Granada,0-3,Real Sociedad
+27/09/15,LAL,Real Sociedad,0-0,Athletic Bilbao
+03/10/15,LAL,Malaga,3-1,Real Sociedad
+18/10/15,LAL,Real Sociedad,0-2,Atletico Madrid
+25/10/15,LAL,Levante,0-4,Real Sociedad
+31/10/15,LAL,Real Sociedad,2-3,Celta Vigo
+06/11/15,LAL,Las Palmas,2-0,Real Sociedad
+21/11/15,LAL,Real Sociedad,2-0,Sevilla
+28/11/15,LAL,Barcelona,4-0,Real Sociedad
+03/12/15,CDR,Las Palmas,2-1,Real Sociedad
+06/12/15,LAL,Real Sociedad,2-1,Eibar
+11/12/15,LAL,Getafe,1-1,Real Sociedad
+16/12/15,CDR,Real Sociedad,1-1,Las Palmas
+20/12/15,LAL,Real Sociedad,0-2,Villarreal
+30/12/15,LAL,Real Madrid,3-1,Real Sociedad
+03/01/16,LAL,Rayo Vallecano,2-2,Real Sociedad
+10/01/16,LAL,Real Sociedad,2-0,Valencia
+16/01/16,LAL,Real Sociedad,1-1,Deportivo La Coruña
+22/01/16,LAL,Sporting Gijon,5-1,Real Sociedad
+30/01/16,LAL,Real Sociedad,2-1,Real Betis
+08/02/16,LAL,Espanyol,0-5,Real Sociedad
+14/02/16,LAL,Real Sociedad,3-0,Granada
+21/02/16,LAL,Athletic Bilbao,0-1,Real Sociedad
+27/02/16,LAL,Real Sociedad,1-1,Malaga
+01/03/16,LAL,Atletico Madrid,3-0,Real Sociedad
+06/03/16,LAL,Real Sociedad,1-1,Levante
+12/03/16,LAL,Celta Vigo,1-0,Real Sociedad
+19/03/16,LAL,Real Sociedad,0-1,Las Palmas
+03/04/16,LAL,Sevilla,1-2,Real Sociedad
+09/04/16,LAL,Real Sociedad,1-0,Barcelona
+16/04/16,LAL,Eibar,2-1,Real Sociedad
+21/04/16,LAL,Real Sociedad,1-2,Getafe
+24/04/16,LAL,Villarreal,0-0,Real Sociedad
+30/04/16,LAL,Real Sociedad,0-1,Real Madrid
+08/05/16,LAL,Real Sociedad,2-1,Rayo Vallecano

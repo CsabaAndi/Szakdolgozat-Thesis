@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+03/06/23,PRL,Krylya Sovetov,1-0,Spartak Moscow
+05/07/23,CLF,Torpedo Moskva,2-2,Spartak Moscow
+18/07/23,CLF,Spartak Moscow,2-0,Neftchi Baku
+23/07/23,PRL,Spartak Moscow,3-2,Orenburg
+27/07/23,CUP,Krasnodar,1-2,Spartak Moscow
+31/07/23,PRL,Spartak Moscow,2-1,Baltika
+05/08/23,PRL,Rubin Kazan,1-4,Spartak Moscow
+08/08/23,CUP,Spartak Moscow,5-4,Nizhny Novgorod
+11/08/23,PRL,Ural,3-2,Spartak Moscow
+20/08/23,PRL,Spartak Moscow,1-3,Zenit
+26/08/23,PRL,Spartak Moscow,0-0,Akhmat Grozny
+29/08/23,CUP,Spartak Moscow,4-1,Dinamo Moscow
+02/09/23,PRL,Krasnodar,2-0,Spartak Moscow
+16/09/23,PRL,Spartak Moscow,1-0,Sochi
+19/09/23,CUP,Nizhny Novgorod,0-3,Spartak Moscow
+23/09/23,PRL,Spartak Moscow,1-0,Dinamo Moscow
+01/10/23,PRL,Krylya Sovetov,4-0,Spartak Moscow
+04/10/23,CUP,Dinamo Moscow,3-0,Spartak Moscow
+08/10/23,PRL,Spartak Moscow,2-2,CSKA Moscow
+22/10/23,PRL,Spartak Moscow,2-0,Nizhny Novgorod
+28/10/23,PRL,Fakel,2-0,Spartak Moscow
+01/11/23,CUP,Spartak Moscow,2-3,Krasnodar
+05/11/23,PRL,Lokomotiv Moscow,1-1,Spartak Moscow
+12/11/23,PRL,Spartak Moscow,2-1,Rostov
+25/11/23,PRL,Baltika,0-2,Spartak Moscow
+29/11/23,CUP,Orenburg,1-0,Spartak Moscow
+03/12/23,PRL,Akhmat Grozny,2-1,Spartak Moscow
+09/12/23,PRL,Spartak Moscow,3-0,Krylya Sovetov
+02/02/24,CLF,Spartak Moscow,3-2,Torpedo Moskva
+07/02/24,CLF,Spartak Moscow,0-3,Rostov
+09/02/24,CLF,Shabab Al Ahli,0-5,Spartak Moscow
+14/02/24,CLF,Spartak Moscow,6-0,Kairat
+20/02/24,CLF,Spartak Moscow,4-0,Abdysh-Ata
+21/02/24,CLF,Spartak Moscow,4-0,Astana
+02/03/24,PRL,Zenit,0-0,Spartak Moscow
+10/03/24,PRL,Spartak Moscow,0-2,Fakel
+14/03/24,CUP,Spartak Moscow,3-1,Orenburg
+30/03/24,PRL,Spartak Moscow,0-0,Ural
+03/04/24,CUP,Spartak Moscow,1-2,Zenit
+07/04/24,PRL,Dinamo Moscow,1-2,Spartak Moscow
+13/04/24,PRL,Sochi,1-0,Spartak Moscow
+17/04/24,CUP,Zenit,0-0,Spartak Moscow
+21/04/24,PRL,Rostov,1-5,Spartak Moscow
+25/04/24,PRL,CSKA Moscow,0-0,Spartak Moscow
+28/04/24,PRL,Spartak Moscow,3-2,Lokomotiv Moscow
+01/05/24,CUP,Dinamo Moscow,17:00,Spartak Moscow
+05/05/24,PRL,Nizhny Novgorod,18:00,Spartak Moscow
+11/05/24,PRL,Spartak Moscow,15:30,Krasnodar
+19/05/24,PRL,Spartak Moscow,13:15,Rubin Kazan
+25/05/24,PRL,Orenburg,15:30,Spartak Moscow
+25/06/22,CLF,Spartak Moscow,2-2,Alaniya Vladikavkaz
+29/06/22,CLF,Spartak Moscow,3-2,Baltika
+02/07/22,CLF,Spartak Moscow,3-0,Yenisey
+09/07/22,SUC,Zenit,4-0,Spartak Moscow
+16/07/22,PRL,Akhmat Grozny,1-1,Spartak Moscow
+23/07/22,PRL,Krasnodar,1-4,Spartak Moscow
+31/07/22,PRL,Spartak Moscow,4-1,Orenburg
+06/08/22,PRL,Ural,0-2,Spartak Moscow
+14/08/22,PRL,Spartak Moscow,3-0,Sochi
+20/08/22,PRL,Dinamo Moscow,1-0,Spartak Moscow
+27/08/22,PRL,Fakel,1-4,Spartak Moscow
+30/08/22,CUP,Spartak Moscow,1-0,Krylya Sovetov
+04/09/22,PRL,Spartak Moscow,1-2,Zenit
+11/09/22,PRL,Rostov,4-2,Spartak Moscow
+15/09/22,CUP,Spartak Moscow,3-0,Fakel
+18/09/22,PRL,Spartak Moscow,1-0,Lokomotiv Moscow
+29/09/22,CUP,Spartak Moscow,3-0,Zenit
+02/10/22,PRL,Nizhny Novgorod,1-2,Spartak Moscow
+09/10/22,PRL,Spartak Moscow,5-2,Krylya Sovetov
+16/10/22,PRL,CSKA Moscow,2-2,Spartak Moscow
+19/10/22,CUP,Fakel,1-2,Spartak Moscow
+23/10/22,PRL,Spartak Moscow,5-0,Khimki
+30/10/22,PRL,Spartak Moscow,1-0,Torpedo Moskva
+05/11/22,PRL,Sochi,1-1,Spartak Moscow
+12/11/22,PRL,Lokomotiv Moscow,1-2,Spartak Moscow
+23/11/22,CUP,Krylya Sovetov,2-1,Spartak Moscow
+27/11/22,CUP,Zenit,P0-0P,Spartak Moscow
+22/01/23,CLF,Spartak Moscow,CANC,Levski Sofia
+22/01/23,CLF,Spartak Moscow,3-1,AGMK
+27/01/23,CLF,Botev Plovdiv,0-1,Spartak Moscow
+02/02/23,CLF,Rostov,P0-0P,Spartak Moscow
+06/02/23,CLF,Krasnodar,0-4,Spartak Moscow
+10/02/23,CLF,Spartak Moscow,2-0,Sochi
+22/02/23,CUP,Lokomotiv Moscow,0-1,Spartak Moscow
+27/02/23,CUP,Spartak Moscow,4-2,Lokomotiv Moscow
+04/03/23,PRL,Spartak Moscow,2-2,Ural
+11/03/23,PRL,Spartak Moscow,3-2,Fakel
+14/03/23,CUP,Spartak Moscow,1-1,Ural
+18/03/23,PRL,Orenburg,2-0,Spartak Moscow
+01/04/23,PRL,Spartak Moscow,0-0,Akhmat Grozny
+04/04/23,CUP,Ural,2-1,Spartak Moscow
+08/04/23,PRL,Spartak Moscow,3-3,Dinamo Moscow
+15/04/23,PRL,Torpedo Moskva,1-2,Spartak Moscow
+19/04/23,CUP,Akron,2-1,Spartak Moscow
+24/04/23,PRL,Spartak Moscow,4-3,Krasnodar
+29/04/23,PRL,Spartak Moscow,1-1,Rostov
+07/05/23,PRL,Zenit,3-2,Spartak Moscow
+13/05/23,PRL,Khimki,1-1,Spartak Moscow
+21/05/23,PRL,Spartak Moscow,2-1,CSKA Moscow
+28/05/23,PRL,Spartak Moscow,0-0,Nizhny Novgorod
+30/07/21,PRL,Krylya Sovetov,0-1,Spartak Moscow
+04/08/21,UCL,Spartak Moscow,0-2,Benfica
+07/08/21,PRL,Spartak Moscow,1-2,Nizhny Novgorod
+10/08/21,UCL,Benfica,2-0,Spartak Moscow
+14/08/21,PRL,Spartak Moscow,1-0,Ural
+21/08/21,PRL,Arsenal Tula,1-1,Spartak Moscow
+26/08/21,PRL,Spartak Moscow,1-2,Sochi
+11/09/21,PRL,Spartak Moscow,3-1,Khimki
+15/09/21,UEL,Spartak Moscow,0-1,Legia Warsaw
+20/09/21,PRL,CSKA Moscow,1-0,Spartak Moscow
+25/09/21,PRL,Spartak Moscow,2-0,Ufa
+30/09/21,UEL,Napoli,2-3,Spartak Moscow
+03/10/21,PRL,Akhmat Grozny,0-1,Spartak Moscow
+16/10/21,PRL,Spartak Moscow,2-2,Dinamo Moscow
+20/10/21,UEL,Spartak Moscow,3-4,Leicester City
+24/10/21,PRL,Zenit,7-1,Spartak Moscow
+30/10/21,PRL,Spartak Moscow,1-1,Rostov
+04/11/21,UEL,Leicester City,1-1,Spartak Moscow
+07/11/21,PRL,Spartak Moscow,1-1,Lokomotiv Moscow
+20/11/21,PRL,Krasnodar,2-1,Spartak Moscow
+24/11/21,UEL,Spartak Moscow,2-1,Napoli
+29/11/21,PRL,Ufa,1-1,Spartak Moscow
+04/12/21,PRL,Spartak Moscow,2-1,Akhmat Grozny
+09/12/21,UEL,Legia Warsaw,0-1,Spartak Moscow
+13/12/21,PRL,Sochi,3-0,Spartak Moscow
+28/01/22,CLF,Spartak Moscow,2-2,Slovan Bratislava
+02/02/22,CLF,Spartak Moscow,0-0,Riga
+05/02/22,CLF,Spartak Moscow,1-1,Johor Darul Ta'zim
+08/02/22,CLF,Spartak Moscow,3-1,Ural
+11/02/22,CLF,Spartak Moscow,1-1,Pyunik
+18/02/22,CLF,Spartak Moscow,3-0,Neftekhimik
+19/02/22,CLF,Spartak Moscow,3-1,Shakhter Karagandy
+26/02/22,PRL,Spartak Moscow,0-2,CSKA Moscow
+02/03/22,CUP,Spartak Moscow,6-1,Kuban Krasnodar
+06/03/22,PRL,Dinamo Moscow,0-2,Spartak Moscow
+10/03/22,UEL,RB Leipzig,CANC,Spartak Moscow
+13/03/22,PRL,Spartak Moscow,1-2,Krasnodar
+17/03/22,UEL,Spartak Moscow,CANC,RB Leipzig
+19/03/22,PRL,Nizhny Novgorod,1-1,Spartak Moscow
+02/04/22,PRL,Lokomotiv Moscow,1-0,Spartak Moscow
+10/04/22,PRL,Spartak Moscow,3-0,Arsenal Tula
+16/04/22,PRL,Spartak Moscow,1-1,Rubin Kazan
+20/04/22,CUP,CSKA Moscow,0-1,Spartak Moscow
+24/04/22,PRL,Rostov,3-2,Spartak Moscow
+01/05/22,PRL,Spartak Moscow,2-1,Krylya Sovetov
+07/05/22,PRL,Ural,1-3,Spartak Moscow
+11/05/22,CUP,Spartak Moscow,3-0,Yenisey
+15/05/22,PRL,Spartak Moscow,1-1,Zenit
+21/05/22,PRL,Khimki,2-1,Spartak Moscow
+29/05/22,CUP,Spartak Moscow,2-1,Dinamo Moscow
+30/06/20,PRL,CSKA Moscow,2-0,Spartak Moscow
+04/07/20,PRL,Spartak Moscow,2-3,Tambov
+08/07/20,PRL,Spartak Moscow,1-1,Lokomotiv Moscow
+11/07/20,PRL,Sochi,1-0,Spartak Moscow
+15/07/20,PRL,Spartak Moscow,3-0,Akhmat Grozny
+19/07/20,CUP,Zenit,2-1,Spartak Moscow
+22/07/20,PRL,Rubin Kazan,1-2,Spartak Moscow
+09/08/20,PRL,Spartak Moscow,2-2,Sochi
+14/08/20,PRL,Spartak Moscow,2-0,Akhmat Grozny
+19/08/20,PRL,Ufa,1-1,Spartak Moscow
+23/08/20,PRL,Spartak Moscow,2-1,Lokomotiv Moscow
+26/08/20,PRL,Rotor Volgograd,0-1,Spartak Moscow
+29/08/20,PRL,Spartak Moscow,2-1,Arsenal Tula
+13/09/20,PRL,CSKA Moscow,3-1,Spartak Moscow
+16/09/20,CUP,Rodina Moskva,1-5,Spartak Moscow
+20/09/20,PRL,Rubin Kazan,0-2,Spartak Moscow
+26/09/20,PRL,Tambov,0-2,Spartak Moscow
+03/10/20,PRL,Spartak Moscow,1-1,Zenit
+17/10/20,PRL,Khimki,2-3,Spartak Moscow
+21/10/20,CUP,Yenisey,1-0,Spartak Moscow
+24/10/20,PRL,Krasnodar,1-3,Spartak Moscow
+31/10/20,PRL,Spartak Moscow,0-1,Rostov
+07/11/20,PRL,Ural,2-2,Spartak Moscow
+21/11/20,PRL,Spartak Moscow,1-1,Dinamo Moscow
+29/11/20,PRL,Spartak Moscow,2-0,Rotor Volgograd
+05/12/20,PRL,Spartak Moscow,5-1,Tambov
+12/12/20,PRL,Sochi,1-0,Spartak Moscow
+16/12/20,PRL,Zenit,3-1,Spartak Moscow
+30/01/21,CLF,Pakhtakor,1-2,Spartak Moscow
+06/02/21,CLF,Spartak Moscow,2-1,Shakhtyor Soligorsk
+07/02/21,CLF,Spartak Moscow,4-0,Riga
+20/02/21,CUP,Dinamo Moscow,2-0,Spartak Moscow
+28/02/21,PRL,Spartak Moscow,0-2,Rubin Kazan
+07/03/21,PRL,Spartak Moscow,6-1,Krasnodar
+13/03/21,PRL,Dinamo Moscow,1-2,Spartak Moscow
+18/03/21,PRL,Spartak Moscow,5-1,Ural
+04/04/21,PRL,Rostov,2-3,Spartak Moscow
+11/04/21,PRL,Lokomotiv Moscow,2-0,Spartak Moscow
+18/04/21,PRL,Spartak Moscow,0-3,Ufa
+25/04/21,PRL,Spartak Moscow,1-0,CSKA Moscow
+03/05/21,PRL,Arsenal Tula,1-2,Spartak Moscow
+10/05/21,PRL,Spartak Moscow,2-1,Khimki
+16/05/21,PRL,Akhmat Grozny,2-2,Spartak Moscow
+29/06/21,CLF,Spartak Moscow,1-2,Neftchi Baku
+02/07/21,CLF,Spartak Moscow,2-2,Bravo
+05/07/21,CLF,Spartak Moscow,4-2,Šibenik
+11/07/21,CLF,Spartak Moscow,4-0,Sochi
+14/07/21,CLF,Rubin Kazan,0-4,Spartak Moscow
+18/07/21,CLF,Spartak Moscow,5-1,Khimki
+24/07/21,PRL,Rubin Kazan,1-0,Spartak Moscow
+30/03/19,PRL,Akhmat Grozny,1-3,Spartak Moscow
+06/04/19,PRL,Spartak Moscow,0-2,CSKA Moscow
+14/04/19,PRL,Rostov,2-1,Spartak Moscow
+21/04/19,PRL,Spartak Moscow,2-0,Yenisey
+25/04/19,PRL,Arsenal Tula,3-0,Spartak Moscow
+29/04/19,PRL,Spartak Moscow,1-1,Rubin Kazan
+04/05/19,PRL,Ural,0-1,Spartak Moscow
+12/05/19,PRL,Spartak Moscow,1-0,Ufa
+18/05/19,PRL,Krylya Sovetov,1-2,Spartak Moscow
+26/05/19,PRL,Orenburg,2-0,Spartak Moscow
+22/06/19,CLF,Spartak Moscow,7-1,Sochi
+26/06/19,CLF,Rostov,2-0,Spartak Moscow
+30/06/19,CLF,Spartak Moscow,3-1,CSKA Moscow
+04/07/19,CLF,Spartak Moscow,1-2,Krasnodar
+13/07/19,PRL,Spartak Moscow,1-0,Sochi
+20/07/19,PRL,Rostov,2-2,Spartak Moscow
+27/07/19,PRL,Tambov,2-0,Spartak Moscow
+03/08/19,PRL,Spartak Moscow,0-0,Dinamo Moscow
+08/08/19,UEL,Thun,2-3,Spartak Moscow
+11/08/19,PRL,Akhmat Grozny,1-3,Spartak Moscow
+15/08/19,UEL,Spartak Moscow,2-1,Thun
+19/08/19,PRL,Spartak Moscow,2-1,CSKA Moscow
+22/08/19,UEL,Sporting Braga,1-0,Spartak Moscow
+25/08/19,PRL,Krylya Sovetov,1-2,Spartak Moscow
+29/08/19,UEL,Spartak Moscow,1-2,Sporting Braga
+01/09/19,PRL,Spartak Moscow,0-1,Zenit
+14/09/19,PRL,Spartak Moscow,1-2,Ural
+20/09/19,PRL,Ufa,1-0,Spartak Moscow
+25/09/19,CUP,KAMAZ,1-2,Spartak Moscow
+29/09/19,PRL,Spartak Moscow,1-2,Orenburg
+06/10/19,PRL,Krasnodar,2-1,Spartak Moscow
+19/10/19,PRL,Spartak Moscow,0-0,Rubin Kazan
+27/10/19,PRL,Lokomotiv Moscow,0-3,Spartak Moscow
+31/10/19,CUP,Spartak Moscow,2-1,Rostov
+04/11/19,PRL,Spartak Moscow,0-1,Arsenal Tula
+09/11/19,PRL,Spartak Moscow,2-0,Krylya Sovetov
+24/11/19,PRL,Ural,0-0,Spartak Moscow
+01/12/19,PRL,Zenit,1-0,Spartak Moscow
+08/12/19,PRL,Spartak Moscow,1-4,Rostov
+01/02/20,CLF,Spartak Moscow,2-1,Rostov
+05/02/20,CLF,Lokomotiv Moscow,P1-1P,Spartak Moscow
+08/02/20,CLF,Spartak Moscow,3-2,Partizan
+16/02/20,CLF,Spartak Moscow,3-1,Ararat
+22/02/20,CLF,Spartak Moscow,4-0,Pakhtakor
+29/02/20,PRL,Dinamo Moscow,0-2,Spartak Moscow
+04/03/20,CUP,Spartak Moscow,E3-2E,CSKA Moscow
+09/03/20,PRL,Spartak Moscow,0-1,Krasnodar
+14/03/20,PRL,Orenburg,1-3,Spartak Moscow
+20/06/20,PRL,Arsenal Tula,2-3,Spartak Moscow
+27/06/20,PRL,Spartak Moscow,0-0,Ufa
+01/07/18,CLF,Spartak Moscow,2-0,Avangard Kursk
+10/07/18,CLF,Rijeka,3-1,Spartak Moscow
+11/07/18,CLF,Slovacko,0-1,Spartak Moscow
+15/07/18,CLF,Spartak Moscow,3-0,Proleter Novi Sad
+16/07/18,CLF,Spartak Moscow,3-1,Rudar
+20/07/18,CLF,Trabzonspor,1-4,Spartak Moscow
+21/07/18,CLF,Ashdod,1-1,Spartak Moscow
+28/07/18,PRL,Spartak Moscow,1-0,Orenburg
+04/08/18,PRL,Lokomotiv Moscow,0-0,Spartak Moscow
+08/08/18,UCL,PAOK,3-2,Spartak Moscow
+11/08/18,PRL,Spartak Moscow,1-0,Anzhi
+14/08/18,UCL,Spartak Moscow,0-0,PAOK
+18/08/18,PRL,Krasnodar,0-1,Spartak Moscow
+25/08/18,PRL,Spartak Moscow,2-1,Dinamo Moscow
+02/09/18,PRL,Zenit,0-0,Spartak Moscow
+16/09/18,PRL,Spartak Moscow,1-2,Akhmat Grozny
+20/09/18,UEL,Rapid Vienna,2-0,Spartak Moscow
+23/09/18,PRL,CSKA Moscow,1-1,Spartak Moscow
+26/09/18,CUP,Chernomorets,0-1,Spartak Moscow
+30/09/18,PRL,Spartak Moscow,0-1,Rostov
+04/10/18,UEL,Spartak Moscow,3-3,Villarreal
+07/10/18,PRL,Yenisey,2-3,Spartak Moscow
+21/10/18,PRL,Spartak Moscow,2-3,Arsenal Tula
+25/10/18,UEL,Rangers,0-0,Spartak Moscow
+29/10/18,PRL,Rubin Kazan,1-1,Spartak Moscow
+01/11/18,CUP,Spartak Moscow,1-0,Anzhi
+04/11/18,PRL,Spartak Moscow,1-2,Ural
+08/11/18,UEL,Spartak Moscow,4-3,Rangers
+11/11/18,PRL,Ufa,2-0,Spartak Moscow
+25/11/18,PRL,Spartak Moscow,3-1,Krylya Sovetov
+29/11/18,UEL,Spartak Moscow,1-2,Rapid Vienna
+02/12/18,PRL,Spartak Moscow,2-1,Lokomotiv Moscow
+05/12/18,CUP,Spartak Moscow,1-1,Ural
+08/12/18,PRL,Anzhi,0-3,Spartak Moscow
+13/12/18,UEL,Villarreal,2-0,Spartak Moscow
+16/01/19,CLF,Spartak Moscow,5-2,Lokomotiv
+21/01/19,CLF,Spartak Moscow,2-1,Rostov
+25/01/19,CLF,Spartak Moscow,CANC,Górnik Zabrze
+25/01/19,CLF,Zenit,0-3,Spartak Moscow
+29/01/19,CLF,Spartak Moscow,4-0,Lokomotiv Moscow
+05/02/19,CLF,Spartak Moscow,1-1,Maribor
+06/02/19,CLF,Spartak Moscow,2-2,Aktobe
+09/02/19,CLF,Spartak Moscow,1-3,Slovan Bratislava
+12/02/19,CLF,Spartak Moscow,1-1,Mura
+19/02/19,CLF,Orenburg,1-1,Spartak Moscow
+23/02/19,CLF,Sheriff,2-1,Spartak Moscow
+03/03/19,PRL,Spartak Moscow,1-1,Krasnodar
+07/03/19,CUP,Ural,1-0,Spartak Moscow
+10/03/19,PRL,Dinamo Moscow,0-1,Spartak Moscow
+17/03/19,PRL,Spartak Moscow,1-1,Zenit
+07/07/17,CLF,Spartak Moscow,1-1,Slaven Koprivnica
+14/07/17,SUC,Spartak Moscow,E2-1E,Lokomotiv Moscow
+18/07/17,PRL,Dinamo Moscow,2-2,Spartak Moscow
+23/07/17,PRL,Ufa,0-0,Spartak Moscow
+31/07/17,PRL,Spartak Moscow,2-0,Krasnodar
+06/08/17,PRL,Zenit,5-1,Spartak Moscow
+09/08/17,PRL,Spartak Moscow,2-0,Arsenal Tula
+12/08/17,PRL,CSKA Moscow,2-1,Spartak Moscow
+19/08/17,PRL,Spartak Moscow,3-4,Lokomotiv Moscow
+27/08/17,PRL,SKA Khabarovsk,0-0,Spartak Moscow
+09/09/17,PRL,Spartak Moscow,1-0,Rubin Kazan
+13/09/17,UCL,Maribor,1-1,Spartak Moscow
+17/09/17,PRL,Tosno,2-2,Spartak Moscow
+20/09/17,CUP,Kuban Krasnodar,0-2,Spartak Moscow
+23/09/17,PRL,Spartak Moscow,2-2,Anzhi
+26/09/17,UCL,Spartak Moscow,1-1,Liverpool
+30/09/17,PRL,Spartak Moscow,2-0,Ural
+13/10/17,PRL,Akhmat Grozny,1-2,Spartak Moscow
+17/10/17,UCL,Spartak Moscow,5-1,Sevilla
+21/10/17,PRL,Spartak Moscow,0-0,Amkar Perm
+25/10/17,CUP,Spartak Moscow,5-2,Spartak Nal'chik
+28/10/17,PRL,Rostov,2-2,Spartak Moscow
+01/11/17,UCL,Sevilla,2-1,Spartak Moscow
+05/11/17,PRL,Spartak Moscow,3-1,Ufa
+18/11/17,PRL,Krasnodar,1-4,Spartak Moscow
+21/11/17,UCL,Spartak Moscow,1-1,Maribor
+27/11/17,PRL,Spartak Moscow,3-1,Zenit
+01/12/17,PRL,Arsenal Tula,0-1,Spartak Moscow
+06/12/17,UCL,Liverpool,7-0,Spartak Moscow
+10/12/17,PRL,Spartak Moscow,3-0,CSKA Moscow
+18/01/18,CLF,Spartak Moscow,0-1,Shanghai Port
+31/01/18,CLF,CSKA Sofia,0-0,Spartak Moscow
+03/02/18,CLF,Spartak Moscow,1-2,Hebei FC
+07/02/18,CLF,Sparta Prague,1-2,Spartak Moscow
+15/02/18,UEL,Spartak Moscow,1-3,Athletic Bilbao
+22/02/18,UEL,Athletic Bilbao,1-2,Spartak Moscow
+04/03/18,PRL,Lokomotiv Moscow,0-0,Spartak Moscow
+11/03/18,PRL,Spartak Moscow,1-0,SKA Khabarovsk
+17/03/18,PRL,Rubin Kazan,1-2,Spartak Moscow
+31/03/18,PRL,Spartak Moscow,2-1,Tosno
+04/04/18,CUP,Krylya Sovetov,1-3,Spartak Moscow
+08/04/18,PRL,Anzhi,1-4,Spartak Moscow
+15/04/18,PRL,Ural,2-1,Spartak Moscow
+18/04/18,CUP,Spartak Moscow,P1-1P,Tosno
+23/04/18,PRL,Spartak Moscow,1-3,Akhmat Grozny
+29/04/18,PRL,Amkar Perm,0-2,Spartak Moscow
+05/05/18,PRL,Spartak Moscow,2-0,Rostov
+13/05/18,PRL,Spartak Moscow,0-1,Dinamo Moscow
+24/06/18,CLF,Spartak Moscow,2-0,Sochi
+30/06/18,CLF,Spartak Moscow,2-0,Rotor Volgograd
+08/05/16,PRL,Spartak Moscow,3-0,Dinamo Moscow
+12/05/16,PRL,Ural,0-1,Spartak Moscow
+16/05/16,PRL,Spartak Moscow,3-0,Akhmat Grozny
+21/05/16,PRL,Ufa,3-1,Spartak Moscow
+25/06/16,CLF,Spartak Moscow,2-1,Arsenal Tula
+03/07/16,CLF,Spartak Moscow,2-1,Rudar
+05/07/16,CLF,Spartak Moscow,1-0,Istra 1961
+09/07/16,CLF,Spartak Moscow,2-0,Sarajevo
+22/07/16,CLF,Spartak Moscow,0-1,Stuttgart
+28/07/16,UEL,AEK Larnaca,1-1,Spartak Moscow
+31/07/16,PRL,Spartak Moscow,4-0,Arsenal Tula
+04/08/16,UEL,Spartak Moscow,0-1,AEK Larnaca
+08/08/16,PRL,Spartak Moscow,1-0,Krylya Sovetov
+13/08/16,PRL,Rubin Kazan,1-1,Spartak Moscow
+21/08/16,PRL,Spartak Moscow,2-0,Krasnodar
+28/08/16,PRL,Anzhi,0-2,Spartak Moscow
+11/09/16,PRL,Spartak Moscow,1-0,Lokomotiv Moscow
+16/09/16,PRL,Orenburg,1-3,Spartak Moscow
+21/09/16,CUP,SKA Khabarovsk,1-0,Spartak Moscow
+25/09/16,PRL,Spartak Moscow,0-1,Ufa
+02/10/16,PRL,Zenit,4-2,Spartak Moscow
+15/10/16,PRL,Spartak Moscow,1-0,Rostov
+22/10/16,PRL,Ural,0-1,Spartak Moscow
+29/10/16,PRL,Spartak Moscow,3-1,CSKA Moscow
+05/11/16,PRL,Tom Tomsk,0-1,Spartak Moscow
+20/11/16,PRL,Spartak Moscow,1-0,Amkar Perm
+26/11/16,PRL,Akhmat Grozny,0-1,Spartak Moscow
+01/12/16,PRL,Krylya Sovetov,4-0,Spartak Moscow
+05/12/16,PRL,Spartak Moscow,2-1,Rubin Kazan
+31/01/17,CLF,Spartak Moscow,2-1,FC Copenhagen
+10/02/17,CLF,Spartak Moscow,1-1,Osijek
+13/02/17,CLF,Rubin Kazan,4-2,Spartak Moscow
+16/02/17,CLF,Spartak Moscow,3-1,Aalesund
+26/02/17,CLF,Spartak Moscow,1-0,Sarpsborg 08
+28/02/17,CLF,Spartak Moscow,4-1,Sogndal
+05/03/17,PRL,Krasnodar,2-2,Spartak Moscow
+12/03/17,PRL,Spartak Moscow,1-0,Anzhi
+18/03/17,PRL,Lokomotiv Moscow,1-1,Spartak Moscow
+25/03/17,CLF,Red Star Belgrade,2-1,Spartak Moscow
+03/04/17,PRL,Spartak Moscow,3-2,Orenburg
+09/04/17,PRL,Ufa,1-3,Spartak Moscow
+16/04/17,PRL,Spartak Moscow,2-1,Zenit
+22/04/17,PRL,Rostov,3-0,Spartak Moscow
+25/04/17,PRL,Spartak Moscow,1-0,Ural
+30/04/17,PRL,CSKA Moscow,1-2,Spartak Moscow
+06/05/17,PRL,Spartak Moscow,1-0,Tom Tomsk
+13/05/17,PRL,Amkar Perm,0-1,Spartak Moscow
+17/05/17,PRL,Spartak Moscow,3-0,Akhmat Grozny
+21/05/17,PRL,Arsenal Tula,3-0,Spartak Moscow
+01/07/17,CLF,Spartak Moscow,3-2,Voždovac
+08/03/15,PRL,Spartak Moscow,1-3,Krasnodar
+15/03/15,PRL,Spartak Moscow,1-0,Dinamo Moscow
+21/03/15,PRL,Torpedo Moskva,0-1,Spartak Moscow
+04/04/15,PRL,Spartak Moscow,1-1,Kuban Krasnodar
+09/04/15,PRL,Arsenal Tula,1-0,Spartak Moscow
+13/04/15,PRL,Rostov,2-1,Spartak Moscow
+18/04/15,PRL,Mordovia Saransk,1-3,Spartak Moscow
+26/04/15,PRL,Spartak Moscow,1-0,Rubin Kazan
+02/05/15,PRL,Spartak Moscow,1-1,Zenit
+11/05/15,PRL,Akhmat Grozny,4-2,Spartak Moscow
+17/05/15,PRL,Spartak Moscow,0-4,CSKA Moscow
+23/05/15,PRL,Spartak Moscow,1-2,Ufa
+30/05/15,PRL,Spartak Moscow,3-3,Amkar Perm
+29/06/15,CLF,Spartak Moscow,12-0,Dornbirn
+03/07/15,CLF,Luzern,2-1,Spartak Moscow
+07/07/15,CLF,Freiburg,0-1,Spartak Moscow
+11/07/15,CLF,St.Gallen,1-3,Spartak Moscow
+17/07/15,PRL,Spartak Moscow,2-2,Ufa
+26/07/15,PRL,Krasnodar,0-1,Spartak Moscow
+03/08/15,PRL,Spartak Moscow,1-0,Rubin Kazan
+09/08/15,PRL,Krylya Sovetov,0-2,Spartak Moscow
+14/08/15,PRL,Spartak Moscow,1-2,CSKA Moscow
+22/08/15,PRL,Amkar Perm,1-3,Spartak Moscow
+29/08/15,PRL,Spartak Moscow,1-2,Anzhi
+13/09/15,PRL,Spartak Moscow,1-0,Rostov
+19/09/15,PRL,Kuban Krasnodar,3-0,Spartak Moscow
+23/09/15,CUP,Volga,0-7,Spartak Moscow
+26/09/15,PRL,Spartak Moscow,2-2,Zenit
+03/10/15,PRL,Mordovia Saransk,0-1,Spartak Moscow
+18/10/15,PRL,Spartak Moscow,1-2,Lokomotiv Moscow
+25/10/15,PRL,Dinamo Moscow,2-3,Spartak Moscow
+28/10/15,CUP,Kuban Krasnodar,1-0,Spartak Moscow
+01/11/15,PRL,Spartak Moscow,0-1,Ural
+07/11/15,PRL,Akhmat Grozny,2-1,Spartak Moscow
+22/11/15,PRL,Spartak Moscow,3-2,Krasnodar
+30/11/15,PRL,Rubin Kazan,2-2,Spartak Moscow
+04/12/15,PRL,Spartak Moscow,1-0,Krylya Sovetov
+06/02/16,CLF,Spartak Moscow,2-0,Suwon Bluewings
+08/02/16,CLF,Spartak Moscow,1-2,Krasnodar
+11/02/16,CLF,Spartak Moscow,3-1,Lovech
+22/02/16,CLF,Spartak Moscow,3-3,Sheriff
+25/02/16,CLF,Aris Limassol,0-9,Spartak Moscow
+06/03/16,PRL,CSKA Moscow,1-0,Spartak Moscow
+12/03/16,PRL,Spartak Moscow,2-1,Amkar Perm
+18/03/16,PRL,Anzhi,0-4,Spartak Moscow
+02/04/16,PRL,Rostov,2-0,Spartak Moscow
+10/04/16,PRL,Spartak Moscow,2-2,Kuban Krasnodar
+16/04/16,PRL,Zenit,5-2,Spartak Moscow
+23/04/16,PRL,Spartak Moscow,2-2,Mordovia Saransk
+30/04/16,PRL,Lokomotiv Moscow,0-2,Spartak Moscow
+26/10/13,PRL,Spartak Moscow,2-0,Rostov
+30/10/13,CUP,Shinnik,0-1,Spartak Moscow
+03/11/13,PRL,Spartak Moscow,1-3,Lokomotiv Moscow
+10/11/13,PRL,Spartak Moscow,4-2,Zenit
+23/11/13,PRL,CSKA Moscow,1-0,Spartak Moscow
+01/12/13,PRL,Spartak Moscow,6-1,Volga
+08/12/13,PRL,Rostov,0-1,Spartak Moscow
+09/02/14,TAC,FH,1-3,Spartak Moscow
+11/02/14,TAC,Midtjylland,1-2,Spartak Moscow
+13/02/14,TAC,Spartak Moscow,0-5,FC Copenhagen
+15/02/14,CLF,Spartak Moscow,3-2,Helsingborg
+24/02/14,CLF,Spartak Moscow,0-2,Djurgården
+28/02/14,CLF,Spartak Moscow,3-2,Strømsgodset
+08/03/14,PRL,Akhmat Grozny,1-0,Spartak Moscow
+12/03/14,CUP,Spartak Moscow,E0-1E,Tosno
+17/03/14,PRL,Spartak Moscow,2-2,Anzhi
+22/03/14,PRL,Krasnodar,4-0,Spartak Moscow
+30/03/14,PRL,Lokomotiv Moscow,0-0,Spartak Moscow
+04/04/14,PRL,Spartak Moscow,0-1,Ural
+11/04/14,PRL,Spartak Moscow,1-0,Krylya Sovetov
+20/04/14,PRL,Rubin Kazan,2-1,Spartak Moscow
+28/04/14,PRL,Spartak Moscow,0-2,Kuban Krasnodar
+03/05/14,PRL,Tom Tomsk,2-1,Spartak Moscow
+10/05/14,PRL,Spartak Moscow,1-0,Amkar Perm
+15/05/14,PRL,Spartak Moscow,3-2,Dinamo Moscow
+05/07/14,CLF,Luzern,2-0,Spartak Moscow
+11/07/14,CLF,Grasshoppers,0-1,Spartak Moscow
+01/08/14,PRL,Rubin Kazan,0-4,Spartak Moscow
+10/08/14,PRL,Dinamo Moscow,1-2,Spartak Moscow
+14/08/14,PRL,Krasnodar,4-0,Spartak Moscow
+17/08/14,PRL,CSKA Moscow,0-1,Spartak Moscow
+23/08/14,PRL,Ufa,1-2,Spartak Moscow
+30/08/14,PRL,Amkar Perm,2-0,Spartak Moscow
+05/09/14,CLF,Spartak Moscow,1-1,Red Star Belgrade
+14/09/14,PRL,Spartak Moscow,3-1,Torpedo Moskva
+20/09/14,PRL,Spartak Moscow,1-1,Akhmat Grozny
+23/09/14,CUP,Smena Komsomolsk,0-1,Spartak Moscow
+27/09/14,PRL,Zenit,0-0,Spartak Moscow
+19/10/14,PRL,Ural,2-0,Spartak Moscow
+26/10/14,PRL,Spartak Moscow,1-1,Lokomotiv Moscow
+30/10/14,CUP,Rubin Kazan,E2-0E,Spartak Moscow
+02/11/14,PRL,Kuban Krasnodar,3-3,Spartak Moscow
+09/11/14,PRL,Spartak Moscow,2-0,Arsenal Tula
+23/11/14,PRL,Spartak Moscow,4-2,Mordovia Saransk
+30/11/14,PRL,Lokomotiv Moscow,1-0,Spartak Moscow
+04/12/14,PRL,Spartak Moscow,1-1,Rostov
+08/12/14,PRL,Spartak Moscow,2-0,Ural
+30/01/15,CLF,Spartak Moscow,0-0,Zawisza Bydgoszcz
+31/01/15,CLF,Spartak Moscow,2-3,Ludogorets
+21/02/15,CLF,Strømsgodset,0-1,Spartak Moscow

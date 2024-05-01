@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+27/07/23,CLF,Feyenoord,1-1,Villarreal
+30/07/23,CLF,Feyenoord,2-1,Benfica
+04/08/23,SUC,Feyenoord,0-1,PSV
+13/08/23,ERE,Feyenoord,0-0,Fortuna Sittard
+20/08/23,ERE,Sparta Rotterdam,2-2,Feyenoord
+27/08/23,ERE,Feyenoord,6-1,Almere City
+03/09/23,ERE,Utrecht,1-5,Feyenoord
+16/09/23,ERE,Feyenoord,6-1,Heerenveen
+19/09/23,UCL,Feyenoord,2-0,Celtic
+27/09/23,ERE,Ajax,0-4,Feyenoord
+30/09/23,ERE,Feyenoord,3-1,Go Ahead Eagles
+04/10/23,UCL,Atletico Madrid,3-2,Feyenoord
+08/10/23,ERE,PEC Zwolle,0-2,Feyenoord
+21/10/23,ERE,Feyenoord,4-0,Vitesse
+25/10/23,UCL,Feyenoord,3-1,Lazio
+29/10/23,ERE,Twente,2-1,Feyenoord
+04/11/23,ERE,RKC Waalwijk,1-2,Feyenoord
+07/11/23,UCL,Lazio,1-0,Feyenoord
+12/11/23,ERE,Feyenoord,1-0,AZ
+25/11/23,ERE,Excelsior,2-4,Feyenoord
+28/11/23,UCL,Feyenoord,1-3,Atletico Madrid
+03/12/23,ERE,Feyenoord,1-2,PSV
+07/12/23,ERE,Feyenoord,3-1,Volendam
+13/12/23,UCL,Celtic,2-1,Feyenoord
+17/12/23,ERE,Heracles,0-4,Feyenoord
+20/12/23,KNB,Feyenoord,2-1,Utrecht
+14/01/24,ERE,Feyenoord,2-2,NEC
+21/01/24,ERE,Vitesse,1-2,Feyenoord
+24/01/24,KNB,Feyenoord,1-0,PSV
+28/01/24,ERE,Feyenoord,0-0,Twente
+04/02/24,ERE,AZ,0-1,Feyenoord
+07/02/24,KNB,Feyenoord,2-0,AZ
+11/02/24,ERE,Feyenoord,2-0,Sparta Rotterdam
+15/02/24,UEL,Feyenoord,1-1,Roma
+18/02/24,ERE,Feyenoord,1-0,RKC Waalwijk
+22/02/24,UEL,Roma,P1-1P,Feyenoord
+25/02/24,ERE,Almere City,0-2,Feyenoord
+29/02/24,KNB,Feyenoord,2-1,Groningen
+03/03/24,ERE,PSV,2-2,Feyenoord
+10/03/24,ERE,Feyenoord,3-0,Heracles
+17/03/24,ERE,Heerenveen,2-3,Feyenoord
+31/03/24,ERE,Feyenoord,4-2,Utrecht
+04/04/24,ERE,Volendam,0-0,Feyenoord
+07/04/24,ERE,Feyenoord,6-0,Ajax
+14/04/24,ERE,Fortuna Sittard,0-1,Feyenoord
+21/04/24,KNB,Feyenoord,1-0,NEC
+25/04/24,ERE,Go Ahead Eagles,1-3,Feyenoord
+05/05/24,ERE,Feyenoord,20:00,PEC Zwolle
+12/05/24,ERE,NEC,14:30,Feyenoord
+19/05/24,ERE,Feyenoord,14:30,Excelsior
+11/09/22,ERE,Feyenoord,3-0,Sparta Rotterdam
+15/09/22,UEL,Feyenoord,6-0,Sturm Graz
+18/09/22,ERE,PSV,4-3,Feyenoord
+02/10/22,ERE,NEC,1-1,Feyenoord
+06/10/22,UEL,Midtjylland,2-2,Feyenoord
+09/10/22,ERE,Feyenoord,2-0,Twente
+13/10/22,UEL,Feyenoord,2-2,Midtjylland
+16/10/22,ERE,AZ,1-3,Feyenoord
+22/10/22,ERE,Feyenoord,1-1,Fortuna Sittard
+27/10/22,UEL,Sturm Graz,1-0,Feyenoord
+03/11/22,UEL,Feyenoord,1-0,Lazio
+06/11/22,ERE,Volendam,0-2,Feyenoord
+10/11/22,ERE,Feyenoord,1-0,Cambuur
+13/11/22,ERE,Feyenoord,5-1,Excelsior
+10/12/22,CLF,Feyenoord,2-0,KV Oostende
+13/12/22,CLF,Strasbourg,0-1,Feyenoord
+16/12/22,CLF,Rennes,2-1,Feyenoord
+23/12/22,CLF,Feyenoord,CANC,Go Ahead Eagles
+28/12/22,CLF,Feyenoord,5-0,Emmen
+08/01/23,ERE,Utrecht,1-1,Feyenoord
+12/01/23,KNB,Feyenoord,3-1,PEC Zwolle
+15/01/23,ERE,Groningen,0-3,Feyenoord
+22/01/23,ERE,Feyenoord,1-1,Ajax
+25/01/23,ERE,Feyenoord,2-0,NEC
+29/01/23,ERE,Twente,1-1,Feyenoord
+05/02/23,ERE,Feyenoord,2-2,PSV
+08/02/23,KNB,Feyenoord,P4-4P,NEC
+12/02/23,ERE,Heerenveen,1-2,Feyenoord
+18/02/23,ERE,Feyenoord,2-1,AZ
+26/02/23,ERE,Fortuna Sittard,2-4,Feyenoord
+01/03/23,KNB,Heerenveen,0-1,Feyenoord
+04/03/23,ERE,Feyenoord,1-0,Groningen
+09/03/23,UEL,Shakhtar Donetsk,1-1,Feyenoord
+12/03/23,ERE,Feyenoord,2-1,Volendam
+16/03/23,UEL,Feyenoord,7-1,Shakhtar Donetsk
+19/03/23,ERE,Ajax,2-3,Feyenoord
+02/04/23,ERE,Sparta Rotterdam,1-3,Feyenoord
+05/04/23,KNB,Feyenoord,1-2,Ajax
+09/04/23,ERE,Feyenoord,5-1,RKC Waalwijk
+13/04/23,UEL,Feyenoord,1-0,Roma
+16/04/23,ERE,Cambuur,0-3,Feyenoord
+20/04/23,UEL,Roma,E4-1E,Feyenoord
+23/04/23,ERE,Feyenoord,3-1,Utrecht
+07/05/23,ERE,Excelsior,0-2,Feyenoord
+14/05/23,ERE,Feyenoord,3-0,Go Ahead Eagles
+21/05/23,ERE,Emmen,1-3,Feyenoord
+28/05/23,ERE,Feyenoord,0-1,Vitesse
+08/07/23,CLF,Feyenoord,3-1,PEC Zwolle
+12/07/23,CLF,Feyenoord,2-0,Club Brugge
+15/07/23,CLF,Feyenoord,0-0,Union Saint-Gilloise
+31/10/21,ERE,Sparta Rotterdam,0-1,Feyenoord
+04/11/21,UEC,Union Berlin,1-2,Feyenoord
+07/11/21,ERE,Feyenoord,1-0,AZ
+21/11/21,ERE,Feyenoord,4-0,PEC Zwolle
+25/11/21,UEC,Slavia Prague,2-2,Feyenoord
+28/11/21,ERE,Twente,0-0,Feyenoord
+01/12/21,ERE,Feyenoord,2-1,Heracles
+05/12/21,ERE,Feyenoord,5-0,Fortuna Sittard
+09/12/21,UEC,Feyenoord,2-1,Maccabi Haifa
+12/12/21,ERE,Groningen,1-1,Feyenoord
+15/12/21,KNB,Twente,E2-1E,Feyenoord
+19/12/21,ERE,Feyenoord,0-2,Ajax
+22/12/21,ERE,Heerenveen,0-3,Feyenoord
+08/01/22,CLF,Feyenoord,CANC,Club Brugge
+15/01/22,ERE,Feyenoord,0-1,Vitesse
+23/01/22,ERE,NEC,1-4,Feyenoord
+06/02/22,ERE,Feyenoord,4-0,Sparta Rotterdam
+13/02/22,ERE,RKC Waalwijk,0-2,Feyenoord
+20/02/22,ERE,Feyenoord,3-1,Cambuur
+27/02/22,ERE,AZ,2-1,Feyenoord
+05/03/22,ERE,Feyenoord,1-1,Groningen
+10/03/22,UEC,Partizan,2-5,Feyenoord
+13/03/22,ERE,PEC Zwolle,1-2,Feyenoord
+17/03/22,UEC,Feyenoord,3-1,Partizan
+20/03/22,ERE,Ajax,3-2,Feyenoord
+23/03/22,CLF,Feyenoord,3-3,RKC Waalwijk
+02/04/22,ERE,Feyenoord,2-0,Willem II
+07/04/22,UEC,Feyenoord,3-3,Slavia Prague
+10/04/22,ERE,Heracles,1-4,Feyenoord
+14/04/22,UEC,Slavia Prague,1-3,Feyenoord
+24/04/22,ERE,Feyenoord,2-1,Utrecht
+28/04/22,UEC,Feyenoord,3-2,Marseille
+01/05/22,ERE,Fortuna Sittard,1-3,Feyenoord
+05/05/22,UEC,Marseille,0-0,Feyenoord
+08/05/22,ERE,Feyenoord,2-2,PSV
+11/05/22,ERE,Go Ahead Eagles,0-1,Feyenoord
+15/05/22,ERE,Feyenoord,1-2,Twente
+25/05/22,UEC,Roma,1-0,Feyenoord
+02/07/22,CLF,Feyenoord,0-7,FC Copenhagen
+09/07/22,CLF,Salzburg,1-2,Feyenoord
+16/07/22,CLF,Feyenoord,0-4,Union Saint-Gilloise
+24/07/22,CLF,Feyenoord,0-2,Lyon
+27/07/22,CLF,Feyenoord,6-1,NAC Breda
+31/07/22,CLF,Feyenoord,1-2,Osasuna
+07/08/22,ERE,Vitesse,2-5,Feyenoord
+13/08/22,ERE,Feyenoord,0-0,Heerenveen
+21/08/22,ERE,RKC Waalwijk,0-1,Feyenoord
+27/08/22,ERE,Feyenoord,4-0,Emmen
+03/09/22,ERE,Go Ahead Eagles,3-4,Feyenoord
+08/09/22,UEL,Lazio,4-2,Feyenoord
+10/01/21,ERE,Sparta Rotterdam,0-2,Feyenoord
+13/01/21,ERE,Feyenoord,1-0,PEC Zwolle
+17/01/21,ERE,Ajax,1-0,Feyenoord
+20/01/21,KNB,Feyenoord,3-2,Heracles
+24/01/21,ERE,Feyenoord,2-3,AZ
+27/01/21,ERE,Heerenveen,3-0,Feyenoord
+31/01/21,ERE,Feyenoord,3-1,PSV
+14/02/21,ERE,Feyenoord,5-0,Willem II
+17/02/21,KNB,Heerenveen,4-3,Feyenoord
+21/02/21,ERE,Twente,2-2,Feyenoord
+24/02/21,ERE,Groningen,0-0,Feyenoord
+28/02/21,ERE,AZ,4-2,Feyenoord
+06/03/21,ERE,Feyenoord,6-0,VVV
+14/03/21,ERE,PSV,1-1,Feyenoord
+20/03/21,ERE,Feyenoord,1-1,Emmen
+04/04/21,ERE,Feyenoord,2-0,Fortuna Sittard
+11/04/21,ERE,Utrecht,1-2,Feyenoord
+25/04/21,ERE,Feyenoord,0-0,Vitesse
+02/05/21,ERE,ADO Den Haag,3-2,Feyenoord
+09/05/21,ERE,Feyenoord,0-3,Ajax
+13/05/21,ERE,Heracles,1-1,Feyenoord
+16/05/21,ERE,Feyenoord,3-0,RKC Waalwijk
+19/05/21,ERE,Feyenoord,2-0,Sparta Rotterdam
+23/05/21,ERE,Feyenoord,2-0,Utrecht
+03/07/21,CLF,Feyenoord,3-1,AEK Athens
+07/07/21,CLF,Feyenoord,1-0,Zürich
+10/07/21,CLF,Young Boys,2-0,Feyenoord
+17/07/21,CLF,Feyenoord,3-3,Werder Bremen
+17/07/21,CLF,Feyenoord,2-1,Werder Bremen
+22/07/21,UEC,Drita,0-0,Feyenoord
+25/07/21,CLF,Feyenoord,1-2,PAOK
+29/07/21,UEC,Feyenoord,3-2,Drita
+01/08/21,CLF,Feyenoord,1-1,ADO Den Haag
+05/08/21,UEC,Luzern,0-3,Feyenoord
+08/08/21,CLF,Feyenoord,2-1,Atletico Madrid
+12/08/21,UEC,Feyenoord,3-0,Luzern
+15/08/21,ERE,Willem II,0-4,Feyenoord
+19/08/21,UEC,Feyenoord,5-0,Elfsborg
+22/08/21,ERE,Feyenoord,2-0,Go Ahead Eagles
+26/08/21,UEC,Elfsborg,3-1,Feyenoord
+29/08/21,ERE,Utrecht,3-1,Feyenoord
+14/09/21,UEC,Maccabi Haifa,0-0,Feyenoord
+19/09/21,ERE,PSV,0-4,Feyenoord
+22/09/21,ERE,Feyenoord,3-1,Heerenveen
+25/09/21,ERE,Feyenoord,5-3,NEC
+30/09/21,UEC,Feyenoord,2-1,Slavia Prague
+03/10/21,ERE,Vitesse,2-1,Feyenoord
+16/10/21,ERE,Feyenoord,2-2,RKC Waalwijk
+21/10/21,UEC,Feyenoord,3-1,Union Berlin
+24/10/21,ERE,Cambuur,2-3,Feyenoord
+12/12/19,UEL,Porto,3-2,Feyenoord
+15/12/19,ERE,Feyenoord,3-1,PSV
+19/12/19,KNB,Cambuur,1-2,Feyenoord
+22/12/19,ERE,Utrecht,1-2,Feyenoord
+08/01/20,CLF,Hoffenheim,2-3,Feyenoord
+11/01/20,CLF,Feyenoord,2-4,Borussia Dortmund
+18/01/20,ERE,Feyenoord,3-1,Heerenveen
+25/01/20,ERE,Heracles,2-3,Feyenoord
+28/01/20,KNB,Fortuna Sittard,E1-2E,Feyenoord
+01/02/20,ERE,Feyenoord,3-0,Emmen
+13/02/20,KNB,Heerenveen,0-1,Feyenoord
+16/02/20,ERE,PEC Zwolle,3-4,Feyenoord
+22/02/20,ERE,Feyenoord,2-1,Fortuna Sittard
+01/03/20,ERE,PSV,1-1,Feyenoord
+05/03/20,KNB,Feyenoord,7-1,NAC Breda
+08/03/20,ERE,Feyenoord,2-0,Willem II
+15/03/20,ERE,Sparta Rotterdam,CANC,Feyenoord
+22/03/20,ERE,Feyenoord,CANC,Ajax
+05/04/20,ERE,RKC Waalwijk,CANC,Feyenoord
+08/04/20,ERE,AZ,CANC,Feyenoord
+11/04/20,ERE,Feyenoord,CANC,VVV
+19/04/20,KNB,Utrecht,CANC,Feyenoord
+22/04/20,ERE,ADO Den Haag,CANC,Feyenoord
+25/04/20,ERE,Feyenoord,CANC,Groningen
+03/05/20,ERE,Twente,CANC,Feyenoord
+10/05/20,ERE,Feyenoord,CANC,Vitesse
+09/08/20,CLF,Feyenoord,3-0,Sparta Rotterdam
+16/08/20,CLF,Feyenoord,0-0,Twente
+25/08/20,CLF,Arminia Bielefeld,0-0,Feyenoord
+28/08/20,CLF,Hamburg,1-0,Feyenoord
+12/09/20,ERE,PEC Zwolle,0-2,Feyenoord
+20/09/20,ERE,Feyenoord,1-1,Twente
+27/09/20,ERE,Feyenoord,4-2,ADO Den Haag
+04/10/20,ERE,Willem II,1-4,Feyenoord
+18/10/20,ERE,Feyenoord,1-1,Sparta Rotterdam
+22/10/20,UEL,Dinamo Zagreb,0-0,Feyenoord
+25/10/20,ERE,RKC Waalwijk,2-2,Feyenoord
+29/10/20,UEL,Feyenoord,1-4,Wolfsberger AC
+01/11/20,ERE,Emmen,2-3,Feyenoord
+05/11/20,UEL,Feyenoord,3-1,CSKA Moscow
+08/11/20,ERE,Feyenoord,2-0,Groningen
+22/11/20,ERE,Fortuna Sittard,1-3,Feyenoord
+26/11/20,UEL,CSKA Moscow,0-0,Feyenoord
+29/11/20,ERE,Feyenoord,1-1,Utrecht
+03/12/20,UEL,Feyenoord,0-2,Dinamo Zagreb
+06/12/20,ERE,Feyenoord,0-0,Heracles
+10/12/20,UEL,Wolfsberger AC,1-0,Feyenoord
+13/12/20,ERE,VVV,0-3,Feyenoord
+20/12/20,ERE,Vitesse,1-0,Feyenoord
+23/12/20,ERE,Feyenoord,3-0,Heerenveen
+23/01/19,KNB,Feyenoord,4-1,Fortuna Sittard
+27/01/19,ERE,Feyenoord,6-2,Ajax
+03/02/19,ERE,Excelsior,2-1,Feyenoord
+09/02/19,ERE,Feyenoord,4-0,De Graafschap
+17/02/19,ERE,Groningen,1-0,Feyenoord
+24/02/19,ERE,PSV,1-1,Feyenoord
+27/02/19,KNB,Feyenoord,0-3,Ajax
+03/03/19,ERE,Feyenoord,4-0,Emmen
+10/03/19,ERE,Vitesse,1-1,Feyenoord
+16/03/19,ERE,Feyenoord,2-3,Willem II
+31/03/19,ERE,Utrecht,3-2,Feyenoord
+04/04/19,ERE,Feyenoord,3-0,Heerenveen
+07/04/19,ERE,VVV,0-3,Feyenoord
+13/04/19,ERE,Feyenoord,2-1,Heracles
+20/04/19,ERE,Feyenoord,2-1,AZ
+24/04/19,ERE,NAC Breda,0-4,Feyenoord
+12/05/19,ERE,Feyenoord,0-2,ADO Den Haag
+15/05/19,ERE,Fortuna Sittard,1-4,Feyenoord
+29/06/19,CLF,SDC Putten,0-6,Feyenoord
+06/07/19,CLF,Dordrecht,1-2,Feyenoord
+10/07/19,CLF,Feyenoord,2-1,Darmstadt
+12/07/19,CLF,Salzburg,3-1,Feyenoord
+17/07/19,CLF,Feyenoord,0-3,Panathinaikos
+24/07/19,CLF,Feyenoord,2-2,Angers
+28/07/19,CLF,Feyenoord,1-3,Southampton
+04/08/19,ERE,Feyenoord,2-2,Sparta Rotterdam
+08/08/19,UEL,Feyenoord,4-0,Dinamo Tbilisi
+11/08/19,ERE,Heerenveen,1-1,Feyenoord
+15/08/19,UEL,Dinamo Tbilisi,1-1,Feyenoord
+18/08/19,ERE,Feyenoord,1-1,Utrecht
+22/08/19,UEL,Feyenoord,3-0,Hapoel Be'er Sheva
+29/08/19,UEL,Hapoel Be'er Sheva,0-3,Feyenoord
+01/09/19,ERE,Willem II,0-1,Feyenoord
+15/09/19,ERE,Feyenoord,3-2,ADO Den Haag
+19/09/19,UEL,Rangers,1-0,Feyenoord
+22/09/19,ERE,Emmen,3-3,Feyenoord
+26/09/19,ERE,Feyenoord,0-3,AZ
+29/09/19,ERE,Feyenoord,5-1,Twente
+03/10/19,UEL,Feyenoord,2-0,Porto
+06/10/19,ERE,Fortuna Sittard,4-2,Feyenoord
+20/10/19,ERE,Feyenoord,1-1,Heracles
+24/10/19,UEL,Young Boys,2-0,Feyenoord
+27/10/19,ERE,Ajax,4-0,Feyenoord
+03/11/19,ERE,VVV,0-3,Feyenoord
+07/11/19,UEL,Feyenoord,1-1,Young Boys
+10/11/19,ERE,Feyenoord,3-2,RKC Waalwijk
+24/11/19,ERE,Groningen,1-1,Feyenoord
+28/11/19,UEL,Feyenoord,2-2,Rangers
+01/12/19,ERE,Feyenoord,1-0,PEC Zwolle
+08/12/19,ERE,Vitesse,0-0,Feyenoord
+28/01/18,ERE,Feyenoord,3-1,ADO Den Haag
+31/01/18,KNB,Feyenoord,2-0,PSV
+04/02/18,ERE,VVV,1-0,Feyenoord
+08/02/18,ERE,Feyenoord,3-0,Groningen
+11/02/18,ERE,Vitesse,3-1,Feyenoord
+18/02/18,ERE,Feyenoord,1-0,Heracles
+25/02/18,ERE,Feyenoord,1-3,PSV
+28/02/18,KNB,Feyenoord,3-0,Willem II
+03/03/18,ERE,NAC Breda,2-1,Feyenoord
+11/03/18,ERE,Feyenoord,2-1,AZ
+18/03/18,ERE,PEC Zwolle,3-4,Feyenoord
+21/03/18,CLF,Feyenoord,4-0,ADO Den Haag
+01/04/18,ERE,Feyenoord,5-0,Excelsior
+08/04/18,ERE,Twente,1-3,Feyenoord
+15/04/18,ERE,Feyenoord,3-1,Utrecht
+18/04/18,ERE,Willem II,1-5,Feyenoord
+22/04/18,KNB,AZ,0-3,Feyenoord
+29/04/18,ERE,Feyenoord,3-1,Sparta Rotterdam
+06/05/18,ERE,Heerenveen,2-3,Feyenoord
+30/06/18,CLF,SDC Putten,1-8,Feyenoord
+11/07/18,CLF,Young Boys,3-0,Feyenoord
+13/07/18,CLF,Basel,0-5,Feyenoord
+21/07/18,CLF,Fenerbahce,3-3,Feyenoord
+29/07/18,CLF,Feyenoord,2-1,Levante
+04/08/18,SUC,PSV,P0-0P,Feyenoord
+09/08/18,UEL,Trenčín,4-0,Feyenoord
+12/08/18,ERE,De Graafschap,2-0,Feyenoord
+16/08/18,UEL,Feyenoord,1-1,Trenčín
+19/08/18,ERE,Feyenoord,3-0,Excelsior
+26/08/18,ERE,Heerenveen,3-5,Feyenoord
+02/09/18,ERE,Feyenoord,4-2,NAC Breda
+16/09/18,ERE,AZ,1-1,Feyenoord
+23/09/18,ERE,Feyenoord,1-0,Utrecht
+27/09/18,KNB,Gemert,0-4,Feyenoord
+30/09/18,ERE,Feyenoord,2-1,Vitesse
+07/10/18,ERE,Willem II,1-1,Feyenoord
+21/10/18,ERE,Feyenoord,3-0,PEC Zwolle
+28/10/18,ERE,Ajax,3-0,Feyenoord
+01/11/18,KNB,Feyenoord,5-1,ADO Den Haag
+11/11/18,ERE,Heracles,0-2,Feyenoord
+25/11/18,ERE,Feyenoord,1-0,Groningen
+02/12/18,ERE,Feyenoord,2-1,PSV
+06/12/18,ERE,Feyenoord,4-1,VVV
+09/12/18,ERE,Emmen,1-4,Feyenoord
+16/12/18,ERE,Feyenoord,0-2,Fortuna Sittard
+20/12/18,KNB,Feyenoord,1-0,Utrecht
+23/12/18,ERE,ADO Den Haag,2-2,Feyenoord
+11/01/19,CLF,Borussia Dortmund,2-1,Feyenoord
+12/01/19,CLF,Karlsruhe,2-4,Feyenoord
+19/01/19,ERE,PEC Zwolle,3-1,Feyenoord
+29/01/17,ERE,Feyenoord,4-0,NEC
+05/02/17,ERE,Twente,0-2,Feyenoord
+11/02/17,ERE,Feyenoord,2-0,Groningen
+19/02/17,ERE,ADO Den Haag,0-1,Feyenoord
+26/02/17,ERE,Feyenoord,2-1,PSV
+05/03/17,ERE,Sparta Rotterdam,1-0,Feyenoord
+12/03/17,ERE,Feyenoord,5-2,AZ
+19/03/17,ERE,Heerenveen,1-2,Feyenoord
+22/03/17,CLF,Feyenoord,2-0,Dordrecht
+02/04/17,ERE,Ajax,2-1,Feyenoord
+05/04/17,ERE,Feyenoord,8-0,Go Ahead Eagles
+09/04/17,ERE,PEC Zwolle,2-2,Feyenoord
+16/04/17,ERE,Feyenoord,2-0,Utrecht
+23/04/17,ERE,Vitesse,0-2,Feyenoord
+07/05/17,ERE,Excelsior,3-0,Feyenoord
+14/05/17,ERE,Feyenoord,3-1,Heracles
+08/07/17,CLF,Lisse,0-5,Feyenoord
+15/07/17,CLF,SDC Putten,1-10,Feyenoord
+22/07/17,CLF,Freiburg,1-0,Feyenoord
+29/07/17,CLF,Feyenoord,1-0,Real Sociedad
+05/08/17,SUC,Feyenoord,P1-1P,Vitesse
+13/08/17,ERE,Feyenoord,2-1,Twente
+20/08/17,ERE,Excelsior,0-1,Feyenoord
+27/08/17,ERE,Feyenoord,5-0,Willem II
+09/09/17,ERE,Heracles,2-4,Feyenoord
+13/09/17,UCL,Feyenoord,0-4,Manchester City
+17/09/17,ERE,PSV,1-0,Feyenoord
+20/09/17,KNB,Feyenoord,2-0,ADO Den Haag
+23/09/17,ERE,Feyenoord,0-2,NAC Breda
+26/09/17,UCL,Napoli,3-1,Feyenoord
+01/10/17,ERE,AZ,0-4,Feyenoord
+14/10/17,ERE,Feyenoord,0-0,PEC Zwolle
+17/10/17,UCL,Feyenoord,1-2,Shakhtar Donetsk
+22/10/17,ERE,Feyenoord,1-4,Ajax
+25/10/17,KNB,Feyenoord,4-1,Swift
+28/10/17,ERE,Roda JC,1-1,Feyenoord
+01/11/17,UCL,Shakhtar Donetsk,3-1,Feyenoord
+05/11/17,ERE,ADO Den Haag,2-2,Feyenoord
+18/11/17,ERE,Feyenoord,1-1,VVV
+21/11/17,UCL,Manchester City,1-0,Feyenoord
+25/11/17,ERE,Groningen,0-2,Feyenoord
+02/12/17,ERE,Feyenoord,1-0,Vitesse
+06/12/17,UCL,Feyenoord,2-1,Napoli
+13/12/17,ERE,Feyenoord,1-1,Heerenveen
+17/12/17,ERE,Sparta Rotterdam,0-7,Feyenoord
+21/12/17,KNB,Feyenoord,3-1,Heracles
+24/12/17,ERE,Feyenoord,5-1,Roda JC
+13/01/18,CLF,Feyenoord,2-1,Luzern
+21/01/18,ERE,Ajax,2-0,Feyenoord
+24/01/18,ERE,Utrecht,1-1,Feyenoord
+14/02/16,ERE,PEC Zwolle,3-1,Feyenoord
+21/02/16,ERE,Feyenoord,1-1,Roda JC
+28/02/16,ERE,Utrecht,1-2,Feyenoord
+03/03/16,KNB,Feyenoord,3-1,AZ
+06/03/16,ERE,Feyenoord,3-1,Cambuur
+13/03/16,ERE,Vitesse,0-2,Feyenoord
+19/03/16,ERE,Feyenoord,3-1,De Graafschap
+24/03/16,CLF,Feyenoord,2-0,Sparta Rotterdam
+02/04/16,ERE,Feyenoord,3-0,Excelsior
+10/04/16,ERE,Twente,0-1,Feyenoord
+16/04/16,ERE,Feyenoord,1-1,Groningen
+20/04/16,ERE,Heracles,2-2,Feyenoord
+24/04/16,KNB,Feyenoord,2-1,Utrecht
+01/05/16,ERE,Willem II,0-1,Feyenoord
+08/05/16,ERE,Feyenoord,1-0,NEC
+02/07/16,CLF,Driel,0-16,Feyenoord
+09/07/16,CLF,Rijnsburgse Boys,1-5,Feyenoord
+16/07/16,CLF,Feyenoord,3-1,Anderlecht
+23/07/16,CLF,Feyenoord,2-1,Valencia
+31/07/16,SUC,Feyenoord,0-1,PSV
+07/08/16,ERE,Groningen,0-5,Feyenoord
+14/08/16,ERE,Feyenoord,2-0,Twente
+21/08/16,ERE,Heracles,0-1,Feyenoord
+27/08/16,ERE,Feyenoord,4-1,Excelsior
+11/09/16,ERE,Feyenoord,3-1,ADO Den Haag
+15/09/16,UEL,Feyenoord,1-0,Manchester United
+18/09/16,ERE,PSV,0-1,Feyenoord
+22/09/16,KNB,Feyenoord,4-1,TOP Oss
+25/09/16,ERE,Feyenoord,5-0,Roda JC
+29/09/16,UEL,Fenerbahce,1-0,Feyenoord
+02/10/16,ERE,Willem II,0-2,Feyenoord
+16/10/16,ERE,NEC,1-2,Feyenoord
+20/10/16,UEL,Feyenoord,1-0,Zorya
+23/10/16,ERE,Feyenoord,1-1,Ajax
+26/10/16,KNB,Feyenoord,4-0,Excelsior
+30/10/16,ERE,Feyenoord,2-2,Heerenveen
+03/11/16,UEL,Zorya,1-1,Feyenoord
+06/11/16,ERE,Go Ahead Eagles,1-0,Feyenoord
+20/11/16,ERE,Feyenoord,3-0,PEC Zwolle
+24/11/16,UEL,Manchester United,4-0,Feyenoord
+27/11/16,ERE,Utrecht,3-3,Feyenoord
+04/12/16,ERE,Feyenoord,6-1,Sparta Rotterdam
+08/12/16,UEL,Feyenoord,0-1,Fenerbahce
+11/12/16,ERE,AZ,0-4,Feyenoord
+14/12/16,KNB,Feyenoord,5-1,ADO Den Haag
+17/12/16,ERE,Feyenoord,3-1,Vitesse
+07/01/17,CLF,Mainz,0-2,Feyenoord
+15/01/17,ERE,Roda JC,0-2,Feyenoord
+21/01/17,ERE,Feyenoord,1-0,Willem II
+26/01/17,KNB,Vitesse,2-0,Feyenoord
+01/02/15,ERE,Feyenoord,2-1,ADO Den Haag
+04/02/15,ERE,Heerenveen,3-1,Feyenoord
+08/02/15,ERE,Feyenoord,2-1,Cambuur
+14/02/15,ERE,Heracles,2-0,Feyenoord
+19/02/15,UEL,Roma,1-1,Feyenoord
+22/02/15,ERE,Feyenoord,3-2,Excelsior
+26/02/15,UEL,Feyenoord,1-2,Roma
+01/03/15,ERE,Utrecht,0-0,Feyenoord
+08/03/15,ERE,Feyenoord,3-0,NAC Breda
+15/03/15,ERE,Dordrecht,1-2,Feyenoord
+22/03/15,ERE,Feyenoord,2-1,PSV
+05/04/15,ERE,AZ,1-4,Feyenoord
+12/04/15,ERE,Willem II,2-2,Feyenoord
+19/04/15,ERE,Feyenoord,0-1,Go Ahead Eagles
+26/04/15,ERE,Groningen,1-1,Feyenoord
+11/05/15,ERE,Feyenoord,1-4,Vitesse
+17/05/15,ERE,PEC Zwolle,3-0,Feyenoord
+21/05/15,ERE,Heerenveen,1-0,Feyenoord
+24/05/15,ERE,Feyenoord,2-2,Heerenveen
+04/07/15,CLF,SC Feyenoord,0-3,Feyenoord
+12/07/15,CLF,Fortuna Düsseldorf,0-2,Feyenoord
+18/07/15,CLF,Feyenoord,1-2,VVV
+23/07/15,CLF,Feyenoord,0-3,Southampton
+01/08/15,CLF,Feyenoord,1-3,Olympiakos
+08/08/15,ERE,Feyenoord,3-2,Utrecht
+16/08/15,ERE,Cambuur,0-2,Feyenoord
+23/08/15,ERE,Feyenoord,2-0,Vitesse
+30/08/15,ERE,PSV,3-1,Feyenoord
+13/09/15,ERE,Feyenoord,1-0,Willem II
+20/09/15,ERE,Roda JC,1-1,Feyenoord
+24/09/15,KNB,Feyenoord,3-0,PEC Zwolle
+27/09/15,ERE,Feyenoord,2-0,PEC Zwolle
+04/10/15,ERE,De Graafschap,1-2,Feyenoord
+18/10/15,ERE,Heerenveen,2-5,Feyenoord
+25/10/15,ERE,Feyenoord,3-1,AZ
+28/10/15,KNB,Feyenoord,1-0,Ajax
+01/11/15,ERE,ADO Den Haag,1-0,Feyenoord
+08/11/15,ERE,Feyenoord,1-1,Ajax
+22/11/15,ERE,Feyenoord,5-0,Twente
+28/11/15,ERE,Excelsior,2-4,Feyenoord
+06/12/15,ERE,Feyenoord,3-0,Heracles
+13/12/15,ERE,Groningen,1-1,Feyenoord
+17/12/15,KNB,Feyenoord,E2-1E,Willem II
+20/12/15,ERE,NEC,3-1,Feyenoord
+17/01/16,ERE,Feyenoord,0-2,PSV
+24/01/16,ERE,AZ,4-2,Feyenoord
+28/01/16,ERE,Feyenoord,1-2,Heerenveen
+31/01/16,ERE,Feyenoord,0-2,ADO Den Haag
+03/02/16,KNB,Roda JC,E0-1E,Feyenoord
+07/02/16,ERE,Ajax,2-1,Feyenoord

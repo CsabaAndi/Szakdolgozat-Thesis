@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+05/08/23,CLF,Brentford,0-0,Lille
+11/08/23,LI1,Nice,1-1,Lille
+20/08/23,LI1,Lille,2-0,Nantes
+24/08/23,UEC,Lille,2-1,Rijeka
+27/08/23,LI1,Lorient,4-1,Lille
+31/08/23,UEC,Rijeka,1-1,Lille
+03/09/23,LI1,Lille,1-0,Montpellier
+16/09/23,LI1,Rennes,2-2,Lille
+20/09/23,UEC,Lille,2-0,Olimpija
+26/09/23,LI1,Lille,1-2,Reims
+01/10/23,LI1,Le Havre,0-2,Lille
+05/10/23,UEC,KÍ,0-0,Lille
+08/10/23,LI1,Lens,1-1,Lille
+22/10/23,LI1,Lille,1-0,Brest
+26/10/23,UEC,Lille,2-1,Slovan Bratislava
+29/10/23,LI1,Lille,2-0,Monaco
+04/11/23,LI1,Marseille,0-0,Lille
+09/11/23,UEC,Slovan Bratislava,1-1,Lille
+12/11/23,LI1,Lille,1-1,Toulouse
+26/11/23,LI1,Lyon,0-2,Lille
+30/11/23,UEC,Olimpija,0-2,Lille
+03/12/23,LI1,Lille,2-0,Metz
+10/12/23,LI1,Clermont,0-0,Lille
+14/12/23,UEC,Lille,3-0,KÍ
+17/12/23,LI1,Lille,1-1,PSG
+20/12/23,LI1,Strasbourg,2-1,Lille
+06/01/24,CDF,Lille,12-0,Golden Lion
+14/01/24,LI1,Lille,3-0,Lorient
+21/01/24,CDF,Racing,0-1,Lille
+28/01/24,LI1,Montpellier,0-0,Lille
+04/02/24,LI1,Lille,4-0,Clermont
+07/02/24,CDF,Lyon,2-1,Lille
+10/02/24,LI1,PSG,3-1,Lille
+17/02/24,LI1,Lille,3-0,Le Havre
+25/02/24,LI1,Toulouse,3-1,Lille
+02/03/24,LI1,Reims,0-1,Lille
+07/03/24,UEC,Sturm Graz,0-3,Lille
+10/03/24,LI1,Lille,2-2,Rennes
+14/03/24,UEC,Lille,1-1,Sturm Graz
+17/03/24,LI1,Brest,1-1,Lille
+29/03/24,LI1,Lille,2-1,Lens
+05/04/24,LI1,Lille,3-1,Marseille
+11/04/24,UEC,Aston Villa,2-1,Lille
+18/04/24,UEC,Lille,P2-1P,Aston Villa
+21/04/24,LI1,Lille,1-0,Strasbourg
+24/04/24,LI1,Monaco,1-0,Lille
+28/04/24,LI1,Metz,1-2,Lille
+06/05/24,LI1,Lille,21:00,Lyon
+12/05/24,LI1,Nantes,21:00,Lille
+19/05/24,LI1,Lille,21:00,Nice
+07/08/22,LI1,Lille,4-1,Auxerre
+12/08/22,LI1,Nantes,1-1,Lille
+21/08/22,LI1,Lille,1-7,PSG
+26/08/22,LI1,Ajaccio,1-3,Lille
+31/08/22,LI1,Lille,1-2,Nice
+04/09/22,LI1,Montpellier,1-3,Lille
+10/09/22,LI1,Marseille,2-1,Lille
+17/09/22,LI1,Lille,2-1,Toulouse
+02/10/22,LI1,Lorient,2-1,Lille
+09/10/22,LI1,Lille,1-0,Lens
+14/10/22,LI1,Strasbourg,0-3,Lille
+23/10/22,LI1,Lille,4-3,Monaco
+30/10/22,LI1,Lyon,1-0,Lille
+06/11/22,LI1,Lille,1-1,Rennes
+13/11/22,LI1,Lille,1-0,Angers
+02/12/22,CLF,Lille,1-0,Club Brugge
+07/12/22,CLF,KV Oostende,2-2,Lille
+10/12/22,CLF,Real Valladolid,0-2,Lille
+16/12/22,CLF,Cambuur,0-2,Lille
+21/12/22,CLF,Napoli,1-4,Lille
+28/12/22,LI1,Clermont,0-2,Lille
+02/01/23,LI1,Lille,1-1,Reims
+08/01/23,CDF,Lille,2-0,Troyes
+11/01/23,LI1,Brest,0-0,Lille
+15/01/23,LI1,Lille,5-1,Troyes
+22/01/23,CDF,Lille,2-0,Pau
+29/01/23,LI1,Nice,1-0,Lille
+01/02/23,LI1,Lille,0-0,Clermont
+04/02/23,LI1,Rennes,1-3,Lille
+08/02/23,CDF,Lyon,P2-2P,Lille
+12/02/23,LI1,Lille,2-0,Strasbourg
+19/02/23,LI1,PSG,4-3,Lille
+24/02/23,LI1,Lille,2-1,Brest
+04/03/23,LI1,Lens,1-1,Lille
+10/03/23,LI1,Lille,3-3,Lyon
+18/03/23,LI1,Toulouse,0-2,Lille
+02/04/23,LI1,Lille,3-1,Lorient
+08/04/23,LI1,Angers,1-0,Lille
+16/04/23,LI1,Lille,2-1,Montpellier
+22/04/23,LI1,Auxerre,1-1,Lille
+29/04/23,LI1,Lille,3-0,Ajaccio
+06/05/23,LI1,Reims,1-0,Lille
+14/05/23,LI1,Monaco,0-0,Lille
+20/05/23,LI1,Lille,2-1,Marseille
+27/05/23,LI1,Lille,2-1,Nantes
+03/06/23,LI1,Troyes,1-1,Lille
+19/07/23,CLF,Lille,3-1,Dunkerque
+22/07/23,CLF,Lille,7-2,Cercle Brugge
+26/07/23,CLF,Lille,3-2,Le Havre
+29/07/23,CLF,Empoli,2-1,Lille
+14/08/21,LI1,Lille,0-4,Nice
+21/08/21,LI1,Saint-Etienne,1-1,Lille
+29/08/21,LI1,Lille,2-1,Montpellier
+10/09/21,LI1,Lorient,2-1,Lille
+14/09/21,UCL,Lille,0-0,Wolfsburg
+18/09/21,LI1,Lens,1-0,Lille
+22/09/21,LI1,Lille,2-1,Reims
+25/09/21,LI1,Strasbourg,1-2,Lille
+29/09/21,UCL,Salzburg,2-1,Lille
+03/10/21,LI1,Lille,2-0,Marseille
+16/10/21,LI1,Clermont,1-0,Lille
+20/10/21,UCL,Lille,0-0,Sevilla
+23/10/21,LI1,Lille,1-1,Brest
+29/10/21,LI1,PSG,2-1,Lille
+02/11/21,UCL,Sevilla,1-2,Lille
+06/11/21,LI1,Lille,1-1,Angers
+19/11/21,LI1,Monaco,2-2,Lille
+23/11/21,UCL,Lille,1-0,Salzburg
+27/11/21,LI1,Lille,1-1,Nantes
+01/12/21,LI1,Rennes,1-2,Lille
+04/12/21,LI1,Lille,2-1,Troyes
+08/12/21,UCL,Wolfsburg,1-3,Lille
+12/12/21,LI1,Lille,0-0,Lyon
+18/12/21,CDF,Lille,3-1,Auxerre
+22/12/21,LI1,Bordeaux,2-3,Lille
+04/01/22,CDF,Lens,P2-2P,Lille
+16/01/22,LI1,Marseille,1-1,Lille
+19/01/22,LI1,Lille,3-1,Lorient
+22/01/22,LI1,Brest,2-0,Lille
+06/02/22,LI1,Lille,1-5,PSG
+12/02/22,LI1,Montpellier,0-1,Lille
+18/02/22,LI1,Lille,0-0,Metz
+22/02/22,UCL,Chelsea,2-0,Lille
+27/02/22,LI1,Lyon,0-1,Lille
+06/03/22,LI1,Lille,4-0,Clermont
+11/03/22,LI1,Lille,0-0,Saint-Etienne
+16/03/22,UCL,Lille,1-2,Chelsea
+19/03/22,LI1,Nantes,0-1,Lille
+02/04/22,LI1,Lille,0-0,Bordeaux
+10/04/22,LI1,Angers,1-1,Lille
+16/04/22,LI1,Lille,1-2,Lens
+20/04/22,LI1,Reims,2-1,Lille
+24/04/22,LI1,Lille,1-0,Strasbourg
+01/05/22,LI1,Troyes,3-0,Lille
+06/05/22,LI1,Lille,1-2,Monaco
+14/05/22,LI1,Nice,1-3,Lille
+21/05/22,LI1,Lille,2-2,Rennes
+23/07/22,CLF,Lille,2-2,Las Palmas
+24/07/22,CLF,Espanyol,2-0,Lille
+29/07/22,CLF,Cadiz,0-1,Lille
+18/10/20,LI1,Lille,4-0,Lens
+22/10/20,UEL,Sparta Prague,1-4,Lille
+25/10/20,LI1,Nice,1-1,Lille
+29/10/20,UEL,Lille,2-2,Celtic
+01/11/20,LI1,Lille,1-1,Lyon
+05/11/20,UEL,AC Milan,0-3,Lille
+08/11/20,LI1,Brest,3-2,Lille
+22/11/20,LI1,Lille,4-0,Lorient
+26/11/20,UEL,Lille,1-1,AC Milan
+29/11/20,LI1,Saint-Etienne,1-1,Lille
+03/12/20,UEL,Lille,2-1,Sparta Prague
+06/12/20,LI1,Lille,2-1,Monaco
+10/12/20,UEL,Celtic,3-2,Lille
+13/12/20,LI1,Lille,2-1,Bordeaux
+16/12/20,LI1,Dijon,0-2,Lille
+20/12/20,LI1,Lille,0-0,PSG
+23/12/20,LI1,Montpellier,2-3,Lille
+06/01/21,LI1,Lille,1-2,Angers
+09/01/21,LI1,Nîmes,0-1,Lille
+17/01/21,LI1,Lille,2-1,Reims
+24/01/21,LI1,Rennes,0-1,Lille
+31/01/21,LI1,Lille,1-0,Dijon
+03/02/21,LI1,Bordeaux,0-3,Lille
+07/02/21,LI1,Nantes,0-2,Lille
+10/02/21,CDF,Dijon,0-1,Lille
+14/02/21,LI1,Lille,0-0,Brest
+18/02/21,UEL,Lille,1-2,Ajax
+21/02/21,LI1,Lorient,1-4,Lille
+25/02/21,UEL,Ajax,2-1,Lille
+28/02/21,LI1,Lille,1-1,Strasbourg
+03/03/21,LI1,Lille,2-0,Marseille
+07/03/21,CDF,Gazélec Ajaccio,1-3,Lille
+14/03/21,LI1,Monaco,0-0,Lille
+17/03/21,CDF,PSG,3-0,Lille
+21/03/21,LI1,Lille,1-2,Nîmes
+03/04/21,LI1,PSG,0-1,Lille
+09/04/21,LI1,Metz,0-2,Lille
+16/04/21,LI1,Lille,1-1,Montpellier
+25/04/21,LI1,Lyon,2-3,Lille
+01/05/21,LI1,Lille,2-0,Nice
+07/05/21,LI1,Lens,0-3,Lille
+16/05/21,LI1,Lille,0-0,Saint-Etienne
+23/05/21,LI1,Angers,1-2,Lille
+09/07/21,CLF,SK Beveren,0-2,Lille
+13/07/21,CLF,Lille,CANC,Valenciennes
+17/07/21,CLF,Kortrijk,1-1,Lille
+22/07/21,CLF,Benfica,1-0,Lille
+25/07/21,CLF,Porto,2-0,Lille
+01/08/21,TDC,Lille,1-0,PSG
+08/08/21,LI1,Metz,3-3,Lille
+19/10/19,LI1,Toulouse,2-1,Lille
+23/10/19,UCL,Lille,1-1,Valencia
+26/10/19,LI1,Lille,3-0,Bordeaux
+02/11/19,LI1,Marseille,2-1,Lille
+05/11/19,UCL,Valencia,4-1,Lille
+09/11/19,LI1,Lille,0-0,Metz
+22/11/19,LI1,PSG,2-0,Lille
+27/11/19,UCL,Lille,0-2,Ajax
+30/11/19,LI1,Lille,1-0,Dijon
+03/12/19,LI1,Lyon,0-1,Lille
+06/12/19,LI1,Lille,1-0,Brest
+10/12/19,UCL,Chelsea,2-1,Lille
+13/12/19,LI1,Lille,2-1,Montpellier
+17/12/19,CDL,Monaco,0-3,Lille
+21/12/19,LI1,Monaco,5-1,Lille
+05/01/20,CDF,Raon l'Etape,2-3,Lille
+08/01/20,CDL,Lille,2-0,Amiens SC
+12/01/20,LI1,Dijon,1-0,Lille
+18/01/20,CDF,Gonfreville,0-2,Lille
+21/01/20,CDL,Lyon,P2-2P,Lille
+26/01/20,LI1,Lille,0-2,PSG
+29/01/20,CDF,Épinal,2-1,Lille
+01/02/20,LI1,Strasbourg,1-2,Lille
+04/02/20,LI1,Lille,1-0,Rennes
+07/02/20,LI1,Angers,0-2,Lille
+16/02/20,LI1,Lille,1-2,Marseille
+22/02/20,LI1,Lille,3-0,Toulouse
+01/03/20,LI1,Nantes,0-1,Lille
+08/03/20,LI1,Lille,1-0,Lyon
+14/03/20,LI1,Brest,CANC,Lille
+20/03/20,LI1,Lille,CANC,Monaco
+04/04/20,LI1,Montpellier,CANC,Lille
+11/04/20,LI1,Metz,CANC,Lille
+18/04/20,LI1,Lille,CANC,Nice
+26/04/20,LI1,Nîmes,CANC,Lille
+02/05/20,LI1,Lille,CANC,Reims
+09/05/20,LI1,Saint-Etienne,CANC,Lille
+16/05/20,LI1,Lille,CANC,Amiens SC
+23/05/20,LI1,Bordeaux,CANC,Lille
+18/07/20,CLF,Excel Mouscron,1-2,Lille
+25/07/20,CLF,Club Brugge,2-0,Lille
+31/07/20,CLF,Kortrijk,CANC,Lille
+01/08/20,CLF,Lille,2-0,Anderlecht
+08/08/20,CLF,AZ,2-1,Lille
+22/08/20,LI1,Lille,1-1,Rennes
+30/08/20,LI1,Reims,0-1,Lille
+13/09/20,LI1,Lille,1-0,Metz
+20/09/20,LI1,Marseille,1-1,Lille
+25/09/20,LI1,Lille,2-0,Nantes
+04/10/20,LI1,Strasbourg,0-3,Lille
+30/10/18,CDL,Strasbourg,2-0,Lille
+02/11/18,LI1,PSG,2-1,Lille
+09/11/18,LI1,Lille,0-0,Strasbourg
+15/11/18,CLF,Real Valladolid,CANC,Lille
+25/11/18,LI1,Nice,2-0,Lille
+01/12/18,LI1,Lille,2-2,Lyon
+04/12/18,LI1,Montpellier,0-1,Lille
+09/12/18,LI1,Lille,1-1,Reims
+16/12/18,LI1,Nîmes,2-3,Lille
+22/12/18,LI1,Lille,1-2,Toulouse
+07/01/19,CDF,Lille,1-0,Sochaux
+11/01/19,LI1,Caen,1-3,Lille
+18/01/19,LI1,Lille,2-1,Amiens SC
+22/01/19,CDF,Sète,0-1,Lille
+25/01/19,LI1,Marseille,1-2,Lille
+01/02/19,LI1,Lille,4-0,Nice
+06/02/19,CDF,Rennes,2-1,Lille
+10/02/19,LI1,Guingamp,0-2,Lille
+17/02/19,LI1,Lille,0-0,Montpellier
+22/02/19,LI1,Strasbourg,1-1,Lille
+03/03/19,LI1,Lille,1-0,Dijon
+10/03/19,LI1,Saint-Etienne,0-1,Lille
+15/03/19,LI1,Lille,0-1,Monaco
+31/03/19,LI1,Nantes,2-3,Lille
+07/04/19,LI1,Reims,1-1,Lille
+14/04/19,LI1,Lille,5-1,PSG
+21/04/19,LI1,Toulouse,0-0,Lille
+28/04/19,LI1,Lille,5-0,Nîmes
+05/05/19,LI1,Lyon,2-2,Lille
+12/05/19,LI1,Lille,1-0,Bordeaux
+18/05/19,LI1,Lille,5-0,Angers
+24/05/19,LI1,Rennes,3-1,Lille
+09/07/19,CLF,Lille,2-1,Dunkerque
+13/07/19,CLF,Lille,1-1,Reims
+19/07/19,CLF,Sporting Braga,0-2,Lille
+20/07/19,CLF,Marítimo,0-0,Lille
+24/07/19,CLF,Portimonense,1-2,Lille
+27/07/19,CLF,Celta Vigo,1-0,Lille
+03/08/19,CLF,Lille,2-3,Roma
+11/08/19,LI1,Lille,2-1,Nantes
+17/08/19,LI1,Amiens SC,1-0,Lille
+28/08/19,LI1,Lille,3-0,Saint-Etienne
+01/09/19,LI1,Reims,2-0,Lille
+13/09/19,LI1,Lille,2-1,Angers
+17/09/19,UCL,Ajax,3-0,Lille
+22/09/19,LI1,Rennes,1-1,Lille
+25/09/19,LI1,Lille,2-0,Strasbourg
+28/09/19,LI1,Nice,1-1,Lille
+02/10/19,UCL,Lille,1-2,Chelsea
+06/10/19,LI1,Lille,2-2,Nîmes
+29/10/17,LI1,Lille,0-1,Marseille
+05/11/17,LI1,Metz,0-3,Lille
+17/11/17,LI1,Lille,3-1,Saint-Etienne
+20/11/17,LI1,Amiens SC,3-0,Lille
+25/11/17,LI1,Montpellier,3-0,Lille
+29/11/17,LI1,Lyon,1-2,Lille
+02/12/17,LI1,Lille,1-0,Toulouse
+09/12/17,LI1,PSG,3-1,Lille
+13/12/17,CDL,Lille,P1-1P,Nice
+16/12/17,LI1,Dijon,3-0,Lille
+20/12/17,LI1,Lille,1-1,Nice
+06/01/18,CDF,Le Mans,2-4,Lille
+13/01/18,LI1,Caen,0-1,Lille
+17/01/18,LI1,Lille,1-2,Rennes
+20/01/18,LI1,Troyes,1-0,Lille
+25/01/18,CDF,Strasbourg,2-1,Lille
+28/01/18,LI1,Lille,2-1,Strasbourg
+03/02/18,LI1,Lille,0-3,PSG
+11/02/18,LI1,Nantes,2-2,Lille
+18/02/18,LI1,Lille,2-2,Lyon
+24/02/18,LI1,Lille,1-2,Angers
+02/03/18,LI1,Nice,2-1,Lille
+10/03/18,LI1,Lille,1-1,Montpellier
+16/03/18,LI1,Monaco,2-1,Lille
+01/04/18,LI1,Lille,0-1,Amiens SC
+07/04/18,LI1,Bordeaux,2-1,Lille
+14/04/18,LI1,Lille,2-2,Guingamp
+21/04/18,LI1,Marseille,5-1,Lille
+28/04/18,LI1,Lille,3-1,Metz
+06/05/18,LI1,Toulouse,2-3,Lille
+12/05/18,LI1,Lille,2-1,Dijon
+19/05/18,LI1,Saint-Etienne,5-0,Lille
+07/07/18,CLF,Lille,3-0,Dunkerque
+14/07/18,CLF,Lille,2-4,Reims
+20/07/18,AFC,Porto,1-2,Lille
+21/07/18,AFC,Everton,P0-0P,Lille
+25/07/18,CLF,Portimonense,0-2,Lille
+28/07/18,CLF,Real Betis,2-2,Lille
+04/08/18,CLF,Lille,1-2,Leicester City
+11/08/18,LI1,Lille,3-1,Rennes
+18/08/18,LI1,Monaco,0-0,Lille
+26/08/18,LI1,Lille,3-0,Guingamp
+01/09/18,LI1,Angers,1-0,Lille
+15/09/18,LI1,Amiens SC,2-3,Lille
+22/09/18,LI1,Lille,2-1,Nantes
+26/09/18,LI1,Bordeaux,1-0,Lille
+30/09/18,LI1,Lille,3-0,Marseille
+06/10/18,LI1,Lille,3-1,Saint-Etienne
+20/10/18,LI1,Dijon,1-2,Lille
+27/10/18,LI1,Lille,1-0,Caen
+22/10/16,LI1,Lille,2-1,Bastia
+28/10/16,LI1,Lille,0-1,PSG
+05/11/16,LI1,Angers,1-0,Lille
+11/11/16,CLF,Lille,CANC,Dunkerque
+18/11/16,LI1,Lille,0-1,Lyon
+26/11/16,LI1,Nantes,0-0,Lille
+29/11/16,LI1,Lille,4-2,Caen
+03/12/16,LI1,Bordeaux,0-1,Lille
+10/12/16,LI1,Lille,2-1,Montpellier
+14/12/16,CDL,PSG,3-1,Lille
+18/12/16,LI1,Marseille,2-0,Lille
+21/12/16,LI1,Lille,1-1,Rennes
+07/01/17,CDF,Lille,4-1,Excelsior
+13/01/17,LI1,Lille,1-1,Saint-Etienne
+21/01/17,LI1,Dijon,0-0,Lille
+28/01/17,LI1,Lyon,1-2,Lille
+31/01/17,CDF,Lille,1-0,Nantes
+04/02/17,LI1,Lille,0-1,Lorient
+07/02/17,LI1,PSG,2-1,Lille
+11/02/17,LI1,Lille,1-2,Angers
+18/02/17,LI1,Caen,0-1,Lille
+25/02/17,LI1,Lille,2-3,Bordeaux
+02/03/17,CDF,Bergerac,1-2,Lille
+05/03/17,LI1,Toulouse,1-1,Lille
+11/03/17,LI1,Nancy,1-2,Lille
+17/03/17,LI1,Lille,0-0,Marseille
+01/04/17,LI1,Bastia,0-1,Lille
+04/04/17,CDF,Monaco,2-1,Lille
+07/04/17,LI1,Lille,1-2,Nice
+15/04/17,LI1,Rennes,2-0,Lille
+22/04/17,LI1,Lille,3-0,Guingamp
+29/04/17,LI1,Montpellier,0-3,Lille
+06/05/17,LI1,Lille,0-2,Metz
+14/05/17,LI1,Monaco,4-0,Lille
+20/05/17,LI1,Lille,3-0,Nantes
+15/07/17,CLF,Reims,0-2,Lille
+19/07/17,CLF,Kortrijk,0-4,Lille
+22/07/17,CLF,KV Oostende,0-0,Lille
+26/07/17,CLF,Atalanta,1-0,Lille
+29/07/17,CLF,Lille,4-2,Rennes
+06/08/17,LI1,Lille,3-0,Nantes
+13/08/17,LI1,Strasbourg,3-0,Lille
+20/08/17,LI1,Lille,0-2,Caen
+27/08/17,LI1,Angers,1-1,Lille
+08/09/17,LI1,Lille,0-0,Bordeaux
+16/09/17,LI1,Guingamp,1-0,Lille
+22/09/17,LI1,Lille,0-4,Monaco
+14/10/17,LI1,Lille,2-2,Troyes
+21/10/17,LI1,Rennes,1-0,Lille
+25/10/17,CDL,Lille,P2-2P,Valenciennes
+25/10/15,LI1,Lille,1-2,Marseille
+28/10/15,CDL,Lille,2-1,Troyes
+01/11/15,LI1,Nice,0-0,Lille
+07/11/15,LI1,Lille,1-1,Bastia
+21/11/15,LI1,Troyes,1-1,Lille
+28/11/15,LI1,Angers,2-0,Lille
+02/12/15,LI1,Lille,1-0,Saint-Etienne
+05/12/15,LI1,Caen,1-2,Lille
+12/12/15,LI1,Lille,3-0,Lorient
+15/12/15,CDL,Lille,1-0,Laval
+19/12/15,LI1,Toulouse,1-1,Lille
+03/01/16,CDF,Amiens AC,0-1,Lille
+10/01/16,LI1,Lille,1-1,Nice
+13/01/16,CDL,Guingamp,P0-0P,Lille
+16/01/16,LI1,Bordeaux,1-0,Lille
+20/01/16,CDF,Trélissac,P1-1P,Lille
+23/01/16,LI1,Lille,1-3,Troyes
+26/01/16,CDL,Lille,5-1,Bordeaux
+29/01/16,LI1,Marseille,1-1,Lille
+03/02/16,LI1,Lille,1-0,Caen
+07/02/16,LI1,Lille,1-1,Rennes
+13/02/16,LI1,PSG,0-0,Lille
+21/02/16,LI1,Lille,1-0,Lyon
+27/02/16,LI1,Montpellier,3-0,Lille
+05/03/16,LI1,Lille,2-0,Reims
+12/03/16,LI1,Bastia,1-2,Lille
+19/03/16,LI1,Lille,1-0,Toulouse
+03/04/16,LI1,Nantes,0-3,Lille
+10/04/16,LI1,Lille,4-1,Monaco
+16/04/16,LI1,Gazélec Ajaccio,2-4,Lille
+23/04/16,CDL,PSG,2-1,Lille
+27/04/16,LI1,Lille,0-0,Angers
+30/04/16,LI1,Lorient,0-1,Lille
+07/05/16,LI1,Lille,0-0,Guingamp
+14/05/16,LI1,Saint-Etienne,0-1,Lille
+09/07/16,CLF,Lille,1-0,Dunkerque
+12/07/16,CLF,Lille,0-0,Red Star
+16/07/16,CLF,Lille,0-0,KV Oostende
+21/07/16,CLF,SK Beveren,0-1,Lille
+28/07/16,UEL,Lille,1-1,Qəbələ
+04/08/16,UEL,Qəbələ,1-0,Lille
+13/08/16,LI1,Metz,3-2,Lille
+20/08/16,LI1,Lille,1-0,Dijon
+27/08/16,LI1,Nice,1-1,Lille
+10/09/16,LI1,Lille,1-4,Monaco
+17/09/16,LI1,Lorient,1-0,Lille
+20/09/16,LI1,Lille,1-2,Toulouse
+25/09/16,LI1,Saint-Etienne,3-1,Lille
+01/10/16,LI1,Lille,1-0,Nancy
+15/10/16,LI1,Guingamp,1-0,Lille
+01/11/14,LI1,Lille,1-1,Saint-Etienne
+06/11/14,UEL,Everton,3-0,Lille
+09/11/14,LI1,Reims,2-0,Lille
+27/11/14,UEL,Krasnodar,1-1,Lille
+30/11/14,LI1,Bordeaux,1-0,Lille
+03/12/14,LI1,Lille,1-1,PSG
+07/12/14,LI1,Lens,1-1,Lille
+11/12/14,UEL,Lille,0-3,Wolfsburg
+14/12/14,LI1,Lille,3-0,Toulouse
+17/12/14,CDL,Lille,P1-1P,Bordeaux
+21/12/14,LI1,Marseille,2-1,Lille
+03/01/15,CDF,Bastia,2-0,Lille
+07/01/15,LI1,Lille,1-0,Evian TG
+10/01/15,LI1,Lille,1-0,Caen
+14/01/15,CDL,Lille,2-0,Nantes
+17/01/15,LI1,Lorient,1-0,Lille
+24/01/15,LI1,Lille,0-1,Monaco
+31/01/15,LI1,Nantes,1-1,Lille
+03/02/15,CDL,Lille,0-1,PSG
+07/02/15,LI1,Montpellier,1-2,Lille
+14/02/15,LI1,Lille,0-0,Nice
+21/02/15,LI1,Bastia,2-1,Lille
+28/02/15,LI1,Lille,2-1,Lyon
+08/03/15,LI1,Guingamp,0-1,Lille
+15/03/15,LI1,Lille,3-0,Rennes
+22/03/15,LI1,Saint-Etienne,2-0,Lille
+04/04/15,LI1,Lille,3-1,Reims
+12/04/15,LI1,Evian TG,0-1,Lille
+19/04/15,LI1,Lille,2-0,Bordeaux
+25/04/15,LI1,PSG,6-1,Lille
+03/05/15,LI1,Lille,3-1,Lens
+09/05/15,LI1,Toulouse,3-2,Lille
+16/05/15,LI1,Lille,0-4,Marseille
+23/05/15,LI1,Metz,1-4,Lille
+11/07/15,CLF,Boulogne,1-2,Lille
+15/07/15,CLF,Lokeren,4-1,Lille
+18/07/15,CLF,KV Oostende,0-1,Lille
+22/07/15,CLF,Lille,1-0,Troyes
+25/07/15,CLF,Besiktas,0-0,Lille
+01/08/15,CLF,Sporting Braga,1-1,Lille
+07/08/15,LI1,Lille,0-1,PSG
+14/08/15,LI1,Monaco,0-0,Lille
+23/08/15,LI1,Lille,0-0,Bordeaux
+29/08/15,LI1,Lille,1-0,Gazélec Ajaccio
+12/09/15,LI1,Lyon,0-0,Lille
+18/09/15,LI1,Rennes,1-1,Lille
+25/09/15,LI1,Reims,1-0,Lille
+29/09/15,LI1,Lille,0-1,Nantes
+02/10/15,LI1,Lille,2-0,Montpellier
+17/10/15,LI1,Guingamp,1-1,Lille

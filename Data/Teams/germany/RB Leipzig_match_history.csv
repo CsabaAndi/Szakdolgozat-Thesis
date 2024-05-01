@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+02/08/23,CLF,RB Leipzig,9-2,Altglienicke
+05/08/23,CLF,RB Leipzig,3-0,Las Palmas
+12/08/23,SUC,Bayern Munich,0-3,RB Leipzig
+19/08/23,BUN,Bayer Leverkusen,3-2,RB Leipzig
+25/08/23,BUN,RB Leipzig,5-1,Stuttgart
+03/09/23,BUN,Union Berlin,0-3,RB Leipzig
+16/09/23,BUN,RB Leipzig,3-0,Augsburg
+19/09/23,UCL,Young Boys,1-3,RB Leipzig
+23/09/23,BUN,Borussia M'gladbach,0-1,RB Leipzig
+27/09/23,DFP,Wehen Wiesbaden,2-3,RB Leipzig
+30/09/23,BUN,RB Leipzig,2-2,Bayern Munich
+04/10/23,UCL,RB Leipzig,1-3,Manchester City
+07/10/23,BUN,RB Leipzig,0-0,Bochum
+11/10/23,CLF,RB Leipzig,2-4,Mladá Boleslav
+21/10/23,BUN,Darmstadt,1-3,RB Leipzig
+25/10/23,UCL,RB Leipzig,3-1,Red Star Belgrade
+28/10/23,BUN,RB Leipzig,6-0,FC Cologne
+31/10/23,DFP,Wolfsburg,1-0,RB Leipzig
+04/11/23,BUN,Mainz,2-0,RB Leipzig
+07/11/23,UCL,Red Star Belgrade,1-2,RB Leipzig
+12/11/23,BUN,RB Leipzig,3-1,Freiburg
+25/11/23,BUN,Wolfsburg,2-1,RB Leipzig
+28/11/23,UCL,Manchester City,3-2,RB Leipzig
+02/12/23,BUN,RB Leipzig,2-1,Heidenheim
+09/12/23,BUN,Borussia Dortmund,2-3,RB Leipzig
+13/12/23,UCL,RB Leipzig,2-1,Young Boys
+16/12/23,BUN,RB Leipzig,3-1,Hoffenheim
+19/12/23,BUN,Werder Bremen,1-1,RB Leipzig
+06/01/24,CLF,RB Leipzig,1-0,St.Gallen
+13/01/24,BUN,RB Leipzig,0-1,Eintracht Frankfurt
+20/01/24,BUN,RB Leipzig,2-3,Bayer Leverkusen
+27/01/24,BUN,Stuttgart,5-2,RB Leipzig
+04/02/24,BUN,RB Leipzig,2-0,Union Berlin
+10/02/24,BUN,Augsburg,2-2,RB Leipzig
+13/02/24,UCL,RB Leipzig,0-1,Real Madrid
+17/02/24,BUN,RB Leipzig,2-0,Borussia M'gladbach
+24/02/24,BUN,Bayern Munich,2-1,RB Leipzig
+02/03/24,BUN,Bochum,1-4,RB Leipzig
+06/03/24,UCL,Real Madrid,1-1,RB Leipzig
+09/03/24,BUN,RB Leipzig,2-0,Darmstadt
+15/03/24,BUN,FC Cologne,1-5,RB Leipzig
+30/03/24,BUN,RB Leipzig,0-0,Mainz
+06/04/24,BUN,Freiburg,1-4,RB Leipzig
+13/04/24,BUN,RB Leipzig,3-0,Wolfsburg
+20/04/24,BUN,Heidenheim,1-2,RB Leipzig
+27/04/24,BUN,RB Leipzig,4-1,Borussia Dortmund
+03/05/24,BUN,Hoffenheim,20:30,RB Leipzig
+11/05/24,BUN,RB Leipzig,15:30,Werder Bremen
+18/05/24,BUN,Eintracht Frankfurt,15:30,RB Leipzig
+31/07/24,CLF,RB Leipzig,-,Aston Villa
+27/08/22,BUN,RB Leipzig,2-0,Wolfsburg
+30/08/22,DFP,Teutonia Ottensen,0-8,RB Leipzig
+03/09/22,BUN,Eintracht Frankfurt,4-0,RB Leipzig
+06/09/22,UCL,RB Leipzig,1-4,Shakhtar Donetsk
+10/09/22,BUN,RB Leipzig,3-0,Borussia Dortmund
+14/09/22,UCL,Real Madrid,2-0,RB Leipzig
+17/09/22,BUN,Borussia M'gladbach,3-0,RB Leipzig
+01/10/22,BUN,RB Leipzig,4-0,Bochum
+05/10/22,UCL,RB Leipzig,3-1,Celtic
+08/10/22,BUN,Mainz,1-1,RB Leipzig
+11/10/22,UCL,Celtic,0-2,RB Leipzig
+15/10/22,BUN,RB Leipzig,3-2,Hertha Berlin
+18/10/22,DFP,RB Leipzig,4-0,Hamburg
+22/10/22,BUN,Augsburg,3-3,RB Leipzig
+25/10/22,UCL,RB Leipzig,3-2,Real Madrid
+29/10/22,BUN,RB Leipzig,2-0,Bayer Leverkusen
+02/11/22,UCL,Shakhtar Donetsk,0-4,RB Leipzig
+05/11/22,BUN,Hoffenheim,1-3,RB Leipzig
+09/11/22,BUN,RB Leipzig,3-1,Freiburg
+12/11/22,BUN,Werder Bremen,1-2,RB Leipzig
+25/11/22,CLF,RB Leipzig,6-0,Radomiak Radom
+02/12/22,CLF,RB Leipzig,2-1,Horsens
+14/01/23,CLF,RB Leipzig,4-0,Mladá Boleslav
+20/01/23,BUN,RB Leipzig,1-1,Bayern Munich
+24/01/23,BUN,Schalke 04,1-6,RB Leipzig
+27/01/23,BUN,RB Leipzig,2-1,Stuttgart
+01/02/23,DFP,RB Leipzig,3-1,Hoffenheim
+04/02/23,BUN,FC Cologne,0-0,RB Leipzig
+11/02/23,BUN,RB Leipzig,1-2,Union Berlin
+18/02/23,BUN,Wolfsburg,0-3,RB Leipzig
+22/02/23,UCL,RB Leipzig,1-1,Manchester City
+25/02/23,BUN,RB Leipzig,2-1,Eintracht Frankfurt
+03/03/23,BUN,Borussia Dortmund,2-1,RB Leipzig
+11/03/23,BUN,RB Leipzig,3-0,Borussia M'gladbach
+14/03/23,UCL,Manchester City,7-0,RB Leipzig
+18/03/23,BUN,Bochum,1-0,RB Leipzig
+01/04/23,BUN,RB Leipzig,0-3,Mainz
+05/04/23,DFP,RB Leipzig,2-0,Borussia Dortmund
+08/04/23,BUN,Hertha Berlin,0-1,RB Leipzig
+15/04/23,BUN,RB Leipzig,3-2,Augsburg
+23/04/23,BUN,Bayer Leverkusen,2-0,RB Leipzig
+29/04/23,BUN,RB Leipzig,1-0,Hoffenheim
+02/05/23,DFP,Freiburg,1-5,RB Leipzig
+06/05/23,BUN,Freiburg,0-1,RB Leipzig
+14/05/23,BUN,RB Leipzig,2-1,Werder Bremen
+20/05/23,BUN,Bayern Munich,1-3,RB Leipzig
+27/05/23,BUN,RB Leipzig,4-2,Schalke 04
+03/06/23,DFP,RB Leipzig,2-0,Eintracht Frankfurt
+25/07/23,CLF,Udinese,2-1,RB Leipzig
+02/08/23,CLF,RB Leipzig,4-0,Sint-Truiden
+19/10/21,UCL,PSG,3-2,RB Leipzig
+23/10/21,BUN,RB Leipzig,4-1,Greuther Fürth
+26/10/21,DFP,Babelsberg,0-1,RB Leipzig
+30/10/21,BUN,Eintracht Frankfurt,1-1,RB Leipzig
+03/11/21,UCL,RB Leipzig,2-2,PSG
+06/11/21,BUN,RB Leipzig,2-1,Borussia Dortmund
+11/11/21,CLF,RB Leipzig,2-1,Eilenburg
+20/11/21,BUN,Hoffenheim,2-0,RB Leipzig
+24/11/21,UCL,Club Brugge,0-5,RB Leipzig
+28/11/21,BUN,RB Leipzig,1-3,Bayer Leverkusen
+03/12/21,BUN,Union Berlin,2-1,RB Leipzig
+07/12/21,UCL,RB Leipzig,2-1,Manchester City
+11/12/21,BUN,RB Leipzig,4-1,Borussia M'gladbach
+15/12/21,BUN,Augsburg,1-1,RB Leipzig
+18/12/21,BUN,RB Leipzig,0-2,Arminia Bielefeld
+08/01/22,BUN,RB Leipzig,4-1,Mainz
+15/01/22,BUN,Stuttgart,0-2,RB Leipzig
+19/01/22,DFP,RB Leipzig,2-0,Hansa Rostock
+23/01/22,BUN,RB Leipzig,2-0,Wolfsburg
+05/02/22,BUN,Bayern Munich,3-2,RB Leipzig
+11/02/22,BUN,RB Leipzig,3-1,FC Cologne
+17/02/22,UEL,RB Leipzig,2-2,Real Sociedad
+20/02/22,BUN,Hertha Berlin,1-6,RB Leipzig
+24/02/22,UEL,Real Sociedad,1-3,RB Leipzig
+27/02/22,BUN,Bochum,0-1,RB Leipzig
+02/03/22,DFP,Hannover 96,0-4,RB Leipzig
+05/03/22,BUN,RB Leipzig,1-1,Freiburg
+10/03/22,UEL,RB Leipzig,CANC,Spartak Moscow
+13/03/22,BUN,Greuther Fürth,1-6,RB Leipzig
+17/03/22,UEL,Spartak Moscow,CANC,RB Leipzig
+20/03/22,BUN,RB Leipzig,0-0,Eintracht Frankfurt
+02/04/22,BUN,Borussia Dortmund,1-4,RB Leipzig
+07/04/22,UEL,RB Leipzig,1-1,Atalanta
+10/04/22,BUN,RB Leipzig,3-0,Hoffenheim
+14/04/22,UEL,Atalanta,0-2,RB Leipzig
+17/04/22,BUN,Bayer Leverkusen,0-1,RB Leipzig
+20/04/22,DFP,RB Leipzig,2-1,Union Berlin
+23/04/22,BUN,RB Leipzig,1-2,Union Berlin
+28/04/22,UEL,RB Leipzig,1-0,Rangers
+02/05/22,BUN,Borussia M'gladbach,3-1,RB Leipzig
+05/05/22,UEL,Rangers,3-1,RB Leipzig
+08/05/22,BUN,RB Leipzig,4-0,Augsburg
+14/05/22,BUN,Arminia Bielefeld,1-1,RB Leipzig
+21/05/22,DFP,Freiburg,P1-1P,RB Leipzig
+16/07/22,CLF,RB Leipzig,3-1,Southampton
+21/07/22,CLF,RB Leipzig,0-5,Liverpool
+30/07/22,SUC,RB Leipzig,3-5,Bayern Munich
+07/08/22,BUN,Stuttgart,1-1,RB Leipzig
+13/08/22,BUN,RB Leipzig,2-2,FC Cologne
+20/08/22,BUN,Union Berlin,2-1,RB Leipzig
+28/11/20,BUN,RB Leipzig,2-1,Arminia Bielefeld
+02/12/20,UCL,Istanbul Basaksehir,3-4,RB Leipzig
+05/12/20,BUN,Bayern Munich,3-3,RB Leipzig
+08/12/20,UCL,RB Leipzig,3-2,Manchester United
+12/12/20,BUN,RB Leipzig,2-0,Werder Bremen
+16/12/20,BUN,Hoffenheim,0-1,RB Leipzig
+19/12/20,BUN,RB Leipzig,0-0,FC Cologne
+22/12/20,DFP,Augsburg,0-3,RB Leipzig
+02/01/21,BUN,Stuttgart,0-1,RB Leipzig
+09/01/21,BUN,RB Leipzig,1-3,Borussia Dortmund
+16/01/21,BUN,Wolfsburg,2-2,RB Leipzig
+20/01/21,BUN,RB Leipzig,1-0,Union Berlin
+23/01/21,BUN,Mainz,3-2,RB Leipzig
+30/01/21,BUN,RB Leipzig,1-0,Bayer Leverkusen
+03/02/21,DFP,RB Leipzig,4-0,Bochum
+06/02/21,BUN,Schalke 04,0-3,RB Leipzig
+12/02/21,BUN,RB Leipzig,2-1,Augsburg
+16/02/21,UCL,RB Leipzig,0-2,Liverpool
+21/02/21,BUN,Hertha Berlin,0-3,RB Leipzig
+27/02/21,BUN,RB Leipzig,3-2,Borussia M'gladbach
+03/03/21,DFP,RB Leipzig,2-0,Wolfsburg
+06/03/21,BUN,Freiburg,0-3,RB Leipzig
+10/03/21,UCL,Liverpool,2-0,RB Leipzig
+14/03/21,BUN,RB Leipzig,1-1,Eintracht Frankfurt
+19/03/21,BUN,Arminia Bielefeld,0-1,RB Leipzig
+03/04/21,BUN,RB Leipzig,0-1,Bayern Munich
+10/04/21,BUN,Werder Bremen,1-4,RB Leipzig
+16/04/21,BUN,RB Leipzig,0-0,Hoffenheim
+20/04/21,BUN,FC Cologne,2-1,RB Leipzig
+25/04/21,BUN,RB Leipzig,2-0,Stuttgart
+30/04/21,DFP,Werder Bremen,E1-2E,RB Leipzig
+08/05/21,BUN,Borussia Dortmund,3-2,RB Leipzig
+13/05/21,DFP,RB Leipzig,1-4,Borussia Dortmund
+16/05/21,BUN,RB Leipzig,2-2,Wolfsburg
+22/05/21,BUN,Union Berlin,2-1,RB Leipzig
+17/07/21,CLF,RB Leipzig,1-0,AZ
+23/07/21,CLF,RB Leipzig,1-2,Montpellier
+31/07/21,CLF,RB Leipzig,1-1,Ajax
+07/08/21,DFP,Sandhausen,0-4,RB Leipzig
+15/08/21,BUN,Mainz,1-0,RB Leipzig
+20/08/21,BUN,RB Leipzig,4-0,Stuttgart
+29/08/21,BUN,Wolfsburg,1-0,RB Leipzig
+11/09/21,BUN,RB Leipzig,1-4,Bayern Munich
+15/09/21,UCL,Manchester City,6-3,RB Leipzig
+18/09/21,BUN,FC Cologne,1-1,RB Leipzig
+25/09/21,BUN,RB Leipzig,6-0,Hertha Berlin
+28/09/21,UCL,RB Leipzig,1-2,Club Brugge
+02/10/21,BUN,RB Leipzig,3-0,Bochum
+06/10/21,CLF,RB Leipzig,1-2,Slask Wroclaw
+16/10/21,BUN,Freiburg,1-1,RB Leipzig
+23/10/19,UCL,RB Leipzig,2-1,Zenit
+26/10/19,BUN,Freiburg,2-1,RB Leipzig
+30/10/19,DFP,Wolfsburg,1-6,RB Leipzig
+02/11/19,BUN,RB Leipzig,8-0,Mainz
+05/11/19,UCL,Zenit,0-2,RB Leipzig
+09/11/19,BUN,Hertha Berlin,2-4,RB Leipzig
+23/11/19,BUN,RB Leipzig,4-1,FC Cologne
+27/11/19,UCL,RB Leipzig,2-2,Benfica
+30/11/19,BUN,Paderborn,2-3,RB Leipzig
+07/12/19,BUN,RB Leipzig,3-1,Hoffenheim
+10/12/19,UCL,Lyon,2-2,RB Leipzig
+14/12/19,BUN,Fortuna Düsseldorf,0-3,RB Leipzig
+17/12/19,BUN,Borussia Dortmund,3-3,RB Leipzig
+21/12/19,BUN,RB Leipzig,3-1,Augsburg
+18/01/20,BUN,RB Leipzig,3-1,Union Berlin
+25/01/20,BUN,Eintracht Frankfurt,2-0,RB Leipzig
+01/02/20,BUN,RB Leipzig,2-2,Borussia M'gladbach
+04/02/20,DFP,Eintracht Frankfurt,3-1,RB Leipzig
+09/02/20,BUN,Bayern Munich,0-0,RB Leipzig
+15/02/20,BUN,RB Leipzig,3-0,Werder Bremen
+19/02/20,UCL,Tottenham Hotspur,0-1,RB Leipzig
+22/02/20,BUN,Schalke 04,0-5,RB Leipzig
+01/03/20,BUN,RB Leipzig,1-1,Bayer Leverkusen
+07/03/20,BUN,Wolfsburg,0-0,RB Leipzig
+10/03/20,UCL,RB Leipzig,3-0,Tottenham Hotspur
+16/05/20,BUN,RB Leipzig,1-1,Freiburg
+24/05/20,BUN,Mainz,0-5,RB Leipzig
+27/05/20,BUN,RB Leipzig,2-2,Hertha Berlin
+01/06/20,BUN,FC Cologne,2-4,RB Leipzig
+06/06/20,BUN,RB Leipzig,1-1,Paderborn
+12/06/20,BUN,Hoffenheim,0-2,RB Leipzig
+17/06/20,BUN,RB Leipzig,2-2,Fortuna Düsseldorf
+20/06/20,BUN,RB Leipzig,0-2,Borussia Dortmund
+27/06/20,BUN,Augsburg,1-2,RB Leipzig
+30/07/20,CLF,RB Leipzig,1-1,Wolfsburg
+13/08/20,UCL,RB Leipzig,2-1,Atletico Madrid
+18/08/20,UCL,RB Leipzig,0-3,PSG
+12/09/20,DFP,Nürnberg,0-3,RB Leipzig
+20/09/20,BUN,RB Leipzig,3-1,Mainz
+26/09/20,BUN,Bayer Leverkusen,1-1,RB Leipzig
+03/10/20,BUN,RB Leipzig,4-0,Schalke 04
+17/10/20,BUN,Augsburg,0-2,RB Leipzig
+20/10/20,UCL,RB Leipzig,2-0,Istanbul Basaksehir
+24/10/20,BUN,RB Leipzig,2-1,Hertha Berlin
+28/10/20,UCL,Manchester United,5-0,RB Leipzig
+31/10/20,BUN,Borussia M'gladbach,1-0,RB Leipzig
+04/11/20,UCL,RB Leipzig,2-1,PSG
+07/11/20,BUN,RB Leipzig,3-0,Freiburg
+21/11/20,BUN,Eintracht Frankfurt,1-1,RB Leipzig
+24/11/20,UCL,PSG,1-0,RB Leipzig
+03/11/18,BUN,Hertha Berlin,0-3,RB Leipzig
+08/11/18,UEL,Celtic,2-1,RB Leipzig
+11/11/18,BUN,RB Leipzig,3-0,Bayer Leverkusen
+24/11/18,BUN,Wolfsburg,1-0,RB Leipzig
+29/11/18,UEL,Salzburg,1-0,RB Leipzig
+02/12/18,BUN,RB Leipzig,2-0,Borussia M'gladbach
+08/12/18,BUN,Freiburg,3-0,RB Leipzig
+13/12/18,UEL,RB Leipzig,1-1,Rosenborg
+16/12/18,BUN,RB Leipzig,4-1,Mainz
+19/12/18,BUN,Bayern Munich,1-0,RB Leipzig
+22/12/18,BUN,RB Leipzig,3-2,Werder Bremen
+12/01/19,CLF,RB Leipzig,1-1,Galatasaray
+13/01/19,CLF,RB Leipzig,1-0,Wolfsberger AC
+19/01/19,BUN,RB Leipzig,0-1,Borussia Dortmund
+27/01/19,BUN,Fortuna Düsseldorf,0-4,RB Leipzig
+01/02/19,BUN,Hannover 96,0-3,RB Leipzig
+06/02/19,DFP,RB Leipzig,1-0,Wolfsburg
+09/02/19,BUN,RB Leipzig,0-0,Eintracht Frankfurt
+16/02/19,BUN,Stuttgart,1-3,RB Leipzig
+25/02/19,BUN,RB Leipzig,1-1,Hoffenheim
+02/03/19,BUN,Nürnberg,0-1,RB Leipzig
+09/03/19,BUN,RB Leipzig,0-0,Augsburg
+16/03/19,BUN,Schalke 04,0-1,RB Leipzig
+21/03/19,CLF,RB Leipzig,3-5,Pogon Szczecin
+30/03/19,BUN,RB Leipzig,5-0,Hertha Berlin
+02/04/19,DFP,Augsburg,E1-2E,RB Leipzig
+06/04/19,BUN,Bayer Leverkusen,2-4,RB Leipzig
+13/04/19,BUN,RB Leipzig,2-0,Wolfsburg
+20/04/19,BUN,Borussia M'gladbach,1-2,RB Leipzig
+23/04/19,DFP,Hamburg,1-3,RB Leipzig
+27/04/19,BUN,RB Leipzig,2-1,Freiburg
+03/05/19,BUN,Mainz,3-3,RB Leipzig
+11/05/19,BUN,RB Leipzig,0-0,Bayern Munich
+18/05/19,BUN,Werder Bremen,2-1,RB Leipzig
+25/05/19,DFP,RB Leipzig,0-3,Bayern Munich
+12/07/19,CLF,RB Leipzig,1-4,Zürich
+19/07/19,CLF,RB Leipzig,3-2,Galatasaray
+26/07/19,CLF,RB Leipzig,2-0,Rennes
+03/08/19,CLF,RB Leipzig,1-3,Aston Villa
+11/08/19,DFP,Osnabrück,2-3,RB Leipzig
+18/08/19,BUN,Union Berlin,0-4,RB Leipzig
+25/08/19,BUN,RB Leipzig,2-1,Eintracht Frankfurt
+30/08/19,BUN,Borussia M'gladbach,1-3,RB Leipzig
+14/09/19,BUN,RB Leipzig,1-1,Bayern Munich
+17/09/19,UCL,Benfica,1-2,RB Leipzig
+21/09/19,BUN,Werder Bremen,0-3,RB Leipzig
+28/09/19,BUN,RB Leipzig,1-3,Schalke 04
+02/10/19,UCL,RB Leipzig,0-2,Lyon
+05/10/19,BUN,Bayer Leverkusen,1-1,RB Leipzig
+19/10/19,BUN,RB Leipzig,1-1,Wolfsburg
+09/12/17,BUN,RB Leipzig,2-2,Mainz
+12/12/17,BUN,Wolfsburg,1-1,RB Leipzig
+17/12/17,BUN,RB Leipzig,2-3,Hertha Berlin
+06/01/18,CLF,RB Leipzig,2-0,Dukla Praha
+13/01/18,BUN,RB Leipzig,3-1,Schalke 04
+20/01/18,BUN,Freiburg,2-1,RB Leipzig
+27/01/18,BUN,RB Leipzig,1-1,Hamburg
+03/02/18,BUN,Borussia M'gladbach,0-1,RB Leipzig
+09/02/18,BUN,RB Leipzig,2-0,Augsburg
+15/02/18,UEL,Napoli,1-3,RB Leipzig
+19/02/18,BUN,Eintracht Frankfurt,2-1,RB Leipzig
+22/02/18,UEL,RB Leipzig,0-2,Napoli
+25/02/18,BUN,RB Leipzig,1-2,FC Cologne
+03/03/18,BUN,RB Leipzig,1-1,Borussia Dortmund
+08/03/18,UEL,RB Leipzig,2-1,Zenit
+11/03/18,BUN,Stuttgart,0-0,RB Leipzig
+15/03/18,UEL,Zenit,1-1,RB Leipzig
+18/03/18,BUN,RB Leipzig,2-1,Bayern Munich
+31/03/18,BUN,Hannover 96,2-3,RB Leipzig
+05/04/18,UEL,RB Leipzig,1-0,Marseille
+09/04/18,BUN,RB Leipzig,1-4,Bayer Leverkusen
+12/04/18,UEL,Marseille,5-2,RB Leipzig
+15/04/18,BUN,Werder Bremen,1-1,RB Leipzig
+21/04/18,BUN,RB Leipzig,2-5,Hoffenheim
+29/04/18,BUN,Mainz,3-0,RB Leipzig
+05/05/18,BUN,RB Leipzig,4-1,Wolfsburg
+12/05/18,BUN,Hertha Berlin,2-6,RB Leipzig
+20/07/18,CLF,FC Grimma,0-7,RB Leipzig
+24/07/18,CLF,ZFC Meuselwitz,2-2,RB Leipzig
+26/07/18,UEL,RB Leipzig,4-0,Häcken
+02/08/18,UEL,Häcken,1-1,RB Leipzig
+03/08/18,CLF,RB Leipzig,0-3,Huddersfield Town
+09/08/18,UEL,RB Leipzig,3-1,Universitatea Craiova
+16/08/18,UEL,Universitatea Craiova,1-1,RB Leipzig
+19/08/18,DFP,Viktoria Köln,1-3,RB Leipzig
+23/08/18,UEL,Zorya,0-0,RB Leipzig
+26/08/18,BUN,Borussia Dortmund,4-1,RB Leipzig
+30/08/18,UEL,RB Leipzig,3-2,Zorya
+02/09/18,BUN,RB Leipzig,1-1,Fortuna Düsseldorf
+15/09/18,BUN,RB Leipzig,3-2,Hannover 96
+20/09/18,UEL,RB Leipzig,2-3,Salzburg
+23/09/18,BUN,Eintracht Frankfurt,1-1,RB Leipzig
+26/09/18,BUN,RB Leipzig,2-0,Stuttgart
+29/09/18,BUN,Hoffenheim,1-2,RB Leipzig
+04/10/18,UEL,Rosenborg,1-3,RB Leipzig
+07/10/18,BUN,RB Leipzig,6-0,Nürnberg
+20/10/18,BUN,Augsburg,0-0,RB Leipzig
+25/10/18,UEL,RB Leipzig,2-0,Celtic
+28/10/18,BUN,RB Leipzig,0-0,Schalke 04
+31/10/18,DFP,RB Leipzig,2-0,Hoffenheim
+17/12/16,BUN,RB Leipzig,2-0,Hertha Berlin
+21/12/16,BUN,Bayern Munich,3-0,RB Leipzig
+07/01/17,CLF,Ajax,5-1,RB Leipzig
+15/01/17,CLF,RB Leipzig,4-0,Rangers
+21/01/17,BUN,RB Leipzig,3-0,Eintracht Frankfurt
+28/01/17,BUN,RB Leipzig,2-1,Hoffenheim
+04/02/17,BUN,Borussia Dortmund,1-0,RB Leipzig
+11/02/17,BUN,RB Leipzig,0-3,Hamburg
+19/02/17,BUN,Borussia M'gladbach,1-2,RB Leipzig
+25/02/17,BUN,RB Leipzig,3-1,FC Cologne
+03/03/17,BUN,Augsburg,2-2,RB Leipzig
+11/03/17,BUN,RB Leipzig,0-1,Wolfsburg
+18/03/17,BUN,Werder Bremen,3-0,RB Leipzig
+01/04/17,BUN,RB Leipzig,4-0,Darmstadt
+05/04/17,BUN,Mainz,2-3,RB Leipzig
+08/04/17,BUN,RB Leipzig,1-0,Bayer Leverkusen
+15/04/17,BUN,RB Leipzig,4-0,Freiburg
+23/04/17,BUN,Schalke 04,1-1,RB Leipzig
+29/04/17,BUN,RB Leipzig,0-0,Ingolstadt
+06/05/17,BUN,Hertha Berlin,1-4,RB Leipzig
+13/05/17,BUN,RB Leipzig,4-5,Bayern Munich
+20/05/17,BUN,Eintracht Frankfurt,2-2,RB Leipzig
+14/07/17,CLF,Dessau 05,0-7,RB Leipzig
+18/07/17,CLF,ZFC Meuselwitz,0-6,RB Leipzig
+25/07/17,CLF,RB Leipzig,1-0,Konyaspor
+29/07/17,EMC,RB Leipzig,0-1,Sevilla
+30/07/17,EMC,RB Leipzig,2-0,Benfica
+05/08/17,CLF,RB Leipzig,1-2,Stoke City
+13/08/17,DFP,Spfr. Dorfmerkingen,0-5,RB Leipzig
+19/08/17,BUN,Schalke 04,2-0,RB Leipzig
+27/08/17,BUN,RB Leipzig,4-1,Freiburg
+08/09/17,BUN,Hamburg,0-2,RB Leipzig
+13/09/17,UCL,RB Leipzig,1-1,Monaco
+16/09/17,BUN,RB Leipzig,2-2,Borussia M'gladbach
+19/09/17,BUN,Augsburg,1-0,RB Leipzig
+23/09/17,BUN,RB Leipzig,2-1,Eintracht Frankfurt
+26/09/17,UCL,Besiktas,2-0,RB Leipzig
+01/10/17,BUN,FC Cologne,1-2,RB Leipzig
+14/10/17,BUN,Borussia Dortmund,2-3,RB Leipzig
+17/10/17,UCL,RB Leipzig,3-2,Porto
+21/10/17,BUN,RB Leipzig,1-0,Stuttgart
+25/10/17,DFP,RB Leipzig,P1-1P,Bayern Munich
+28/10/17,BUN,Bayern Munich,2-0,RB Leipzig
+01/11/17,UCL,Porto,3-1,RB Leipzig
+04/11/17,BUN,RB Leipzig,2-1,Hannover 96
+18/11/17,BUN,Bayer Leverkusen,2-2,RB Leipzig
+21/11/17,UCL,Monaco,1-4,RB Leipzig
+25/11/17,BUN,RB Leipzig,2-0,Werder Bremen
+02/12/17,BUN,Hoffenheim,4-0,RB Leipzig
+06/12/17,UCL,RB Leipzig,1-2,Besiktas
+27/10/15,DFP,Unterhaching,3-0,RB Leipzig
+01/11/15,2.B,Sandhausen,1-2,RB Leipzig
+08/11/15,2.B,RB Leipzig,0-2,Kaiserslautern
+13/11/15,CLF,RB Leipzig,1-0,Pogon Szczecin
+21/11/15,2.B,Arminia Bielefeld,0-1,RB Leipzig
+30/11/15,2.B,Karlsruhe,0-1,RB Leipzig
+06/12/15,2.B,RB Leipzig,4-2,MSV Duisburg
+13/12/15,2.B,RB Leipzig,3-1,FSV Frankfurt
+19/12/15,2.B,Greuther Fürth,1-2,RB Leipzig
+14/01/16,CLF,RB Leipzig,5-0,Bischofswerdaer FV
+20/01/16,CLF,RB Leipzig,3-1,St.Gallen
+24/01/16,CLF,RB Leipzig,3-1,Thun
+31/01/16,CLF,RB Leipzig,5-0,Teplice
+07/02/16,2.B,RB Leipzig,2-0,Eintracht Braunschweig
+12/02/16,2.B,St. Pauli,1-0,RB Leipzig
+19/02/16,2.B,RB Leipzig,3-0,Union Berlin
+26/02/16,2.B,Paderborn,0-1,RB Leipzig
+02/03/16,2.B,RB Leipzig,3-1,Heidenheim
+07/03/16,2.B,Freiburg,2-1,RB Leipzig
+13/03/16,2.B,RB Leipzig,2-1,1860 München
+20/03/16,2.B,Nürnberg,3-1,RB Leipzig
+02/04/16,2.B,RB Leipzig,3-1,Bochum
+11/04/16,2.B,Fortuna Düsseldorf,1-3,RB Leipzig
+15/04/16,2.B,RB Leipzig,0-1,Sandhausen
+25/04/16,2.B,Kaiserslautern,1-1,RB Leipzig
+29/04/16,2.B,RB Leipzig,1-1,Arminia Bielefeld
+08/05/16,2.B,RB Leipzig,2-0,Karlsruhe
+15/05/16,2.B,MSV Duisburg,1-0,RB Leipzig
+20/07/16,CLF,Markranstädt,0-9,RB Leipzig
+23/07/16,CLF,RB Leipzig,3-0,Viktoria Berlin
+27/07/16,CLF,RB Leipzig,2-0,Würzburger Kickers
+04/08/16,CLF,Torino,0-0,RB Leipzig
+06/08/16,CLF,RB Leipzig,3-2,Eibar
+09/08/16,CLF,RB Leipzig,4-4,Liefering
+20/08/16,DFP,Dynamo Dresden,P2-2P,RB Leipzig
+28/08/16,BUN,Hoffenheim,2-2,RB Leipzig
+10/09/16,BUN,RB Leipzig,1-0,Borussia Dortmund
+17/09/16,BUN,Hamburg,0-4,RB Leipzig
+21/09/16,BUN,RB Leipzig,1-1,Borussia M'gladbach
+25/09/16,BUN,FC Cologne,1-1,RB Leipzig
+30/09/16,BUN,RB Leipzig,2-1,Augsburg
+06/10/16,CLF,RB Leipzig,3-2,Dukla Praha
+16/10/16,BUN,Wolfsburg,0-1,RB Leipzig
+23/10/16,BUN,RB Leipzig,3-1,Werder Bremen
+29/10/16,BUN,Darmstadt,0-2,RB Leipzig
+06/11/16,BUN,RB Leipzig,3-1,Mainz
+18/11/16,BUN,Bayer Leverkusen,2-3,RB Leipzig
+25/11/16,BUN,Freiburg,1-4,RB Leipzig
+03/12/16,BUN,RB Leipzig,2-1,Schalke 04
+10/12/16,BUN,Ingolstadt,1-0,RB Leipzig
+24/10/14,2.B,RB Leipzig,2-0,Bochum
+29/10/14,DFP,RB Leipzig,E3-1E,Erzgebirge Aue
+03/11/14,2.B,RB Leipzig,0-0,Kaiserslautern
+08/11/14,2.B,Darmstadt,1-0,RB Leipzig
+23/11/14,2.B,RB Leipzig,4-1,St. Pauli
+30/11/14,2.B,Sandhausen,0-0,RB Leipzig
+07/12/14,2.B,RB Leipzig,0-1,Ingolstadt
+12/12/14,2.B,Greuther Fürth,0-1,RB Leipzig
+17/12/14,2.B,Aalen,0-0,RB Leipzig
+22/12/14,2.B,RB Leipzig,1-1,1860 München
+06/02/15,2.B,Erzgebirge Aue,2-0,RB Leipzig
+15/02/15,2.B,RB Leipzig,0-1,FSV Frankfurt
+23/02/15,2.B,Eintracht Braunschweig,1-1,RB Leipzig
+01/03/15,2.B,RB Leipzig,3-2,Union Berlin
+04/03/15,DFP,RB Leipzig,0-2,Wolfsburg
+09/03/15,2.B,Karlsruhe,0-0,RB Leipzig
+16/03/15,2.B,RB Leipzig,3-1,Fortuna Düsseldorf
+22/03/15,2.B,Heidenheim,1-0,RB Leipzig
+27/03/15,CLF,RB Leipzig,2-2,Udinese
+05/04/15,2.B,RB Leipzig,2-1,Nürnberg
+12/04/15,2.B,Bochum,1-2,RB Leipzig
+20/04/15,2.B,Kaiserslautern,1-1,RB Leipzig
+24/04/15,2.B,RB Leipzig,2-1,Darmstadt
+03/05/15,2.B,St. Pauli,1-0,RB Leipzig
+08/05/15,2.B,RB Leipzig,0-4,Sandhausen
+17/05/15,2.B,Ingolstadt,2-1,RB Leipzig
+24/05/15,2.B,RB Leipzig,2-0,Greuther Fürth
+24/06/15,CLF,RB Leipzig,CANC,Budissa Bautzen
+27/06/15,CLF,RB Leipzig,CANC,Wacker Nordhausen
+01/07/15,CLF,RB Leipzig,CANC,Stuttgarter Kickers
+01/07/15,CLF,RB Leipzig,2-1,Budissa Bautzen
+04/07/15,CLF,RB Leipzig,3-0,Slovan Liberec
+08/07/15,CLF,RB Leipzig,5-4,Southampton
+12/07/15,CLF,RB Leipzig,1-0,Rubin Kazan
+18/07/15,CLF,RB Leipzig,3-0,Hapoel Tel Aviv
+25/07/15,2.B,FSV Frankfurt,0-1,RB Leipzig
+29/07/15,CLF,RB Leipzig,2-0,Ingolstadt
+03/08/15,2.B,RB Leipzig,2-2,Greuther Fürth
+10/08/15,DFP,Osnabrück,0-2,RB Leipzig
+15/08/15,2.B,Eintracht Braunschweig,0-2,RB Leipzig
+23/08/15,2.B,RB Leipzig,0-1,St. Pauli
+28/08/15,2.B,Union Berlin,1-1,RB Leipzig
+11/09/15,2.B,RB Leipzig,2-0,Paderborn
+18/09/15,2.B,Heidenheim,1-1,RB Leipzig
+24/09/15,2.B,RB Leipzig,1-1,Freiburg
+27/09/15,2.B,1860 München,2-2,RB Leipzig
+04/10/15,2.B,RB Leipzig,3-2,Nürnberg
+09/10/15,CLF,Werder Bremen,3-0,RB Leipzig
+18/10/15,2.B,Bochum,0-1,RB Leipzig
+23/10/15,2.B,RB Leipzig,2-1,Fortuna Düsseldorf

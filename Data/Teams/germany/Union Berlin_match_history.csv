@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+12/07/23,CLF,Luckenwalde,0-2,Union Berlin
+15/07/23,CLF,Zalaegerszeg,3-2,Union Berlin
+19/07/23,CLF,Union Berlin,3-0,Rapid Vienna
+28/07/23,CLF,Union Berlin,1-2,Pafos
+29/07/23,CLF,Udinese,0-1,Union Berlin
+05/08/23,CLF,Union Berlin,4-1,Atalanta
+13/08/23,DFP,Astoria Walldorf,0-4,Union Berlin
+20/08/23,BUN,Union Berlin,4-1,Mainz
+26/08/23,BUN,Darmstadt,1-4,Union Berlin
+03/09/23,BUN,Union Berlin,0-3,RB Leipzig
+16/09/23,BUN,Wolfsburg,2-1,Union Berlin
+20/09/23,UCL,Real Madrid,1-0,Union Berlin
+23/09/23,BUN,Union Berlin,0-2,Hoffenheim
+30/09/23,BUN,Heidenheim,1-0,Union Berlin
+03/10/23,UCL,Union Berlin,2-3,Sporting Braga
+07/10/23,BUN,Borussia Dortmund,4-2,Union Berlin
+21/10/23,BUN,Union Berlin,0-3,Stuttgart
+24/10/23,UCL,Union Berlin,0-1,Napoli
+28/10/23,BUN,Werder Bremen,2-0,Union Berlin
+31/10/23,DFP,Stuttgart,1-0,Union Berlin
+04/11/23,BUN,Union Berlin,0-3,Eintracht Frankfurt
+08/11/23,UCL,Napoli,1-1,Union Berlin
+12/11/23,BUN,Bayer Leverkusen,4-0,Union Berlin
+25/11/23,BUN,Union Berlin,1-1,Augsburg
+29/11/23,UCL,Sporting Braga,1-1,Union Berlin
+09/12/23,BUN,Union Berlin,3-1,Borussia M'gladbach
+12/12/23,UCL,Union Berlin,2-3,Real Madrid
+16/12/23,BUN,Bochum,3-0,Union Berlin
+20/12/23,BUN,Union Berlin,2-0,FC Cologne
+06/01/24,CLF,Union Berlin,2-0,Arminia Bielefeld
+13/01/24,BUN,Freiburg,0-0,Union Berlin
+24/01/24,BUN,Bayern Munich,1-0,Union Berlin
+28/01/24,BUN,Union Berlin,1-0,Darmstadt
+04/02/24,BUN,RB Leipzig,2-0,Union Berlin
+07/02/24,BUN,Mainz,1-1,Union Berlin
+10/02/24,BUN,Union Berlin,1-0,Wolfsburg
+17/02/24,BUN,Hoffenheim,0-1,Union Berlin
+24/02/24,BUN,Union Berlin,2-2,Heidenheim
+02/03/24,BUN,Union Berlin,0-2,Borussia Dortmund
+08/03/24,BUN,Stuttgart,2-0,Union Berlin
+16/03/24,BUN,Union Berlin,2-1,Werder Bremen
+21/03/24,CLF,Union Berlin,3-1,Magdeburg
+30/03/24,BUN,Eintracht Frankfurt,0-0,Union Berlin
+06/04/24,BUN,Union Berlin,0-1,Bayer Leverkusen
+12/04/24,BUN,Augsburg,2-0,Union Berlin
+20/04/24,BUN,Union Berlin,1-5,Bayern Munich
+28/04/24,BUN,Borussia M'gladbach,0-0,Union Berlin
+05/05/24,BUN,Union Berlin,15:30,Bochum
+11/05/24,BUN,FC Cologne,15:30,Union Berlin
+18/05/24,BUN,Union Berlin,15:30,Freiburg
+27/08/22,BUN,Schalke 04,1-6,Union Berlin
+03/09/22,BUN,Union Berlin,1-1,Bayern Munich
+08/09/22,UEL,Union Berlin,0-1,Union Saint-Gilloise
+11/09/22,BUN,FC Cologne,0-1,Union Berlin
+15/09/22,UEL,Sporting Braga,1-0,Union Berlin
+18/09/22,BUN,Union Berlin,2-0,Wolfsburg
+01/10/22,BUN,Eintracht Frankfurt,2-0,Union Berlin
+06/10/22,UEL,Malmö,0-1,Union Berlin
+09/10/22,BUN,Stuttgart,0-1,Union Berlin
+13/10/22,UEL,Union Berlin,1-0,Malmö
+16/10/22,BUN,Union Berlin,2-0,Borussia Dortmund
+19/10/22,DFP,Union Berlin,2-0,Heidenheim
+23/10/22,BUN,Bochum,2-1,Union Berlin
+27/10/22,UEL,Union Berlin,1-0,Sporting Braga
+30/10/22,BUN,Union Berlin,2-1,Borussia M'gladbach
+03/11/22,UEL,Union Saint-Gilloise,0-1,Union Berlin
+06/11/22,BUN,Bayer Leverkusen,5-0,Union Berlin
+09/11/22,BUN,Union Berlin,2-2,Augsburg
+13/11/22,BUN,Freiburg,4-1,Union Berlin
+14/12/22,CLF,Union Berlin,2-0,Hansa Rostock
+17/12/22,CLF,Union Berlin,4-1,St.Gallen
+21/12/22,CLF,Union Berlin,3-2,St. Pauli
+07/01/23,CLF,Union Berlin,1-0,Augsburg
+07/01/23,CLF,Union Berlin,4-1,Augsburg
+14/01/23,CLF,Union Berlin,3-1,Zilina
+21/01/23,BUN,Union Berlin,3-1,Hoffenheim
+25/01/23,BUN,Werder Bremen,1-2,Union Berlin
+28/01/23,BUN,Hertha Berlin,0-2,Union Berlin
+31/01/23,DFP,Union Berlin,2-1,Wolfsburg
+04/02/23,BUN,Union Berlin,2-1,Mainz
+11/02/23,BUN,RB Leipzig,1-2,Union Berlin
+16/02/23,UEL,Ajax,0-0,Union Berlin
+19/02/23,BUN,Union Berlin,0-0,Schalke 04
+23/02/23,UEL,Union Berlin,3-1,Ajax
+26/02/23,BUN,Bayern Munich,3-0,Union Berlin
+04/03/23,BUN,Union Berlin,0-0,FC Cologne
+09/03/23,UEL,Union Berlin,3-3,Union Saint-Gilloise
+12/03/23,BUN,Wolfsburg,1-1,Union Berlin
+16/03/23,UEL,Union Saint-Gilloise,3-0,Union Berlin
+19/03/23,BUN,Union Berlin,2-0,Eintracht Frankfurt
+01/04/23,BUN,Union Berlin,3-0,Stuttgart
+04/04/23,DFP,Eintracht Frankfurt,2-0,Union Berlin
+08/04/23,BUN,Borussia Dortmund,2-1,Union Berlin
+16/04/23,BUN,Union Berlin,1-1,Bochum
+23/04/23,BUN,Borussia M'gladbach,0-1,Union Berlin
+29/04/23,BUN,Union Berlin,0-0,Bayer Leverkusen
+06/05/23,BUN,Augsburg,1-0,Union Berlin
+13/05/23,BUN,Union Berlin,4-2,Freiburg
+20/05/23,BUN,Hoffenheim,4-2,Union Berlin
+27/05/23,BUN,Union Berlin,1-0,Werder Bremen
+16/10/21,BUN,Union Berlin,2-0,Wolfsburg
+21/10/21,UEC,Feyenoord,3-1,Union Berlin
+24/10/21,BUN,Stuttgart,1-1,Union Berlin
+27/10/21,DFP,Waldhof Mannheim,E1-3E,Union Berlin
+30/10/21,BUN,Union Berlin,2-5,Bayern Munich
+04/11/21,UEC,Union Berlin,1-2,Feyenoord
+07/11/21,BUN,FC Cologne,2-2,Union Berlin
+20/11/21,BUN,Union Berlin,2-0,Hertha Berlin
+25/11/21,UEC,Maccabi Haifa,0-1,Union Berlin
+28/11/21,BUN,Eintracht Frankfurt,2-1,Union Berlin
+03/12/21,BUN,Union Berlin,2-1,RB Leipzig
+09/12/21,UEC,Union Berlin,1-1,Slavia Prague
+12/12/21,BUN,Greuther Fürth,1-0,Union Berlin
+15/12/21,BUN,Union Berlin,0-0,Freiburg
+18/12/21,BUN,Bochum,0-1,Union Berlin
+08/01/22,BUN,Bayer Leverkusen,2-2,Union Berlin
+15/01/22,BUN,Union Berlin,2-1,Hoffenheim
+19/01/22,DFP,Hertha Berlin,2-3,Union Berlin
+22/01/22,BUN,Borussia M'gladbach,1-2,Union Berlin
+26/01/22,CLF,Union Berlin,0-0,Widzew Łódź
+26/01/22,CLF,Union Berlin,CANC,Erzgebirge Aue
+05/02/22,BUN,Augsburg,2-0,Union Berlin
+13/02/22,BUN,Union Berlin,0-3,Borussia Dortmund
+19/02/22,BUN,Arminia Bielefeld,1-0,Union Berlin
+26/02/22,BUN,Union Berlin,3-1,Mainz
+01/03/22,DFP,Union Berlin,2-1,St. Pauli
+05/03/22,BUN,Wolfsburg,1-0,Union Berlin
+12/03/22,BUN,Union Berlin,1-1,Stuttgart
+19/03/22,BUN,Bayern Munich,4-0,Union Berlin
+23/03/22,CLF,Union Berlin,CANC,Pardubice
+01/04/22,BUN,Union Berlin,1-0,FC Cologne
+09/04/22,BUN,Hertha Berlin,1-4,Union Berlin
+17/04/22,BUN,Union Berlin,2-0,Eintracht Frankfurt
+20/04/22,DFP,RB Leipzig,2-1,Union Berlin
+23/04/22,BUN,RB Leipzig,1-2,Union Berlin
+29/04/22,BUN,Union Berlin,1-1,Greuther Fürth
+07/05/22,BUN,Freiburg,1-4,Union Berlin
+14/05/22,BUN,Union Berlin,3-2,Bochum
+29/06/22,CLF,Viktoria Berlin,1-3,Union Berlin
+02/07/22,CLF,Magdeburg,1-4,Union Berlin
+06/07/22,CLF,Eintracht Braunschweig,1-0,Union Berlin
+09/07/22,CLF,Union Berlin,2-1,Bohemians
+15/07/22,CLF,Union Berlin,1-0,České Budějovice
+16/07/22,CLF,Udinese,3-3,Union Berlin
+23/07/22,CLF,Union Berlin,1-0,Nottingham Forest
+01/08/22,DFP,Chemnitzer FC,E1-2E,Union Berlin
+06/08/22,BUN,Union Berlin,3-1,Hertha Berlin
+09/08/22,CLF,Union Berlin,1-1,Hannover 96
+14/08/22,BUN,Mainz,0-0,Union Berlin
+20/08/22,BUN,Union Berlin,2-1,RB Leipzig
+07/11/20,BUN,Union Berlin,5-0,Arminia Bielefeld
+22/11/20,BUN,FC Cologne,1-2,Union Berlin
+28/11/20,BUN,Union Berlin,3-3,Eintracht Frankfurt
+04/12/20,BUN,Hertha Berlin,3-1,Union Berlin
+12/12/20,BUN,Union Berlin,1-1,Bayern Munich
+15/12/20,BUN,Stuttgart,2-2,Union Berlin
+18/12/20,BUN,Union Berlin,2-1,Borussia Dortmund
+22/12/20,DFP,Union Berlin,2-3,Paderborn
+02/01/21,BUN,Werder Bremen,0-2,Union Berlin
+09/01/21,BUN,Union Berlin,2-2,Wolfsburg
+15/01/21,BUN,Union Berlin,1-0,Bayer Leverkusen
+20/01/21,BUN,RB Leipzig,1-0,Union Berlin
+23/01/21,BUN,Augsburg,2-1,Union Berlin
+30/01/21,BUN,Union Berlin,1-1,Borussia M'gladbach
+06/02/21,BUN,Mainz,1-0,Union Berlin
+13/02/21,BUN,Union Berlin,0-0,Schalke 04
+20/02/21,BUN,Freiburg,0-1,Union Berlin
+28/02/21,BUN,Union Berlin,1-1,Hoffenheim
+07/03/21,BUN,Arminia Bielefeld,0-0,Union Berlin
+13/03/21,BUN,Union Berlin,2-1,FC Cologne
+20/03/21,BUN,Eintracht Frankfurt,5-2,Union Berlin
+25/03/21,CLF,Union Berlin,1-2,Eintracht Braunschweig
+04/04/21,BUN,Union Berlin,1-1,Hertha Berlin
+10/04/21,BUN,Bayern Munich,1-1,Union Berlin
+17/04/21,BUN,Union Berlin,2-1,Stuttgart
+21/04/21,BUN,Borussia Dortmund,2-0,Union Berlin
+24/04/21,BUN,Union Berlin,3-1,Werder Bremen
+08/05/21,BUN,Wolfsburg,3-0,Union Berlin
+15/05/21,BUN,Bayer Leverkusen,1-1,Union Berlin
+22/05/21,BUN,Union Berlin,2-1,RB Leipzig
+10/07/21,CLF,Union Berlin,CANC,Dukla Praha
+14/07/21,CLF,Viktoria Berlin,2-5,Union Berlin
+17/07/21,CLF,Union Berlin,3-0,Dynamo Dresden
+23/07/21,CLF,Dinamo Kiev,1-1,Union Berlin
+24/07/21,CLF,Nice,0-2,Union Berlin
+31/07/21,CLF,Union Berlin,2-1,Athletic Bilbao
+08/08/21,DFP,Türkgücü München,0-1,Union Berlin
+14/08/21,BUN,Union Berlin,1-1,Bayer Leverkusen
+19/08/21,UEC,KuPS,0-4,Union Berlin
+22/08/21,BUN,Hoffenheim,2-2,Union Berlin
+26/08/21,UEC,Union Berlin,0-0,KuPS
+29/08/21,BUN,Union Berlin,2-1,Borussia M'gladbach
+01/09/21,CLF,Lichtenberg,0-2,Union Berlin
+11/09/21,BUN,Union Berlin,0-0,Augsburg
+16/09/21,UEC,Slavia Prague,3-1,Union Berlin
+19/09/21,BUN,Borussia Dortmund,4-2,Union Berlin
+25/09/21,BUN,Union Berlin,1-0,Arminia Bielefeld
+30/09/21,UEC,Union Berlin,3-0,Maccabi Haifa
+03/10/21,BUN,Mainz,1-2,Union Berlin
+06/10/21,CLF,Union Berlin,1-3,St.Gallen
+19/10/19,BUN,Union Berlin,2-0,Freiburg
+26/10/19,BUN,Bayern Munich,2-1,Union Berlin
+29/10/19,DFP,Freiburg,1-3,Union Berlin
+02/11/19,BUN,Union Berlin,1-0,Hertha Berlin
+09/11/19,BUN,Mainz,2-3,Union Berlin
+13/11/19,CLF,Union Berlin,3-0,Holstein Kiel
+23/11/19,BUN,Union Berlin,2-0,Borussia M'gladbach
+29/11/19,BUN,Schalke 04,2-1,Union Berlin
+08/12/19,BUN,Union Berlin,2-0,FC Cologne
+14/12/19,BUN,Paderborn,1-1,Union Berlin
+17/12/19,BUN,Union Berlin,0-2,Hoffenheim
+22/12/19,BUN,Fortuna Düsseldorf,2-1,Union Berlin
+06/01/20,CLF,Union Berlin,2-1,OH Leuven
+06/01/20,CLF,Union Berlin,2-2,Union Saint-Gilloise
+11/01/20,CLF,Union Berlin,3-2,Ferencváros
+18/01/20,BUN,RB Leipzig,3-1,Union Berlin
+19/01/20,CLF,Union Berlin,1-2,St.Gallen
+25/01/20,BUN,Union Berlin,2-0,Augsburg
+01/02/20,BUN,Borussia Dortmund,5-0,Union Berlin
+05/02/20,DFP,Verl,0-1,Union Berlin
+08/02/20,BUN,Werder Bremen,0-2,Union Berlin
+15/02/20,BUN,Union Berlin,2-3,Bayer Leverkusen
+24/02/20,BUN,Eintracht Frankfurt,1-2,Union Berlin
+01/03/20,BUN,Union Berlin,2-2,Wolfsburg
+04/03/20,DFP,Bayer Leverkusen,3-1,Union Berlin
+07/03/20,BUN,Freiburg,3-1,Union Berlin
+17/05/20,BUN,Union Berlin,0-2,Bayern Munich
+22/05/20,BUN,Hertha Berlin,4-0,Union Berlin
+27/05/20,BUN,Union Berlin,1-1,Mainz
+31/05/20,BUN,Borussia M'gladbach,4-1,Union Berlin
+07/06/20,BUN,Union Berlin,1-1,Schalke 04
+13/06/20,BUN,FC Cologne,1-2,Union Berlin
+16/06/20,BUN,Union Berlin,1-0,Paderborn
+20/06/20,BUN,Hoffenheim,4-0,Union Berlin
+27/06/20,BUN,Union Berlin,3-0,Fortuna Düsseldorf
+08/08/20,CLF,Energie Cottbus,1-3,Union Berlin
+12/08/20,CLF,Union Berlin,2-0,Würzburger Kickers
+15/08/20,CLF,Union Berlin,2-0,Dynamo Dresden
+21/08/20,CLF,WSG Tirol,3-0,Union Berlin
+22/08/20,CLF,FC Cologne,2-1,Union Berlin
+30/08/20,CLF,Ajax,2-2,Union Berlin
+05/09/20,CLF,Union Berlin,2-1,Nürnberg
+12/09/20,DFP,Karlsruhe,E0-1E,Union Berlin
+19/09/20,BUN,Union Berlin,1-3,Augsburg
+26/09/20,BUN,Borussia M'gladbach,1-1,Union Berlin
+02/10/20,BUN,Union Berlin,4-0,Mainz
+08/10/20,CLF,Union Berlin,4-1,Hannover 96
+18/10/20,BUN,Schalke 04,1-1,Union Berlin
+24/10/20,BUN,Union Berlin,1-1,Freiburg
+02/11/20,BUN,Hoffenheim,1-3,Union Berlin
+31/10/18,DFP,Borussia Dortmund,E3-2E,Union Berlin
+04/11/18,2.B,Jahn Regensburg,1-1,Union Berlin
+11/11/18,2.B,Union Berlin,4-0,Greuther Fürth
+26/11/18,2.B,Hamburg,2-2,Union Berlin
+01/12/18,2.B,Union Berlin,3-1,Darmstadt
+09/12/18,2.B,Magdeburg,1-1,Union Berlin
+15/12/18,2.B,Union Berlin,2-0,Bochum
+23/12/18,2.B,Erzgebirge Aue,3-0,Union Berlin
+13/01/19,CLF,Union Berlin,2-0,Shenzhen
+18/01/19,CLF,Union Berlin,1-2,Unterhaching
+18/01/19,CLF,Lausanne-Sport,0-0,Union Berlin
+26/01/19,CLF,Union Berlin,2-2,Basel
+31/01/19,2.B,Union Berlin,2-0,FC Cologne
+04/02/19,2.B,St. Pauli,3-2,Union Berlin
+09/02/19,2.B,Union Berlin,2-0,Sandhausen
+16/02/19,2.B,MSV Duisburg,2-3,Union Berlin
+22/02/19,2.B,Union Berlin,1-1,Arminia Bielefeld
+01/03/19,2.B,Holstein Kiel,0-2,Union Berlin
+08/03/19,2.B,Union Berlin,2-0,Ingolstadt
+15/03/19,2.B,Heidenheim,2-1,Union Berlin
+20/03/19,CLF,Rot-Weiß Erfurt,1-4,Union Berlin
+30/03/19,2.B,Union Berlin,1-3,Paderborn
+07/04/19,2.B,Dynamo Dresden,0-0,Union Berlin
+12/04/19,2.B,Union Berlin,2-2,Jahn Regensburg
+20/04/19,2.B,Greuther Fürth,1-1,Union Berlin
+28/04/19,2.B,Union Berlin,2-0,Hamburg
+05/05/19,2.B,Darmstadt,2-1,Union Berlin
+12/05/19,2.B,Union Berlin,3-0,Magdeburg
+19/05/19,2.B,Bochum,2-2,Union Berlin
+23/05/19,PL1,Stuttgart,2-2,Union Berlin
+27/05/19,PL1,Union Berlin,0-0,Stuttgart
+06/07/19,CLF,Union Berlin,2-1,Brøndby
+12/07/19,CLF,Ried,0-3,Union Berlin
+13/07/19,CLF,Blau-Weiß Linz,0-3,Union Berlin
+17/07/19,CLF,First Vienna,1-4,Union Berlin
+20/07/19,CLF,Erzgebirge Aue,1-1,Union Berlin
+27/07/19,CLF,Wolfsburg,1-1,Union Berlin
+02/08/19,CLF,Union Berlin,CANC,Celta Vigo
+03/08/19,CLF,Union Berlin,0-3,Celta Vigo
+11/08/19,DFP,Germania Halberstadt,0-6,Union Berlin
+12/08/19,CLF,Lichtenberg,1-4,Union Berlin
+18/08/19,BUN,Union Berlin,0-4,RB Leipzig
+24/08/19,BUN,Augsburg,1-1,Union Berlin
+31/08/19,BUN,Union Berlin,3-1,Borussia Dortmund
+05/09/19,CLF,Union Berlin,3-1,Chemnitzer FC
+14/09/19,BUN,Union Berlin,1-2,Werder Bremen
+21/09/19,BUN,Bayer Leverkusen,2-0,Union Berlin
+27/09/19,BUN,Union Berlin,1-2,Eintracht Frankfurt
+06/10/19,BUN,Wolfsburg,1-0,Union Berlin
+10/10/19,CLF,Union Berlin,0-0,Dynamo Dresden
+29/10/17,2.B,MSV Duisburg,1-1,Union Berlin
+04/11/17,2.B,Union Berlin,1-0,St. Pauli
+09/11/17,CLF,Union Berlin,1-1,Horsens
+18/11/17,2.B,Heidenheim,4-3,Union Berlin
+24/11/17,2.B,Union Berlin,3-3,Darmstadt
+03/12/17,2.B,Bochum,2-1,Union Berlin
+09/12/17,2.B,Union Berlin,0-1,Dynamo Dresden
+15/12/17,2.B,Union Berlin,1-2,Ingolstadt
+10/01/18,CLF,Union Berlin,3-1,Gent
+12/01/18,CLF,Union Berlin,2-3,Wehen Wiesbaden
+17/01/18,CLF,Union Berlin,1-1,Ingolstadt
+23/01/18,2.B,Holstein Kiel,2-2,Union Berlin
+26/01/18,2.B,Union Berlin,0-1,Nürnberg
+05/02/18,2.B,Arminia Bielefeld,1-1,Union Berlin
+10/02/18,2.B,Union Berlin,3-1,Fortuna Düsseldorf
+18/02/18,2.B,Eintracht Braunschweig,1-0,Union Berlin
+24/02/18,2.B,Union Berlin,2-1,Sandhausen
+02/03/18,2.B,Kaiserslautern,4-3,Union Berlin
+11/03/18,2.B,Union Berlin,0-0,Erzgebirge Aue
+17/03/18,2.B,Union Berlin,2-2,Jahn Regensburg
+26/03/18,CLF,Holstein Kiel,3-2,Union Berlin
+01/04/18,2.B,Greuther Fürth,2-1,Union Berlin
+07/04/18,2.B,Union Berlin,0-0,MSV Duisburg
+14/04/18,2.B,St. Pauli,0-1,Union Berlin
+21/04/18,2.B,Union Berlin,1-1,Heidenheim
+28/04/18,2.B,Darmstadt,3-1,Union Berlin
+06/05/18,2.B,Union Berlin,3-1,Bochum
+13/05/18,2.B,Dynamo Dresden,0-1,Union Berlin
+01/07/18,CLF,Union Berlin,1-1,Carl Zeiss Jena
+04/07/18,CLF,Chemnitzer FC,1-3,Union Berlin
+05/07/18,CLF,Union Fürstenwalde,1-3,Union Berlin
+11/07/18,CLF,Pogon Szczecin,CANC,Union Berlin
+13/07/18,CLF,Union Berlin,CANC,Stoke City
+17/07/18,CLF,Union Berlin,2-1,Norwich City
+21/07/18,CLF,Union Berlin,1-1,Bordeaux
+28/07/18,CLF,Queens Park Rangers,3-0,Union Berlin
+05/08/18,2.B,Union Berlin,1-0,Erzgebirge Aue
+13/08/18,2.B,FC Cologne,1-1,Union Berlin
+14/08/18,CLF,Union Berlin,1-3,Altglienicke
+19/08/18,DFP,Carl Zeiss Jena,2-4,Union Berlin
+26/08/18,2.B,Union Berlin,4-1,St. Pauli
+02/09/18,2.B,Sandhausen,0-0,Union Berlin
+05/09/18,CLF,Union Berlin,3-3,Grasshoppers
+14/09/18,2.B,Union Berlin,2-2,MSV Duisburg
+22/09/18,2.B,Arminia Bielefeld,1-1,Union Berlin
+25/09/18,2.B,Union Berlin,2-0,Holstein Kiel
+01/10/18,2.B,Ingolstadt,1-2,Union Berlin
+07/10/18,2.B,Union Berlin,1-1,Heidenheim
+21/10/18,2.B,Paderborn,0-0,Union Berlin
+28/10/18,2.B,Union Berlin,0-0,Dynamo Dresden
+22/11/16,CLF,Union Berlin,3-1,Chemnitzer FC
+27/11/16,2.B,Sandhausen,0-1,Union Berlin
+05/12/16,2.B,Union Berlin,2-0,Eintracht Braunschweig
+09/12/16,2.B,Heidenheim,3-0,Union Berlin
+16/12/16,2.B,Union Berlin,1-1,Greuther Fürth
+07/01/17,CLF,Babelsberg,CANC,Union Berlin
+11/01/17,CLF,Heidenheim,3-0,Union Berlin
+16/01/17,CLF,Wehen Wiesbaden,1-3,Union Berlin
+21/01/17,CLF,Union Berlin,2-2,Dukla Praha
+27/01/17,2.B,Union Berlin,2-1,Bochum
+05/02/17,2.B,Dynamo Dresden,0-0,Union Berlin
+12/02/17,2.B,Union Berlin,3-1,Arminia Bielefeld
+19/02/17,2.B,Karlsruhe,1-2,Union Berlin
+24/02/17,2.B,Union Berlin,2-0,1860 München
+03/03/17,2.B,Union Berlin,2-0,Würzburger Kickers
+10/03/17,2.B,St. Pauli,1-2,Union Berlin
+15/03/17,CLF,Hertha Zehlendorf,3-2,Union Berlin
+20/03/17,2.B,Union Berlin,1-0,Nürnberg
+23/03/17,CLF,Empor Berlin,0-11,Union Berlin
+01/04/17,2.B,Hannover 96,2-0,Union Berlin
+05/04/17,2.B,Union Berlin,0-1,Erzgebirge Aue
+09/04/17,2.B,Fortuna Düsseldorf,2-2,Union Berlin
+16/04/17,2.B,Union Berlin,3-1,Kaiserslautern
+24/04/17,2.B,Stuttgart,3-1,Union Berlin
+28/04/17,2.B,Union Berlin,2-1,Sandhausen
+08/05/17,2.B,Eintracht Braunschweig,3-1,Union Berlin
+14/05/17,2.B,Union Berlin,0-1,Heidenheim
+21/05/17,2.B,Greuther Fürth,1-2,Union Berlin
+25/06/17,CLF,Friedrichshagener,0-16,Union Berlin
+01/07/17,CLF,Barleben,1-7,Union Berlin
+02/07/17,CLF,Breesener SV,7-0,Union Berlin
+07/07/17,CLF,Wolfsberger AC,2-4,Union Berlin
+11/07/17,CLF,Union Berlin,1-0,Birmingham City
+16/07/17,CLF,Hallescher FC,1-5,Union Berlin
+18/07/17,CLF,Babelsberg,0-3,Union Berlin
+22/07/17,CLF,Union Berlin,CANC,Queens Park Rangers
+29/07/17,2.B,Ingolstadt,0-1,Union Berlin
+04/08/17,2.B,Union Berlin,4-3,Holstein Kiel
+13/08/17,DFP,Saarbrücken,E1-2E,Union Berlin
+20/08/17,2.B,Nürnberg,2-2,Union Berlin
+27/08/17,2.B,Union Berlin,1-1,Arminia Bielefeld
+10/09/17,2.B,Fortuna Düsseldorf,3-2,Union Berlin
+15/09/17,2.B,Union Berlin,1-1,Eintracht Braunschweig
+19/09/17,2.B,Sandhausen,1-0,Union Berlin
+25/09/17,2.B,Union Berlin,5-0,Kaiserslautern
+30/09/17,2.B,Erzgebirge Aue,1-2,Union Berlin
+05/10/17,CLF,Union Berlin,2-2,Dinamo Brest
+15/10/17,2.B,Jahn Regensburg,0-2,Union Berlin
+21/10/17,2.B,Union Berlin,3-1,Greuther Fürth
+24/10/17,DFP,Bayer Leverkusen,4-1,Union Berlin
+31/10/15,2.B,Heidenheim,0-2,Union Berlin
+07/11/15,2.B,Union Berlin,3-3,Nürnberg
+20/11/15,2.B,Bochum,1-1,Union Berlin
+28/11/15,2.B,Union Berlin,1-1,Arminia Bielefeld
+05/12/15,2.B,Freiburg,3-0,Union Berlin
+12/12/15,2.B,Fortuna Düsseldorf,0-3,Union Berlin
+18/12/15,2.B,Union Berlin,1-0,Sandhausen
+13/01/16,CLF,Union Berlin,0-1,Villarreal II
+24/01/16,CLF,Union Berlin,1-3,Borussia Dortmund
+27/01/16,CLF,Union Berlin,3-1,Babelsberg
+30/01/16,CLF,Union Berlin,5-0,Austria Salzburg
+05/02/16,2.B,Kaiserslautern,2-2,Union Berlin
+14/02/16,2.B,Union Berlin,3-0,1860 München
+19/02/16,2.B,RB Leipzig,3-0,Union Berlin
+26/02/16,2.B,Union Berlin,2-1,Karlsruhe
+01/03/16,2.B,Greuther Fürth,2-0,Union Berlin
+05/03/16,2.B,Union Berlin,4-0,FSV Frankfurt
+12/03/16,2.B,MSV Duisburg,2-1,Union Berlin
+18/03/16,2.B,Union Berlin,3-1,Eintracht Braunschweig
+01/04/16,2.B,St. Pauli,0-0,Union Berlin
+08/04/16,2.B,Paderborn,0-4,Union Berlin
+17/04/16,2.B,Union Berlin,1-0,Heidenheim
+23/04/16,2.B,Nürnberg,6-2,Union Berlin
+29/04/16,2.B,Union Berlin,1-0,Bochum
+08/05/16,2.B,Arminia Bielefeld,2-0,Union Berlin
+15/05/16,2.B,Union Berlin,2-1,Freiburg
+19/05/16,CLF,Altglienicke,4-0,Union Berlin
+21/05/16,CLF,Hansa Rostock,1-3,Union Berlin
+03/07/16,CLF,Victoria Seelow,0-1,Union Berlin
+19/07/16,CLF,Union Berlin,1-3,Watford
+20/07/16,CLF,Luckenwalde,CANC,Union Berlin
+23/07/16,CLF,Energie Cottbus,1-1,Union Berlin
+30/07/16,CLF,Union Berlin,3-0,Utrecht
+06/08/16,2.B,Bochum,2-1,Union Berlin
+15/08/16,2.B,Union Berlin,2-2,Dynamo Dresden
+21/08/16,DFP,MSV Duisburg,E1-2E,Union Berlin
+28/08/16,2.B,Arminia Bielefeld,4-4,Union Berlin
+10/09/16,2.B,Union Berlin,4-0,Karlsruhe
+16/09/16,2.B,1860 München,1-2,Union Berlin
+21/09/16,2.B,Würzburger Kickers,0-1,Union Berlin
+26/09/16,2.B,Union Berlin,2-0,St. Pauli
+30/09/16,2.B,Nürnberg,2-0,Union Berlin
+06/10/16,CLF,Union Berlin,1-0,Luzern
+16/10/16,2.B,Union Berlin,2-1,Hannover 96
+23/10/16,2.B,Erzgebirge Aue,1-3,Union Berlin
+26/10/16,DFP,Borussia Dortmund,P1-1P,Union Berlin
+29/10/16,2.B,Union Berlin,0-1,Fortuna Düsseldorf
+05/11/16,2.B,Kaiserslautern,1-0,Union Berlin
+09/11/16,CLF,Wolfsburg,1-3,Union Berlin
+20/11/16,2.B,Union Berlin,1-1,Stuttgart
+24/10/14,2.B,Aalen,1-2,Union Berlin
+31/10/14,2.B,Union Berlin,0-1,Greuther Fürth
+09/11/14,2.B,Ingolstadt,3-3,Union Berlin
+22/11/14,2.B,Union Berlin,1-4,1860 München
+28/11/14,2.B,Erzgebirge Aue,1-2,Union Berlin
+07/12/14,2.B,Union Berlin,2-1,FSV Frankfurt
+13/12/14,2.B,Eintracht Braunschweig,1-1,Union Berlin
+16/12/14,2.B,Union Berlin,2-0,Karlsruhe
+19/12/14,2.B,Fortuna Düsseldorf,1-0,Union Berlin
+21/01/15,CLF,Luzern,1-0,Union Berlin
+25/01/15,CLF,Union Berlin,1-0,Ludogorets
+07/02/15,2.B,Union Berlin,2-1,Bochum
+15/02/15,2.B,Nürnberg,3-1,Union Berlin
+22/02/15,2.B,Union Berlin,3-1,Heidenheim
+01/03/15,2.B,RB Leipzig,3-2,Union Berlin
+08/03/15,2.B,Union Berlin,0-0,Kaiserslautern
+13/03/15,2.B,Darmstadt,5-0,Union Berlin
+20/03/15,2.B,Union Berlin,1-0,St. Pauli
+05/04/15,2.B,Sandhausen,1-1,Union Berlin
+12/04/15,2.B,Union Berlin,1-1,Aalen
+19/04/15,2.B,Greuther Fürth,2-2,Union Berlin
+26/04/15,2.B,Union Berlin,2-2,Ingolstadt
+03/05/15,2.B,1860 München,0-3,Union Berlin
+09/05/15,2.B,Union Berlin,1-2,Erzgebirge Aue
+17/05/15,2.B,FSV Frankfurt,1-3,Union Berlin
+24/05/15,2.B,Union Berlin,2-0,Eintracht Braunschweig
+23/06/15,CLF,Falkensee-Finkenkrug,1-8,Union Berlin
+27/06/15,CLF,MSV 1919 Neuruppin,1-10,Union Berlin
+04/07/15,CLF,Austria Klagenfurt,2-1,Union Berlin
+09/07/15,CLF,Austria Vienna,1-0,Union Berlin
+13/07/15,CLF,Hallescher FC,0-3,Union Berlin
+15/07/15,CLF,Union Berlin,2-0,Hapoel Tel Aviv
+18/07/15,CLF,Union Berlin,2-0,Crystal Palace
+26/07/15,2.B,Union Berlin,1-1,Fortuna Düsseldorf
+02/08/15,2.B,Sandhausen,4-3,Union Berlin
+08/08/15,DFP,Viktoria Köln,2-1,Union Berlin
+12/08/15,CLF,Germania Schöneiche,CANC,Union Berlin
+16/08/15,2.B,Union Berlin,2-2,Kaiserslautern
+23/08/15,2.B,1860 München,0-0,Union Berlin
+28/08/15,2.B,Union Berlin,1-1,RB Leipzig
+01/09/15,CLF,Lichtenberg,0-5,Union Berlin
+02/09/15,CLF,Babelsberg,1-4,Union Berlin
+12/09/15,2.B,Karlsruhe,0-3,Union Berlin
+20/09/15,2.B,Union Berlin,1-2,Greuther Fürth
+23/09/15,2.B,FSV Frankfurt,3-2,Union Berlin
+26/09/15,2.B,Union Berlin,3-2,MSV Duisburg
+04/10/15,2.B,Eintracht Braunschweig,2-1,Union Berlin
+08/10/15,CLF,Union Berlin,2-0,Fredericia
+17/10/15,2.B,Union Berlin,3-3,St. Pauli
+24/10/15,2.B,Union Berlin,0-2,Paderborn

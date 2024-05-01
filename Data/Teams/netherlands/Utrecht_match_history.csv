@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+13/05/23,ERE,Utrecht,2-0,RKC Waalwijk
+21/05/23,ERE,Ajax,3-1,Utrecht
+28/05/23,ERE,Utrecht,3-2,Emmen
+01/06/23,ERE,Utrecht,1-2,Sparta Rotterdam
+04/06/23,ERE,Sparta Rotterdam,P0-1P,Utrecht
+12/07/23,CLF,Utrecht,0-2,Gent
+15/07/23,CLF,Utrecht,1-2,Sporting Charleroi
+28/07/23,CLF,Utrecht,1-1,Kifisia
+29/07/23,CLF,Utrecht,2-0,OFI
+02/08/23,CLF,Utrecht,1-2,Bologna
+05/08/23,CLF,Utrecht,3-0,Espanyol
+12/08/23,ERE,PSV,2-0,Utrecht
+20/08/23,ERE,Utrecht,0-2,Heerenveen
+27/08/23,ERE,PEC Zwolle,1-0,Utrecht
+03/09/23,ERE,Utrecht,1-5,Feyenoord
+16/09/23,ERE,Heracles,1-3,Utrecht
+23/09/23,ERE,NEC,3-0,Utrecht
+30/09/23,ERE,Utrecht,0-2,Almere City
+06/10/23,ERE,Volendam,1-0,Utrecht
+12/10/23,CLF,NEC,1-2,Utrecht
+22/10/23,ERE,Utrecht,4-3,Ajax
+28/10/23,ERE,Fortuna Sittard,0-0,Utrecht
+31/10/23,KNB,Utrecht,3-2,RKC Waalwijk
+05/11/23,ERE,Utrecht,1-1,Twente
+12/11/23,ERE,Utrecht,2-2,Excelsior
+26/11/23,ERE,Sparta Rotterdam,1-2,Utrecht
+03/12/23,ERE,Utrecht,1-1,AZ
+10/12/23,ERE,Go Ahead Eagles,0-2,Utrecht
+16/12/23,ERE,Utrecht,1-1,RKC Waalwijk
+20/12/23,KNB,Feyenoord,2-1,Utrecht
+07/01/24,CLF,Utrecht,4-4,SK Beveren
+14/01/24,ERE,Vitesse,0-0,Utrecht
+21/01/24,ERE,Utrecht,1-1,PSV
+27/01/24,ERE,Excelsior,1-1,Utrecht
+04/02/24,ERE,Utrecht,4-2,Volendam
+11/02/24,ERE,Utrecht,4-0,Fortuna Sittard
+18/02/24,ERE,Twente,0-1,Utrecht
+23/02/24,ERE,Utrecht,1-0,Heracles
+03/03/24,ERE,Ajax,2-0,Utrecht
+09/03/24,ERE,Almere City,1-1,Utrecht
+17/03/24,ERE,Utrecht,1-0,NEC
+21/03/24,CLF,Utrecht,3-0,Helmond Sport
+31/03/24,ERE,Feyenoord,4-2,Utrecht
+03/04/24,ERE,Utrecht,5-1,PEC Zwolle
+07/04/24,ERE,Heerenveen,2-3,Utrecht
+14/04/24,ERE,Utrecht,2-1,Go Ahead Eagles
+28/04/24,ERE,RKC Waalwijk,2-2,Utrecht
+05/05/24,ERE,Utrecht,14:30,Vitesse
+12/05/24,ERE,Utrecht,14:30,Sparta Rotterdam
+19/05/24,ERE,AZ,14:30,Utrecht
+11/05/22,ERE,Utrecht,2-2,AZ
+15/05/22,ERE,Willem II,3-0,Utrecht
+19/05/22,ERE,Utrecht,3-1,Vitesse
+22/05/22,ERE,Vitesse,E3-0E,Utrecht
+02/07/22,CLF,Utrecht,2-4,Queen's Park
+06/07/22,CLF,Utrecht,1-2,Genk
+08/07/22,CLF,Heerenveen,0-1,Utrecht
+13/07/22,CLF,Club Brugge,4-2,Utrecht
+16/07/22,CLF,Kortrijk,2-1,Utrecht
+20/07/22,CLF,Utrecht,4-0,OFI
+27/07/22,CLF,Utrecht,0-1,AEK Athens
+30/07/22,CLF,Utrecht,2-2,Shakhtar Donetsk
+06/08/22,ERE,RKC Waalwijk,2-2,Utrecht
+13/08/22,ERE,Utrecht,0-0,Cambuur
+20/08/22,ERE,Emmen,3-2,Utrecht
+28/08/22,ERE,Utrecht,0-2,Ajax
+02/09/22,ERE,Fortuna Sittard,3-4,Utrecht
+11/09/22,ERE,Utrecht,1-0,Vitesse
+16/09/22,ERE,Utrecht,0-0,NEC
+02/10/22,ERE,Excelsior,0-1,Utrecht
+09/10/22,ERE,Utrecht,1-2,AZ
+16/10/22,ERE,PSV,6-1,Utrecht
+20/10/22,KNB,Sportlust '46,0-3,Utrecht
+23/10/22,ERE,Utrecht,3-1,Sparta Rotterdam
+29/10/22,ERE,Heerenveen,1-2,Utrecht
+06/11/22,ERE,Utrecht,2-1,Groningen
+12/11/22,ERE,Volendam,0-4,Utrecht
+03/12/22,CLF,Utrecht,CANC,RFC Seraing
+17/12/22,CLF,Servette,1-0,Utrecht
+23/12/22,CLF,Utrecht,CANC,Groningen
+08/01/23,ERE,Utrecht,1-1,Feyenoord
+12/01/23,KNB,Blauw Geel '38,1-3,Utrecht
+15/01/23,ERE,Go Ahead Eagles,2-2,Utrecht
+22/01/23,ERE,Twente,2-0,Utrecht
+25/01/23,ERE,Utrecht,1-0,Excelsior
+28/01/23,ERE,AZ,5-5,Utrecht
+04/02/23,ERE,Utrecht,1-0,Heerenveen
+07/02/23,KNB,AZ,E1-2E,Utrecht
+12/02/23,ERE,Vitesse,2-0,Utrecht
+19/02/23,ERE,Utrecht,2-2,PSV
+24/02/23,ERE,Sparta Rotterdam,0-3,Utrecht
+28/02/23,KNB,Utrecht,1-4,Spakenburg
+03/03/23,ERE,Utrecht,1-2,Fortuna Sittard
+12/03/23,ERE,NEC,2-2,Utrecht
+18/03/23,ERE,Utrecht,1-2,Go Ahead Eagles
+02/04/23,ERE,Utrecht,0-0,Volendam
+07/04/23,ERE,Groningen,1-2,Utrecht
+16/04/23,ERE,Utrecht,1-0,Twente
+23/04/23,ERE,Feyenoord,3-1,Utrecht
+06/05/23,ERE,Cambuur,0-3,Utrecht
+30/06/21,CLF,Mechelen,2-7,Utrecht
+03/07/21,CLF,Antwerp,CANC,Utrecht
+09/07/21,CLF,Utrecht,3-0,Gent
+13/07/21,CLF,Club Brugge,2-4,Utrecht
+14/07/21,CLF,Beerschot,1-2,Utrecht
+17/07/21,CLF,Zulte Waregem,0-0,Utrecht
+24/07/21,CLF,Utrecht,6-2,Volos NFC
+28/07/21,CLF,Bayer Leverkusen,1-5,Utrecht
+31/07/21,CLF,Bochum,0-2,Utrecht
+31/07/21,CLF,Utrecht,2-3,Venezia
+07/08/21,CLF,Utrecht,2-3,Fortuna Sittard
+07/08/21,CLF,Utrecht,7-0,Fortuna Sittard
+15/08/21,ERE,Utrecht,4-0,Sparta Rotterdam
+21/08/21,ERE,Groningen,0-0,Utrecht
+29/08/21,ERE,Utrecht,3-1,Feyenoord
+02/09/21,CLF,Utrecht,3-1,Cercle Brugge
+11/09/21,ERE,Twente,1-0,Utrecht
+18/09/21,ERE,Utrecht,2-2,RKC Waalwijk
+22/09/21,ERE,NEC,0-3,Utrecht
+25/09/21,ERE,Utrecht,5-1,PEC Zwolle
+03/10/21,ERE,Ajax,0-1,Utrecht
+07/10/21,CLF,Utrecht,3-2,Sparta Rotterdam
+17/10/21,ERE,AZ,5-1,Utrecht
+23/10/21,ERE,Utrecht,2-1,Heerenveen
+26/10/21,KNB,SteDoCo,0-5,Utrecht
+31/10/21,ERE,Utrecht,5-1,Willem II
+07/11/21,ERE,Vitesse,2-1,Utrecht
+21/11/21,ERE,Cambuur,2-1,Utrecht
+28/11/21,ERE,Utrecht,1-0,Heracles
+04/12/21,ERE,PSV,4-1,Utrecht
+11/12/21,ERE,Utrecht,0-0,Go Ahead Eagles
+14/12/21,KNB,NAC Breda,3-2,Utrecht
+18/12/21,ERE,Fortuna Sittard,2-2,Utrecht
+22/12/21,ERE,Utrecht,1-1,Twente
+07/01/22,CLF,Willem II,CANC,Utrecht
+08/01/22,CLF,Heerenveen,CANC,Utrecht
+16/01/22,ERE,Utrecht,0-3,Ajax
+23/01/22,ERE,Sparta Rotterdam,0-3,Utrecht
+05/02/22,ERE,Utrecht,3-2,Cambuur
+11/02/22,ERE,Heracles,1-0,Utrecht
+20/02/22,ERE,Utrecht,1-1,Vitesse
+27/02/22,ERE,Heerenveen,1-2,Utrecht
+05/03/22,ERE,Go Ahead Eagles,1-1,Utrecht
+13/03/22,ERE,Utrecht,0-1,PSV
+20/03/22,ERE,Utrecht,1-3,Groningen
+02/04/22,ERE,RKC Waalwijk,1-1,Utrecht
+09/04/22,ERE,Utrecht,1-1,Fortuna Sittard
+24/04/22,ERE,Feyenoord,2-1,Utrecht
+29/04/22,ERE,Utrecht,1-0,NEC
+07/05/22,ERE,PEC Zwolle,1-1,Utrecht
+19/04/20,KNB,Utrecht,CANC,Feyenoord
+22/04/20,ERE,Utrecht,CANC,Heracles
+25/04/20,ERE,PSV,CANC,Utrecht
+03/05/20,ERE,AZ,CANC,Utrecht
+10/05/20,ERE,Utrecht,CANC,Heerenveen
+18/07/20,CLF,Antwerp,0-0,Utrecht
+01/08/20,CLF,Utrecht,1-0,AZ
+13/08/20,CLF,Ajax,5-1,Utrecht
+20/08/20,CLF,Utrecht,4-1,Heerenveen
+29/08/20,CLF,PEC Zwolle,0-2,Utrecht
+05/09/20,CLF,FC Cologne,CANC,Utrecht
+18/09/20,ERE,VVV,1-1,Utrecht
+27/09/20,ERE,Utrecht,3-1,RKC Waalwijk
+02/10/20,ERE,Utrecht,1-1,Heerenveen
+08/10/20,CLF,PEC Zwolle,3-3,Utrecht
+18/10/20,ERE,Groningen,0-0,Utrecht
+24/10/20,ERE,Utrecht,2-1,Twente
+27/10/20,KNB,Dordrecht,2-4,Utrecht
+01/11/20,ERE,Heracles,4-1,Utrecht
+08/11/20,ERE,Utrecht,0-3,Ajax
+21/11/20,ERE,PEC Zwolle,1-1,Utrecht
+29/11/20,ERE,Feyenoord,1-1,Utrecht
+06/12/20,ERE,Utrecht,1-1,ADO Den Haag
+13/12/20,ERE,PSV,2-1,Utrecht
+16/12/20,KNB,Ajax,5-4,Utrecht
+19/12/20,ERE,Utrecht,1-1,Fortuna Sittard
+22/12/20,ERE,Emmen,2-3,Utrecht
+27/12/20,ERE,Utrecht,2-2,AZ
+09/01/21,ERE,Utrecht,2-2,Groningen
+12/01/21,ERE,Vitesse,1-0,Utrecht
+16/01/21,ERE,Utrecht,2-0,Heracles
+24/01/21,ERE,Utrecht,1-0,Sparta Rotterdam
+27/01/21,ERE,AZ,0-1,Utrecht
+30/01/21,ERE,Utrecht,3-3,PEC Zwolle
+14/02/21,ERE,Utrecht,3-1,VVV
+19/02/21,ERE,Willem II,0-6,Utrecht
+27/02/21,ERE,Utrecht,0-1,Emmen
+06/03/21,ERE,RKC Waalwijk,1-2,Utrecht
+14/03/21,ERE,Utrecht,1-3,Vitesse
+20/03/21,ERE,Fortuna Sittard,0-1,Utrecht
+04/04/21,ERE,ADO Den Haag,1-4,Utrecht
+11/04/21,ERE,Utrecht,1-2,Feyenoord
+22/04/21,ERE,Ajax,1-1,Utrecht
+25/04/21,ERE,Twente,1-2,Utrecht
+01/05/21,ERE,Utrecht,3-2,Willem II
+08/05/21,ERE,Heerenveen,0-0,Utrecht
+13/05/21,ERE,Sparta Rotterdam,0-0,Utrecht
+16/05/21,ERE,Utrecht,1-1,PSV
+19/05/21,ERE,Utrecht,1-0,Groningen
+23/05/21,ERE,Feyenoord,2-0,Utrecht
+31/03/19,ERE,Utrecht,3-2,Feyenoord
+03/04/19,ERE,VVV,2-6,Utrecht
+06/04/19,ERE,ADO Den Haag,5-0,Utrecht
+14/04/19,ERE,Utrecht,0-0,Vitesse
+20/04/19,ERE,Emmen,2-0,Utrecht
+24/04/19,ERE,Utrecht,2-1,Fortuna Sittard
+12/05/19,ERE,Ajax,4-1,Utrecht
+15/05/19,ERE,Utrecht,3-1,Heerenveen
+18/05/19,ERE,Heracles,0-2,Utrecht
+21/05/19,ERE,Utrecht,3-0,Heracles
+24/05/19,ERE,Utrecht,1-1,Vitesse
+28/05/19,ERE,Vitesse,0-2,Utrecht
+25/07/19,UEL,Utrecht,1-1,Zrinjski
+01/08/19,UEL,Zrinjski,E2-1E,Utrecht
+04/08/19,ERE,ADO Den Haag,2-4,Utrecht
+11/08/19,ERE,Utrecht,3-1,PEC Zwolle
+18/08/19,ERE,Feyenoord,1-1,Utrecht
+25/08/19,ERE,Utrecht,1-2,VVV
+01/09/19,ERE,Twente,3-1,Utrecht
+14/09/19,ERE,Utrecht,3-1,Emmen
+22/09/19,ERE,Heerenveen,1-1,Utrecht
+29/09/19,ERE,Utrecht,2-0,Willem II
+05/10/19,ERE,Vitesse,2-1,Utrecht
+19/10/19,ERE,Utrecht,3-0,PSV
+27/10/19,ERE,Sparta Rotterdam,1-2,Utrecht
+31/10/19,KNB,Excelsior '31,1-4,Utrecht
+03/11/19,ERE,Utrecht,6-0,Fortuna Sittard
+10/11/19,ERE,Ajax,4-0,Utrecht
+23/11/19,ERE,Utrecht,0-3,AZ
+01/12/19,ERE,Utrecht,0-1,RKC Waalwijk
+08/12/19,ERE,Groningen,0-1,Utrecht
+15/12/19,ERE,Heracles,1-3,Utrecht
+19/12/19,KNB,Groningen,0-1,Utrecht
+22/12/19,ERE,Utrecht,1-2,Feyenoord
+10/01/20,CLF,Utrecht,4-3,Bayer Leverkusen
+17/01/20,ERE,PEC Zwolle,3-3,Utrecht
+21/01/20,KNB,Eindhoven,E1-2E,Utrecht
+24/01/20,ERE,Utrecht,4-0,ADO Den Haag
+02/02/20,ERE,VVV,1-1,Utrecht
+13/02/20,KNB,Go Ahead Eagles,1-4,Utrecht
+16/02/20,ERE,Willem II,1-1,Utrecht
+23/02/20,ERE,Utrecht,2-1,Twente
+01/03/20,ERE,RKC Waalwijk,2-1,Utrecht
+04/03/20,KNB,Utrecht,2-0,Ajax
+08/03/20,ERE,Utrecht,5-1,Sparta Rotterdam
+14/03/20,ERE,Utrecht,CANC,Vitesse
+22/03/20,ERE,Emmen,CANC,Utrecht
+04/04/20,ERE,Utrecht,CANC,Groningen
+09/04/20,ERE,Utrecht,CANC,Ajax
+12/04/20,ERE,Fortuna Sittard,CANC,Utrecht
+11/03/18,ERE,Utrecht,5-1,Vitesse
+17/03/18,ERE,Heerenveen,2-2,Utrecht
+31/03/18,ERE,Willem II,3-2,Utrecht
+08/04/18,ERE,Utrecht,3-3,ADO Den Haag
+15/04/18,ERE,Feyenoord,3-1,Utrecht
+19/04/18,ERE,Utrecht,1-1,Groningen
+29/04/18,ERE,Heracles,2-2,Utrecht
+06/05/18,ERE,Utrecht,1-0,VVV
+09/05/18,ERE,Heerenveen,4-3,Utrecht
+12/05/18,ERE,Utrecht,2-1,Heerenveen
+15/05/18,ERE,Vitesse,3-2,Utrecht
+19/05/18,ERE,Utrecht,1-2,Vitesse
+30/06/18,CLF,DHSC,1-9,Utrecht
+06/07/18,CLF,Utrecht,2-0,Ross County
+13/07/18,CLF,Salzburg,1-0,Utrecht
+16/07/18,CLF,Arsenal Tula,1-2,Utrecht
+25/07/18,CLF,Kasımpaşa,4-1,Utrecht
+28/07/18,CLF,Portsmouth,1-1,Utrecht
+02/08/18,CLF,Utrecht,2-2,Levante
+11/08/18,ERE,PSV,4-0,Utrecht
+19/08/18,ERE,Utrecht,2-0,PEC Zwolle
+26/08/18,ERE,Utrecht,1-1,VVV
+01/09/18,ERE,Fortuna Sittard,1-1,Utrecht
+16/09/18,ERE,Utrecht,1-2,Emmen
+23/09/18,ERE,Feyenoord,1-0,Utrecht
+27/09/18,KNB,Utrecht,2-0,MVV
+30/09/18,ERE,Groningen,1-1,Utrecht
+05/10/18,ERE,Utrecht,2-1,NAC Breda
+20/10/18,ERE,Utrecht,2-1,AZ
+28/10/18,ERE,Willem II,0-1,Utrecht
+31/10/18,KNB,Utrecht,5-1,ASWH
+04/11/18,ERE,Utrecht,3-0,ADO Den Haag
+10/11/18,ERE,Vitesse,2-1,Utrecht
+25/11/18,ERE,Utrecht,5-0,De Graafschap
+30/11/18,ERE,Excelsior,3-3,Utrecht
+09/12/18,ERE,Utrecht,3-1,Heracles
+16/12/18,ERE,Heerenveen,2-3,Utrecht
+20/12/18,KNB,Feyenoord,1-0,Utrecht
+23/12/18,ERE,Utrecht,1-3,Ajax
+06/01/19,CLF,Stuttgart,2-3,Utrecht
+10/01/19,CLF,Utrecht,1-2,KV Oostende
+19/01/19,ERE,AZ,3-0,Utrecht
+27/01/19,ERE,Utrecht,0-1,Willem II
+03/02/19,ERE,PEC Zwolle,4-3,Utrecht
+10/02/19,ERE,Utrecht,2-2,PSV
+17/02/19,ERE,De Graafschap,0-1,Utrecht
+23/02/19,ERE,Utrecht,0-0,Excelsior
+02/03/19,ERE,Heracles,1-5,Utrecht
+08/03/19,ERE,Utrecht,0-0,Groningen
+16/03/19,ERE,NAC Breda,0-4,Utrecht
+01/04/17,ERE,Utrecht,2-0,Willem II
+04/04/17,ERE,Excelsior,1-3,Utrecht
+09/04/17,ERE,Utrecht,3-0,Twente
+16/04/17,ERE,Feyenoord,2-0,Utrecht
+23/04/17,ERE,Utrecht,1-0,Roda JC
+07/05/17,ERE,Utrecht,1-0,Vitesse
+14/05/17,ERE,AZ,2-3,Utrecht
+17/05/17,ERE,Heerenveen,1-3,Utrecht
+20/05/17,ERE,Utrecht,2-1,Heerenveen
+25/05/17,ERE,AZ,3-0,Utrecht
+28/05/17,ERE,Utrecht,P3-0P,AZ
+28/06/17,CLF,Utrecht,3-2,Jodan Boys
+02/07/17,CLF,Rubin Kazan,1-1,Utrecht
+05/07/17,CLF,Utrecht,0-1,Ufa
+13/07/17,UEL,Valletta,0-0,Utrecht
+20/07/17,UEL,Utrecht,3-1,Valletta
+27/07/17,UEL,Utrecht,0-0,Lech Poznań
+03/08/17,UEL,Lech Poznań,2-2,Utrecht
+11/08/17,ERE,ADO Den Haag,0-3,Utrecht
+16/08/17,UEL,Utrecht,1-0,Zenit
+20/08/17,ERE,Utrecht,2-0,Willem II
+24/08/17,UEL,Zenit,E2-0E,Utrecht
+27/08/17,ERE,Groningen,2-1,Utrecht
+10/09/17,ERE,Utrecht,2-0,Roda JC
+17/09/17,ERE,Twente,4-0,Utrecht
+20/09/17,KNB,Ajax Amateurs,0-6,Utrecht
+24/09/17,ERE,Utrecht,1-7,PSV
+01/10/17,ERE,Vitesse,1-1,Utrecht
+14/10/17,ERE,Utrecht,3-1,Heerenveen
+22/10/17,ERE,AZ,3-0,Utrecht
+25/10/17,KNB,VVV,3-1,Utrecht
+29/10/17,ERE,Utrecht,2-2,NAC Breda
+05/11/17,ERE,Ajax,1-2,Utrecht
+19/11/17,ERE,Utrecht,3-1,Excelsior
+26/11/17,ERE,Sparta Rotterdam,1-3,Utrecht
+01/12/17,ERE,PEC Zwolle,1-1,Utrecht
+13/12/17,ERE,VVV,0-1,Utrecht
+17/12/17,ERE,Utrecht,1-1,Heracles
+23/12/17,ERE,NAC Breda,3-1,Utrecht
+07/01/18,CLF,Würzburger Kickers,0-0,Utrecht
+10/01/18,CLF,Utrecht,4-3,Anderlecht
+19/01/18,ERE,Utrecht,1-1,AZ
+24/01/18,ERE,Utrecht,1-1,Feyenoord
+28/01/18,ERE,Utrecht,0-0,Ajax
+04/02/18,ERE,Excelsior,2-2,Utrecht
+07/02/18,ERE,Utrecht,1-0,Sparta Rotterdam
+10/02/18,ERE,Utrecht,2-1,PEC Zwolle
+18/02/18,ERE,Roda JC,1-4,Utrecht
+25/02/18,ERE,Utrecht,3-1,Twente
+03/03/18,ERE,PSV,3-0,Utrecht
+10/04/16,ERE,Utrecht,3-1,NEC
+17/04/16,ERE,Ajax,2-2,Utrecht
+20/04/16,ERE,Utrecht,0-2,De Graafschap
+24/04/16,KNB,Feyenoord,2-1,Utrecht
+01/05/16,ERE,Vitesse,1-3,Utrecht
+08/05/16,ERE,Utrecht,1-3,AZ
+12/05/16,ERE,PEC Zwolle,0-0,Utrecht
+15/05/16,ERE,Utrecht,5-2,PEC Zwolle
+19/05/16,ERE,Heracles,1-1,Utrecht
+22/05/16,ERE,Utrecht,0-2,Heracles
+28/06/16,CLF,Desto,0-4,Utrecht
+09/07/16,CLF,Spakenburg,0-3,Utrecht
+12/07/16,CLF,Lierse,2-1,Utrecht
+20/07/16,CLF,Utrecht,1-1,Bnei Yehuda
+30/07/16,CLF,Union Berlin,3-0,Utrecht
+06/08/16,ERE,Utrecht,1-2,PSV
+12/08/16,ERE,Heerenveen,2-2,Utrecht
+21/08/16,ERE,Utrecht,1-2,AZ
+26/08/16,ERE,Vitesse,1-1,Utrecht
+10/09/16,ERE,PEC Zwolle,1-1,Utrecht
+16/09/16,ERE,Utrecht,1-5,Groningen
+22/09/16,KNB,Twente,1-3,Utrecht
+25/09/16,ERE,Utrecht,2-0,Sparta Rotterdam
+02/10/16,ERE,Ajax,3-2,Utrecht
+06/10/16,CLF,Utrecht,0-0,De Graafschap
+15/10/16,ERE,Utrecht,3-0,Go Ahead Eagles
+22/10/16,ERE,Willem II,0-1,Utrecht
+26/10/16,KNB,Utrecht,1-0,Groningen
+30/10/16,ERE,Utrecht,1-1,NEC
+06/11/16,ERE,Utrecht,2-1,Excelsior
+10/11/16,CLF,Utrecht,4-0,RKC Waalwijk
+20/11/16,ERE,Twente,1-1,Utrecht
+27/11/16,ERE,Utrecht,3-3,Feyenoord
+04/12/16,ERE,ADO Den Haag,0-2,Utrecht
+11/12/16,ERE,Utrecht,2-0,Heracles
+14/12/16,KNB,PEC Zwolle,1-2,Utrecht
+17/12/16,ERE,Roda JC,0-0,Utrecht
+07/01/17,CLF,VVV,CANC,Utrecht
+10/01/17,CLF,Utrecht,4-3,Eindhoven
+14/01/17,ERE,Sparta Rotterdam,1-2,Utrecht
+22/01/17,ERE,Utrecht,0-1,Ajax
+25/01/17,KNB,Utrecht,P2-2P,Cambuur
+28/01/17,ERE,Go Ahead Eagles,0-1,Utrecht
+05/02/17,ERE,Utrecht,1-0,Heerenveen
+12/02/17,ERE,PSV,3-0,Utrecht
+18/02/17,ERE,Utrecht,3-1,PEC Zwolle
+25/02/17,ERE,Groningen,2-3,Utrecht
+05/03/17,ERE,Utrecht,1-1,ADO Den Haag
+11/03/17,ERE,Heracles,2-1,Utrecht
+18/03/17,ERE,NEC,0-3,Utrecht
+05/04/15,ERE,Utrecht,1-1,Ajax
+12/04/15,ERE,ADO Den Haag,2-0,Utrecht
+19/04/15,ERE,Utrecht,1-0,Twente
+25/04/15,ERE,Go Ahead Eagles,0-2,Utrecht
+10/05/15,ERE,Utrecht,2-2,Excelsior
+17/05/15,ERE,Vitesse,3-3,Utrecht
+26/06/15,CLF,SDC Putten,0-4,Utrecht
+04/07/15,CLF,SV Zevenhoven,0-8,Utrecht
+07/07/15,CLF,Achilles '29,0-3,Utrecht
+10/07/15,CLF,Utrecht,CANC,Anderlecht
+16/07/15,CLF,Utrecht,4-0,Dundee United
+24/07/15,CLF,Utrecht,2-3,Derby County
+01/08/15,CLF,Ipswich Town,1-1,Utrecht
+08/08/15,ERE,Feyenoord,3-2,Utrecht
+16/08/15,ERE,Utrecht,1-1,Heerenveen
+23/08/15,ERE,ADO Den Haag,1-1,Utrecht
+29/08/15,ERE,Utrecht,2-0,Groningen
+13/09/15,ERE,Utrecht,2-1,Vitesse
+19/09/15,ERE,Willem II,3-1,Utrecht
+22/09/15,KNB,ONS Sneek,0-2,Utrecht
+26/09/15,ERE,Utrecht,3-3,Cambuur
+03/10/15,ERE,Excelsior,1-0,Utrecht
+17/10/15,ERE,Utrecht,1-1,Roda JC
+23/10/15,ERE,PEC Zwolle,1-2,Utrecht
+28/10/15,KNB,Utrecht,E5-3E,Groningen
+01/11/15,ERE,Utrecht,4-2,Twente
+08/11/15,ERE,PSV,3-1,Utrecht
+12/11/15,CLF,Utrecht,2-1,TOP Oss
+22/11/15,ERE,NEC,1-0,Utrecht
+29/11/15,ERE,Utrecht,4-2,Heracles
+05/12/15,ERE,De Graafschap,0-1,Utrecht
+13/12/15,ERE,Utrecht,1-0,Ajax
+16/12/15,KNB,Achilles '29,0-5,Utrecht
+19/12/15,ERE,AZ,2-2,Utrecht
+09/01/16,CLF,Utrecht,5-1,Volendam
+12/01/16,CLF,Utrecht,1-0,Cambuur
+17/01/16,ERE,Groningen,1-4,Utrecht
+24/01/16,ERE,Utrecht,1-0,PEC Zwolle
+28/01/16,ERE,Roda JC,1-0,Utrecht
+31/01/16,ERE,Twente,3-1,Utrecht
+04/02/16,KNB,PSV,1-3,Utrecht
+07/02/16,ERE,Utrecht,0-2,PSV
+12/02/16,ERE,Cambuur,0-2,Utrecht
+21/02/16,ERE,Utrecht,2-1,Willem II
+28/02/16,ERE,Utrecht,1-2,Feyenoord
+02/03/16,KNB,Utrecht,3-0,VVSB
+05/03/16,ERE,Heerenveen,0-4,Utrecht
+13/03/16,ERE,Utrecht,2-2,ADO Den Haag
+18/03/16,ERE,Utrecht,2-1,Excelsior
+02/04/16,ERE,Heracles,1-1,Utrecht
+02/02/14,ERE,Utrecht,1-1,Ajax
+06/02/14,ERE,Utrecht,1-2,PEC Zwolle
+09/02/14,ERE,RKC Waalwijk,5-2,Utrecht
+15/02/14,ERE,AZ,1-1,Utrecht
+23/02/14,ERE,Utrecht,1-0,Groningen
+02/03/14,ERE,Utrecht,1-1,Twente
+08/03/14,ERE,PSV,1-0,Utrecht
+16/03/14,ERE,NEC,2-2,Utrecht
+28/03/14,ERE,NAC Breda,2-2,Utrecht
+02/04/14,ERE,Utrecht,1-0,Cambuur
+06/04/14,ERE,ADO Den Haag,4-1,Utrecht
+13/04/14,ERE,Utrecht,2-1,Heracles
+27/04/14,ERE,Heerenveen,4-1,Utrecht
+03/05/14,ERE,Utrecht,2-1,Vitesse
+12/07/14,CLF,JSV,0-5,Utrecht
+15/07/14,CLF,Serooskerke,0-9,Utrecht
+20/07/14,CLF,Utrecht,2-1,Dundee United
+02/08/14,CLF,Sparta Nijkerk,1-7,Utrecht
+03/08/14,CLF,Utrecht,1-1,Konyaspor
+08/08/14,ERE,PEC Zwolle,2-0,Utrecht
+17/08/14,ERE,Utrecht,2-1,Willem II
+24/08/14,ERE,Feyenoord,1-2,Utrecht
+30/08/14,ERE,Heerenveen,3-1,Utrecht
+14/09/14,ERE,Utrecht,0-0,ADO Den Haag
+21/09/14,ERE,Utrecht,1-0,Groningen
+25/09/14,KNB,PSV,2-0,Utrecht
+28/09/14,ERE,Twente,3-1,Utrecht
+04/10/14,ERE,Utrecht,2-3,Go Ahead Eagles
+19/10/14,ERE,Dordrecht,1-3,Utrecht
+26/10/14,ERE,Utrecht,1-5,PSV
+02/11/14,ERE,Utrecht,3-1,Vitesse
+07/11/14,ERE,Excelsior,2-2,Utrecht
+23/11/14,ERE,Utrecht,1-3,Cambuur
+29/11/14,ERE,NAC Breda,1-5,Utrecht
+07/12/14,ERE,Utrecht,2-4,Heracles
+14/12/14,ERE,Ajax,3-1,Utrecht
+20/12/14,ERE,AZ,0-3,Utrecht
+10/01/15,CLF,Utrecht,0-1,Gent
+18/01/15,ERE,Utrecht,1-2,Heerenveen
+21/01/15,CLF,Utrecht,0-1,Borussia Dortmund
+25/01/15,ERE,Groningen,2-2,Utrecht
+01/02/15,ERE,Utrecht,0-2,PEC Zwolle
+04/02/15,ERE,Willem II,1-0,Utrecht
+07/02/15,ERE,PSV,3-1,Utrecht
+15/02/15,ERE,Utrecht,6-1,Dordrecht
+21/02/15,ERE,Heracles,1-1,Utrecht
+01/03/15,ERE,Utrecht,0-0,Feyenoord
+08/03/15,ERE,Utrecht,6-2,AZ
+14/03/15,ERE,Cambuur,3-1,Utrecht
+20/03/15,ERE,Utrecht,3-4,NAC Breda

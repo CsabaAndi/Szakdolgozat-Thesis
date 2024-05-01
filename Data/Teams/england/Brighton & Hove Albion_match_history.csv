@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+12/08/23,PRL,Brighton & Hove Albion,4-1,Luton Town
+19/08/23,PRL,Wolverhampton Wanderers,1-4,Brighton & Hove Albion
+26/08/23,PRL,Brighton & Hove Albion,1-3,West Ham United
+02/09/23,PRL,Brighton & Hove Albion,3-1,Newcastle United
+16/09/23,PRL,Manchester United,1-3,Brighton & Hove Albion
+21/09/23,UEL,Brighton & Hove Albion,2-3,AEK Athens
+24/09/23,PRL,Brighton & Hove Albion,3-1,AFC Bournemouth
+27/09/23,LEC,Chelsea,1-0,Brighton & Hove Albion
+30/09/23,PRL,Aston Villa,6-1,Brighton & Hove Albion
+05/10/23,UEL,Marseille,2-2,Brighton & Hove Albion
+08/10/23,PRL,Brighton & Hove Albion,2-2,Liverpool
+21/10/23,PRL,Manchester City,2-1,Brighton & Hove Albion
+26/10/23,UEL,Brighton & Hove Albion,2-0,Ajax
+29/10/23,PRL,Brighton & Hove Albion,1-1,Fulham
+04/11/23,PRL,Everton,1-1,Brighton & Hove Albion
+09/11/23,UEL,Ajax,0-2,Brighton & Hove Albion
+12/11/23,PRL,Brighton & Hove Albion,1-1,Sheffield United
+25/11/23,PRL,Nottingham Forest,2-3,Brighton & Hove Albion
+30/11/23,UEL,AEK Athens,0-1,Brighton & Hove Albion
+03/12/23,PRL,Chelsea,3-2,Brighton & Hove Albion
+06/12/23,PRL,Brighton & Hove Albion,2-1,Brentford
+09/12/23,PRL,Brighton & Hove Albion,1-1,Burnley
+14/12/23,UEL,Brighton & Hove Albion,1-0,Marseille
+17/12/23,PRL,Arsenal,2-0,Brighton & Hove Albion
+21/12/23,PRL,Crystal Palace,1-1,Brighton & Hove Albion
+28/12/23,PRL,Brighton & Hove Albion,4-2,Tottenham Hotspur
+02/01/24,PRL,West Ham United,0-0,Brighton & Hove Albion
+06/01/24,FAC,Stoke City,2-4,Brighton & Hove Albion
+22/01/24,PRL,Brighton & Hove Albion,0-0,Wolverhampton Wanderers
+27/01/24,FAC,Sheffield United,2-5,Brighton & Hove Albion
+30/01/24,PRL,Luton Town,4-0,Brighton & Hove Albion
+03/02/24,PRL,Brighton & Hove Albion,4-1,Crystal Palace
+10/02/24,PRL,Tottenham Hotspur,2-1,Brighton & Hove Albion
+18/02/24,PRL,Sheffield United,0-5,Brighton & Hove Albion
+24/02/24,PRL,Brighton & Hove Albion,1-1,Everton
+28/02/24,FAC,Wolverhampton Wanderers,1-0,Brighton & Hove Albion
+02/03/24,PRL,Fulham,3-0,Brighton & Hove Albion
+07/03/24,UEL,Roma,4-0,Brighton & Hove Albion
+10/03/24,PRL,Brighton & Hove Albion,1-0,Nottingham Forest
+14/03/24,UEL,Brighton & Hove Albion,1-0,Roma
+31/03/24,PRL,Liverpool,2-1,Brighton & Hove Albion
+03/04/24,PRL,Brentford,0-0,Brighton & Hove Albion
+06/04/24,PRL,Brighton & Hove Albion,0-3,Arsenal
+13/04/24,PRL,Burnley,1-1,Brighton & Hove Albion
+25/04/24,PRL,Brighton & Hove Albion,0-4,Manchester City
+28/04/24,PRL,AFC Bournemouth,3-0,Brighton & Hove Albion
+05/05/24,PRL,Brighton & Hove Albion,15:00,Aston Villa
+11/05/24,PRL,Newcastle United,16:00,Brighton & Hove Albion
+15/05/24,PRL,Brighton & Hove Albion,20:45,Chelsea
+19/05/24,PRL,Brighton & Hove Albion,17:00,Manchester United
+13/08/22,PRL,Brighton & Hove Albion,0-0,Newcastle United
+21/08/22,PRL,West Ham United,0-2,Brighton & Hove Albion
+24/08/22,LEC,Forest Green Rovers,0-3,Brighton & Hove Albion
+27/08/22,PRL,Brighton & Hove Albion,1-0,Leeds United
+30/08/22,PRL,Fulham,2-1,Brighton & Hove Albion
+04/09/22,PRL,Brighton & Hove Albion,5-2,Leicester City
+01/10/22,PRL,Liverpool,3-3,Brighton & Hove Albion
+08/10/22,PRL,Brighton & Hove Albion,0-1,Tottenham Hotspur
+14/10/22,PRL,Brentford,2-0,Brighton & Hove Albion
+18/10/22,PRL,Brighton & Hove Albion,0-0,Nottingham Forest
+22/10/22,PRL,Manchester City,3-1,Brighton & Hove Albion
+29/10/22,PRL,Brighton & Hove Albion,4-1,Chelsea
+05/11/22,PRL,Wolverhampton Wanderers,2-3,Brighton & Hove Albion
+09/11/22,LEC,Arsenal,1-3,Brighton & Hove Albion
+13/11/22,PRL,Brighton & Hove Albion,1-2,Aston Villa
+08/12/22,CLF,Aston Villa,2-2,Brighton & Hove Albion
+21/12/22,LEC,Charlton Athletic,P0-0P,Brighton & Hove Albion
+26/12/22,PRL,Southampton,1-3,Brighton & Hove Albion
+31/12/22,PRL,Brighton & Hove Albion,2-4,Arsenal
+03/01/23,PRL,Everton,1-4,Brighton & Hove Albion
+07/01/23,FAC,Middlesbrough,1-5,Brighton & Hove Albion
+14/01/23,PRL,Brighton & Hove Albion,3-0,Liverpool
+21/01/23,PRL,Leicester City,2-2,Brighton & Hove Albion
+29/01/23,FAC,Brighton & Hove Albion,2-1,Liverpool
+04/02/23,PRL,Brighton & Hove Albion,1-0,AFC Bournemouth
+11/02/23,PRL,Crystal Palace,1-1,Brighton & Hove Albion
+18/02/23,PRL,Brighton & Hove Albion,0-1,Fulham
+28/02/23,FAC,Stoke City,0-1,Brighton & Hove Albion
+04/03/23,PRL,Brighton & Hove Albion,4-0,West Ham United
+11/03/23,PRL,Leeds United,2-2,Brighton & Hove Albion
+15/03/23,PRL,Brighton & Hove Albion,1-0,Crystal Palace
+19/03/23,FAC,Brighton & Hove Albion,5-0,Grimsby Town
+01/04/23,PRL,Brighton & Hove Albion,3-3,Brentford
+04/04/23,PRL,AFC Bournemouth,0-2,Brighton & Hove Albion
+08/04/23,PRL,Tottenham Hotspur,2-1,Brighton & Hove Albion
+15/04/23,PRL,Chelsea,1-2,Brighton & Hove Albion
+23/04/23,FAC,Brighton & Hove Albion,P0-0P,Manchester United
+26/04/23,PRL,Nottingham Forest,3-1,Brighton & Hove Albion
+29/04/23,PRL,Brighton & Hove Albion,6-0,Wolverhampton Wanderers
+04/05/23,PRL,Brighton & Hove Albion,1-0,Manchester United
+08/05/23,PRL,Brighton & Hove Albion,1-5,Everton
+14/05/23,PRL,Arsenal,0-3,Brighton & Hove Albion
+18/05/23,PRL,Newcastle United,4-1,Brighton & Hove Albion
+21/05/23,PRL,Brighton & Hove Albion,3-1,Southampton
+24/05/23,PRL,Brighton & Hove Albion,1-1,Manchester City
+28/05/23,PRL,Aston Villa,2-1,Brighton & Hove Albion
+23/07/23,PLS,Chelsea,4-3,Brighton & Hove Albion
+26/07/23,PLS,Brentford,0-2,Brighton & Hove Albion
+29/07/23,PLS,Brighton & Hove Albion,1-2,Newcastle United
+06/08/23,CLF,Brighton & Hove Albion,1-1,Rayo Vallecano
+07/08/21,CLF,Brighton & Hove Albion,0-2,Getafe
+14/08/21,PRL,Burnley,1-2,Brighton & Hove Albion
+21/08/21,PRL,Brighton & Hove Albion,2-0,Watford
+24/08/21,LEC,Cardiff City,0-2,Brighton & Hove Albion
+28/08/21,PRL,Brighton & Hove Albion,0-2,Everton
+11/09/21,PRL,Brentford,0-1,Brighton & Hove Albion
+19/09/21,PRL,Brighton & Hove Albion,2-1,Leicester City
+22/09/21,LEC,Brighton & Hove Albion,2-0,Swansea City
+27/09/21,PRL,Crystal Palace,1-1,Brighton & Hove Albion
+02/10/21,PRL,Brighton & Hove Albion,0-0,Arsenal
+16/10/21,PRL,Norwich City,0-0,Brighton & Hove Albion
+23/10/21,PRL,Brighton & Hove Albion,1-4,Manchester City
+27/10/21,LEC,Leicester City,P2-2P,Brighton & Hove Albion
+30/10/21,PRL,Liverpool,2-2,Brighton & Hove Albion
+06/11/21,PRL,Brighton & Hove Albion,1-1,Newcastle United
+20/11/21,PRL,Aston Villa,2-0,Brighton & Hove Albion
+27/11/21,PRL,Brighton & Hove Albion,0-0,Leeds United
+01/12/21,PRL,West Ham United,1-1,Brighton & Hove Albion
+04/12/21,PRL,Southampton,1-1,Brighton & Hove Albion
+15/12/21,PRL,Brighton & Hove Albion,0-1,Wolverhampton Wanderers
+26/12/21,PRL,Brighton & Hove Albion,2-0,Brentford
+29/12/21,PRL,Chelsea,1-1,Brighton & Hove Albion
+02/01/22,PRL,Everton,2-3,Brighton & Hove Albion
+08/01/22,FAC,West Bromwich Albion,E1-2E,Brighton & Hove Albion
+14/01/22,PRL,Brighton & Hove Albion,1-1,Crystal Palace
+18/01/22,PRL,Brighton & Hove Albion,1-1,Chelsea
+23/01/22,PRL,Leicester City,1-1,Brighton & Hove Albion
+05/02/22,FAC,Tottenham Hotspur,3-1,Brighton & Hove Albion
+12/02/22,PRL,Watford,0-2,Brighton & Hove Albion
+15/02/22,PRL,Manchester United,2-0,Brighton & Hove Albion
+19/02/22,PRL,Brighton & Hove Albion,0-3,Burnley
+26/02/22,PRL,Brighton & Hove Albion,0-2,Aston Villa
+05/03/22,PRL,Newcastle United,2-1,Brighton & Hove Albion
+12/03/22,PRL,Brighton & Hove Albion,0-2,Liverpool
+16/03/22,PRL,Brighton & Hove Albion,0-2,Tottenham Hotspur
+02/04/22,PRL,Brighton & Hove Albion,0-0,Norwich City
+09/04/22,PRL,Arsenal,1-2,Brighton & Hove Albion
+16/04/22,PRL,Tottenham Hotspur,0-1,Brighton & Hove Albion
+20/04/22,PRL,Manchester City,3-0,Brighton & Hove Albion
+24/04/22,PRL,Brighton & Hove Albion,2-2,Southampton
+30/04/22,PRL,Wolverhampton Wanderers,0-3,Brighton & Hove Albion
+07/05/22,PRL,Brighton & Hove Albion,4-0,Manchester United
+15/05/22,PRL,Leeds United,1-1,Brighton & Hove Albion
+22/05/22,PRL,Brighton & Hove Albion,3-1,West Ham United
+09/07/22,CLF,Brighton & Hove Albion,0-0,Union Saint-Gilloise
+16/07/22,CLF,Estoril,1-4,Brighton & Hove Albion
+23/07/22,CLF,Reading,1-2,Brighton & Hove Albion
+26/07/22,CLF,Brighton & Hove Albion,0-1,Brentford
+30/07/22,CLF,Brighton & Hove Albion,5-1,Espanyol
+07/08/22,PRL,Manchester United,1-2,Brighton & Hove Albion
+16/07/20,PRL,Southampton,1-1,Brighton & Hove Albion
+20/07/20,PRL,Brighton & Hove Albion,0-0,Newcastle United
+26/07/20,PRL,Burnley,1-2,Brighton & Hove Albion
+29/08/20,CLF,Brighton & Hove Albion,1-1,Chelsea
+05/09/20,CLF,Brighton & Hove Albion,0-0,West Bromwich Albion
+14/09/20,PRL,Brighton & Hove Albion,1-3,Chelsea
+17/09/20,LEC,Brighton & Hove Albion,4-0,Portsmouth
+20/09/20,PRL,Newcastle United,0-3,Brighton & Hove Albion
+23/09/20,LEC,Preston North End,0-2,Brighton & Hove Albion
+26/09/20,PRL,Brighton & Hove Albion,2-3,Manchester United
+30/09/20,LEC,Brighton & Hove Albion,0-3,Manchester United
+03/10/20,PRL,Everton,4-2,Brighton & Hove Albion
+18/10/20,PRL,Crystal Palace,1-1,Brighton & Hove Albion
+26/10/20,PRL,Brighton & Hove Albion,1-1,West Bromwich Albion
+01/11/20,PRL,Tottenham Hotspur,2-1,Brighton & Hove Albion
+06/11/20,PRL,Brighton & Hove Albion,0-0,Burnley
+21/11/20,PRL,Aston Villa,1-2,Brighton & Hove Albion
+28/11/20,PRL,Brighton & Hove Albion,1-1,Liverpool
+07/12/20,PRL,Brighton & Hove Albion,1-2,Southampton
+13/12/20,PRL,Leicester City,3-0,Brighton & Hove Albion
+16/12/20,PRL,Fulham,0-0,Brighton & Hove Albion
+20/12/20,PRL,Brighton & Hove Albion,1-1,Sheffield United
+27/12/20,PRL,West Ham United,2-2,Brighton & Hove Albion
+29/12/20,PRL,Brighton & Hove Albion,0-1,Arsenal
+02/01/21,PRL,Brighton & Hove Albion,3-3,Wolverhampton Wanderers
+10/01/21,FAC,Newport County,P1-1P,Brighton & Hove Albion
+13/01/21,PRL,Manchester City,1-0,Brighton & Hove Albion
+16/01/21,PRL,Leeds United,0-1,Brighton & Hove Albion
+23/01/21,FAC,Brighton & Hove Albion,2-1,Blackpool
+27/01/21,PRL,Brighton & Hove Albion,0-0,Fulham
+31/01/21,PRL,Brighton & Hove Albion,1-0,Tottenham Hotspur
+03/02/21,PRL,Liverpool,0-1,Brighton & Hove Albion
+06/02/21,PRL,Burnley,1-1,Brighton & Hove Albion
+10/02/21,FAC,Leicester City,1-0,Brighton & Hove Albion
+13/02/21,PRL,Brighton & Hove Albion,0-0,Aston Villa
+22/02/21,PRL,Brighton & Hove Albion,1-2,Crystal Palace
+27/02/21,PRL,West Bromwich Albion,1-0,Brighton & Hove Albion
+06/03/21,PRL,Brighton & Hove Albion,1-2,Leicester City
+14/03/21,PRL,Southampton,1-2,Brighton & Hove Albion
+20/03/21,PRL,Brighton & Hove Albion,3-0,Newcastle United
+04/04/21,PRL,Manchester United,2-1,Brighton & Hove Albion
+12/04/21,PRL,Brighton & Hove Albion,0-0,Everton
+20/04/21,PRL,Chelsea,0-0,Brighton & Hove Albion
+24/04/21,PRL,Sheffield United,1-0,Brighton & Hove Albion
+01/05/21,PRL,Brighton & Hove Albion,2-0,Leeds United
+09/05/21,PRL,Wolverhampton Wanderers,2-1,Brighton & Hove Albion
+15/05/21,PRL,Brighton & Hove Albion,1-1,West Ham United
+18/05/21,PRL,Brighton & Hove Albion,3-2,Manchester City
+23/05/21,PRL,Arsenal,2-0,Brighton & Hove Albion
+24/07/21,CLF,Rangers,0-0,Brighton & Hove Albion
+13/04/19,PRL,Brighton & Hove Albion,0-5,AFC Bournemouth
+16/04/19,PRL,Brighton & Hove Albion,0-2,Cardiff City
+20/04/19,PRL,Wolverhampton Wanderers,0-0,Brighton & Hove Albion
+23/04/19,PRL,Tottenham Hotspur,1-0,Brighton & Hove Albion
+27/04/19,PRL,Brighton & Hove Albion,1-1,Newcastle United
+05/05/19,PRL,Arsenal,1-1,Brighton & Hove Albion
+12/05/19,PRL,Brighton & Hove Albion,1-4,Manchester City
+13/07/19,CLF,Liefering,2-5,Brighton & Hove Albion
+19/07/19,CLF,Crawley Town,0-1,Brighton & Hove Albion
+20/07/19,CLF,Fulham,2-1,Brighton & Hove Albion
+27/07/19,CLF,Birmingham City,0-4,Brighton & Hove Albion
+02/08/19,CLF,Brighton & Hove Albion,2-1,Valencia
+10/08/19,PRL,Watford,0-3,Brighton & Hove Albion
+17/08/19,PRL,Brighton & Hove Albion,1-1,West Ham United
+24/08/19,PRL,Brighton & Hove Albion,0-2,Southampton
+27/08/19,LEC,Bristol Rovers,1-2,Brighton & Hove Albion
+31/08/19,PRL,Manchester City,4-0,Brighton & Hove Albion
+14/09/19,PRL,Brighton & Hove Albion,1-1,Burnley
+21/09/19,PRL,Newcastle United,0-0,Brighton & Hove Albion
+25/09/19,LEC,Brighton & Hove Albion,1-3,Aston Villa
+28/09/19,PRL,Chelsea,2-0,Brighton & Hove Albion
+05/10/19,PRL,Brighton & Hove Albion,3-0,Tottenham Hotspur
+19/10/19,PRL,Aston Villa,2-1,Brighton & Hove Albion
+26/10/19,PRL,Brighton & Hove Albion,3-2,Everton
+02/11/19,PRL,Brighton & Hove Albion,2-0,Norwich City
+10/11/19,PRL,Manchester United,3-1,Brighton & Hove Albion
+23/11/19,PRL,Brighton & Hove Albion,0-2,Leicester City
+30/11/19,PRL,Liverpool,2-1,Brighton & Hove Albion
+05/12/19,PRL,Arsenal,1-2,Brighton & Hove Albion
+08/12/19,PRL,Brighton & Hove Albion,2-2,Wolverhampton Wanderers
+16/12/19,PRL,Crystal Palace,1-1,Brighton & Hove Albion
+21/12/19,PRL,Brighton & Hove Albion,0-1,Sheffield United
+26/12/19,PRL,Tottenham Hotspur,2-1,Brighton & Hove Albion
+28/12/19,PRL,Brighton & Hove Albion,2-0,AFC Bournemouth
+01/01/20,PRL,Brighton & Hove Albion,1-1,Chelsea
+04/01/20,FAC,Brighton & Hove Albion,0-1,Sheffield Wednesday
+11/01/20,PRL,Everton,1-0,Brighton & Hove Albion
+18/01/20,PRL,Brighton & Hove Albion,1-1,Aston Villa
+21/01/20,PRL,AFC Bournemouth,3-1,Brighton & Hove Albion
+01/02/20,PRL,West Ham United,3-3,Brighton & Hove Albion
+08/02/20,PRL,Brighton & Hove Albion,1-1,Watford
+22/02/20,PRL,Sheffield United,1-1,Brighton & Hove Albion
+29/02/20,PRL,Brighton & Hove Albion,0-1,Crystal Palace
+07/03/20,PRL,Wolverhampton Wanderers,0-0,Brighton & Hove Albion
+20/06/20,PRL,Brighton & Hove Albion,2-1,Arsenal
+23/06/20,PRL,Leicester City,0-0,Brighton & Hove Albion
+30/06/20,PRL,Brighton & Hove Albion,0-3,Manchester United
+04/07/20,PRL,Norwich City,0-1,Brighton & Hove Albion
+08/07/20,PRL,Brighton & Hove Albion,1-3,Liverpool
+11/07/20,PRL,Brighton & Hove Albion,0-5,Manchester City
+07/04/18,PRL,Brighton & Hove Albion,1-1,Huddersfield Town
+14/04/18,PRL,Crystal Palace,3-2,Brighton & Hove Albion
+17/04/18,PRL,Brighton & Hove Albion,1-1,Tottenham Hotspur
+28/04/18,PRL,Burnley,0-0,Brighton & Hove Albion
+04/05/18,PRL,Brighton & Hove Albion,1-0,Manchester United
+09/05/18,PRL,Manchester City,3-1,Brighton & Hove Albion
+13/05/18,PRL,Liverpool,4-0,Brighton & Hove Albion
+14/07/18,CLF,St.Gallen,1-1,Brighton & Hove Albion
+21/07/18,CLF,AFC Wimbledon,2-1,Brighton & Hove Albion
+24/07/18,CLF,Charlton Athletic,1-1,Brighton & Hove Albion
+28/07/18,CLF,Birmingham City,1-1,Brighton & Hove Albion
+03/08/18,CLF,Brighton & Hove Albion,2-1,Nantes
+11/08/18,PRL,Watford,2-0,Brighton & Hove Albion
+19/08/18,PRL,Brighton & Hove Albion,3-2,Manchester United
+25/08/18,PRL,Liverpool,1-0,Brighton & Hove Albion
+28/08/18,LEC,Brighton & Hove Albion,0-1,Southampton
+01/09/18,PRL,Brighton & Hove Albion,2-2,Fulham
+17/09/18,PRL,Southampton,2-2,Brighton & Hove Albion
+22/09/18,PRL,Brighton & Hove Albion,1-2,Tottenham Hotspur
+29/09/18,PRL,Manchester City,2-0,Brighton & Hove Albion
+05/10/18,PRL,Brighton & Hove Albion,1-0,West Ham United
+20/10/18,PRL,Newcastle United,0-1,Brighton & Hove Albion
+27/10/18,PRL,Brighton & Hove Albion,1-0,Wolverhampton Wanderers
+03/11/18,PRL,Everton,3-1,Brighton & Hove Albion
+10/11/18,PRL,Cardiff City,2-1,Brighton & Hove Albion
+24/11/18,PRL,Brighton & Hove Albion,1-1,Leicester City
+01/12/18,PRL,Huddersfield Town,1-2,Brighton & Hove Albion
+04/12/18,PRL,Brighton & Hove Albion,3-1,Crystal Palace
+08/12/18,PRL,Burnley,1-0,Brighton & Hove Albion
+16/12/18,PRL,Brighton & Hove Albion,1-2,Chelsea
+22/12/18,PRL,AFC Bournemouth,2-0,Brighton & Hove Albion
+26/12/18,PRL,Brighton & Hove Albion,1-1,Arsenal
+29/12/18,PRL,Brighton & Hove Albion,1-0,Everton
+02/01/19,PRL,West Ham United,2-2,Brighton & Hove Albion
+05/01/19,FAC,AFC Bournemouth,1-3,Brighton & Hove Albion
+12/01/19,PRL,Brighton & Hove Albion,0-1,Liverpool
+19/01/19,PRL,Manchester United,2-1,Brighton & Hove Albion
+26/01/19,FAC,Brighton & Hove Albion,0-0,West Bromwich Albion
+29/01/19,PRL,Fulham,4-2,Brighton & Hove Albion
+02/02/19,PRL,Brighton & Hove Albion,0-0,Watford
+06/02/19,FAC,West Bromwich Albion,E1-3E,Brighton & Hove Albion
+09/02/19,PRL,Brighton & Hove Albion,1-3,Burnley
+16/02/19,FAC,Brighton & Hove Albion,2-1,Derby County
+26/02/19,PRL,Leicester City,2-1,Brighton & Hove Albion
+02/03/19,PRL,Brighton & Hove Albion,1-0,Huddersfield Town
+09/03/19,PRL,Crystal Palace,1-2,Brighton & Hove Albion
+17/03/19,FAC,Millwall,P2-2P,Brighton & Hove Albion
+30/03/19,PRL,Brighton & Hove Albion,0-1,Southampton
+03/04/19,PRL,Chelsea,3-0,Brighton & Hove Albion
+06/04/19,FAC,Manchester City,1-0,Brighton & Hove Albion
+04/04/17,CHA,Brighton & Hove Albion,3-1,Birmingham City
+07/04/17,CHA,Queens Park Rangers,1-2,Brighton & Hove Albion
+14/04/17,CHA,Wolverhampton Wanderers,0-2,Brighton & Hove Albion
+17/04/17,CHA,Brighton & Hove Albion,2-1,Wigan Athletic
+21/04/17,CHA,Norwich City,2-0,Brighton & Hove Albion
+29/04/17,CHA,Brighton & Hove Albion,0-1,Bristol City
+07/05/17,CHA,Aston Villa,1-1,Brighton & Hove Albion
+14/07/17,CLF,Fortuna Düsseldorf,0-2,Brighton & Hove Albion
+22/07/17,CLF,Crawley Town,0-6,Brighton & Hove Albion
+25/07/17,CLF,Southend United,0-3,Brighton & Hove Albion
+29/07/17,CLF,Norwich City,1-1,Brighton & Hove Albion
+01/08/17,CLF,Girona,0-0,Brighton & Hove Albion
+06/08/17,CLF,Brighton & Hove Albion,2-3,Atletico Madrid
+12/08/17,PRL,Brighton & Hove Albion,0-2,Manchester City
+19/08/17,PRL,Leicester City,2-0,Brighton & Hove Albion
+22/08/17,LEC,Brighton & Hove Albion,1-0,Barnet
+26/08/17,PRL,Watford,0-0,Brighton & Hove Albion
+09/09/17,PRL,Brighton & Hove Albion,3-1,West Bromwich Albion
+15/09/17,PRL,AFC Bournemouth,2-1,Brighton & Hove Albion
+19/09/17,LEC,AFC Bournemouth,E1-0E,Brighton & Hove Albion
+24/09/17,PRL,Brighton & Hove Albion,1-0,Newcastle United
+01/10/17,PRL,Arsenal,2-0,Brighton & Hove Albion
+15/10/17,PRL,Brighton & Hove Albion,1-1,Everton
+20/10/17,PRL,West Ham United,0-3,Brighton & Hove Albion
+29/10/17,PRL,Brighton & Hove Albion,1-1,Southampton
+04/11/17,PRL,Swansea City,0-1,Brighton & Hove Albion
+20/11/17,PRL,Brighton & Hove Albion,2-2,Stoke City
+25/11/17,PRL,Manchester United,1-0,Brighton & Hove Albion
+28/11/17,PRL,Brighton & Hove Albion,0-0,Crystal Palace
+02/12/17,PRL,Brighton & Hove Albion,1-5,Liverpool
+09/12/17,PRL,Huddersfield Town,2-0,Brighton & Hove Albion
+13/12/17,PRL,Tottenham Hotspur,2-0,Brighton & Hove Albion
+16/12/17,PRL,Brighton & Hove Albion,0-0,Burnley
+23/12/17,PRL,Brighton & Hove Albion,1-0,Watford
+26/12/17,PRL,Chelsea,2-0,Brighton & Hove Albion
+30/12/17,PRL,Newcastle United,0-0,Brighton & Hove Albion
+01/01/18,PRL,Brighton & Hove Albion,2-2,AFC Bournemouth
+08/01/18,FAC,Brighton & Hove Albion,2-1,Crystal Palace
+13/01/18,PRL,West Bromwich Albion,2-0,Brighton & Hove Albion
+20/01/18,PRL,Brighton & Hove Albion,0-4,Chelsea
+27/01/18,FAC,Middlesbrough,0-1,Brighton & Hove Albion
+31/01/18,PRL,Southampton,1-1,Brighton & Hove Albion
+03/02/18,PRL,Brighton & Hove Albion,3-1,West Ham United
+10/02/18,PRL,Stoke City,1-1,Brighton & Hove Albion
+17/02/18,FAC,Brighton & Hove Albion,3-1,Coventry City
+24/02/18,PRL,Brighton & Hove Albion,4-1,Swansea City
+04/03/18,PRL,Brighton & Hove Albion,2-1,Arsenal
+10/03/18,PRL,Everton,2-0,Brighton & Hove Albion
+17/03/18,FAC,Manchester United,2-0,Brighton & Hove Albion
+31/03/18,PRL,Brighton & Hove Albion,0-2,Leicester City
+16/07/16,CLF,Crawley Town,0-4,Brighton & Hove Albion
+19/07/16,CLF,Fulham,3-0,Brighton & Hove Albion
+23/07/16,CLF,Luton Town,2-1,Brighton & Hove Albion
+23/07/16,CLF,Stevenage,1-0,Brighton & Hove Albion
+26/07/16,CLF,Oxford United,0-4,Brighton & Hove Albion
+31/07/16,CLF,Brighton & Hove Albion,0-1,Lazio
+06/08/16,CHA,Derby County,0-0,Brighton & Hove Albion
+09/08/16,LEC,Brighton & Hove Albion,4-0,Colchester United
+12/08/16,CHA,Brighton & Hove Albion,3-0,Nottingham Forest
+16/08/16,CHA,Brighton & Hove Albion,3-0,Rotherham United
+20/08/16,CHA,Reading,2-2,Brighton & Hove Albion
+23/08/16,LEC,Oxford United,2-4,Brighton & Hove Albion
+27/08/16,CHA,Newcastle United,2-0,Brighton & Hove Albion
+10/09/16,CHA,Brighton & Hove Albion,0-2,Brentford
+13/09/16,CHA,Brighton & Hove Albion,1-0,Huddersfield Town
+17/09/16,CHA,Burton Albion,0-1,Brighton & Hove Albion
+20/09/16,LEC,Brighton & Hove Albion,1-2,Reading
+24/09/16,CHA,Brighton & Hove Albion,2-0,Barnsley
+27/09/16,CHA,Ipswich Town,0-0,Brighton & Hove Albion
+01/10/16,CHA,Sheffield Wednesday,1-2,Brighton & Hove Albion
+15/10/16,CHA,Brighton & Hove Albion,2-2,Preston North End
+18/10/16,CHA,Brighton & Hove Albion,1-0,Wolverhampton Wanderers
+22/10/16,CHA,Wigan Athletic,0-1,Brighton & Hove Albion
+29/10/16,CHA,Brighton & Hove Albion,5-0,Norwich City
+05/11/16,CHA,Bristol City,0-2,Brighton & Hove Albion
+18/11/16,CHA,Brighton & Hove Albion,1-1,Aston Villa
+26/11/16,CHA,Brighton & Hove Albion,2-1,Fulham
+03/12/16,CHA,Cardiff City,0-0,Brighton & Hove Albion
+09/12/16,CHA,Brighton & Hove Albion,2-0,Leeds United
+13/12/16,CHA,Blackburn Rovers,2-3,Brighton & Hove Albion
+17/12/16,CHA,Birmingham City,1-2,Brighton & Hove Albion
+27/12/16,CHA,Brighton & Hove Albion,3-0,Queens Park Rangers
+02/01/17,CHA,Fulham,1-2,Brighton & Hove Albion
+07/01/17,FAC,Brighton & Hove Albion,2-0,Milton Keynes Dons
+14/01/17,CHA,Preston North End,2-0,Brighton & Hove Albion
+20/01/17,CHA,Brighton & Hove Albion,2-1,Sheffield Wednesday
+24/01/17,CHA,Brighton & Hove Albion,1-0,Cardiff City
+28/01/17,FAC,Lincoln City,3-1,Brighton & Hove Albion
+02/02/17,CHA,Huddersfield Town,3-1,Brighton & Hove Albion
+05/02/17,CHA,Brentford,3-3,Brighton & Hove Albion
+11/02/17,CHA,Brighton & Hove Albion,4-1,Burton Albion
+14/02/17,CHA,Brighton & Hove Albion,1-1,Ipswich Town
+18/02/17,CHA,Barnsley,0-2,Brighton & Hove Albion
+25/02/17,CHA,Brighton & Hove Albion,3-0,Reading
+28/02/17,CHA,Brighton & Hove Albion,1-2,Newcastle United
+04/03/17,CHA,Nottingham Forest,3-0,Brighton & Hove Albion
+07/03/17,CHA,Rotherham United,0-2,Brighton & Hove Albion
+10/03/17,CHA,Brighton & Hove Albion,3-0,Derby County
+18/03/17,CHA,Leeds United,2-0,Brighton & Hove Albion
+01/04/17,CHA,Brighton & Hove Albion,1-0,Blackburn Rovers
+11/08/15,LEC,Southend United,0-1,Brighton & Hove Albion
+15/08/15,CHA,Fulham,1-2,Brighton & Hove Albion
+18/08/15,CHA,Huddersfield Town,1-1,Brighton & Hove Albion
+22/08/15,CHA,Brighton & Hove Albion,1-0,Blackburn Rovers
+25/08/15,LEC,Walsall,2-1,Brighton & Hove Albion
+29/08/15,CHA,Ipswich Town,2-3,Brighton & Hove Albion
+12/09/15,CHA,Brighton & Hove Albion,1-0,Hull City
+15/09/15,CHA,Brighton & Hove Albion,2-1,Rotherham United
+19/09/15,CHA,Wolverhampton Wanderers,0-0,Brighton & Hove Albion
+26/09/15,CHA,Bolton Wanderers,2-2,Brighton & Hove Albion
+03/10/15,CHA,Brighton & Hove Albion,1-1,Cardiff City
+17/10/15,CHA,Leeds United,1-2,Brighton & Hove Albion
+20/10/15,CHA,Brighton & Hove Albion,2-1,Bristol City
+24/10/15,CHA,Brighton & Hove Albion,0-0,Preston North End
+31/10/15,CHA,Reading,1-1,Brighton & Hove Albion
+03/11/15,CHA,Sheffield Wednesday,0-0,Brighton & Hove Albion
+07/11/15,CHA,Brighton & Hove Albion,2-1,Milton Keynes Dons
+22/11/15,CHA,Burnley,1-1,Brighton & Hove Albion
+28/11/15,CHA,Brighton & Hove Albion,2-1,Birmingham City
+05/12/15,CHA,Brighton & Hove Albion,3-2,Charlton Athletic
+12/12/15,CHA,Derby County,2-2,Brighton & Hove Albion
+15/12/15,CHA,Queens Park Rangers,2-2,Brighton & Hove Albion
+19/12/15,CHA,Brighton & Hove Albion,0-3,Middlesbrough
+26/12/15,CHA,Brentford,0-0,Brighton & Hove Albion
+29/12/15,CHA,Brighton & Hove Albion,0-1,Ipswich Town
+01/01/16,CHA,Brighton & Hove Albion,0-1,Wolverhampton Wanderers
+09/01/16,FAC,Hull City,1-0,Brighton & Hove Albion
+12/01/16,CHA,Rotherham United,2-0,Brighton & Hove Albion
+16/01/16,CHA,Blackburn Rovers,0-1,Brighton & Hove Albion
+23/01/16,CHA,Brighton & Hove Albion,2-1,Huddersfield Town
+05/02/16,CHA,Brighton & Hove Albion,3-0,Brentford
+13/02/16,CHA,Brighton & Hove Albion,3-2,Bolton Wanderers
+16/02/16,CHA,Hull City,0-0,Brighton & Hove Albion
+20/02/16,CHA,Cardiff City,4-1,Brighton & Hove Albion
+23/02/16,CHA,Bristol City,0-4,Brighton & Hove Albion
+29/02/16,CHA,Brighton & Hove Albion,4-0,Leeds United
+05/03/16,CHA,Preston North End,0-0,Brighton & Hove Albion
+08/03/16,CHA,Brighton & Hove Albion,0-0,Sheffield Wednesday
+15/03/16,CHA,Brighton & Hove Albion,1-0,Reading
+19/03/16,CHA,Milton Keynes Dons,1-2,Brighton & Hove Albion
+02/04/16,CHA,Brighton & Hove Albion,2-2,Burnley
+05/04/16,CHA,Birmingham City,1-2,Brighton & Hove Albion
+11/04/16,CHA,Nottingham Forest,1-2,Brighton & Hove Albion
+15/04/16,CHA,Brighton & Hove Albion,5-0,Fulham
+19/04/16,CHA,Brighton & Hove Albion,4-0,Queens Park Rangers
+23/04/16,CHA,Charlton Athletic,1-3,Brighton & Hove Albion
+02/05/16,CHA,Brighton & Hove Albion,1-1,Derby County
+07/05/16,CHA,Middlesbrough,1-1,Brighton & Hove Albion
+13/05/16,CHA,Sheffield Wednesday,2-0,Brighton & Hove Albion
+16/05/16,CHA,Brighton & Hove Albion,1-1,Sheffield Wednesday
+24/09/14,LEC,Burton Albion,0-3,Brighton & Hove Albion
+27/09/14,CHA,Nottingham Forest,0-0,Brighton & Hove Albion
+30/09/14,CHA,Brighton & Hove Albion,1-1,Cardiff City
+04/10/14,CHA,Watford,1-1,Brighton & Hove Albion
+18/10/14,CHA,Brighton & Hove Albion,1-2,Middlesbrough
+21/10/14,CHA,Huddersfield Town,1-1,Brighton & Hove Albion
+25/10/14,CHA,Brighton & Hove Albion,1-1,Rotherham United
+29/10/14,LEC,Tottenham Hotspur,2-0,Brighton & Hove Albion
+01/11/14,CHA,AFC Bournemouth,3-2,Brighton & Hove Albion
+04/11/14,CHA,Brighton & Hove Albion,1-0,Wigan Athletic
+08/11/14,CHA,Brighton & Hove Albion,1-1,Blackburn Rovers
+22/11/14,CHA,Norwich City,3-3,Brighton & Hove Albion
+29/11/14,CHA,Brighton & Hove Albion,1-2,Fulham
+06/12/14,CHA,Derby County,3-0,Brighton & Hove Albion
+12/12/14,CHA,Brighton & Hove Albion,0-1,Millwall
+20/12/14,CHA,Wolverhampton Wanderers,1-1,Brighton & Hove Albion
+26/12/14,CHA,Brighton & Hove Albion,2-2,Reading
+29/12/14,CHA,Fulham,0-2,Brighton & Hove Albion
+03/01/15,FAC,Brentford,0-2,Brighton & Hove Albion
+10/01/15,CHA,Charlton Athletic,0-1,Brighton & Hove Albion
+17/01/15,CHA,Brighton & Hove Albion,0-1,Brentford
+21/01/15,CHA,Brighton & Hove Albion,3-2,Ipswich Town
+25/01/15,FAC,Brighton & Hove Albion,2-3,Arsenal
+31/01/15,CHA,Blackpool,1-0,Brighton & Hove Albion
+07/02/15,CHA,Brighton & Hove Albion,2-3,Nottingham Forest
+10/02/15,CHA,Cardiff City,0-0,Brighton & Hove Albion
+14/02/15,CHA,Sheffield Wednesday,0-0,Brighton & Hove Albion
+21/02/15,CHA,Brighton & Hove Albion,4-3,Birmingham City
+24/02/15,CHA,Brighton & Hove Albion,2-0,Leeds United
+28/02/15,CHA,Bolton Wanderers,1-0,Brighton & Hove Albion
+03/03/15,CHA,Brighton & Hove Albion,2-0,Derby County
+10/03/15,CHA,Reading,2-1,Brighton & Hove Albion
+14/03/15,CHA,Brighton & Hove Albion,1-1,Wolverhampton Wanderers
+17/03/15,CHA,Millwall,0-0,Brighton & Hove Albion
+21/03/15,CHA,Blackburn Rovers,0-1,Brighton & Hove Albion
+03/04/15,CHA,Brighton & Hove Albion,0-1,Norwich City
+06/04/15,CHA,Rotherham United,1-0,Brighton & Hove Albion
+10/04/15,CHA,Brighton & Hove Albion,0-2,AFC Bournemouth
+14/04/15,CHA,Brighton & Hove Albion,0-0,Huddersfield Town
+18/04/15,CHA,Wigan Athletic,2-1,Brighton & Hove Albion
+25/04/15,CHA,Brighton & Hove Albion,0-2,Watford
+02/05/15,CHA,Middlesbrough,0-0,Brighton & Hove Albion
+11/07/15,CLF,Meyrin,1-6,Brighton & Hove Albion
+18/07/15,CLF,Lewes,0-0,Brighton & Hove Albion
+22/07/15,CLF,Crawley Town,0-3,Brighton & Hove Albion
+25/07/15,CLF,Chelmsford City,1-2,Brighton & Hove Albion
+26/07/15,CLF,Aberdeen,1-0,Brighton & Hove Albion
+29/07/15,CLF,Gillingham,1-2,Brighton & Hove Albion
+02/08/15,CLF,Brighton & Hove Albion,1-0,Sevilla
+07/08/15,CHA,Brighton & Hove Albion,1-0,Nottingham Forest

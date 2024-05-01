@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+20/08/23,PRL,Porto,2-1,Farense
+28/08/23,PRL,Rio Ave,1-2,Porto
+03/09/23,PRL,Porto,1-1,Arouca
+15/09/23,PRL,Estrela,0-1,Porto
+19/09/23,UCL,Shakhtar Donetsk,1-3,Porto
+23/09/23,PRL,Porto,2-1,Gil Vicente
+29/09/23,PRL,Benfica,1-0,Porto
+04/10/23,UCL,Porto,0-1,Barcelona
+08/10/23,PRL,Porto,1-0,Portimonense
+20/10/23,TDP,Vilar de Perdizes,0-2,Porto
+25/10/23,UCL,Antwerp,1-4,Porto
+29/10/23,PRL,Vizela,0-2,Porto
+03/11/23,PRL,Porto,0-1,Estoril
+07/11/23,UCL,Porto,2-0,Antwerp
+11/11/23,PRL,Vitoria Guimaraes,1-2,Porto
+24/11/23,TDP,Porto,4-0,Montalegre
+28/11/23,UCL,Barcelona,2-1,Porto
+02/12/23,PRL,Famalicão,0-3,Porto
+06/12/23,TDL,Estoril,3-1,Porto
+09/12/23,PRL,Porto,3-1,Casa Pia
+13/12/23,UCL,Porto,5-3,Shakhtar Donetsk
+18/12/23,PRL,Sporting Lisbon,2-0,Porto
+23/12/23,TDL,Porto,2-1,Leixões
+29/12/23,PRL,Porto,1-0,Chaves
+05/01/24,PRL,Boavista,1-1,Porto
+09/01/24,TDP,Estoril,0-4,Porto
+14/01/24,PRL,Porto,2-0,Sporting Braga
+20/01/24,PRL,Porto,5-0,Moreirense
+28/01/24,PRL,Farense,1-3,Porto
+03/02/24,PRL,Porto,0-0,Rio Ave
+12/02/24,PRL,Arouca,3-2,Porto
+17/02/24,PRL,Porto,2-0,Estrela
+21/02/24,UCL,Porto,1-0,Arsenal
+25/02/24,PRL,Gil Vicente,1-1,Porto
+29/02/24,TDP,Santa Clara,1-2,Porto
+03/03/24,PRL,Porto,5-0,Benfica
+08/03/24,PRL,Portimonense,0-3,Porto
+12/03/24,UCL,Arsenal,P1-0P,Porto
+16/03/24,PRL,Porto,4-1,Vizela
+30/03/24,PRL,Estoril,1-0,Porto
+03/04/24,TDP,Vitoria Guimaraes,0-1,Porto
+07/04/24,PRL,Porto,1-2,Vitoria Guimaraes
+13/04/24,PRL,Porto,2-2,Famalicão
+17/04/24,TDP,Porto,3-1,Vitoria Guimaraes
+21/04/24,PRL,Casa Pia,1-2,Porto
+28/04/24,PRL,Porto,2-2,Sporting Lisbon
+04/05/24,PRL,Chaves,21:30,Porto
+12/05/24,PRL,Porto,21:30,Boavista
+19/05/24,PRL,Sporting Braga,-,Porto
+26/05/24,TDP,Porto,18:15,Sporting Lisbon
+12/10/22,UCL,Bayer Leverkusen,0-3,Porto
+16/10/22,TDP,Anadia,0-6,Porto
+21/10/22,PRL,Porto,0-1,Benfica
+26/10/22,UCL,Club Brugge,0-4,Porto
+29/10/22,PRL,Santa Clara,1-1,Porto
+01/11/22,UCL,Porto,2-1,Atletico Madrid
+05/11/22,PRL,Porto,4-0,Paços Ferreira
+08/11/22,TDP,Mafra,0-3,Porto
+12/11/22,PRL,Boavista,1-4,Porto
+25/11/22,TDL,Porto,2-2,Mafra
+08/12/22,TDL,Chaves,0-2,Porto
+16/12/22,TDL,Porto,4-0,Vizela
+21/12/22,TDL,Porto,2-0,Gil Vicente
+28/12/22,PRL,Porto,5-1,Arouca
+07/01/23,PRL,Casa Pia,0-0,Porto
+11/01/23,TDP,Porto,4-0,Arouca
+15/01/23,PRL,Porto,4-1,Famalicão
+21/01/23,PRL,Vitoria Guimaraes,0-1,Porto
+25/01/23,TDL,Porto,3-0,Academico Viseu
+28/01/23,TDL,Sporting Lisbon,0-2,Porto
+01/02/23,PRL,Marítimo,0-2,Porto
+05/02/23,PRL,Porto,2-0,Vizela
+08/02/23,TDP,Academico Viseu,0-1,Porto
+12/02/23,PRL,Sporting Lisbon,1-2,Porto
+18/02/23,PRL,Porto,1-0,Rio Ave
+22/02/23,UCL,Inter Milan,1-0,Porto
+26/02/23,PRL,Porto,1-2,Gil Vicente
+04/03/23,PRL,Chaves,1-3,Porto
+10/03/23,PRL,Porto,3-2,Estoril
+14/03/23,UCL,Porto,0-0,Inter Milan
+19/03/23,PRL,Sporting Braga,0-0,Porto
+02/04/23,PRL,Porto,1-0,Portimonense
+07/04/23,PRL,Benfica,1-2,Porto
+15/04/23,PRL,Porto,2-1,Santa Clara
+22/04/23,PRL,Paços Ferreira,0-2,Porto
+26/04/23,TDP,Famalicão,1-2,Porto
+30/04/23,PRL,Porto,1-0,Boavista
+04/05/23,TDP,Porto,E3-2E,Famalicão
+08/05/23,PRL,Arouca,0-1,Porto
+14/05/23,PRL,Porto,2-1,Casa Pia
+20/05/23,PRL,Famalicão,2-4,Porto
+27/05/23,PRL,Porto,3-0,Vitoria Guimaraes
+04/06/23,TDP,Sporting Braga,0-2,Porto
+19/07/23,CLF,Portimonense,0-2,Porto
+22/07/23,CLF,Porto,4-0,Cardiff City
+25/07/23,CLF,Porto,0-1,Wolverhampton Wanderers
+26/07/23,CLF,Porto,3-3,Estrela
+29/07/23,CLF,Porto,1-1,Rayo Vallecano
+09/08/23,SUC,Benfica,2-0,Porto
+14/08/23,PRL,Moreirense,1-2,Porto
+03/12/21,PRL,Portimonense,0-3,Porto
+07/12/21,UCL,Porto,1-3,Atletico Madrid
+12/12/21,PRL,Porto,1-0,Sporting Braga
+15/12/21,TDL,Porto,1-0,Rio Ave
+19/12/21,PRL,Vizela,0-4,Porto
+23/12/21,TDP,Porto,3-0,Benfica
+30/12/21,PRL,Porto,3-1,Benfica
+08/01/22,PRL,Estoril,2-3,Porto
+12/01/22,TDP,Vizela,1-3,Porto
+16/01/22,PRL,Belenenses,1-4,Porto
+23/01/22,PRL,Porto,3-1,Famalicão
+30/01/22,PRL,Porto,2-1,Marítimo
+06/02/22,PRL,Arouca,0-2,Porto
+11/02/22,PRL,Porto,2-2,Sporting Lisbon
+17/02/22,UEL,Porto,2-1,Lazio
+20/02/22,PRL,Moreirense,0-1,Porto
+24/02/22,UEL,Lazio,2-2,Porto
+27/02/22,PRL,Porto,1-1,Gil Vicente
+02/03/22,TDP,Sporting Lisbon,1-2,Porto
+06/03/22,PRL,Paços Ferreira,2-4,Porto
+09/03/22,UEL,Porto,0-1,Lyon
+13/03/22,PRL,Porto,4-0,Tondela
+17/03/22,UEL,Lyon,1-1,Porto
+20/03/22,PRL,Boavista,0-1,Porto
+04/04/22,PRL,Porto,3-0,Santa Clara
+10/04/22,PRL,Vitoria Guimaraes,0-1,Porto
+16/04/22,PRL,Porto,7-0,Portimonense
+21/04/22,TDP,Porto,1-0,Sporting Lisbon
+25/04/22,PRL,Sporting Braga,1-0,Porto
+30/04/22,PRL,Porto,4-2,Vizela
+07/05/22,PRL,Benfica,0-1,Porto
+14/05/22,PRL,Porto,2-0,Estoril
+22/05/22,TDP,Porto,3-1,Tondela
+09/07/22,CLF,Porto,3-0,Bristol Rovers
+14/07/22,CLF,Portimonense,0-1,Porto
+16/07/22,CLF,Porto,2-1,Vitoria Guimaraes
+23/07/22,CLF,Porto,2-1,Monaco
+30/07/22,SUC,Porto,3-0,Tondela
+06/08/22,PRL,Porto,5-1,Marítimo
+14/08/22,PRL,Vizela,0-1,Porto
+20/08/22,PRL,Porto,3-0,Sporting Lisbon
+28/08/22,PRL,Rio Ave,3-1,Porto
+03/09/22,PRL,Gil Vicente,0-2,Porto
+07/09/22,UCL,Atletico Madrid,2-1,Porto
+10/09/22,PRL,Porto,3-0,Chaves
+13/09/22,UCL,Porto,0-4,Club Brugge
+17/09/22,PRL,Estoril,1-1,Porto
+30/09/22,PRL,Porto,4-1,Sporting Braga
+04/10/22,UCL,Porto,2-0,Bayer Leverkusen
+08/10/22,PRL,Portimonense,0-2,Porto
+01/02/21,PRL,Porto,2-0,Rio Ave
+04/02/21,PRL,Belenenses,0-0,Porto
+07/02/21,PRL,Sporting Braga,2-2,Porto
+10/02/21,TDP,Sporting Braga,1-1,Porto
+13/02/21,PRL,Porto,2-2,Boavista
+17/02/21,UCL,Porto,2-1,Juventus
+22/02/21,PRL,Marítimo,1-2,Porto
+27/02/21,PRL,Porto,0-0,Sporting Lisbon
+03/03/21,TDP,Porto,2-3,Sporting Braga
+06/03/21,PRL,Gil Vicente,0-2,Porto
+09/03/21,UCL,Juventus,E3-2E,Porto
+14/03/21,PRL,Porto,2-0,Paços Ferreira
+20/03/21,PRL,Portimonense,1-2,Porto
+03/04/21,PRL,Porto,2-1,Santa Clara
+07/04/21,UCL,Porto,0-2,Chelsea
+10/04/21,PRL,Tondela,0-2,Porto
+13/04/21,UCL,Chelsea,0-1,Porto
+18/04/21,PRL,Nacional,0-1,Porto
+22/04/21,PRL,Porto,1-0,Vitoria Guimaraes
+26/04/21,PRL,Moreirense,1-1,Porto
+30/04/21,PRL,Porto,3-2,Famalicão
+06/05/21,PRL,Benfica,1-1,Porto
+10/05/21,PRL,Porto,5-1,Farense
+15/05/21,PRL,Rio Ave,0-3,Porto
+19/05/21,PRL,Porto,4-0,Belenenses
+17/07/21,CLF,Porto,3-2,Academico Viseu
+20/07/21,CLF,Porto,CANC,Anadia
+25/07/21,CLF,Porto,2-0,Lille
+28/07/21,CLF,Porto,1-1,Roma
+31/07/21,CLF,Porto,5-3,Lyon
+08/08/21,PRL,Porto,2-0,Belenenses
+15/08/21,PRL,Famalicão,1-2,Porto
+22/08/21,PRL,Marítimo,1-1,Porto
+28/08/21,PRL,Porto,3-0,Arouca
+11/09/21,PRL,Sporting Lisbon,1-1,Porto
+15/09/21,UCL,Atletico Madrid,0-0,Porto
+19/09/21,PRL,Porto,5-0,Moreirense
+24/09/21,PRL,Gil Vicente,1-2,Porto
+28/09/21,UCL,Porto,1-5,Liverpool
+02/10/21,PRL,Porto,2-1,Paços Ferreira
+15/10/21,TDP,Sintrense,0-5,Porto
+19/10/21,UCL,Porto,1-0,AC Milan
+23/10/21,PRL,Tondela,1-3,Porto
+26/10/21,TDL,Santa Clara,3-1,Porto
+30/10/21,PRL,Porto,4-1,Boavista
+03/11/21,UCL,AC Milan,1-1,Porto
+07/11/21,PRL,Santa Clara,0-3,Porto
+20/11/21,TDP,Porto,5-1,Feirense
+24/11/21,UCL,Liverpool,2-0,Porto
+28/11/21,PRL,Porto,2-1,Vitoria Guimaraes
+28/01/20,PRL,Porto,2-1,Gil Vicente
+01/02/20,PRL,Vitória Setúbal,0-4,Porto
+04/02/20,TDP,Academico Viseu,1-1,Porto
+08/02/20,PRL,Porto,3-2,Benfica
+12/02/20,TDP,Porto,3-0,Academico Viseu
+16/02/20,PRL,Vitoria Guimaraes,1-2,Porto
+20/02/20,UEL,Bayer Leverkusen,2-1,Porto
+23/02/20,PRL,Porto,1-0,Portimonense
+27/02/20,UEL,Porto,1-3,Bayer Leverkusen
+02/03/20,PRL,Santa Clara,0-2,Porto
+07/03/20,PRL,Porto,1-1,Rio Ave
+03/06/20,PRL,Famalicão,2-1,Porto
+10/06/20,PRL,Porto,1-0,Marítimo
+16/06/20,PRL,Desportivo Aves,0-0,Porto
+23/06/20,PRL,Porto,4-0,Boavista
+29/06/20,PRL,Paços Ferreira,0-1,Porto
+05/07/20,PRL,Porto,5-0,Belenenses
+09/07/20,PRL,Tondela,1-3,Porto
+15/07/20,PRL,Porto,2-0,Sporting Lisbon
+20/07/20,PRL,Porto,6-1,Moreirense
+25/07/20,PRL,Sporting Braga,2-1,Porto
+01/08/20,TDP,Benfica,1-2,Porto
+19/09/20,PRL,Porto,3-1,Sporting Braga
+26/09/20,PRL,Boavista,0-5,Porto
+03/10/20,PRL,Porto,2-3,Marítimo
+17/10/20,PRL,Sporting Lisbon,2-2,Porto
+21/10/20,UCL,Manchester City,3-1,Porto
+24/10/20,PRL,Porto,1-0,Gil Vicente
+27/10/20,UCL,Porto,2-0,Olympiakos
+30/10/20,PRL,Paços Ferreira,3-2,Porto
+03/11/20,UCL,Porto,3-0,Marseille
+08/11/20,PRL,Porto,3-1,Portimonense
+21/11/20,TDP,Fabril Barreiro,0-2,Porto
+25/11/20,UCL,Marseille,0-2,Porto
+28/11/20,PRL,Santa Clara,0-1,Porto
+01/12/20,UCL,Porto,0-0,Manchester City
+05/12/20,PRL,Porto,4-3,Tondela
+09/12/20,UCL,Olympiakos,0-2,Porto
+13/12/20,TDP,Porto,2-1,Tondela
+16/12/20,TDL,Porto,2-1,Paços Ferreira
+20/12/20,PRL,Porto,2-0,Nacional
+23/12/20,SUC,Porto,2-0,Benfica
+29/12/20,PRL,Vitoria Guimaraes,2-3,Porto
+03/01/21,PRL,Porto,3-0,Moreirense
+08/01/21,PRL,Famalicão,1-4,Porto
+12/01/21,TDP,Nacional,E2-4E,Porto
+15/01/21,PRL,Porto,1-1,Benfica
+19/01/21,TDL,Sporting Lisbon,2-1,Porto
+25/01/21,PRL,Farense,0-1,Porto
+29/01/21,TDP,Gil Vicente,0-2,Porto
+05/04/19,PRL,Porto,2-0,Boavista
+09/04/19,UCL,Liverpool,2-0,Porto
+13/04/19,PRL,Portimonense,0-3,Porto
+17/04/19,UCL,Porto,1-4,Liverpool
+20/04/19,PRL,Porto,1-0,Santa Clara
+26/04/19,PRL,Rio Ave,2-2,Porto
+04/05/19,PRL,Porto,4-0,Desportivo Aves
+12/05/19,PRL,Nacional,0-4,Porto
+18/05/19,PRL,Porto,2-1,Sporting Lisbon
+25/05/19,TDP,Sporting Lisbon,P2-2P,Porto
+06/07/19,CLF,Porto,6-0,Águeda
+10/07/19,CLF,Porto,CANC,Varzim
+16/07/19,CLF,Porto,1-0,Fulham
+19/07/19,COI,Porto,P1-1P,Real Betis
+21/07/19,COI,Porto,2-1,Getafe
+27/07/19,CLF,Porto,0-1,Monaco
+07/08/19,UCL,Krasnodar,0-1,Porto
+10/08/19,PRL,Gil Vicente,2-1,Porto
+13/08/19,UCL,Porto,2-3,Krasnodar
+17/08/19,PRL,Porto,4-0,Vitória Setúbal
+24/08/19,PRL,Benfica,0-2,Porto
+01/09/19,PRL,Porto,3-0,Vitoria Guimaraes
+15/09/19,PRL,Portimonense,2-3,Porto
+19/09/19,UEL,Porto,2-1,Young Boys
+22/09/19,PRL,Porto,2-0,Santa Clara
+25/09/19,TDL,Porto,1-0,Santa Clara
+29/09/19,PRL,Rio Ave,0-1,Porto
+03/10/19,UEL,Feyenoord,2-0,Porto
+19/10/19,TDP,Coimbrões,0-5,Porto
+24/10/19,UEL,Porto,1-1,Rangers
+27/10/19,PRL,Porto,3-0,Famalicão
+30/10/19,PRL,Marítimo,1-1,Porto
+03/11/19,PRL,Porto,1-0,Desportivo Aves
+07/11/19,UEL,Rangers,2-0,Porto
+10/11/19,PRL,Boavista,0-1,Porto
+24/11/19,TDP,Porto,4-0,Vitória Setúbal
+28/11/19,UEL,Young Boys,1-2,Porto
+02/12/19,PRL,Porto,2-0,Paços Ferreira
+05/12/19,TDL,Casa Pia,0-3,Porto
+08/12/19,PRL,Belenenses,1-1,Porto
+12/12/19,UEL,Porto,3-2,Feyenoord
+16/12/19,PRL,Porto,3-0,Tondela
+19/12/19,TDP,Porto,1-0,Santa Clara
+22/12/19,TDL,Chaves,2-4,Porto
+05/01/20,PRL,Sporting Lisbon,1-2,Porto
+10/01/20,PRL,Moreirense,2-4,Porto
+14/01/20,TDP,Porto,2-1,Varzim
+17/01/20,PRL,Porto,1-2,Sporting Braga
+22/01/20,TDL,Vitoria Guimaraes,1-2,Porto
+25/01/20,TDL,Sporting Braga,1-0,Porto
+20/07/18,AFC,Porto,1-2,Lille
+22/07/18,AFC,Porto,1-0,Everton
+28/07/18,CLF,Porto,0-0,Newcastle United
+04/08/18,SUC,Porto,3-1,Desportivo Aves
+11/08/18,PRL,Porto,5-0,Chaves
+19/08/18,PRL,Belenenses,2-3,Porto
+25/08/18,PRL,Porto,2-3,Vitoria Guimaraes
+02/09/18,PRL,Porto,3-0,Moreirense
+14/09/18,TDL,Porto,1-1,Chaves
+18/09/18,UCL,Schalke 04,1-1,Porto
+22/09/18,PRL,Vitória Setúbal,0-2,Porto
+28/09/18,PRL,Porto,1-0,Tondela
+03/10/18,UCL,Porto,1-0,Galatasaray
+07/10/18,PRL,Benfica,1-0,Porto
+19/10/18,TDP,Vila Real,0-6,Porto
+24/10/18,UCL,Lokomotiv Moscow,1-3,Porto
+28/10/18,PRL,Porto,2-0,Feirense
+31/10/18,TDL,Porto,4-2,Varzim
+03/11/18,PRL,Marítimo,0-2,Porto
+06/11/18,UCL,Porto,4-1,Lokomotiv Moscow
+10/11/18,PRL,Porto,1-0,Sporting Braga
+24/11/18,TDP,Porto,2-0,Belenenses
+28/11/18,UCL,Porto,3-1,Schalke 04
+02/12/18,PRL,Boavista,0-1,Porto
+07/12/18,PRL,Porto,4-1,Portimonense
+11/12/18,UCL,Galatasaray,2-3,Porto
+15/12/18,PRL,Santa Clara,1-2,Porto
+18/12/18,TDP,Porto,4-3,Moreirense
+23/12/18,PRL,Porto,2-1,Rio Ave
+30/12/18,TDL,Belenenses,1-2,Porto
+03/01/19,PRL,Desportivo Aves,0-1,Porto
+07/01/19,PRL,Porto,3-1,Nacional
+12/01/19,PRL,Sporting Lisbon,0-0,Porto
+15/01/19,TDP,Leixões,E1-2E,Porto
+18/01/19,PRL,Chaves,1-4,Porto
+22/01/19,TDL,Benfica,1-3,Porto
+26/01/19,TDL,Porto,P1-1P,Sporting Lisbon
+30/01/19,PRL,Porto,3-0,Belenenses
+03/02/19,PRL,Vitoria Guimaraes,0-0,Porto
+08/02/19,PRL,Moreirense,1-1,Porto
+12/02/19,UCL,Roma,2-1,Porto
+16/02/19,PRL,Porto,2-0,Vitória Setúbal
+22/02/19,PRL,Tondela,0-3,Porto
+26/02/19,TDP,Porto,3-0,Sporting Braga
+02/03/19,PRL,Porto,1-2,Benfica
+06/03/19,UCL,Porto,E3-1E,Roma
+10/03/19,PRL,Feirense,1-2,Porto
+16/03/19,PRL,Porto,3-0,Marítimo
+30/03/19,PRL,Sporting Braga,2-3,Porto
+02/04/19,TDP,Sporting Braga,1-1,Porto
+27/08/17,PRL,Sporting Braga,0-1,Porto
+09/09/17,PRL,Porto,3-0,Chaves
+13/09/17,UCL,Porto,1-3,Besiktas
+17/09/17,PRL,Rio Ave,1-2,Porto
+22/09/17,PRL,Porto,5-2,Portimonense
+26/09/17,UCL,Monaco,0-3,Porto
+01/10/17,PRL,Sporting Lisbon,0-0,Porto
+13/10/17,TDP,Lusitano GC Évora,0-6,Porto
+17/10/17,UCL,RB Leipzig,3-2,Porto
+21/10/17,PRL,Porto,6-1,Paços Ferreira
+24/10/17,TDL,Porto,0-0,Leixões
+28/10/17,PRL,Boavista,0-3,Porto
+01/11/17,UCL,Porto,3-1,RB Leipzig
+04/11/17,PRL,Porto,2-0,Belenenses
+17/11/17,TDP,Porto,3-2,Portimonense
+21/11/17,UCL,Besiktas,1-1,Porto
+25/11/17,PRL,Desportivo Aves,1-1,Porto
+01/12/17,PRL,Porto,0-0,Benfica
+06/12/17,UCL,Porto,5-2,Monaco
+10/12/17,PRL,Vitória Setúbal,0-5,Porto
+14/12/17,TDP,Porto,4-0,Vitoria Guimaraes
+18/12/17,PRL,Porto,3-1,Marítimo
+21/12/17,TDL,Porto,3-0,Rio Ave
+30/12/17,TDL,Paços Ferreira,2-3,Porto
+03/01/18,PRL,Feirense,1-2,Porto
+07/01/18,PRL,Porto,4-2,Vitoria Guimaraes
+11/01/18,TDP,Moreirense,1-2,Porto
+19/01/18,PRL,Porto,1-0,Tondela
+24/01/18,TDL,Sporting Lisbon,P0-0P,Porto
+30/01/18,PRL,Moreirense,0-0,Porto
+03/02/18,PRL,Porto,3-1,Sporting Braga
+07/02/18,TDP,Porto,1-0,Sporting Lisbon
+11/02/18,PRL,Chaves,0-4,Porto
+14/02/18,UCL,Porto,0-5,Liverpool
+18/02/18,PRL,Porto,5-0,Rio Ave
+21/02/18,PRL,Estoril,1-3,Porto
+25/02/18,PRL,Portimonense,1-5,Porto
+02/03/18,PRL,Porto,2-1,Sporting Lisbon
+06/03/18,UCL,Liverpool,0-0,Porto
+11/03/18,PRL,Paços Ferreira,1-0,Porto
+17/03/18,PRL,Porto,2-0,Boavista
+02/04/18,PRL,Belenenses,2-0,Porto
+08/04/18,PRL,Porto,2-0,Desportivo Aves
+15/04/18,PRL,Benfica,0-1,Porto
+18/04/18,TDP,Sporting Lisbon,P1-0P,Porto
+23/04/18,PRL,Porto,5-1,Vitória Setúbal
+29/04/18,PRL,Marítimo,0-1,Porto
+06/05/18,PRL,Porto,2-1,Feirense
+12/05/18,PRL,Vitoria Guimaraes,0-1,Porto
+17/07/18,CLF,Portimonense,2-1,Porto
+23/09/16,PRL,Porto,3-1,Boavista
+27/09/16,UCL,Leicester City,1-0,Porto
+01/10/16,PRL,Nacional,0-4,Porto
+15/10/16,TDP,Gafanha,0-3,Porto
+18/10/16,UCL,Club Brugge,1-2,Porto
+22/10/16,PRL,Porto,3-0,Arouca
+29/10/16,PRL,Vitória Setúbal,0-0,Porto
+02/11/16,UCL,Porto,1-0,Club Brugge
+06/11/16,PRL,Porto,1-1,Benfica
+18/11/16,TDP,Chaves,P0-0P,Porto
+22/11/16,UCL,FC Copenhagen,0-0,Porto
+26/11/16,PRL,Belenenses,0-0,Porto
+29/11/16,TDL,Porto,0-0,Belenenses
+03/12/16,PRL,Porto,1-0,Sporting Braga
+07/12/16,UCL,Porto,5-0,Leicester City
+11/12/16,PRL,Feirense,0-4,Porto
+15/12/16,PRL,Porto,2-1,Marítimo
+19/12/16,PRL,Porto,2-1,Chaves
+29/12/16,TDL,Porto,1-1,Feirense
+03/01/17,TDL,Moreirense,1-0,Porto
+07/01/17,PRL,Paços Ferreira,0-0,Porto
+15/01/17,PRL,Porto,3-0,Moreirense
+21/01/17,PRL,Porto,4-2,Rio Ave
+28/01/17,PRL,Estoril,1-2,Porto
+04/02/17,PRL,Porto,2-1,Sporting Lisbon
+11/02/17,PRL,Vitoria Guimaraes,0-2,Porto
+17/02/17,PRL,Porto,4-0,Tondela
+22/02/17,UCL,Porto,0-2,Juventus
+26/02/17,PRL,Boavista,0-1,Porto
+04/03/17,PRL,Porto,7-0,Nacional
+10/03/17,PRL,Arouca,0-4,Porto
+14/03/17,UCL,Juventus,1-0,Porto
+19/03/17,PRL,Porto,1-1,Vitória Setúbal
+01/04/17,PRL,Benfica,1-1,Porto
+08/04/17,PRL,Porto,3-0,Belenenses
+15/04/17,PRL,Sporting Braga,1-1,Porto
+23/04/17,PRL,Porto,0-0,Feirense
+29/04/17,PRL,Chaves,0-2,Porto
+06/05/17,PRL,Marítimo,1-1,Porto
+14/05/17,PRL,Porto,4-1,Paços Ferreira
+21/05/17,PRL,Moreirense,3-1,Porto
+18/07/17,CLF,Cruz Azul,0-0,Porto
+20/07/17,CLF,Guadalajara,2-2,Porto
+23/07/17,CLF,Vitoria Guimaraes,0-2,Porto
+27/07/17,CLF,Portimonense,1-5,Porto
+30/07/17,CLF,Porto,4-0,Deportivo La Coruña
+02/08/17,CLF,Gil Vicente,1-3,Porto
+09/08/17,PRL,Porto,4-0,Estoril
+13/08/17,PRL,Tondela,0-1,Porto
+20/08/17,PRL,Porto,3-0,Moreirense
+02/12/15,PRL,União Madeira,0-4,Porto
+05/12/15,PRL,Porto,2-1,Paços Ferreira
+09/12/15,UCL,Chelsea,2-0,Porto
+14/12/15,PRL,Nacional,1-2,Porto
+16/12/15,TDP,Feirense,0-1,Porto
+20/12/15,PRL,Porto,3-1,Académica
+29/12/15,TDL,Porto,1-3,Marítimo
+02/01/16,PRL,Sporting Lisbon,2-0,Porto
+06/01/16,PRL,Porto,1-1,Rio Ave
+10/01/16,PRL,Boavista,0-5,Porto
+13/01/16,TDP,Boavista,0-1,Porto
+17/01/16,PRL,Vitoria Guimaraes,1-0,Porto
+20/01/16,TDL,Famalicão,1-0,Porto
+24/01/16,PRL,Porto,1-0,Marítimo
+27/01/16,TDL,Feirense,2-0,Porto
+30/01/16,PRL,Estoril,1-3,Porto
+03/02/16,TDP,Gil Vicente,0-3,Porto
+07/02/16,PRL,Porto,1-2,Arouca
+12/02/16,PRL,Benfica,1-2,Porto
+18/02/16,UEL,Borussia Dortmund,2-0,Porto
+21/02/16,PRL,Porto,3-2,Moreirense
+25/02/16,UEL,Porto,0-1,Borussia Dortmund
+28/02/16,PRL,Belenenses,1-2,Porto
+02/03/16,TDP,Porto,2-0,Gil Vicente
+06/03/16,PRL,Sporting Braga,3-1,Porto
+12/03/16,PRL,Porto,3-2,União Madeira
+19/03/16,PRL,Vitória Setúbal,0-1,Porto
+04/04/16,PRL,Porto,0-1,Tondela
+10/04/16,PRL,Paços Ferreira,1-0,Porto
+17/04/16,PRL,Porto,4-0,Nacional
+23/04/16,PRL,Académica,1-2,Porto
+30/04/16,PRL,Porto,1-3,Sporting Lisbon
+07/05/16,PRL,Rio Ave,1-3,Porto
+14/05/16,PRL,Porto,4-0,Boavista
+22/05/16,TDP,Porto,P2-2P,Sporting Braga
+09/07/16,CLF,Porto,1-1,Rio Ave
+17/07/16,CLF,Osnabrück,1-2,Porto
+21/07/16,CLF,PSV,3-0,Porto
+23/07/16,CLF,Vitesse,1-2,Porto
+27/07/16,CLF,Bayer Leverkusen,1-1,Porto
+31/07/16,CLF,Vitoria Guimaraes,0-2,Porto
+06/08/16,CLF,Porto,1-0,Villarreal
+12/08/16,PRL,Rio Ave,1-3,Porto
+17/08/16,UCL,Porto,1-1,Roma
+20/08/16,PRL,Porto,1-0,Estoril
+23/08/16,UCL,Roma,0-3,Porto
+28/08/16,PRL,Sporting Lisbon,2-1,Porto
+10/09/16,PRL,Porto,3-0,Vitoria Guimaraes
+14/09/16,UCL,Porto,1-1,FC Copenhagen
+18/09/16,PRL,Tondela,0-0,Porto

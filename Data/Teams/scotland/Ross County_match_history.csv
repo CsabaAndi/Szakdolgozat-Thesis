@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+01/06/23,PL1,Partick Thistle,2-0,Ross County
+04/06/23,PL1,Ross County,P3-1P,Partick Thistle
+04/07/23,CLF,Nairn County,1-3,Ross County
+08/07/23,CLF,Ross County,1-2,Queen's Park
+14/07/23,CLF,Clachnacuddin,1-5,Ross County
+15/07/23,LEC,Stranraer,1-5,Ross County
+22/07/23,LEC,Ross County,2-1,Greenock Morton
+26/07/23,LEC,Edinburgh City,1-3,Ross County
+29/07/23,LEC,Ross County,P3-3P,Kelty Hearts
+05/08/23,PRE,Celtic,4-2,Ross County
+12/08/23,PRE,Ross County,2-0,St. Johnstone
+19/08/23,LEC,Airdrieonians,E3-4E,Ross County
+26/08/23,PRE,Ross County,0-2,Rangers
+02/09/23,PRE,Kilmarnock,0-1,Ross County
+16/09/23,PRE,Ross County,1-1,Livingston
+24/09/23,PRE,Aberdeen,4-0,Ross County
+27/09/23,LEC,Ross County,1-2,Aberdeen
+30/09/23,PRE,Ross County,0-1,Hearts
+24/10/23,PRE,Dundee,0-0,Ross County
+28/10/23,PRE,Motherwell,3-3,Ross County
+31/10/23,PRE,Hibernian,2-2,Ross County
+04/11/23,PRE,Ross County,0-3,Celtic
+11/11/23,PRE,St. Johnstone,1-0,Ross County
+25/11/23,PRE,Ross County,0-0,Kilmarnock
+28/11/23,PRE,Ross County,1-0,St. Mirren
+05/12/23,PRE,Ross County,3-0,Motherwell
+09/12/23,PRE,St. Mirren,2-0,Ross County
+16/12/23,PRE,Ross County,0-1,Dundee
+30/12/23,PRE,Hearts,2-2,Ross County
+02/01/24,PRE,Ross County,0-3,Aberdeen
+20/01/24,FAC,Ross County,0-3,Partick Thistle
+27/01/24,PRE,Celtic,1-0,Ross County
+30/01/24,PRE,Livingston,2-2,Ross County
+03/02/24,PRE,Ross County,0-1,St. Johnstone
+06/02/24,PRE,Motherwell,5-0,Ross County
+14/02/24,PRE,Rangers,3-1,Ross County
+17/02/24,PRE,Dundee,2-0,Ross County
+24/02/24,PRE,Ross County,3-2,Livingston
+27/02/24,PRE,Ross County,1-1,St. Mirren
+02/03/24,PRE,Hibernian,2-0,Ross County
+13/03/24,PRE,Ross County,2-2,Hibernian
+16/03/24,PRE,Ross County,2-1,Hearts
+30/03/24,PRE,Aberdeen,2-1,Ross County
+06/04/24,PRE,Kilmarnock,1-0,Ross County
+14/04/24,PRE,Ross County,3-2,Rangers
+27/04/24,PRE,Livingston,2-0,Ross County
+04/05/24,PRE,Ross County,16:00,Hibernian
+11/05/24,PRE,Ross County,16:00,Motherwell
+15/05/24,PRE,St. Johnstone,20:45,Ross County
+19/05/24,PRE,Ross County,16:00,Aberdeen
+24/04/22,PRE,Ross County,0-2,Celtic
+30/04/22,PRE,Hearts,0-0,Ross County
+07/05/22,PRE,Ross County,0-1,Motherwell
+11/05/22,PRE,Rangers,4-1,Ross County
+14/05/22,PRE,Ross County,1-2,Dundee United
+06/07/22,CLF,Brora Rangers,1-4,Ross County
+09/07/22,LEC,Buckie Thistle,P1-1P,Ross County
+16/07/22,LEC,Ross County,1-0,Dunfermline Athletic
+19/07/22,LEC,Alloa Athletic,0-2,Ross County
+23/07/22,LEC,Ross County,7-0,East Fife
+30/07/22,PRE,Hearts,2-1,Ross County
+06/08/22,PRE,Ross County,1-3,Celtic
+13/08/22,PRE,St. Mirren,1-0,Ross County
+20/08/22,PRE,Ross County,1-0,Kilmarnock
+27/08/22,PRE,Rangers,4-0,Ross County
+31/08/22,LEC,Ross County,1-4,Celtic
+03/09/22,PRE,Ross County,1-1,Aberdeen
+17/09/22,PRE,St. Johnstone,0-0,Ross County
+01/10/22,PRE,Ross County,0-2,Hibernian
+04/10/22,PRE,Ross County,0-5,Motherwell
+08/10/22,PRE,Livingston,0-1,Ross County
+15/10/22,PRE,Ross County,1-1,Dundee United
+22/10/22,PRE,Kilmarnock,1-0,Ross County
+30/10/22,PRE,Ross County,1-2,Hearts
+05/11/22,PRE,Ross County,3-2,St. Mirren
+08/11/22,PRE,Hibernian,0-2,Ross County
+12/11/22,PRE,Celtic,2-1,Ross County
+17/12/22,PRE,Ross County,1-2,St. Johnstone
+23/12/22,PRE,Ross County,0-1,Rangers
+28/12/22,PRE,Dundee United,3-0,Ross County
+02/01/23,PRE,Aberdeen,0-0,Ross County
+07/01/23,PRE,Ross County,0-2,Livingston
+14/01/23,PRE,Motherwell,1-1,Ross County
+21/01/23,FAC,Hamilton Academical,P0-0P,Ross County
+28/01/23,PRE,Ross County,3-0,Kilmarnock
+31/01/23,PRE,Ross County,1-1,Hibernian
+04/02/23,PRE,Rangers,2-1,Ross County
+18/02/23,PRE,St. Mirren,1-0,Ross County
+25/02/23,PRE,Ross County,4-0,Dundee United
+04/03/23,PRE,Ross County,0-2,Motherwell
+18/03/23,PRE,Livingston,2-1,Ross County
+02/04/23,PRE,Ross County,0-2,Celtic
+08/04/23,PRE,St. Johnstone,0-2,Ross County
+14/04/23,PRE,Ross County,0-1,Aberdeen
+22/04/23,PRE,Hearts,6-1,Ross County
+06/05/23,PRE,Ross County,2-0,Livingston
+13/05/23,PRE,Dundee United,1-3,Ross County
+20/05/23,PRE,Motherwell,1-0,Ross County
+24/05/23,PRE,Ross County,3-3,St. Johnstone
+28/05/23,PRE,Kilmarnock,3-1,Ross County
+21/02/21,PRE,Ross County,1-0,Celtic
+27/02/21,PRE,St. Mirren,1-0,Ross County
+06/03/21,PRE,Ross County,3-2,Kilmarnock
+13/03/21,PRE,Ross County,1-2,Hibernian
+20/03/21,PRE,St. Johnstone,1-0,Ross County
+02/04/21,FAC,Ross County,1-3,Inverness CT
+10/04/21,PRE,Kilmarnock,2-2,Ross County
+21/04/21,PRE,Ross County,1-3,St. Mirren
+01/05/21,PRE,Dundee United,0-2,Ross County
+12/05/21,PRE,Ross County,2-1,Hamilton Academical
+16/05/21,PRE,Motherwell,1-2,Ross County
+03/07/21,CLF,Elgin City,0-5,Ross County
+10/07/21,LEC,Forfar Athletic,3-0,Ross County
+18/07/21,LEC,Ross County,0-3,Dundee
+21/07/21,LEC,Brora Rangers,0-1,Ross County
+24/07/21,LEC,Ross County,4-1,Montrose
+31/07/21,PRE,Ross County,0-0,St. Johnstone
+08/08/21,PRE,Hibernian,3-0,Ross County
+22/08/21,PRE,Ross County,2-4,Rangers
+29/08/21,PRE,Aberdeen,1-1,Ross County
+11/09/21,PRE,Celtic,3-0,Ross County
+18/09/21,PRE,Ross County,2-2,Hearts
+25/09/21,PRE,Motherwell,2-1,Ross County
+02/10/21,PRE,Dundee United,1-0,Ross County
+16/10/21,PRE,Ross County,2-3,St. Mirren
+23/10/21,PRE,Ross County,2-3,Livingston
+27/10/21,PRE,Dundee,0-5,Ross County
+07/11/21,PRE,Rangers,4-2,Ross County
+24/11/21,PRE,Ross County,1-0,Hibernian
+27/11/21,PRE,Ross County,1-1,Dundee United
+01/12/21,PRE,St. Mirren,0-0,Ross County
+11/12/21,PRE,Ross County,3-2,Dundee
+15/12/21,PRE,Ross County,1-2,Celtic
+18/12/21,PRE,Livingston,1-1,Ross County
+22/12/21,PRE,St. Johnstone,1-2,Ross County
+26/12/21,PRE,Hearts,2-1,Ross County
+18/01/22,PRE,Ross County,3-1,Motherwell
+22/01/22,FAC,Livingston,1-0,Ross County
+26/01/22,PRE,Dundee United,2-1,Ross County
+29/01/22,PRE,Ross County,3-3,Rangers
+01/02/22,PRE,Ross County,1-1,Aberdeen
+05/02/22,PRE,Dundee,1-2,Ross County
+09/02/22,PRE,Ross County,1-1,Livingston
+19/02/22,PRE,Hibernian,2-0,Ross County
+26/02/22,PRE,Ross County,3-1,St. Johnstone
+02/03/22,PRE,Motherwell,0-1,Ross County
+05/03/22,PRE,Ross County,1-0,St. Mirren
+19/03/22,PRE,Celtic,4-0,Ross County
+02/04/22,PRE,Ross County,1-1,Hearts
+09/04/22,PRE,Aberdeen,0-1,Ross County
+29/12/19,PRE,St. Johnstone,1-1,Ross County
+18/01/20,FAC,Ayr United,1-0,Ross County
+22/01/20,PRE,Ross County,0-0,Hearts
+25/01/20,PRE,Celtic,3-0,Ross County
+29/01/20,PRE,Rangers,2-0,Ross County
+01/02/20,PRE,Kilmarnock,3-1,Ross County
+05/02/20,PRE,Ross County,2-0,Livingston
+12/02/20,PRE,Hibernian,3-0,Ross County
+15/02/20,PRE,Ross County,1-1,St. Johnstone
+22/02/20,PRE,Aberdeen,1-2,Ross County
+04/03/20,PRE,Motherwell,4-1,Ross County
+08/03/20,PRE,Ross County,0-1,Rangers
+14/03/20,PRE,Ross County,CANC,Hamilton Academical
+21/03/20,PRE,Hearts,CANC,Ross County
+04/04/20,PRE,Ross County,CANC,St. Mirren
+26/07/20,CLF,Celtic,2-0,Ross County
+03/08/20,PRE,Ross County,1-0,Motherwell
+08/08/20,PRE,Hamilton Academical,0-1,Ross County
+12/08/20,PRE,Ross County,2-2,Kilmarnock
+15/08/20,PRE,Ross County,1-2,Dundee United
+22/08/20,PRE,St. Mirren,1-1,Ross County
+29/08/20,PRE,Livingston,1-0,Ross County
+12/09/20,PRE,Ross County,0-5,Celtic
+19/09/20,PRE,St. Johnstone,0-1,Ross County
+27/09/20,PRE,Ross County,0-3,Aberdeen
+04/10/20,PRE,Rangers,2-0,Ross County
+07/10/20,LEC,Montrose,P3-3P,Ross County
+13/10/20,LEC,Ross County,2-1,Arbroath
+17/10/20,PRE,Ross County,0-0,Hibernian
+24/10/20,PRE,Motherwell,4-0,Ross County
+31/10/20,PRE,Dundee United,2-1,Ross County
+06/11/20,PRE,Ross County,1-1,Livingston
+10/11/20,LEC,Elgin City,1-4,Ross County
+14/11/20,LEC,Ross County,3-0,Stirling Albion
+21/11/20,PRE,Kilmarnock,3-1,Ross County
+29/11/20,LEC,Celtic,0-2,Ross County
+06/12/20,PRE,Ross County,0-4,Rangers
+12/12/20,PRE,Aberdeen,2-0,Ross County
+16/12/20,LEC,Livingston,2-0,Ross County
+19/12/20,PRE,Ross County,0-2,Hamilton Academical
+23/12/20,PRE,Celtic,2-0,Ross County
+26/12/20,PRE,Ross County,0-2,St. Mirren
+30/12/20,PRE,Hibernian,0-2,Ross County
+02/01/21,PRE,Ross County,1-1,St. Johnstone
+10/01/21,PRE,Livingston,3-1,Ross County
+16/01/21,PRE,Ross County,4-1,Aberdeen
+23/01/21,PRE,Rangers,5-0,Ross County
+27/01/21,PRE,Ross County,1-2,Motherwell
+03/02/21,PRE,Hamilton Academical,1-2,Ross County
+06/02/21,PRE,Ross County,0-2,Dundee United
+04/01/19,CHA,Greenock Morton,1-0,Ross County
+12/01/19,CHA,Queen of the South,4-0,Ross County
+19/01/19,FAC,Motherwell,1-2,Ross County
+26/01/19,CHA,Ross County,2-0,Alloa Athletic
+02/02/19,CHA,Dunfermline Athletic,1-2,Ross County
+11/02/19,FAC,Ross County,2-2,Inverness CT
+15/02/19,CHC,Ross County,2-1,East Fife
+19/02/19,FAC,Inverness CT,P2-2P,Ross County
+23/02/19,CHA,Partick Thistle,2-4,Ross County
+26/02/19,CHA,Ross County,3-2,Ayr United
+09/03/19,CHA,Ross County,2-0,Greenock Morton
+12/03/19,CHA,Ross County,2-1,Falkirk
+19/03/19,CHA,Dundee United,1-0,Ross County
+23/03/19,CHC,Connah's Quay,1-3,Ross County
+30/03/19,CHA,Alloa Athletic,1-0,Ross County
+02/04/19,CHA,Inverness CT,1-2,Ross County
+05/04/19,CHA,Ross County,1-1,Dundee United
+09/04/19,CHA,Ross County,1-0,Dunfermline Athletic
+13/04/19,CHA,Ross County,0-0,Partick Thistle
+19/04/19,CHA,Ayr United,1-3,Ross County
+26/04/19,CHA,Ross County,4-0,Queen of the South
+04/05/19,CHA,Falkirk,3-2,Ross County
+29/06/19,CLF,Nairn County,0-3,Ross County
+29/06/19,CLF,Forres Mechanics,0-11,Ross County
+05/07/19,CLF,Groningen,2-0,Ross County
+13/07/19,LEC,Ross County,4-1,Montrose
+16/07/19,LEC,Brechin City,0-4,Ross County
+21/07/19,LEC,St. Johnstone,1-2,Ross County
+24/07/19,LEC,Ross County,2-0,Forfar Athletic
+27/07/19,CLF,Ross County,2-0,Carlisle United
+03/08/19,PRE,Ross County,3-0,Hamilton Academical
+10/08/19,PRE,Hearts,0-0,Ross County
+17/08/19,LEC,Partick Thistle,E3-2E,Ross County
+24/08/19,PRE,Ross County,1-4,Livingston
+31/08/19,PRE,Aberdeen,3-0,Ross County
+14/09/19,PRE,Ross County,2-1,St. Mirren
+21/09/19,PRE,Motherwell,1-2,Ross County
+28/09/19,PRE,Kilmarnock,0-0,Ross County
+05/10/19,PRE,Ross County,2-2,St. Johnstone
+19/10/19,PRE,Celtic,6-0,Ross County
+26/10/19,PRE,Hibernian,2-2,Ross County
+30/10/19,PRE,Ross County,0-4,Rangers
+02/11/19,PRE,Hamilton Academical,2-2,Ross County
+09/11/19,PRE,Ross County,1-3,Aberdeen
+23/11/19,PRE,St. Mirren,2-1,Ross County
+01/12/19,PRE,Ross County,1-4,Celtic
+04/12/19,PRE,Ross County,2-1,Hibernian
+14/12/19,PRE,Ross County,1-0,Kilmarnock
+21/12/19,PRE,Livingston,4-0,Ross County
+26/12/19,PRE,Ross County,1-2,Motherwell
+20/01/18,FAC,Kilmarnock,1-0,Ross County
+24/01/18,PRE,Motherwell,2-0,Ross County
+28/01/18,PRE,Ross County,1-2,Rangers
+31/01/18,PRE,Ross County,2-4,Aberdeen
+03/02/18,PRE,Dundee,1-4,Ross County
+17/02/18,PRE,Ross County,1-1,Hearts
+24/02/18,PRE,St. Johnstone,2-0,Ross County
+10/03/18,PRE,Kilmarnock,3-2,Ross County
+17/03/18,PRE,Ross County,2-2,Hamilton Academical
+31/03/18,PRE,Celtic,3-0,Ross County
+03/04/18,PRE,Ross County,4-0,Partick Thistle
+07/04/18,PRE,Ross County,1-1,Hibernian
+21/04/18,PRE,Ross County,0-0,Motherwell
+28/04/18,PRE,Hamilton Academical,2-0,Ross County
+04/05/18,PRE,Partick Thistle,1-1,Ross County
+08/05/18,PRE,Ross County,0-1,Dundee
+12/05/18,PRE,St. Johnstone,1-1,Ross County
+30/06/18,CLF,Wick Academy,3-1,Ross County
+30/06/18,CLF,Nairn County,0-3,Ross County
+04/07/18,CLF,Ross County,0-2,Sint-Truiden
+06/07/18,CLF,Utrecht,2-0,Ross County
+10/07/18,CLF,Clachnacuddin,0-7,Ross County
+14/07/18,LEC,Ross County,2-0,Elgin City
+17/07/18,LEC,Ross County,1-0,Dundee United
+25/07/18,LEC,Arbroath,4-1,Ross County
+28/07/18,LEC,Alloa Athletic,0-2,Ross County
+04/08/18,CHA,Ross County,1-0,Alloa Athletic
+11/08/18,CHA,Dunfermline Athletic,1-3,Ross County
+14/08/18,CHC,Hearts II,1-2,Ross County
+19/08/18,LEC,Hibernian,3-2,Ross County
+25/08/18,CHA,Greenock Morton,2-1,Ross County
+01/09/18,CHA,Ross County,2-0,Falkirk
+08/09/18,CHC,Ross County,5-0,Raith Rovers
+15/09/18,CHA,Queen of the South,0-0,Ross County
+22/09/18,CHA,Ross County,0-0,Inverness CT
+29/09/18,CHA,Dundee United,1-5,Ross County
+06/10/18,CHA,Partick Thistle,0-2,Ross County
+13/10/18,CHC,Ross County,3-1,Montrose
+20/10/18,CHA,Ross County,2-1,Ayr United
+27/10/18,CHA,Ross County,5-0,Greenock Morton
+30/10/18,CHA,Falkirk,1-1,Ross County
+03/11/18,CHA,Inverness CT,2-2,Ross County
+10/11/18,CHA,Ross County,0-1,Dundee United
+17/11/18,CHC,Motherwell II,1-2,Ross County
+24/11/18,CHA,Ross County,2-1,Dunfermline Athletic
+01/12/18,CHA,Alloa Athletic,0-1,Ross County
+08/12/18,CHA,Ross County,1-1,Queen of the South
+15/12/18,CHA,Ayr United,3-3,Ross County
+22/12/18,CHA,Ross County,2-0,Partick Thistle
+29/12/18,CHA,Ross County,2-1,Inverness CT
+28/12/16,PRE,Celtic,2-0,Ross County
+31/12/16,PRE,Ross County,3-2,Inverness CT
+21/01/17,FAC,Ross County,6-2,Dundee United
+28/01/17,PRE,Kilmarnock,3-2,Ross County
+31/01/17,PRE,Ross County,1-2,Motherwell
+04/02/17,PRE,Rangers,1-1,Ross County
+11/02/17,FAC,Ross County,0-1,Aberdeen
+18/02/17,PRE,Ross County,1-2,St. Johnstone
+25/02/17,PRE,Aberdeen,1-0,Ross County
+01/03/17,PRE,Hearts,0-1,Ross County
+11/03/17,PRE,Ross County,1-2,Kilmarnock
+18/03/17,PRE,Inverness CT,1-1,Ross County
+01/04/17,PRE,Partick Thistle,2-1,Ross County
+04/04/17,PRE,Ross County,2-1,Dundee
+08/04/17,PRE,Hamilton Academical,1-1,Ross County
+16/04/17,PRE,Ross County,2-2,Celtic
+28/04/17,PRE,Ross County,4-0,Inverness CT
+06/05/17,PRE,Motherwell,0-1,Ross County
+13/05/17,PRE,Dundee,1-1,Ross County
+16/05/17,PRE,Ross County,3-2,Hamilton Academical
+20/05/17,PRE,Kilmarnock,1-2,Ross County
+01/07/17,CLF,Elgin City,0-1,Ross County
+06/07/17,CLF,Valenciennes,2-1,Ross County
+15/07/17,LEC,Ross County,2-0,Alloa Athletic
+18/07/17,LEC,Montrose,0-6,Ross County
+21/07/17,LEC,Ross County,P0-0P,Hibernian
+29/07/17,LEC,Arbroath,P0-0P,Ross County
+05/08/17,PRE,Dundee,1-2,Ross County
+09/08/17,LEC,Ross County,E2-3E,Motherwell
+12/08/17,PRE,Ross County,1-2,Aberdeen
+19/08/17,PRE,Motherwell,2-0,Ross County
+27/08/17,PRE,Ross County,1-3,Rangers
+09/09/17,PRE,Ross County,1-1,Partick Thistle
+16/09/17,PRE,Celtic,4-0,Ross County
+23/09/17,PRE,Ross County,0-1,Hibernian
+30/09/17,PRE,Kilmarnock,0-2,Ross County
+14/10/17,PRE,Ross County,1-2,Hearts
+21/10/17,PRE,Ross County,2-1,Hamilton Academical
+24/10/17,PRE,St. Johnstone,0-0,Ross County
+28/10/17,PRE,Aberdeen,2-1,Ross County
+04/11/17,PRE,Ross County,3-2,Motherwell
+18/11/17,PRE,Ross County,0-1,Celtic
+25/11/17,PRE,Hearts,0-0,Ross County
+02/12/17,PRE,Ross County,0-2,Dundee
+09/12/17,PRE,Rangers,2-1,Ross County
+12/12/17,PRE,Ross County,2-2,Kilmarnock
+16/12/17,PRE,Hamilton Academical,3-2,Ross County
+23/12/17,PRE,Hibernian,2-1,Ross County
+27/12/17,PRE,Ross County,1-1,St. Johnstone
+30/12/17,PRE,Partick Thistle,2-0,Ross County
+26/12/15,PRE,Ross County,5-2,Dundee
+29/12/15,PRE,Ross County,3-2,Kilmarnock
+02/01/16,PRE,Inverness CT,2-0,Ross County
+09/01/16,FAC,Dunfermline Athletic,2-2,Ross County
+12/01/16,FAC,Ross County,1-0,Dunfermline Athletic
+17/01/16,PRE,Ross County,2-3,Aberdeen
+23/01/16,PRE,Motherwell,1-2,Ross County
+31/01/16,LEC,Ross County,3-1,Celtic
+06/02/16,FAC,Ross County,4-2,Linlithgow Rose
+10/02/16,PRE,Ross County,0-3,Hearts
+13/02/16,PRE,Celtic,2-0,Ross County
+20/02/16,PRE,Ross County,2-1,Hamilton Academical
+27/02/16,PRE,Ross County,0-3,Dundee United
+01/03/16,PRE,Kilmarnock,0-2,Ross County
+05/03/16,FAC,Ross County,2-3,Dundee United
+13/03/16,LEC,Hibernian,1-2,Ross County
+16/03/16,PRE,St. Johnstone,1-1,Ross County
+19/03/16,PRE,Ross County,0-3,Inverness CT
+02/04/16,PRE,Dundee,5-2,Ross County
+09/04/16,PRE,Ross County,1-0,Partick Thistle
+24/04/16,PRE,Celtic,1-1,Ross County
+30/04/16,PRE,Ross County,0-1,St. Johnstone
+07/05/16,PRE,Hearts,1-1,Ross County
+11/05/16,PRE,Ross County,1-3,Motherwell
+15/05/16,PRE,Aberdeen,0-4,Ross County
+05/07/16,CLF,Paks,1-3,Ross County
+08/07/16,CLF,Soroksár SC,1-1,Ross County
+16/07/16,LEC,Montrose,0-1,Ross County
+23/07/16,LEC,Ross County,P1-1P,Raith Rovers
+26/07/16,LEC,Alloa Athletic,3-2,Ross County
+30/07/16,LEC,Ross County,7-0,Cove Rangers
+06/08/16,PRE,Ross County,1-3,Dundee
+13/08/16,PRE,Inverness CT,2-3,Ross County
+20/08/16,PRE,Ross County,2-0,Kilmarnock
+27/08/16,PRE,Hamilton Academical,1-0,Ross County
+10/09/16,PRE,Ross County,1-1,Motherwell
+17/09/16,PRE,Rangers,0-0,Ross County
+24/09/16,PRE,Hearts,0-0,Ross County
+01/10/16,PRE,Ross County,0-2,St. Johnstone
+15/10/16,PRE,Aberdeen,4-0,Ross County
+22/10/16,PRE,Partick Thistle,1-1,Ross County
+26/10/16,PRE,Ross County,0-4,Celtic
+29/10/16,PRE,Motherwell,4-1,Ross County
+06/11/16,PRE,Ross County,1-1,Rangers
+19/11/16,PRE,St. Johnstone,2-4,Ross County
+26/11/16,PRE,Ross County,1-1,Hamilton Academical
+03/12/16,PRE,Ross County,2-2,Hearts
+10/12/16,PRE,Dundee,0-0,Ross County
+17/12/16,PRE,Ross County,2-1,Aberdeen
+23/12/16,PRE,Ross County,1-3,Partick Thistle
+13/12/14,PRE,Motherwell,2-2,Ross County
+20/12/14,PRE,Ross County,0-1,Hamilton Academical
+27/12/14,PRE,Celtic,0-0,Ross County
+01/01/15,PRE,Ross County,1-3,Inverness CT
+04/01/15,PRE,Dundee,1-1,Ross County
+17/01/15,PRE,Ross County,1-2,St. Mirren
+24/01/15,PRE,Ross County,0-1,Celtic
+31/01/15,PRE,Inverness CT,1-1,Ross County
+07/02/15,PRE,Aberdeen,4-0,Ross County
+14/02/15,PRE,Ross County,3-2,Motherwell
+21/02/15,PRE,Partick Thistle,1-3,Ross County
+28/02/15,PRE,Ross County,1-0,Dundee
+07/03/15,PRE,Ross County,1-0,Partick Thistle
+14/03/15,PRE,Hamilton Academical,2-2,Ross County
+21/03/15,PRE,Ross County,2-1,Kilmarnock
+04/04/15,PRE,Dundee United,1-2,Ross County
+07/04/15,PRE,Ross County,1-0,St. Johnstone
+13/04/15,PRE,St. Mirren,0-3,Ross County
+25/04/15,PRE,Ross County,1-2,Partick Thistle
+02/05/15,PRE,Motherwell,1-1,Ross County
+09/05/15,PRE,Ross County,1-2,St. Mirren
+16/05/15,PRE,Ross County,2-1,Hamilton Academical
+23/05/15,PRE,Kilmarnock,1-2,Ross County
+08/07/15,CLF,Nairn County,1-2,Ross County
+11/07/15,CLF,Elgin City,3-5,Ross County
+14/07/15,CLF,Soroksár SC,1-1,Ross County
+18/07/15,CLF,Szolnoki MÁV,2-0,Ross County
+25/07/15,CLF,Ross County,0-2,NEC
+01/08/15,PRE,Celtic,2-0,Ross County
+08/08/15,PRE,Ross County,2-0,Hamilton Academical
+11/08/15,PRE,St. Johnstone,1-1,Ross County
+15/08/15,PRE,Ross County,1-2,Hearts
+22/08/15,PRE,Kilmarnock,0-4,Ross County
+25/08/15,LEC,Ross County,2-0,Ayr United
+29/08/15,PRE,Ross County,2-1,Dundee United
+12/09/15,PRE,Motherwell,1-1,Ross County
+19/09/15,PRE,Ross County,1-0,Partick Thistle
+22/09/15,LEC,Ross County,7-0,Falkirk
+26/09/15,PRE,Dundee,3-3,Ross County
+03/10/15,PRE,Ross County,1-2,Inverness CT
+16/10/15,PRE,Ross County,2-0,Aberdeen
+24/10/15,PRE,Hearts,2-0,Ross County
+27/10/15,LEC,Inverness CT,1-2,Ross County
+31/10/15,PRE,Dundee United,1-0,Ross County
+08/11/15,PRE,Ross County,1-4,Celtic
+21/11/15,PRE,Ross County,3-0,Motherwell
+28/11/15,PRE,Aberdeen,3-1,Ross County
+05/12/15,PRE,Ross County,2-3,St. Johnstone
+12/12/15,PRE,Hamilton Academical,1-3,Ross County
+19/12/15,PRE,Partick Thistle,1-0,Ross County
+09/11/13,PRE,Ross County,1-4,Celtic
+17/11/13,PRE,St. Mirren,2-1,Ross County
+23/11/13,PRE,Hearts,2-2,Ross County
+30/11/13,FAC,Ross County,0-1,Hibernian
+07/12/13,PRE,Ross County,1-2,Kilmarnock
+14/12/13,PRE,Ross County,1-2,Motherwell
+21/12/13,PRE,Dundee United,1-0,Ross County
+26/12/13,PRE,Ross County,0-2,Hibernian
+29/12/13,PRE,Aberdeen,1-0,Ross County
+01/01/14,PRE,Inverness CT,1-2,Ross County
+04/01/14,PRE,Ross County,1-0,St. Johnstone
+11/01/14,PRE,Partick Thistle,3-3,Ross County
+18/01/14,PRE,Ross County,3-0,Dundee United
+25/01/14,PRE,Ross County,1-2,Hearts
+01/02/14,PRE,Kilmarnock,2-2,Ross County
+15/02/14,PRE,Hibernian,2-1,Ross County
+22/02/14,PRE,Ross County,2-1,St. Mirren
+25/02/14,PRE,Ross County,0-3,Inverness CT
+01/03/14,PRE,Ross County,1-1,Partick Thistle
+15/03/14,PRE,St. Johnstone,0-1,Ross County
+22/03/14,PRE,Motherwell,2-1,Ross County
+25/03/14,PRE,Ross County,1-1,Aberdeen
+29/03/14,PRE,Celtic,1-1,Ross County
+04/04/14,PRE,Ross County,1-2,Inverness CT
+19/04/14,PRE,Hearts,2-0,Ross County
+26/04/14,PRE,Ross County,2-1,Kilmarnock
+03/05/14,PRE,St. Mirren,1-0,Ross County
+06/05/14,PRE,Ross County,1-0,Hibernian
+10/05/14,PRE,Partick Thistle,2-3,Ross County
+22/07/14,CLF,Clachnacuddin,0-4,Ross County
+26/07/14,CLF,Nairn County,1-1,Ross County
+01/08/14,CLF,Twente II,2-1,Ross County
+10/08/14,PRE,Ross County,1-2,St. Johnstone
+13/08/14,PRE,Partick Thistle,4-0,Ross County
+16/08/14,PRE,Ross County,1-2,Kilmarnock
+23/08/14,PRE,Dundee United,2-1,Ross County
+26/08/14,LEC,Stranraer,1-2,Ross County
+30/08/14,PRE,Hamilton Academical,4-0,Ross County
+13/09/14,PRE,Ross County,1-2,Motherwell
+20/09/14,PRE,Aberdeen,3-0,Ross County
+23/09/14,LEC,Ross County,0-2,Hibernian
+27/09/14,PRE,Ross County,2-1,Dundee
+05/10/14,PRE,Inverness CT,1-1,Ross County
+18/10/14,PRE,Ross County,0-5,Celtic
+25/10/14,PRE,St. Mirren,2-2,Ross County
+03/11/14,PRE,Ross County,0-1,Aberdeen
+08/11/14,PRE,Kilmarnock,0-3,Ross County
+22/11/14,PRE,St. Johnstone,2-1,Ross County
+29/11/14,FAC,St. Johnstone,2-1,Ross County
+05/12/14,PRE,Ross County,2-3,Dundee United

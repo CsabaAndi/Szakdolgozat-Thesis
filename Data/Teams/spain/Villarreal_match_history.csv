@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+13/08/23,LAL,Villarreal,1-2,Real Betis
+18/08/23,LAL,Mallorca,0-1,Villarreal
+27/08/23,LAL,Villarreal,3-4,Barcelona
+01/09/23,LAL,Cadiz,3-1,Villarreal
+17/09/23,LAL,Villarreal,2-1,Almeria
+21/09/23,UEL,Panathinaikos,2-0,Villarreal
+24/09/23,LAL,Rayo Vallecano,1-1,Villarreal
+27/09/23,LAL,Villarreal,1-2,Girona
+30/09/23,LAL,Getafe,0-0,Villarreal
+05/10/23,UEL,Villarreal,1-0,Rennes
+08/10/23,LAL,Villarreal,1-2,Las Palmas
+22/10/23,LAL,Villarreal,1-1,Alaves
+30/10/23,LAL,Granada,2-3,Villarreal
+02/11/23,CDR,Chiclana,0-5,Villarreal
+05/11/23,LAL,Villarreal,2-3,Athletic Bilbao
+09/11/23,UEL,Maccabi Haifa,1-2,Villarreal
+12/11/23,LAL,Atletico Madrid,3-1,Villarreal
+22/11/23,CDR,Zamora,E1-2E,Villarreal
+26/11/23,LAL,Villarreal,3-1,Osasuna
+30/11/23,UEL,Villarreal,3-2,Panathinaikos
+03/12/23,LAL,Sevilla,1-1,Villarreal
+06/12/23,UEL,Villarreal,0-0,Maccabi Haifa
+09/12/23,LAL,Villarreal,0-3,Real Sociedad
+14/12/23,UEL,Rennes,2-3,Villarreal
+17/12/23,LAL,Real Madrid,4-1,Villarreal
+20/12/23,LAL,Villarreal,3-2,Celta Vigo
+02/01/24,LAL,Valencia,3-1,Villarreal
+08/01/24,CDR,Unionistas de Salamanca,P1-1P,Villarreal
+13/01/24,LAL,Las Palmas,3-0,Villarreal
+20/01/24,LAL,Villarreal,1-1,Mallorca
+27/01/24,LAL,Barcelona,3-5,Villarreal
+04/02/24,LAL,Villarreal,0-0,Cadiz
+10/02/24,LAL,Alaves,1-1,Villarreal
+16/02/24,LAL,Villarreal,1-1,Getafe
+23/02/24,LAL,Real Sociedad,1-3,Villarreal
+03/03/24,LAL,Villarreal,5-1,Granada
+07/03/24,UEL,Marseille,4-0,Villarreal
+10/03/24,LAL,Real Betis,2-3,Villarreal
+14/03/24,UEL,Villarreal,3-1,Marseille
+17/03/24,LAL,Villarreal,1-0,Valencia
+01/04/24,LAL,Villarreal,1-2,Atletico Madrid
+14/04/24,LAL,Athletic Bilbao,1-1,Villarreal
+21/04/24,LAL,Almeria,1-2,Villarreal
+28/04/24,LAL,Villarreal,3-0,Rayo Vallecano
+05/05/24,LAL,Celta Vigo,16:15,Villarreal
+11/05/24,LAL,Villarreal,16:15,Sevilla
+14/05/24,LAL,Girona,22:00,Villarreal
+19/05/24,LAL,Villarreal,-,Real Madrid
+26/05/24,LAL,Osasuna,-,Villarreal
+06/08/24,CLF,Borussia Dortmund,-,Villarreal
+13/10/22,UEC,Austria Vienna,0-1,Villarreal
+17/10/22,LAL,Villarreal,2-0,Osasuna
+20/10/22,LAL,Barcelona,3-0,Villarreal
+23/10/22,LAL,Villarreal,2-1,Almeria
+27/10/22,UEC,Villarreal,2-2,Hapoel Be'er Sheva
+30/10/22,LAL,Athletic Bilbao,1-0,Villarreal
+03/11/22,UEC,Lech Poznań,3-0,Villarreal
+06/11/22,LAL,Villarreal,0-2,Mallorca
+09/11/22,LAL,Espanyol,0-1,Villarreal
+12/11/22,CDR,Santa Amalia,0-9,Villarreal
+03/12/22,CLF,Fenerbahce,2-1,Villarreal
+06/12/22,CLF,Galatasaray,3-4,Villarreal
+15/12/22,CLF,Aston Villa,0-1,Villarreal
+17/12/22,CLF,Napoli,2-3,Villarreal
+20/12/22,CDR,Guijuelo,E1-2E,Villarreal
+31/12/22,LAL,Villarreal,2-1,Valencia
+03/01/23,CDR,FC Cartagena,1-5,Villarreal
+07/01/23,LAL,Villarreal,2-1,Real Madrid
+13/01/23,LAL,Celta Vigo,1-1,Villarreal
+19/01/23,CDR,Villarreal,2-3,Real Madrid
+22/01/23,LAL,Villarreal,1-0,Girona
+30/01/23,LAL,Villarreal,0-1,Rayo Vallecano
+04/02/23,LAL,Elche,3-1,Villarreal
+12/02/23,LAL,Villarreal,0-1,Barcelona
+18/02/23,LAL,Mallorca,4-2,Villarreal
+27/02/23,LAL,Villarreal,2-1,Getafe
+04/03/23,LAL,Almeria,0-2,Villarreal
+09/03/23,UEC,Anderlecht,1-1,Villarreal
+12/03/23,LAL,Villarreal,1-1,Real Betis
+16/03/23,UEC,Villarreal,0-1,Anderlecht
+19/03/23,LAL,Osasuna,0-3,Villarreal
+02/04/23,LAL,Villarreal,2-0,Real Sociedad
+08/04/23,LAL,Real Madrid,2-3,Villarreal
+15/04/23,LAL,Villarreal,1-2,Real Valladolid
+23/04/23,LAL,Sevilla,2-1,Villarreal
+27/04/23,LAL,Villarreal,4-2,Espanyol
+30/04/23,LAL,Villarreal,3-1,Celta Vigo
+03/05/23,LAL,Valencia,1-1,Villarreal
+13/05/23,LAL,Villarreal,5-1,Athletic Bilbao
+20/05/23,LAL,Girona,1-2,Villarreal
+24/05/23,LAL,Villarreal,2-0,Cadiz
+28/05/23,LAL,Rayo Vallecano,2-1,Villarreal
+04/06/23,LAL,Villarreal,2-2,Atletico Madrid
+15/07/23,CLF,St.Gallen,6-1,Villarreal
+18/07/23,CLF,Rheindorf Altach,0-3,Villarreal
+22/07/23,CLF,Hannover 96,3-0,Villarreal
+27/07/23,CLF,Feyenoord,1-1,Villarreal
+30/07/23,CLF,Sporting Lisbon,3-0,Villarreal
+05/08/23,CLF,Nice,1-1,Villarreal
+06/08/23,CLF,Newcastle United,4-0,Villarreal
+18/12/21,LAL,Real Sociedad,1-3,Villarreal
+21/12/21,LAL,Villarreal,5-2,Alaves
+03/01/22,LAL,Villarreal,5-0,Levante
+06/01/22,CDR,Sporting Gijon,2-1,Villarreal
+09/01/22,LAL,Villarreal,2-2,Atletico Madrid
+16/01/22,LAL,Elche,1-0,Villarreal
+22/01/22,LAL,Villarreal,3-0,Mallorca
+06/02/22,LAL,Real Betis,0-2,Villarreal
+12/02/22,LAL,Villarreal,0-0,Real Madrid
+19/02/22,LAL,Granada,1-4,Villarreal
+22/02/22,UCL,Villarreal,1-1,Juventus
+27/02/22,LAL,Villarreal,5-1,Espanyol
+05/03/22,LAL,Osasuna,1-0,Villarreal
+12/03/22,LAL,Villarreal,1-0,Celta Vigo
+16/03/22,UCL,Juventus,0-3,Villarreal
+20/03/22,LAL,Cadiz,1-0,Villarreal
+02/04/22,LAL,Levante,2-0,Villarreal
+06/04/22,UCL,Villarreal,1-0,Bayern Munich
+09/04/22,LAL,Villarreal,1-1,Athletic Bilbao
+12/04/22,UCL,Bayern Munich,1-1,Villarreal
+16/04/22,LAL,Getafe,1-2,Villarreal
+19/04/22,LAL,Villarreal,2-0,Valencia
+27/04/22,UCL,Liverpool,2-0,Villarreal
+30/04/22,LAL,Alaves,2-1,Villarreal
+03/05/22,UCL,Villarreal,2-3,Liverpool
+08/05/22,LAL,Villarreal,1-1,Sevilla
+12/05/22,LAL,Rayo Vallecano,1-5,Villarreal
+15/05/22,LAL,Villarreal,1-2,Real Sociedad
+22/05/22,LAL,Barcelona,0-2,Villarreal
+14/07/22,CLF,Sporting Lisbon,1-1,Villarreal
+16/07/22,CLF,PSV,1-2,Villarreal
+22/07/22,CLF,Borussia Dortmund,0-2,Villarreal
+24/07/22,CLF,Reims,0-1,Villarreal
+30/07/22,CLF,Southampton,1-2,Villarreal
+31/07/22,CLF,Fulham,1-1,Villarreal
+03/08/22,CLF,Villarreal,3-1,Levante
+06/08/22,CLF,Inter Milan,2-4,Villarreal
+13/08/22,LAL,Real Valladolid,0-3,Villarreal
+18/08/22,UEC,Villarreal,4-2,Hajduk Split
+21/08/22,LAL,Atletico Madrid,0-2,Villarreal
+25/08/22,UEC,Hajduk Split,0-2,Villarreal
+28/08/22,LAL,Getafe,0-0,Villarreal
+04/09/22,LAL,Villarreal,4-0,Elche
+08/09/22,UEC,Villarreal,4-3,Lech Poznań
+11/09/22,LAL,Real Betis,1-0,Villarreal
+15/09/22,UEC,Hapoel Be'er Sheva,1-2,Villarreal
+18/09/22,LAL,Villarreal,1-1,Sevilla
+01/10/22,LAL,Cadiz,0-0,Villarreal
+06/10/22,UEC,Villarreal,5-0,Austria Vienna
+09/10/22,LAL,Real Sociedad,1-0,Villarreal
+21/03/21,LAL,Villarreal,2-1,Cadiz
+03/04/21,LAL,Granada,0-3,Villarreal
+08/04/21,UEL,Dinamo Zagreb,0-1,Villarreal
+11/04/21,LAL,Villarreal,1-2,Osasuna
+15/04/21,UEL,Villarreal,2-1,Dinamo Zagreb
+18/04/21,LAL,Levante,1-5,Villarreal
+21/04/21,LAL,Alaves,2-1,Villarreal
+25/04/21,LAL,Villarreal,1-2,Barcelona
+29/04/21,UEL,Villarreal,2-1,Arsenal
+02/05/21,LAL,Villarreal,1-0,Getafe
+06/05/21,UEL,Arsenal,0-0,Villarreal
+09/05/21,LAL,Villarreal,2-4,Celta Vigo
+13/05/21,LAL,Real Valladolid,0-2,Villarreal
+16/05/21,LAL,Villarreal,4-0,Sevilla
+22/05/21,LAL,Real Madrid,2-1,Villarreal
+26/05/21,UEL,Villarreal,P1-1P,Manchester United
+16/07/21,CLF,Valencia,3-2,Villarreal
+22/07/21,CLF,Lyon,2-2,Villarreal
+24/07/21,CLF,Honvéd,CANC,Villarreal
+28/07/21,CLF,Hertha Berlin,CANC,Villarreal
+29/07/21,CLF,Villarreal,0-0,Levante
+31/07/21,CLF,Marseille,2-1,Villarreal
+04/08/21,CLF,Leicester City,3-2,Villarreal
+07/08/21,CLF,Leeds United,2-2,Villarreal
+11/08/21,USC,Chelsea,P1-1P,Villarreal
+16/08/21,LAL,Villarreal,0-0,Granada
+21/08/21,LAL,Espanyol,0-0,Villarreal
+29/08/21,LAL,Atletico Madrid,2-2,Villarreal
+03/09/21,CLF,Sporting Braga,3-2,Villarreal
+14/09/21,UCL,Villarreal,2-2,Atalanta
+19/09/21,LAL,Mallorca,0-0,Villarreal
+22/09/21,LAL,Villarreal,4-1,Elche
+25/09/21,LAL,Real Madrid,0-0,Villarreal
+29/09/21,UCL,Manchester United,2-1,Villarreal
+03/10/21,LAL,Villarreal,2-0,Real Betis
+17/10/21,LAL,Villarreal,1-2,Osasuna
+20/10/21,UCL,Young Boys,1-4,Villarreal
+23/10/21,LAL,Athletic Bilbao,2-1,Villarreal
+26/10/21,LAL,Villarreal,3-3,Cadiz
+30/10/21,LAL,Valencia,2-0,Villarreal
+02/11/21,UCL,Villarreal,2-0,Young Boys
+07/11/21,LAL,Villarreal,1-0,Getafe
+20/11/21,LAL,Celta Vigo,1-1,Villarreal
+23/11/21,UCL,Villarreal,0-2,Manchester United
+27/11/21,LAL,Villarreal,1-3,Barcelona
+30/11/21,CDR,Victoria CF,0-8,Villarreal
+04/12/21,LAL,Sevilla,1-0,Villarreal
+09/12/21,UCL,Atalanta,2-3,Villarreal
+12/12/21,LAL,Villarreal,2-0,Rayo Vallecano
+15/12/21,CDR,Sanluqueño,1-7,Villarreal
+13/07/20,LAL,Villarreal,1-2,Real Sociedad
+16/07/20,LAL,Real Madrid,2-1,Villarreal
+19/07/20,LAL,Villarreal,4-0,Eibar
+23/08/20,CLF,Villarreal,3-1,FC Cartagena
+25/08/20,CLF,Villarreal,2-3,Tenerife
+28/08/20,CLF,Valencia,2-1,Villarreal
+02/09/20,CLF,Villarreal,2-0,Real Sociedad
+05/09/20,CLF,Villarreal,1-2,Levante
+13/09/20,LAL,Villarreal,1-1,Huesca
+19/09/20,LAL,Villarreal,2-1,Eibar
+27/09/20,LAL,Barcelona,4-0,Villarreal
+30/09/20,LAL,Villarreal,3-1,Alaves
+03/10/20,LAL,Atletico Madrid,0-0,Villarreal
+18/10/20,LAL,Villarreal,2-1,Valencia
+22/10/20,UEL,Villarreal,5-3,Sivasspor
+25/10/20,LAL,Cadiz,0-0,Villarreal
+29/10/20,UEL,Qarabag,1-3,Villarreal
+02/11/20,LAL,Villarreal,2-0,Real Valladolid
+05/11/20,UEL,Villarreal,4-0,Maccabi Tel Aviv
+08/11/20,LAL,Getafe,1-3,Villarreal
+21/11/20,LAL,Villarreal,1-1,Real Madrid
+26/11/20,UEL,Maccabi Tel Aviv,1-1,Villarreal
+29/11/20,LAL,Real Sociedad,1-1,Villarreal
+03/12/20,UEL,Sivasspor,0-1,Villarreal
+06/12/20,LAL,Villarreal,0-0,Elche
+10/12/20,UEL,Villarreal,3-0,Qarabag
+13/12/20,LAL,Real Betis,1-1,Villarreal
+16/12/20,CDR,Leioa,0-6,Villarreal
+19/12/20,LAL,Osasuna,1-3,Villarreal
+22/12/20,LAL,Villarreal,1-1,Athletic Bilbao
+29/12/20,LAL,Sevilla,2-0,Villarreal
+02/01/21,LAL,Villarreal,2-1,Levante
+05/01/21,CDR,Zamora,1-4,Villarreal
+08/01/21,LAL,Celta Vigo,0-4,Villarreal
+17/01/21,CDR,Tenerife,0-1,Villarreal
+20/01/21,LAL,Villarreal,2-2,Granada
+23/01/21,LAL,Huesca,0-0,Villarreal
+26/01/21,CDR,Girona,0-1,Villarreal
+30/01/21,LAL,Villarreal,1-1,Real Sociedad
+03/02/21,CDR,Levante,E1-0E,Villarreal
+06/02/21,LAL,Elche,2-2,Villarreal
+14/02/21,LAL,Villarreal,1-2,Real Betis
+18/02/21,UEL,Salzburg,0-2,Villarreal
+21/02/21,LAL,Athletic Bilbao,1-1,Villarreal
+25/02/21,UEL,Villarreal,2-1,Salzburg
+28/02/21,LAL,Villarreal,0-2,Atletico Madrid
+05/03/21,LAL,Valencia,2-1,Villarreal
+11/03/21,UEL,Dinamo Kiev,0-2,Villarreal
+14/03/21,LAL,Eibar,1-3,Villarreal
+18/03/21,UEL,Villarreal,2-0,Dinamo Kiev
+05/05/19,LAL,Real Madrid,3-2,Villarreal
+12/05/19,LAL,Villarreal,1-0,Eibar
+18/05/19,LAL,Getafe,2-2,Villarreal
+13/07/19,CLF,Villarreal,3-0,West Bromwich Albion
+20/07/19,CLF,Levante,1-2,Villarreal
+26/07/19,CLF,Augsburg,2-6,Villarreal
+28/07/19,CLF,FC Cologne,1-3,Villarreal
+02/08/19,CLF,Schalke 04,3-1,Villarreal
+07/08/19,CLF,La Nucía,0-4,Villarreal
+10/08/19,CLF,Bologna,3-4,Villarreal
+17/08/19,LAL,Villarreal,4-4,Granada
+23/08/19,LAL,Levante,2-1,Villarreal
+01/09/19,LAL,Villarreal,2-2,Real Madrid
+14/09/19,LAL,Leganes,0-3,Villarreal
+21/09/19,LAL,Villarreal,2-0,Real Valladolid
+24/09/19,LAL,Barcelona,2-1,Villarreal
+27/09/19,LAL,Villarreal,5-1,Real Betis
+05/10/19,LAL,Osasuna,2-1,Villarreal
+20/10/19,LAL,Espanyol,0-1,Villarreal
+25/10/19,LAL,Villarreal,4-1,Alaves
+31/10/19,LAL,Eibar,2-1,Villarreal
+03/11/19,LAL,Villarreal,0-0,Athletic Bilbao
+10/11/19,LAL,Mallorca,3-1,Villarreal
+24/11/19,LAL,Villarreal,1-3,Celta Vigo
+30/11/19,LAL,Valencia,2-1,Villarreal
+06/12/19,LAL,Villarreal,0-0,Atletico Madrid
+15/12/19,LAL,Sevilla,1-2,Villarreal
+18/12/19,CDR,Comillas,0-5,Villarreal
+21/12/19,LAL,Villarreal,1-0,Getafe
+05/01/20,LAL,Real Sociedad,1-2,Villarreal
+11/01/20,CDR,Orihuela,E1-2E,Villarreal
+19/01/20,LAL,Villarreal,1-2,Espanyol
+22/01/20,CDR,Girona,0-3,Villarreal
+25/01/20,LAL,Alaves,1-2,Villarreal
+29/01/20,CDR,Rayo Vallecano,0-2,Villarreal
+02/02/20,LAL,Villarreal,3-1,Osasuna
+05/02/20,CDR,Mirandes,4-2,Villarreal
+08/02/20,LAL,Real Valladolid,1-1,Villarreal
+15/02/20,LAL,Villarreal,2-1,Levante
+23/02/20,LAL,Atletico Madrid,3-1,Villarreal
+01/03/20,LAL,Athletic Bilbao,1-0,Villarreal
+08/03/20,LAL,Villarreal,1-2,Leganes
+13/06/20,LAL,Celta Vigo,0-1,Villarreal
+16/06/20,LAL,Villarreal,1-0,Mallorca
+19/06/20,LAL,Granada,0-1,Villarreal
+22/06/20,LAL,Villarreal,2-2,Sevilla
+28/06/20,LAL,Villarreal,2-0,Valencia
+01/07/20,LAL,Real Betis,0-2,Villarreal
+05/07/20,LAL,Villarreal,1-4,Barcelona
+08/07/20,LAL,Getafe,1-3,Villarreal
+26/08/18,LAL,Sevilla,0-0,Villarreal
+31/08/18,LAL,Villarreal,0-1,Girona
+16/09/18,LAL,Leganes,0-1,Villarreal
+20/09/18,UEL,Villarreal,2-2,Rangers
+23/09/18,LAL,Villarreal,0-0,Valencia
+26/09/18,LAL,Athletic Bilbao,0-3,Villarreal
+30/09/18,LAL,Villarreal,0-1,Real Valladolid
+04/10/18,UEL,Spartak Moscow,3-3,Villarreal
+07/10/18,LAL,Espanyol,3-1,Villarreal
+20/10/18,LAL,Villarreal,1-1,Atletico Madrid
+25/10/18,UEL,Villarreal,5-0,Rapid Vienna
+28/10/18,LAL,Alaves,2-1,Villarreal
+01/11/18,CDR,Almeria,3-3,Villarreal
+04/11/18,LAL,Villarreal,1-1,Levante
+08/11/18,UEL,Rapid Vienna,0-0,Villarreal
+11/11/18,LAL,Rayo Vallecano,2-2,Villarreal
+25/11/18,LAL,Villarreal,2-1,Real Betis
+29/11/18,UEL,Rangers,0-0,Villarreal
+02/12/18,LAL,Barcelona,2-0,Villarreal
+05/12/18,CDR,Villarreal,8-0,Almeria
+08/12/18,LAL,Villarreal,2-3,Celta Vigo
+13/12/18,UEL,Villarreal,2-0,Spartak Moscow
+16/12/18,LAL,Huesca,2-2,Villarreal
+03/01/19,LAL,Villarreal,2-2,Real Madrid
+06/01/19,LAL,Eibar,0-0,Villarreal
+09/01/19,CDR,Villarreal,2-2,Espanyol
+12/01/19,LAL,Villarreal,1-2,Getafe
+17/01/19,CDR,Espanyol,3-1,Villarreal
+20/01/19,LAL,Villarreal,1-1,Athletic Bilbao
+26/01/19,LAL,Valencia,3-0,Villarreal
+03/02/19,LAL,Villarreal,2-2,Espanyol
+08/02/19,LAL,Real Valladolid,0-0,Villarreal
+14/02/19,UEL,Sporting Lisbon,0-1,Villarreal
+17/02/19,LAL,Villarreal,3-0,Sevilla
+21/02/19,UEL,Villarreal,1-1,Sporting Lisbon
+24/02/19,LAL,Atletico Madrid,2-0,Villarreal
+02/03/19,LAL,Villarreal,1-2,Alaves
+07/03/19,UEL,Zenit,1-3,Villarreal
+10/03/19,LAL,Levante,0-2,Villarreal
+14/03/19,UEL,Villarreal,2-1,Zenit
+17/03/19,LAL,Villarreal,3-1,Rayo Vallecano
+30/03/19,LAL,Celta Vigo,3-2,Villarreal
+02/04/19,LAL,Villarreal,4-4,Barcelona
+07/04/19,LAL,Real Betis,2-1,Villarreal
+11/04/19,UEL,Villarreal,1-3,Valencia
+14/04/19,LAL,Girona,0-1,Villarreal
+18/04/19,UEL,Valencia,2-0,Villarreal
+21/04/19,LAL,Villarreal,2-1,Leganes
+25/04/19,LAL,Real Sociedad,0-1,Villarreal
+28/04/19,LAL,Villarreal,1-1,Huesca
+15/10/17,LAL,Girona,1-2,Villarreal
+19/10/17,UEL,Villarreal,2-2,Slavia Prague
+22/10/17,LAL,Villarreal,4-0,Las Palmas
+25/10/17,CDR,Ponferradina,1-0,Villarreal
+28/10/17,LAL,Atletico Madrid,1-1,Villarreal
+02/11/17,UEL,Slavia Prague,0-2,Villarreal
+05/11/17,LAL,Villarreal,2-0,Malaga
+19/11/17,LAL,Athletic Bilbao,1-1,Villarreal
+23/11/17,UEL,Astana,2-3,Villarreal
+26/11/17,LAL,Villarreal,2-3,Sevilla
+30/11/17,CDR,Villarreal,3-0,Ponferradina
+03/12/17,LAL,Leganes,3-1,Villarreal
+07/12/17,UEL,Villarreal,0-1,Maccabi Tel Aviv
+10/12/17,LAL,Villarreal,0-2,Barcelona
+17/12/17,LAL,Celta Vigo,0-1,Villarreal
+23/12/17,LAL,Valencia,0-1,Villarreal
+04/01/18,CDR,Leganes,1-0,Villarreal
+07/01/18,LAL,Villarreal,1-1,Deportivo La Coruña
+10/01/18,CDR,Villarreal,2-1,Leganes
+13/01/18,LAL,Real Madrid,0-1,Villarreal
+20/01/18,LAL,Villarreal,2-1,Levante
+27/01/18,LAL,Villarreal,4-2,Real Sociedad
+03/02/18,LAL,Real Betis,2-1,Villarreal
+10/02/18,LAL,Villarreal,1-2,Alaves
+15/02/18,UEL,Lyon,3-1,Villarreal
+18/02/18,LAL,Espanyol,1-1,Villarreal
+22/02/18,UEL,Villarreal,0-1,Lyon
+25/02/18,LAL,Villarreal,1-0,Getafe
+28/02/18,LAL,Eibar,1-0,Villarreal
+03/03/18,LAL,Villarreal,0-2,Girona
+11/03/18,LAL,Las Palmas,0-2,Villarreal
+18/03/18,LAL,Villarreal,2-1,Atletico Madrid
+01/04/18,LAL,Malaga,1-0,Villarreal
+09/04/18,LAL,Villarreal,1-3,Athletic Bilbao
+14/04/18,LAL,Sevilla,2-2,Villarreal
+17/04/18,LAL,Villarreal,2-1,Leganes
+28/04/18,LAL,Villarreal,4-1,Celta Vigo
+05/05/18,LAL,Villarreal,1-0,Valencia
+09/05/18,LAL,Barcelona,5-1,Villarreal
+12/05/18,LAL,Deportivo La Coruña,2-4,Villarreal
+19/05/18,LAL,Villarreal,2-2,Real Madrid
+17/07/18,CLF,Villarreal,1-1,Hércules
+21/07/18,CLF,Marseille,1-1,Villarreal
+25/07/18,CLF,Montpellier,1-1,Villarreal
+28/07/18,CLF,Sheffield Wednesday,1-3,Villarreal
+01/08/18,CLF,Angers,0-0,Villarreal
+04/08/18,CLF,Wolverhampton Wanderers,2-1,Villarreal
+08/08/18,CLF,Villarreal,1-1,Real Zaragoza
+11/08/18,CLF,Werder Bremen,2-3,Villarreal
+18/08/18,LAL,Villarreal,1-2,Real Sociedad
+12/12/16,LAL,Villarreal,3-0,Atletico Madrid
+17/12/16,LAL,Sporting Gijon,1-3,Villarreal
+20/12/16,CDR,Villarreal,1-1,Toledo
+04/01/17,CDR,Real Sociedad,3-1,Villarreal
+08/01/17,LAL,Villarreal,1-1,Barcelona
+11/01/17,CDR,Villarreal,1-1,Real Sociedad
+14/01/17,LAL,Deportivo La Coruña,0-0,Villarreal
+21/01/17,LAL,Villarreal,0-2,Valencia
+28/01/17,LAL,Villarreal,2-0,Granada
+05/02/17,LAL,Sevilla,0-0,Villarreal
+12/02/17,LAL,Villarreal,1-1,Malaga
+16/02/17,UEL,Villarreal,0-4,Roma
+19/02/17,LAL,Real Sociedad,0-1,Villarreal
+23/02/17,UEL,Roma,0-1,Villarreal
+26/02/17,LAL,Villarreal,2-3,Real Madrid
+01/03/17,LAL,Osasuna,1-4,Villarreal
+04/03/17,LAL,Villarreal,2-0,Espanyol
+12/03/17,LAL,Celta Vigo,0-1,Villarreal
+17/03/17,LAL,Las Palmas,1-0,Villarreal
+01/04/17,LAL,Villarreal,2-3,Eibar
+04/04/17,LAL,Real Betis,0-1,Villarreal
+07/04/17,LAL,Villarreal,3-1,Athletic Bilbao
+17/04/17,LAL,Alaves,2-1,Villarreal
+22/04/17,LAL,Villarreal,2-1,Leganes
+25/04/17,LAL,Atletico Madrid,0-1,Villarreal
+28/04/17,LAL,Villarreal,3-1,Sporting Gijon
+06/05/17,LAL,Barcelona,4-1,Villarreal
+14/05/17,LAL,Villarreal,0-0,Deportivo La Coruña
+21/05/17,LAL,Valencia,1-3,Villarreal
+15/07/17,CLF,Villarreal,2-1,Villarreal II
+22/07/17,CLF,Gimnàstic Tarragona,2-0,Villarreal
+23/07/17,CLF,Real Sociedad,CANC,Villarreal
+26/07/17,CLF,Villarreal,CANC,Sporting Lisbon
+26/07/17,CLF,Reus Deportiu,0-1,Villarreal
+30/07/17,CLF,Villarreal,3-1,Levante
+02/08/17,CLF,Villarreal,CANC,Real Zaragoza
+03/08/17,CLF,Boca Juniors,1-0,Villarreal
+06/08/17,CLF,Inter Milan,3-1,Villarreal
+11/08/17,CLF,Malaga,1-0,Villarreal
+12/08/17,CLF,Cadiz,0-3,Villarreal
+13/08/17,CLF,Leganes,CANC,Villarreal
+21/08/17,LAL,Levante,1-0,Villarreal
+25/08/17,LAL,Real Sociedad,3-0,Villarreal
+10/09/17,LAL,Villarreal,3-1,Real Betis
+14/09/17,UEL,Villarreal,3-1,Astana
+17/09/17,LAL,Alaves,0-3,Villarreal
+21/09/17,LAL,Villarreal,0-0,Espanyol
+24/09/17,LAL,Getafe,4-0,Villarreal
+28/09/17,UEL,Maccabi Tel Aviv,0-0,Villarreal
+01/10/17,LAL,Villarreal,3-0,Eibar
+05/03/16,LAL,Villarreal,0-1,Las Palmas
+10/03/16,UEL,Villarreal,2-0,Bayer Leverkusen
+13/03/16,LAL,Sevilla,4-2,Villarreal
+17/03/16,UEL,Bayer Leverkusen,0-0,Villarreal
+20/03/16,LAL,Villarreal,2-2,Barcelona
+03/04/16,LAL,Eibar,1-2,Villarreal
+07/04/16,UEL,Villarreal,2-1,Sparta Prague
+10/04/16,LAL,Villarreal,2-0,Getafe
+14/04/16,UEL,Sparta Prague,2-4,Villarreal
+17/04/16,LAL,Rayo Vallecano,2-1,Villarreal
+20/04/16,LAL,Real Madrid,3-0,Villarreal
+24/04/16,LAL,Villarreal,0-0,Real Sociedad
+28/04/16,UEL,Villarreal,1-0,Liverpool
+01/05/16,LAL,Valencia,0-2,Villarreal
+05/05/16,UEL,Liverpool,3-0,Villarreal
+08/05/16,LAL,Villarreal,0-2,Deportivo La Coruña
+15/05/16,LAL,Sporting Gijon,2-0,Villarreal
+19/05/16,CLF,Novelda CF,2-2,Villarreal
+16/07/16,CLF,Villarreal,1-0,L'Hospitalet
+19/07/16,CLF,Real Unión,CANC,Villarreal
+20/07/16,CLF,Gimnàstic Tarragona,1-2,Villarreal
+23/07/16,CLF,Real Sociedad,1-1,Villarreal
+26/07/16,CLF,Villarreal,P0-0P,Sporting Lisbon
+30/07/16,CLF,Sporting Braga,0-0,Villarreal
+06/08/16,CLF,Porto,1-0,Villarreal
+09/08/16,CLF,Deportivo La Coruña,2-0,Villarreal
+13/08/16,CLF,Leganes,3-2,Villarreal
+17/08/16,UCL,Villarreal,1-2,Monaco
+20/08/16,LAL,Granada,1-1,Villarreal
+23/08/16,UCL,Monaco,1-0,Villarreal
+28/08/16,LAL,Villarreal,0-0,Sevilla
+10/09/16,LAL,Malaga,0-2,Villarreal
+15/09/16,UEL,Villarreal,2-1,Zürich
+18/09/16,LAL,Villarreal,2-1,Real Sociedad
+21/09/16,LAL,Real Madrid,1-1,Villarreal
+25/09/16,LAL,Villarreal,3-1,Osasuna
+29/09/16,UEL,FCSB,1-1,Villarreal
+02/10/16,LAL,Espanyol,0-0,Villarreal
+16/10/16,LAL,Villarreal,5-0,Celta Vigo
+20/10/16,UEL,Ankaraspor,2-2,Villarreal
+23/10/16,LAL,Villarreal,2-1,Las Palmas
+30/10/16,LAL,Eibar,2-1,Villarreal
+03/11/16,UEL,Villarreal,1-2,Ankaraspor
+06/11/16,LAL,Villarreal,2-0,Real Betis
+20/11/16,LAL,Athletic Bilbao,1-0,Villarreal
+24/11/16,UEL,Zürich,1-1,Villarreal
+27/11/16,LAL,Villarreal,0-2,Alaves
+30/11/16,CDR,Toledo,0-3,Villarreal
+03/12/16,LAL,Leganes,0-0,Villarreal
+08/12/16,UEL,Villarreal,2-1,FCSB

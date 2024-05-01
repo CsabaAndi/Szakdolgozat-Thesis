@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+13/05/23,LAL,Osasuna,3-1,Almeria
+20/05/23,LAL,Almeria,3-0,Mallorca
+23/05/23,LAL,Real Sociedad,1-0,Almeria
+28/05/23,LAL,Almeria,0-0,Real Valladolid
+04/06/23,LAL,Espanyol,3-3,Almeria
+18/07/23,CLF,El Ejido,0-7,Almeria
+23/07/23,CLF,Almeria,0-0,Las Palmas
+27/07/23,CLF,Almeria,0-1,Malaga
+31/07/23,CLF,Almeria,1-1,Antequera
+05/08/23,CLF,Granada,0-1,Almeria
+11/08/23,LAL,Almeria,0-2,Rayo Vallecano
+19/08/23,LAL,Almeria,1-3,Real Madrid
+26/08/23,LAL,Cadiz,1-1,Almeria
+01/09/23,LAL,Almeria,2-3,Celta Vigo
+17/09/23,LAL,Villarreal,2-1,Almeria
+23/09/23,LAL,Almeria,2-2,Valencia
+26/09/23,LAL,Sevilla,5-1,Almeria
+01/10/23,LAL,Almeria,3-3,Granada
+06/10/23,LAL,Athletic Bilbao,3-0,Almeria
+22/10/23,LAL,Girona,5-2,Almeria
+28/10/23,LAL,Almeria,1-2,Las Palmas
+31/10/23,CDR,Talavera,0-2,Almeria
+05/11/23,LAL,Alaves,1-0,Almeria
+11/11/23,LAL,Almeria,1-3,Real Sociedad
+25/11/23,LAL,Getafe,2-1,Almeria
+03/12/23,LAL,Almeria,0-0,Real Betis
+06/12/23,CDR,Barbastro,1-0,Almeria
+10/12/23,LAL,Atletico Madrid,2-1,Almeria
+17/12/23,LAL,Almeria,0-0,Mallorca
+20/12/23,LAL,Barcelona,3-2,Almeria
+04/01/24,LAL,Osasuna,1-0,Almeria
+14/01/24,LAL,Almeria,0-0,Girona
+21/01/24,LAL,Real Madrid,3-2,Almeria
+26/01/24,LAL,Almeria,0-3,Alaves
+03/02/24,LAL,Valencia,2-1,Almeria
+12/02/24,LAL,Almeria,0-0,Athletic Bilbao
+18/02/24,LAL,Granada,1-1,Almeria
+24/02/24,LAL,Almeria,2-2,Atletico Madrid
+01/03/24,LAL,Celta Vigo,1-0,Almeria
+11/03/24,LAL,Almeria,2-2,Sevilla
+17/03/24,LAL,Las Palmas,0-1,Almeria
+30/03/24,LAL,Almeria,0-3,Osasuna
+14/04/24,LAL,Real Sociedad,2-2,Almeria
+21/04/24,LAL,Almeria,1-2,Villarreal
+27/04/24,LAL,Almeria,1-3,Getafe
+05/05/24,LAL,Rayo Vallecano,21:00,Almeria
+12/05/24,LAL,Real Betis,21:00,Almeria
+16/05/24,LAL,Almeria,21:30,Barcelona
+19/05/24,LAL,Mallorca,-,Almeria
+26/05/24,LAL,Almeria,-,Cadiz
+16/04/22,SED,Real Valladolid,2-2,Almeria
+25/04/22,SED,Almeria,1-0,Sporting Gijon
+30/04/22,SED,Burgos,0-2,Almeria
+07/05/22,SED,Almeria,3-0,Amorebieta
+13/05/22,SED,Real Sociedad B,0-2,Almeria
+21/05/22,SED,Almeria,1-1,Alcorcon
+29/05/22,SED,Leganes,2-2,Almeria
+17/07/22,CLF,Almeria,1-0,Vélez
+23/07/22,CLF,Almeria,1-2,Córdoba
+24/07/22,CLF,San Fernando CD,2-3,Almeria
+30/07/22,CLF,Granada,3-2,Almeria
+05/08/22,CLF,Almeria,1-0,FC Cartagena
+14/08/22,LAL,Almeria,1-2,Real Madrid
+22/08/22,LAL,Elche,1-1,Almeria
+27/08/22,LAL,Almeria,2-1,Sevilla
+05/09/22,LAL,Real Valladolid,1-0,Almeria
+12/09/22,LAL,Almeria,0-1,Osasuna
+17/09/22,LAL,Mallorca,1-0,Almeria
+30/09/22,LAL,Athletic Bilbao,4-0,Almeria
+08/10/22,LAL,Almeria,3-1,Rayo Vallecano
+16/10/22,LAL,Real Betis,3-1,Almeria
+20/10/22,LAL,Almeria,3-2,Girona
+23/10/22,LAL,Villarreal,2-1,Almeria
+29/10/22,LAL,Almeria,3-1,Celta Vigo
+05/11/22,LAL,Barcelona,2-0,Almeria
+09/11/22,LAL,Almeria,1-0,Getafe
+13/11/22,CDR,Arenteiro,2-0,Almeria
+03/12/22,CLF,Sturm Graz,1-0,Almeria
+04/12/22,CLF,Hearts,CANC,Almeria
+16/12/22,CLF,Almeria,1-1,Torino
+22/12/22,CLF,Almeria,2-0,Lazio
+30/12/22,LAL,Cadiz,1-1,Almeria
+08/01/23,LAL,Almeria,0-2,Real Sociedad
+15/01/23,LAL,Almeria,1-1,Atletico Madrid
+23/01/23,LAL,Valencia,2-2,Almeria
+27/01/23,LAL,Almeria,3-1,Espanyol
+06/02/23,LAL,Rayo Vallecano,2-0,Almeria
+11/02/23,LAL,Almeria,2-3,Real Betis
+17/02/23,LAL,Girona,6-2,Almeria
+26/02/23,LAL,Almeria,1-0,Barcelona
+04/03/23,LAL,Almeria,0-2,Villarreal
+12/03/23,LAL,Sevilla,2-1,Almeria
+18/03/23,LAL,Almeria,1-1,Cadiz
+02/04/23,LAL,Celta Vigo,2-2,Almeria
+09/04/23,LAL,Almeria,2-1,Valencia
+16/04/23,LAL,Atletico Madrid,2-1,Almeria
+22/04/23,LAL,Almeria,1-2,Athletic Bilbao
+26/04/23,LAL,Getafe,1-2,Almeria
+29/04/23,LAL,Real Madrid,4-2,Almeria
+02/05/23,LAL,Almeria,2-1,Elche
+07/05/21,SED,Tenerife,0-1,Almeria
+15/05/21,SED,Almeria,1-1,Albacete
+18/05/21,SED,FC Cartagena,3-2,Almeria
+24/05/21,SED,Almeria,2-1,UD Logroñés
+30/05/21,SED,Sporting Gijon,0-2,Almeria
+02/06/21,SED,Girona,3-0,Almeria
+05/06/21,SED,Almeria,0-0,Girona
+25/07/21,CLF,Águilas,0-1,Almeria
+31/07/21,CLF,Malaga,1-1,Almeria
+01/08/21,CLF,Cadiz,1-2,Almeria
+04/08/21,CLF,Almeria,2-1,Real Betis
+08/08/21,CLF,Almeria,1-0,Real Betis II
+16/08/21,SED,FC Cartagena,1-3,Almeria
+20/08/21,SED,Almeria,2-1,Real Oviedo
+29/08/21,SED,Amorebieta,2-1,Almeria
+04/09/21,SED,Almeria,2-0,Malaga
+12/09/21,SED,Ponferradina,1-0,Almeria
+17/09/21,SED,Alcorcon,0-4,Almeria
+24/09/21,SED,Almeria,3-1,Tenerife
+04/10/21,SED,Girona,1-2,Almeria
+09/10/21,SED,Almeria,1-1,Las Palmas
+15/10/21,SED,Eibar,1-0,Almeria
+21/10/21,SED,Almeria,3-1,Real Sociedad B
+24/10/21,SED,Mirandes,1-4,Almeria
+29/10/21,SED,Almeria,1-0,Leganes
+02/11/21,SED,Sporting Gijon,0-1,Almeria
+07/11/21,SED,Almeria,2-0,Burgos
+14/11/21,SED,Ibiza,0-1,Almeria
+20/11/21,SED,Almeria,3-1,Real Valladolid
+27/11/21,SED,Almeria,0-0,Huesca
+30/11/21,CDR,Águilas,P1-1P,Almeria
+04/12/21,SED,Fuenlabrada,1-1,Almeria
+11/12/21,SED,Almeria,3-0,Real Zaragoza
+16/12/21,CDR,Amorebieta,1-2,Almeria
+02/01/22,SED,Almeria,0-1,FC Cartagena
+06/01/22,CDR,Almeria,1-2,Elche
+09/01/22,SED,Las Palmas,1-1,Almeria
+19/01/22,SED,Lugo,2-1,Almeria
+24/01/22,SED,Almeria,0-2,Eibar
+29/01/22,SED,Real Oviedo,2-0,Almeria
+04/02/22,SED,Almeria,2-0,Ibiza
+12/02/22,SED,Malaga,0-1,Almeria
+20/02/22,SED,Almeria,2-1,Mirandes
+25/02/22,SED,Almeria,3-1,Fuenlabrada
+04/03/22,SED,Real Zaragoza,2-0,Almeria
+12/03/22,SED,Almeria,3-3,Lugo
+21/03/22,SED,Tenerife,0-1,Almeria
+27/03/22,SED,Almeria,0-1,Girona
+03/04/22,SED,Huesca,1-1,Almeria
+11/04/22,SED,Almeria,3-0,Ponferradina
+17/07/20,SED,Ponferradina,2-1,Almeria
+20/07/20,SED,Almeria,0-0,Malaga
+13/08/20,SED,Girona,1-0,Almeria
+16/08/20,SED,Almeria,1-2,Girona
+02/09/20,CLF,Real Betis,2-0,Almeria
+05/09/20,CLF,Espanyol,4-0,Almeria
+09/09/20,CLF,Cadiz,1-1,Almeria
+12/09/20,CLF,Badajoz,CANC,Almeria
+27/09/20,SED,Lugo,0-2,Almeria
+04/10/20,SED,Almeria,0-1,Sporting Gijon
+10/10/20,SED,UD Logroñés,1-0,Almeria
+17/10/20,SED,Las Palmas,2-0,Almeria
+21/10/20,SED,Almeria,1-1,FC Cartagena
+24/10/20,SED,Almeria,3-0,Fuenlabrada
+28/10/20,SED,Castellón,1-2,Almeria
+01/11/20,SED,Almeria,0-0,Girona
+05/11/20,SED,Sabadell,1-2,Almeria
+08/11/20,SED,Rayo Vallecano,0-1,Almeria
+14/11/20,SED,Almeria,2-1,Mirandes
+23/11/20,SED,Albacete,1-2,Almeria
+26/11/20,SED,Almeria,2-0,Tenerife
+30/11/20,SED,Real Oviedo,1-2,Almeria
+03/12/20,SED,Almeria,0-1,Mallorca
+06/12/20,SED,Alcorcon,0-1,Almeria
+09/12/20,SED,Almeria,1-0,Real Zaragoza
+13/12/20,SED,Almeria,3-1,Malaga
+16/12/20,CDR,L'Hospitalet,1-4,Almeria
+20/12/20,SED,Espanyol,2-1,Almeria
+03/01/21,SED,Almeria,3-1,Ponferradina
+06/01/21,CDR,Numancia,1-2,Almeria
+16/01/21,CDR,Almeria,5-0,Alaves
+24/01/21,SED,Almeria,2-2,Sabadell
+27/01/21,CDR,Almeria,P0-0P,Osasuna
+30/01/21,SED,Almeria,3-1,Castellón
+02/02/21,CDR,Almeria,0-1,Sevilla
+06/02/21,SED,Fuenlabrada,1-1,Almeria
+14/02/21,SED,Almeria,3-1,Las Palmas
+17/02/21,SED,Leganes,2-1,Almeria
+21/02/21,SED,Mallorca,2-0,Almeria
+27/02/21,SED,Almeria,4-1,Lugo
+07/03/21,SED,Girona,0-1,Almeria
+15/03/21,SED,Almeria,0-0,Alcorcon
+21/03/21,SED,Ponferradina,2-1,Almeria
+27/03/21,SED,Almeria,1-1,Leganes
+30/03/21,SED,Malaga,0-3,Almeria
+02/04/21,SED,Almeria,0-1,Rayo Vallecano
+11/04/21,SED,Real Zaragoza,2-1,Almeria
+19/04/21,SED,Almeria,1-1,Espanyol
+25/04/21,SED,Mirandes,1-1,Almeria
+01/05/21,SED,Almeria,2-2,Real Oviedo
+02/06/19,SED,Las Palmas,0-0,Almeria
+08/06/19,SED,Almeria,3-0,Albacete
+20/07/19,CLF,El Ejido,0-1,Almeria
+25/07/19,CLF,Levante,2-0,Almeria
+26/07/19,CLF,Real Murcia,0-2,Almeria
+29/07/19,CLF,Granada,1-0,Almeria
+02/08/19,CLF,Las Palmas,1-1,Almeria
+04/08/19,CLF,Marbella,CANC,Almeria
+10/08/19,CLF,UCAM Murcia,CANC,Almeria
+17/08/19,SED,Almeria,3-0,Albacete
+24/08/19,SED,Racing Santander,1-1,Almeria
+31/08/19,SED,Almeria,1-0,Huesca
+07/09/19,SED,Malaga,0-1,Almeria
+14/09/19,SED,Las Palmas,0-3,Almeria
+17/09/19,SED,Almeria,3-1,Girona
+21/09/19,SED,Rayo Vallecano,1-1,Almeria
+29/09/19,SED,Almeria,1-2,Cadiz
+03/10/19,SED,Sporting Gijon,4-2,Almeria
+06/10/19,SED,Deportivo La Coruña,0-0,Almeria
+12/10/19,SED,Almeria,0-0,Lugo
+19/10/19,SED,Alcorcon,2-2,Almeria
+27/10/19,SED,Almeria,3-2,Extremadura UD
+01/11/19,SED,Real Oviedo,0-0,Almeria
+10/11/19,SED,Almeria,1-1,Real Zaragoza
+16/11/19,SED,Elche,1-1,Almeria
+24/11/19,SED,Almeria,2-0,Numancia
+30/11/19,SED,Tenerife,1-3,Almeria
+07/12/19,SED,Almeria,3-1,Mirandes
+15/12/19,SED,Fuenlabrada,2-2,Almeria
+19/12/19,CDR,Tamaraceite,E3-2E,Almeria
+22/12/19,SED,Almeria,2-3,Ponferradina
+04/01/20,SED,Lugo,0-4,Almeria
+16/01/20,SED,Almeria,2-0,Real Oviedo
+19/01/20,SED,Extremadura UD,1-2,Almeria
+26/01/20,SED,Almeria,0-2,Elche
+02/02/20,SED,Numancia,1-1,Almeria
+07/02/20,SED,Almeria,0-1,Racing Santander
+15/02/20,SED,Huesca,3-2,Almeria
+22/02/20,SED,Almeria,0-0,Fuenlabrada
+29/02/20,SED,Cadiz,2-1,Almeria
+07/03/20,SED,Almeria,4-0,Deportivo La Coruña
+14/06/20,SED,Albacete,0-1,Almeria
+17/06/20,SED,Almeria,0-1,Las Palmas
+20/06/20,SED,Real Zaragoza,0-2,Almeria
+25/06/20,SED,Almeria,0-1,Alcorcon
+28/06/20,SED,Mirandes,2-2,Almeria
+01/07/20,SED,Almeria,1-0,Sporting Gijon
+04/07/20,SED,Almeria,1-2,Tenerife
+09/07/20,SED,Girona,1-0,Almeria
+13/07/20,SED,Almeria,3-2,Rayo Vallecano
+31/07/18,CLF,Almeria,1-1,Malaga
+04/08/18,CLF,El Ejido,0-3,Almeria
+08/08/18,CLF,UD Melilla,0-4,Almeria
+10/08/18,CLF,Elche,1-0,Almeria
+17/08/18,SED,Cadiz,1-0,Almeria
+26/08/18,SED,Almeria,1-1,Tenerife
+03/09/18,SED,Almeria,0-1,Malaga
+08/09/18,SED,Osasuna,3-1,Almeria
+11/09/18,CDR,Malaga,1-2,Almeria
+16/09/18,SED,Almeria,2-1,Real Zaragoza
+23/09/18,SED,Numancia,0-2,Almeria
+30/09/18,SED,Almeria,2-0,Reus Deportiu
+06/10/18,SED,Córdoba,1-0,Almeria
+13/10/18,SED,Almeria,3-0,Las Palmas
+18/10/18,CDR,Almeria,3-1,Reus Deportiu
+21/10/18,SED,Albacete,1-1,Almeria
+27/10/18,SED,Granada,1-0,Almeria
+01/11/18,CDR,Almeria,3-3,Villarreal
+04/11/18,SED,Almeria,2-1,Sporting Gijon
+11/11/18,SED,Rayo Majadahonda,2-0,Almeria
+19/11/18,SED,Almeria,1-1,Deportivo La Coruña
+24/11/18,SED,Gimnàstic Tarragona,2-2,Almeria
+01/12/18,SED,Almeria,1-1,Extremadura UD
+05/12/18,CDR,Villarreal,8-0,Almeria
+08/12/18,SED,Real Oviedo,1-2,Almeria
+16/12/18,SED,Almeria,1-1,Lugo
+22/12/18,SED,Elche,2-2,Almeria
+06/01/19,SED,Almeria,2-0,Mallorca
+13/01/19,SED,Alcorcon,0-0,Almeria
+19/01/19,SED,Almeria,0-0,Cadiz
+23/01/19,CLF,Nordsjælland,1-1,Almeria
+26/01/19,SED,Almeria,0-1,Osasuna
+01/02/19,SED,Malaga,1-1,Almeria
+10/02/19,SED,Almeria,1-0,Numancia
+15/02/19,CLF,Almeria,1-1,Ufa
+17/02/19,SED,Reus Deportiu,0-1,Almeria
+24/02/19,SED,Almeria,3-1,Córdoba
+03/03/19,SED,Real Zaragoza,1-2,Almeria
+09/03/19,SED,Sporting Gijon,1-0,Almeria
+17/03/19,SED,Almeria,0-0,Granada
+22/03/19,SED,Deportivo La Coruña,0-0,Almeria
+30/03/19,SED,Almeria,2-2,Rayo Majadahonda
+06/04/19,SED,Extremadura UD,1-0,Almeria
+13/04/19,SED,Almeria,3-0,Gimnàstic Tarragona
+21/04/19,SED,Tenerife,1-3,Almeria
+27/04/19,SED,Almeria,0-1,Real Oviedo
+05/05/19,SED,Lugo,4-2,Almeria
+12/05/19,SED,Almeria,5-3,Elche
+19/05/19,SED,Mallorca,1-0,Almeria
+26/05/19,SED,Almeria,0-0,Alcorcon
+29/07/17,CLF,Córdoba,1-0,Almeria
+05/08/17,CLF,Lorca,1-0,Almeria
+12/08/17,CLF,Granada,1-1,Almeria
+20/08/17,SED,Gimnàstic Tarragona,0-1,Almeria
+26/08/17,SED,Almeria,1-1,Real Oviedo
+02/09/17,SED,Numancia,1-0,Almeria
+05/09/17,CDR,Cadiz,1-0,Almeria
+09/09/17,SED,Almeria,2-1,Lorca
+16/09/17,SED,Osasuna,2-1,Almeria
+22/09/17,SED,Almeria,3-0,Sevilla II
+29/09/17,SED,Cultural Leonesa,0-0,Almeria
+07/10/17,SED,Almeria,0-3,Huesca
+12/10/17,SED,Rayo Vallecano,1-0,Almeria
+15/10/17,SED,Almeria,1-1,Real Valladolid
+22/10/17,SED,Almeria,0-1,Reus Deportiu
+28/10/17,SED,Sporting Gijon,2-0,Almeria
+05/11/17,SED,Almeria,0-2,Cadiz
+11/11/17,SED,Albacete,2-0,Almeria
+17/11/17,SED,Almeria,3-0,Real Zaragoza
+26/11/17,SED,Barcelona II,1-1,Almeria
+03/12/17,SED,Almeria,2-1,Tenerife
+08/12/17,SED,Granada,3-2,Almeria
+16/12/17,SED,Almeria,1-0,Córdoba
+22/12/17,SED,Alcorcon,2-0,Almeria
+07/01/18,SED,Almeria,1-0,Lugo
+13/01/18,SED,Almeria,1-1,Gimnàstic Tarragona
+20/01/18,SED,Real Oviedo,2-1,Almeria
+28/01/18,SED,Almeria,0-0,Numancia
+03/02/18,SED,Lorca,1-2,Almeria
+10/02/18,SED,Almeria,0-1,Osasuna
+18/02/18,SED,Sevilla II,0-3,Almeria
+24/02/18,SED,Almeria,2-1,Cultural Leonesa
+04/03/18,SED,Huesca,2-2,Almeria
+10/03/18,SED,Almeria,0-1,Rayo Vallecano
+18/03/18,SED,Real Valladolid,2-1,Almeria
+24/03/18,SED,Reus Deportiu,1-0,Almeria
+01/04/18,SED,Almeria,1-3,Sporting Gijon
+06/04/18,SED,Cadiz,0-0,Almeria
+15/04/18,SED,Almeria,1-1,Albacete
+21/04/18,SED,Real Zaragoza,2-1,Almeria
+28/04/18,SED,Almeria,1-0,Barcelona II
+05/05/18,SED,Tenerife,0-0,Almeria
+13/05/18,SED,Almeria,2-0,Granada
+20/05/18,SED,Córdoba,2-0,Almeria
+27/05/18,SED,Almeria,0-0,Alcorcon
+02/06/18,SED,Lugo,1-1,Almeria
+18/07/18,CLF,Milton Keynes Dons,0-0,Almeria
+21/07/18,CLF,Águilas,0-5,Almeria
+25/07/18,CLF,Almeria,0-1,Real Valladolid
+29/07/18,CLF,Tenerife,1-0,Almeria
+30/07/16,CLF,CP Ejido II,0-3,Almeria
+03/08/16,CLF,Almeria,1-0,UCAM Murcia
+06/08/16,CLF,Almeria,2-2,Levante
+09/08/16,CLF,Malaga,4-0,Almeria
+10/08/16,CLF,Almeria,2-1,Sevilla II
+19/08/16,SED,Almeria,1-1,Cadiz
+27/08/16,SED,Real Oviedo,2-0,Almeria
+03/09/16,SED,Almeria,3-0,Rayo Vallecano
+06/09/16,CDR,Almeria,0-2,Rayo Vallecano
+11/09/16,SED,Girona,3-3,Almeria
+18/09/16,SED,Almeria,0-1,Tenerife
+21/09/16,SED,UCAM Murcia,4-0,Almeria
+24/09/16,SED,Almeria,0-0,Lugo
+01/10/16,SED,Huesca,2-0,Almeria
+09/10/16,SED,Almeria,2-2,Levante
+15/10/16,SED,Alcorcon,0-0,Almeria
+23/10/16,SED,Almeria,3-0,Gimnàstic Tarragona
+29/10/16,SED,Real Zaragoza,2-1,Almeria
+06/11/16,SED,Almeria,3-1,Córdoba
+13/11/16,SED,Sevilla II,1-0,Almeria
+18/11/16,SED,Almeria,2-1,Elche
+26/11/16,SED,Real Valladolid,0-0,Almeria
+03/12/16,SED,Numancia,1-0,Almeria
+11/12/16,SED,Almeria,2-1,Mallorca
+18/12/16,SED,Mirandes,2-1,Almeria
+06/01/17,SED,Almeria,0-1,Getafe
+15/01/17,SED,Reus Deportiu,1-0,Almeria
+22/01/17,SED,Cadiz,1-0,Almeria
+29/01/17,SED,Almeria,3-0,Real Oviedo
+05/02/17,SED,Rayo Vallecano,1-0,Almeria
+11/02/17,SED,Almeria,0-0,Girona
+18/02/17,SED,Tenerife,1-0,Almeria
+26/02/17,SED,Almeria,2-3,UCAM Murcia
+05/03/17,SED,Lugo,1-2,Almeria
+12/03/17,SED,Almeria,0-0,Huesca
+19/03/17,SED,Levante,1-0,Almeria
+25/03/17,SED,Almeria,3-1,Alcorcon
+02/04/17,SED,Gimnàstic Tarragona,0-1,Almeria
+09/04/17,SED,Almeria,2-2,Real Zaragoza
+16/04/17,SED,Córdoba,1-0,Almeria
+23/04/17,SED,Almeria,2-1,Sevilla II
+28/04/17,SED,Elche,2-3,Almeria
+07/05/17,SED,Almeria,0-3,Real Valladolid
+13/05/17,SED,Almeria,2-0,Numancia
+20/05/17,SED,Mallorca,1-0,Almeria
+27/05/17,SED,Almeria,2-0,Mirandes
+04/06/17,SED,Getafe,4-0,Almeria
+10/06/17,SED,Almeria,1-0,Reus Deportiu
+22/07/17,CLF,Levante,6-1,Almeria
+26/07/17,CLF,Almeria,2-1,Sevilla II
+01/08/15,CLF,Sporting Gijon,1-1,Almeria
+15/08/15,CLF,Elche,0-1,Almeria
+23/08/15,SED,Almeria,3-2,Leganes
+29/08/15,SED,Real Zaragoza,3-2,Almeria
+06/09/15,SED,Almeria,2-1,Osasuna
+09/09/15,CDR,Almeria,P3-3P,Elche
+13/09/15,SED,Lugo,1-0,Almeria
+20/09/15,SED,Almeria,0-2,Alaves
+27/09/15,SED,Albacete,3-0,Almeria
+03/10/15,SED,Almeria,2-2,Tenerife
+11/10/15,SED,Girona,1-1,Almeria
+14/10/15,CDR,Almeria,2-1,Gimnàstic Tarragona
+18/10/15,SED,Almeria,2-3,Elche
+25/10/15,SED,Mallorca,1-0,Almeria
+01/11/15,SED,Almeria,1-1,Real Valladolid
+08/11/15,SED,Alcorcon,0-0,Almeria
+15/11/15,SED,Almeria,1-1,Ponferradina
+21/11/15,SED,Athletic Club II,0-0,Almeria
+28/11/15,SED,Almeria,1-1,Numancia
+02/12/15,CDR,Almeria,1-3,Celta Vigo
+05/12/15,SED,Gimnàstic Tarragona,2-2,Almeria
+13/12/15,SED,Almeria,1-2,Huesca
+17/12/15,CDR,Celta Vigo,1-0,Almeria
+20/12/15,SED,Real Oviedo,1-0,Almeria
+03/01/16,SED,Almeria,2-1,Costa Brava
+09/01/16,SED,Mirandes,1-1,Almeria
+17/01/16,SED,Almeria,0-1,Córdoba
+23/01/16,SED,Leganes,2-1,Almeria
+31/01/16,SED,Almeria,2-1,Real Zaragoza
+07/02/16,SED,Osasuna,0-0,Almeria
+13/02/16,SED,Almeria,0-2,Lugo
+21/02/16,SED,Alaves,1-1,Almeria
+28/02/16,SED,Almeria,1-0,Albacete
+06/03/16,SED,Tenerife,0-0,Almeria
+12/03/16,SED,Almeria,1-0,Girona
+19/03/16,SED,Elche,0-0,Almeria
+27/03/16,SED,Almeria,1-1,Mallorca
+03/04/16,SED,Real Valladolid,1-1,Almeria
+09/04/16,SED,Almeria,1-1,Alcorcon
+17/04/16,SED,Ponferradina,1-3,Almeria
+24/04/16,SED,Almeria,3-2,Athletic Club II
+30/04/16,SED,Numancia,2-0,Almeria
+07/05/16,SED,Almeria,1-2,Gimnàstic Tarragona
+15/05/16,SED,Huesca,2-1,Almeria
+22/05/16,SED,Almeria,3-1,Real Oviedo
+25/05/16,SED,Costa Brava,0-0,Almeria
+29/05/16,SED,Almeria,2-1,Mirandes
+04/06/16,SED,Córdoba,1-1,Almeria
+23/07/16,CLF,Almería II,0-3,Almeria
+27/07/16,CLF,Águilas,0-4,Almeria
+04/05/14,LAL,Almeria,3-2,Real Betis
+11/05/14,LAL,Granada,0-2,Almeria
+18/05/14,LAL,Almeria,0-0,Athletic Bilbao
+25/07/14,CLF,UCAM Murcia,1-2,Almeria
+30/07/14,CLF,Muangthong United,1-1,Almeria
+06/08/14,CLF,Phuket,1-3,Almeria
+13/08/14,CLF,Albacete,1-2,Almeria
+17/08/14,CLF,Almeria,1-1,Córdoba
+23/08/14,LAL,Almeria,1-1,Espanyol
+29/08/14,LAL,Getafe,1-0,Almeria
+12/09/14,LAL,Almeria,1-1,Córdoba
+21/09/14,LAL,Real Sociedad,1-2,Almeria
+24/09/14,LAL,Almeria,0-1,Atletico Madrid
+28/09/14,LAL,Deportivo La Coruña,0-1,Almeria
+04/10/14,LAL,Almeria,2-2,Elche
+19/10/14,LAL,Villarreal,2-0,Almeria
+25/10/14,LAL,Almeria,0-1,Athletic Bilbao
+02/11/14,LAL,Levante,2-1,Almeria
+08/11/14,LAL,Almeria,1-2,Barcelona
+24/11/14,LAL,Granada,0-0,Almeria
+01/12/14,LAL,Almeria,0-1,Rayo Vallecano
+05/12/14,CDR,Real Betis,3-4,Almeria
+08/12/14,LAL,Eibar,5-2,Almeria
+12/12/14,LAL,Almeria,1-4,Real Madrid
+16/12/14,CDR,Almeria,2-1,Real Betis
+19/12/14,LAL,Celta Vigo,0-1,Almeria
+03/01/15,LAL,Malaga,1-2,Almeria
+07/01/15,CDR,Almeria,1-1,Getafe
+11/01/15,LAL,Almeria,0-2,Sevilla
+14/01/15,CDR,Getafe,1-0,Almeria
+17/01/15,LAL,Valencia,3-2,Almeria
+25/01/15,LAL,Espanyol,3-0,Almeria
+01/02/15,LAL,Almeria,1-0,Getafe
+08/02/15,LAL,Córdoba,1-2,Almeria
+13/02/15,LAL,Almeria,2-2,Real Sociedad
+21/02/15,LAL,Atletico Madrid,3-0,Almeria
+28/02/15,LAL,Almeria,0-0,Deportivo La Coruña
+07/03/15,LAL,Elche,1-0,Almeria
+15/03/15,LAL,Almeria,0-0,Villarreal
+21/03/15,LAL,Athletic Bilbao,2-1,Almeria
+04/04/15,LAL,Almeria,1-4,Levante
+08/04/15,LAL,Barcelona,4-0,Almeria
+11/04/15,LAL,Almeria,3-0,Granada
+19/04/15,LAL,Rayo Vallecano,2-0,Almeria
+26/04/15,LAL,Almeria,2-0,Eibar
+29/04/15,LAL,Real Madrid,3-0,Almeria
+04/05/15,LAL,Almeria,2-2,Celta Vigo
+10/05/15,LAL,Almeria,1-2,Malaga
+17/05/15,LAL,Sevilla,2-1,Almeria
+23/05/15,LAL,Almeria,2-3,Valencia

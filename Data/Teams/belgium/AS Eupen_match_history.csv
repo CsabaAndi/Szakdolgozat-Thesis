@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+05/03/23,FDA,Union Saint-Gilloise,2-1,AS Eupen
+11/03/23,FDA,AS Eupen,4-4,KV Oostende
+19/03/23,FDA,Gent,3-0,AS Eupen
+02/04/23,FDA,AS Eupen,0-1,Anderlecht
+08/04/23,FDA,Kortrijk,0-0,AS Eupen
+15/04/23,FDA,AS Eupen,1-5,Zulte Waregem
+23/04/23,FDA,Club Brugge,7-0,AS Eupen
+24/06/23,CLF,AS Eupen,0-1,Liège
+08/07/23,CLF,AS Eupen,4-0,Sporting Charleroi
+15/07/23,CLF,Reims,2-3,AS Eupen
+22/07/23,CLF,AS Eupen,1-0,Marseille
+29/07/23,FDA,AS Eupen,2-2,Westerlo
+05/08/23,FDA,Genk,0-1,AS Eupen
+13/08/23,FDA,AS Eupen,0-5,Club Brugge
+20/08/23,FDA,Kortrijk,1-3,AS Eupen
+26/08/23,FDA,AS Eupen,3-1,OH Leuven
+02/09/23,FDA,Mechelen,1-0,AS Eupen
+17/09/23,FDA,AS Eupen,1-3,Standard Liège
+24/09/23,FDA,Gent,2-1,AS Eupen
+30/09/23,FDA,AS Eupen,1-3,Anderlecht
+08/10/23,FDA,Antwerp,4-1,AS Eupen
+20/10/23,FDA,Union Saint-Gilloise,4-1,AS Eupen
+28/10/23,FDA,AS Eupen,2-0,Sporting Charleroi
+31/10/23,CUP,AS Eupen,0-2,KV Oostende
+03/11/23,FDA,Sint-Truiden,1-1,AS Eupen
+11/11/23,FDA,AS Eupen,1-3,RWDM
+25/11/23,FDA,Cercle Brugge,2-0,AS Eupen
+02/12/23,FDA,AS Eupen,1-1,Kortrijk
+10/12/23,FDA,AS Eupen,1-3,Genk
+15/12/23,FDA,Westerlo,2-0,AS Eupen
+23/12/23,FDA,AS Eupen,1-2,Union Saint-Gilloise
+26/12/23,FDA,OH Leuven,3-0,AS Eupen
+13/01/24,CLF,Schalke 04,3-1,AS Eupen
+24/01/24,FDA,RWDM,0-1,AS Eupen
+28/01/24,FDA,AS Eupen,1-0,Antwerp
+31/01/24,FDA,Sporting Charleroi,1-0,AS Eupen
+04/02/24,FDA,AS Eupen,0-1,Mechelen
+10/02/24,FDA,Club Brugge,4-0,AS Eupen
+18/02/24,FDA,AS Eupen,0-2,Gent
+25/02/24,FDA,AS Eupen,0-2,Cercle Brugge
+03/03/24,FDA,Anderlecht,1-0,AS Eupen
+10/03/24,FDA,AS Eupen,1-0,Sint-Truiden
+16/03/24,FDA,Standard Liège,4-0,AS Eupen
+21/03/24,CLF,Borussia M'gladbach,2-0,AS Eupen
+07/04/24,FDA,AS Eupen,1-1,Kortrijk
+13/04/24,FDA,RWDM,3-1,AS Eupen
+21/04/24,FDA,Sporting Charleroi,1-0,AS Eupen
+26/04/24,FDA,AS Eupen,1-2,Sporting Charleroi
+05/05/24,FDA,Kortrijk,19:15,AS Eupen
+11/05/24,FDA,AS Eupen,18:15,RWDM
+22/12/21,CUP,Mechelen,1-3,AS Eupen
+27/12/21,FDA,Sint-Truiden,2-0,AS Eupen
+08/01/22,CLF,AS Eupen,1-2,Kaiserslautern
+16/01/22,FDA,AS Eupen,0-2,Cercle Brugge
+22/01/22,FDA,Kortrijk,1-1,AS Eupen
+26/01/22,FDA,AS Eupen,0-2,Standard Liège
+29/01/22,FDA,RFC Seraing,0-0,AS Eupen
+03/02/22,CUP,AS Eupen,2-2,Anderlecht
+06/02/22,FDA,Anderlecht,4-1,AS Eupen
+12/02/22,FDA,AS Eupen,0-1,Gent
+20/02/22,FDA,AS Eupen,1-3,Club Brugge
+26/02/22,FDA,Union Saint-Gilloise,0-0,AS Eupen
+03/03/22,CUP,Anderlecht,3-1,AS Eupen
+06/03/22,FDA,AS Eupen,3-1,OH Leuven
+12/03/22,FDA,Zulte Waregem,3-0,AS Eupen
+19/03/22,FDA,AS Eupen,1-1,Mechelen
+03/04/22,FDA,Genk,5-0,AS Eupen
+09/04/22,FDA,AS Eupen,0-2,KV Oostende
+26/06/22,CLF,Köln II,1-4,AS Eupen
+02/07/22,CLF,AS Eupen,4-1,Alemannia Aachen
+09/07/22,CLF,Kaiserslautern,4-1,AS Eupen
+15/07/22,CLF,Ajax,1-1,AS Eupen
+23/07/22,FDA,Sporting Charleroi,3-1,AS Eupen
+31/07/22,FDA,AS Eupen,2-1,Club Brugge
+06/08/22,FDA,Genk,4-2,AS Eupen
+14/08/22,FDA,AS Eupen,0-1,Antwerp
+19/08/22,FDA,AS Eupen,1-3,RFC Seraing
+28/08/22,FDA,Westerlo,0-1,AS Eupen
+03/09/22,FDA,AS Eupen,0-1,Kortrijk
+10/09/22,FDA,KV Oostende,1-0,AS Eupen
+18/09/22,FDA,AS Eupen,1-2,Union Saint-Gilloise
+02/10/22,FDA,Sint-Truiden,0-1,AS Eupen
+09/10/22,FDA,AS Eupen,0-4,Gent
+15/10/22,FDA,Cercle Brugge,5-1,AS Eupen
+18/10/22,FDA,AS Eupen,4-2,OH Leuven
+22/10/22,FDA,Mechelen,2-1,AS Eupen
+30/10/22,FDA,Anderlecht,4-2,AS Eupen
+05/11/22,FDA,AS Eupen,2-0,Standard Liège
+08/11/22,CUP,Deinze,3-0,AS Eupen
+12/11/22,FDA,Zulte Waregem,5-5,AS Eupen
+23/12/22,FDA,RFC Seraing,0-1,AS Eupen
+07/01/23,FDA,AS Eupen,1-2,Sporting Charleroi
+14/01/23,FDA,AS Eupen,0-2,Sint-Truiden
+17/01/23,FDA,OH Leuven,1-1,AS Eupen
+27/01/23,FDA,Standard Liège,3-1,AS Eupen
+01/02/23,FDA,AS Eupen,1-1,Genk
+04/02/23,FDA,AS Eupen,1-1,Westerlo
+10/02/23,FDA,AS Eupen,2-1,Mechelen
+18/02/23,FDA,Antwerp,2-0,AS Eupen
+25/02/23,FDA,AS Eupen,2-2,Cercle Brugge
+26/12/20,FDA,Club Brugge,3-0,AS Eupen
+29/12/20,FDA,AS Eupen,2-3,Zulte Waregem
+06/01/21,FDA,AS Eupen,1-4,Genk
+09/01/21,FDA,Cercle Brugge,1-2,AS Eupen
+12/01/21,FDA,KV Oostende,1-1,AS Eupen
+15/01/21,FDA,AS Eupen,2-0,Anderlecht
+20/01/21,FDA,AS Eupen,3-1,Beerschot
+23/01/21,FDA,Mechelen,3-0,AS Eupen
+26/01/21,FDA,AS Eupen,0-2,Antwerp
+30/01/21,FDA,AS Eupen,1-1,Excel Mouscron
+02/02/21,CUP,Rupel Boom,0-5,AS Eupen
+07/02/21,FDA,Gent,2-2,AS Eupen
+10/02/21,CUP,AS Eupen,5-1,Olympic Charleroi
+17/02/21,FDA,SK Beveren,1-0,AS Eupen
+20/02/21,FDA,AS Eupen,1-1,KV Oostende
+28/02/21,FDA,Sint-Truiden,0-2,AS Eupen
+03/03/21,CUP,AS Eupen,1-0,Gent
+06/03/21,FDA,AS Eupen,3-3,OH Leuven
+13/03/21,CUP,AS Eupen,0-1,Standard Liège
+20/03/21,FDA,AS Eupen,2-0,Kortrijk
+05/04/21,FDA,Zulte Waregem,2-1,AS Eupen
+09/04/21,FDA,AS Eupen,0-4,Standard Liège
+17/04/21,FDA,Sporting Charleroi,2-3,AS Eupen
+30/06/21,CLF,AS Eupen,2-1,RFC Seraing
+03/07/21,CLF,AS Eupen,1-1,Saarbrücken
+07/07/21,CLF,Genk,2-0,AS Eupen
+10/07/21,CLF,AS Eupen,1-0,RWDM
+17/07/21,CLF,Sint-Truiden,1-1,AS Eupen
+25/07/21,FDA,Club Brugge,2-2,AS Eupen
+31/07/21,FDA,AS Eupen,1-1,Anderlecht
+07/08/21,FDA,Mechelen,1-3,AS Eupen
+14/08/21,FDA,AS Eupen,2-1,Sint-Truiden
+21/08/21,FDA,OH Leuven,1-4,AS Eupen
+28/08/21,FDA,AS Eupen,1-2,RFC Seraing
+11/09/21,FDA,AS Eupen,0-1,Antwerp
+17/09/21,FDA,Cercle Brugge,1-2,AS Eupen
+25/09/21,FDA,Beerschot,0-3,AS Eupen
+03/10/21,FDA,AS Eupen,3-2,Genk
+17/10/21,FDA,Gent,2-0,AS Eupen
+23/10/21,FDA,AS Eupen,2-3,Union Saint-Gilloise
+27/10/21,CUP,Dender,0-1,AS Eupen
+30/10/21,FDA,Sporting Charleroi,3-0,AS Eupen
+06/11/21,FDA,AS Eupen,1-1,Zulte Waregem
+20/11/21,FDA,Standard Liège,1-0,AS Eupen
+27/11/21,FDA,AS Eupen,2-2,Kortrijk
+01/12/21,CUP,AS Eupen,E3-2E,Zulte Waregem
+04/12/21,FDA,KV Oostende,2-1,AS Eupen
+11/12/21,FDA,AS Eupen,1-0,Beerschot
+16/12/21,FDA,Antwerp,4-2,AS Eupen
+19/12/21,FDA,AS Eupen,0-4,Sporting Charleroi
+25/08/19,FDA,Excel Mouscron,2-0,AS Eupen
+31/08/19,FDA,AS Eupen,0-2,Sint-Truiden
+14/09/19,FDA,AS Eupen,1-1,Zulte Waregem
+22/09/19,FDA,Standard Liège,3-0,AS Eupen
+25/09/19,CUP,Cappellen,P0-0P,AS Eupen
+28/09/19,FDA,Cercle Brugge,1-2,AS Eupen
+05/10/19,FDA,AS Eupen,0-2,Mechelen
+19/10/19,FDA,KV Oostende,2-3,AS Eupen
+25/10/19,FDA,AS Eupen,0-0,Anderlecht
+29/10/19,FDA,Kortrijk,1-2,AS Eupen
+02/11/19,FDA,AS Eupen,2-0,Genk
+09/11/19,FDA,Sporting Charleroi,1-0,AS Eupen
+23/11/19,FDA,AS Eupen,1-2,Standard Liège
+30/11/19,FDA,Zulte Waregem,1-0,AS Eupen
+04/12/19,CUP,Kortrijk,2-1,AS Eupen
+08/12/19,FDA,AS Eupen,1-0,KV Oostende
+14/12/19,FDA,Antwerp,1-0,AS Eupen
+21/12/19,FDA,AS Eupen,1-2,Kortrijk
+26/12/19,FDA,Genk,2-1,AS Eupen
+09/01/20,CLF,Ajax,2-0,AS Eupen
+11/01/20,CLF,AS Eupen,2-1,PSV
+18/01/20,FDA,AS Eupen,1-1,Sporting Charleroi
+25/01/20,FDA,SK Beveren,0-1,AS Eupen
+01/02/20,FDA,AS Eupen,1-0,Cercle Brugge
+08/02/20,FDA,Sint-Truiden,5-2,AS Eupen
+14/02/20,FDA,AS Eupen,2-3,Gent
+23/02/20,FDA,Anderlecht,6-1,AS Eupen
+29/02/20,FDA,AS Eupen,2-1,Excel Mouscron
+07/03/20,FDA,Mechelen,1-1,AS Eupen
+15/03/20,FDA,AS Eupen,CANC,Club Brugge
+08/07/20,CLF,Antwerp,0-1,AS Eupen
+18/07/20,CLF,AS Eupen,0-2,Union Saint-Gilloise
+31/07/20,CLF,AS Eupen,2-2,Sint-Truiden
+10/08/20,FDA,OH Leuven,1-1,AS Eupen
+16/08/20,FDA,AS Eupen,0-4,Club Brugge
+21/08/20,FDA,Kortrijk,0-0,AS Eupen
+22/08/20,CLF,AS Eupen,CANC,URSL Visé
+29/08/20,FDA,AS Eupen,1-1,Sint-Truiden
+04/09/20,CLF,AS Eupen,5-3,RWDM
+11/09/20,FDA,AS Eupen,2-1,Gent
+20/09/20,FDA,Antwerp,2-2,AS Eupen
+27/09/20,FDA,Anderlecht,1-1,AS Eupen
+03/10/20,FDA,AS Eupen,1-2,Cercle Brugge
+18/10/20,FDA,Excel Mouscron,0-2,AS Eupen
+30/10/20,FDA,Genk,4-0,AS Eupen
+07/11/20,FDA,AS Eupen,1-1,SK Beveren
+21/11/20,FDA,Standard Liège,2-2,AS Eupen
+27/11/20,FDA,AS Eupen,3-1,Sporting Charleroi
+03/12/20,FDA,AS Eupen,1-1,Mechelen
+06/12/20,FDA,Beerschot,0-1,AS Eupen
+11/08/18,FDA,Zulte Waregem,4-0,AS Eupen
+19/08/18,FDA,AS Eupen,2-3,Gent
+25/08/18,FDA,Excel Mouscron,0-1,AS Eupen
+01/09/18,FDA,AS Eupen,2-1,Standard Liège
+15/09/18,FDA,SK Beveren,0-0,AS Eupen
+22/09/18,FDA,AS Eupen,1-2,KV Oostende
+25/09/18,CUP,AS Eupen,3-0,Tubize
+28/09/18,FDA,Kortrijk,1-3,AS Eupen
+06/10/18,FDA,AS Eupen,1-2,Antwerp
+20/10/18,FDA,Genk,2-1,AS Eupen
+28/10/18,FDA,AS Eupen,2-1,Anderlecht
+31/10/18,FDA,AS Eupen,2-0,Cercle Brugge
+04/11/18,FDA,Lokeren,2-0,AS Eupen
+10/11/18,FDA,AS Eupen,1-4,Sint-Truiden
+24/11/18,FDA,Standard Liège,3-0,AS Eupen
+02/12/18,FDA,AS Eupen,1-0,SK Beveren
+05/12/18,CUP,Deinze,1-3,AS Eupen
+09/12/18,FDA,Gent,2-0,AS Eupen
+15/12/18,FDA,AS Eupen,1-0,Excel Mouscron
+19/12/18,CUP,AS Eupen,0-1,KV Oostende
+23/12/18,FDA,AS Eupen,0-2,Genk
+26/12/18,FDA,Cercle Brugge,0-1,AS Eupen
+19/01/19,FDA,AS Eupen,4-1,Lokeren
+27/01/19,FDA,Anderlecht,2-1,AS Eupen
+03/02/19,FDA,Sint-Truiden,4-1,AS Eupen
+09/02/19,FDA,AS Eupen,0-1,Kortrijk
+16/02/19,FDA,KV Oostende,1-1,AS Eupen
+23/02/19,FDA,AS Eupen,2-3,Zulte Waregem
+03/03/19,FDA,Antwerp,2-1,AS Eupen
+10/03/19,FDA,AS Eupen,0-4,Club Brugge
+17/03/19,FDA,Sporting Charleroi,1-2,AS Eupen
+30/03/19,UEL,KV Oostende,1-2,AS Eupen
+03/04/19,UEL,AS Eupen,0-3,Westerlo
+07/04/19,UEL,AS Eupen,0-1,Sporting Charleroi
+13/04/19,UEL,Beerschot,2-0,AS Eupen
+20/04/19,UEL,AS Eupen,1-1,Sint-Truiden
+27/04/19,UEL,Westerlo,1-0,AS Eupen
+04/05/19,UEL,AS Eupen,3-2,KV Oostende
+12/05/19,UEL,Sint-Truiden,2-2,AS Eupen
+15/05/19,UEL,AS Eupen,1-0,Beerschot
+18/05/19,UEL,Sporting Charleroi,2-0,AS Eupen
+06/07/19,CLF,Viktoria Köln,CANC,AS Eupen
+10/07/19,CLF,OH Leuven,2-2,AS Eupen
+13/07/19,CLF,Bayer Leverkusen,3-4,AS Eupen
+16/07/19,CLF,Raeren-Eynatten,1-7,AS Eupen
+19/07/19,CLF,AS Eupen,3-1,OFI
+28/07/19,FDA,AS Eupen,1-4,Antwerp
+04/08/19,FDA,Gent,6-1,AS Eupen
+10/08/19,FDA,AS Eupen,1-1,SK Beveren
+16/08/19,FDA,Club Brugge,0-0,AS Eupen
+19/07/17,CLF,AS Eupen,0-2,Metz
+22/07/17,CLF,Lierse,0-2,AS Eupen
+29/07/17,FDA,AS Eupen,0-5,Zulte Waregem
+06/08/17,FDA,Club Brugge,3-1,AS Eupen
+12/08/17,FDA,AS Eupen,1-2,Kortrijk
+19/08/17,FDA,AS Eupen,2-1,KV Oostende
+26/08/17,FDA,Lokeren,3-0,AS Eupen
+09/09/17,FDA,SK Beveren,5-1,AS Eupen
+17/09/17,FDA,AS Eupen,1-1,Standard Liège
+20/09/17,CUP,AS Eupen,3-2,Rupel Boom
+23/09/17,FDA,Excel Mouscron,3-2,AS Eupen
+30/09/17,FDA,AS Eupen,3-3,Genk
+14/10/17,FDA,Sporting Charleroi,2-2,AS Eupen
+21/10/17,FDA,AS Eupen,4-1,Mechelen
+24/10/17,FDA,Gent,3-0,AS Eupen
+28/10/17,FDA,AS Eupen,2-3,Anderlecht
+04/11/17,FDA,Sint-Truiden,4-4,AS Eupen
+18/11/17,FDA,AS Eupen,0-1,Antwerp
+25/11/17,FDA,KV Oostende,1-0,AS Eupen
+29/11/17,CUP,SK Beveren,2-0,AS Eupen
+03/12/17,FDA,AS Eupen,2-2,Club Brugge
+09/12/17,FDA,Genk,1-1,AS Eupen
+16/12/17,FDA,AS Eupen,0-0,Sint-Truiden
+22/12/17,FDA,Anderlecht,1-0,AS Eupen
+26/12/17,FDA,AS Eupen,1-0,SK Beveren
+20/01/18,FDA,Standard Liège,3-2,AS Eupen
+24/01/18,FDA,AS Eupen,1-0,Sporting Charleroi
+27/01/18,FDA,Kortrijk,0-0,AS Eupen
+03/02/18,FDA,AS Eupen,1-1,Gent
+10/02/18,FDA,Mechelen,1-0,AS Eupen
+17/02/18,FDA,Zulte Waregem,3-2,AS Eupen
+24/02/18,FDA,AS Eupen,3-2,Lokeren
+03/03/18,FDA,Antwerp,2-0,AS Eupen
+11/03/18,FDA,AS Eupen,4-0,Excel Mouscron
+31/03/18,UEL,AS Eupen,2-2,Beerschot
+07/04/18,UEL,KV Oostende,1-1,AS Eupen
+14/04/18,UEL,Lokeren,3-0,AS Eupen
+18/04/18,UEL,AS Eupen,0-1,Antwerp
+21/04/18,UEL,Sint-Truiden,2-3,AS Eupen
+28/04/18,UEL,AS Eupen,0-2,Lokeren
+05/05/18,UEL,AS Eupen,3-1,Sint-Truiden
+09/05/18,UEL,Antwerp,2-1,AS Eupen
+12/05/18,UEL,AS Eupen,0-4,KV Oostende
+19/05/18,UEL,Beerschot,3-1,AS Eupen
+27/06/18,CLF,Sprimont,1-2,AS Eupen
+07/07/18,CLF,AS Eupen,1-0,Alemannia Aachen
+15/07/18,CLF,AS Eupen,3-2,Olympiakos
+21/07/18,CLF,AS Eupen,2-0,Tubize
+29/07/18,FDA,Club Brugge,5-2,AS Eupen
+04/08/18,FDA,AS Eupen,1-4,Sporting Charleroi
+23/07/16,CLF,AS Eupen,2-3,Malaga
+30/07/16,FDA,Zulte Waregem,3-0,AS Eupen
+06/08/16,FDA,AS Eupen,0-2,Mechelen
+13/08/16,FDA,Westerlo,1-2,AS Eupen
+21/08/16,FDA,AS Eupen,2-2,Anderlecht
+26/08/16,FDA,Sporting Charleroi,3-2,AS Eupen
+10/09/16,FDA,AS Eupen,2-1,KV Oostende
+17/09/16,FDA,Club Brugge,3-2,AS Eupen
+21/09/16,CUP,KSV Roeselare,2-3,AS Eupen
+25/09/16,FDA,Standard Liège,3-0,AS Eupen
+01/10/16,FDA,AS Eupen,1-4,Excel Mouscron
+15/10/16,FDA,SK Beveren,4-2,AS Eupen
+23/10/16,FDA,AS Eupen,3-2,Gent
+26/10/16,FDA,Kortrijk,1-1,AS Eupen
+29/10/16,FDA,AS Eupen,2-2,Lokeren
+05/11/16,FDA,AS Eupen,4-2,Sint-Truiden
+19/11/16,FDA,Genk,2-0,AS Eupen
+26/11/16,FDA,AS Eupen,3-3,Westerlo
+29/11/16,CUP,AS Eupen,3-2,Club Brugge
+02/12/16,FDA,Mechelen,1-0,AS Eupen
+10/12/16,FDA,AS Eupen,2-2,Sporting Charleroi
+13/12/16,CUP,AS Eupen,4-0,Kortrijk
+18/12/16,FDA,Anderlecht,4-0,AS Eupen
+21/12/16,FDA,AS Eupen,1-4,Club Brugge
+26/12/16,FDA,KV Oostende,1-3,AS Eupen
+10/01/17,CLF,AS Eupen,0-5,Bayern Munich
+12/01/17,CLF,AS Eupen,1-0,Shanghai Port
+18/01/17,CUP,Zulte Waregem,1-0,AS Eupen
+21/01/17,FDA,AS Eupen,0-1,Genk
+26/01/17,FDA,AS Eupen,2-2,Standard Liège
+29/01/17,FDA,Excel Mouscron,3-0,AS Eupen
+01/02/17,CUP,AS Eupen,0-2,Zulte Waregem
+04/02/17,FDA,AS Eupen,0-2,SK Beveren
+11/02/17,FDA,Gent,0-1,AS Eupen
+18/02/17,FDA,AS Eupen,1-0,Kortrijk
+25/02/17,FDA,Lokeren,1-2,AS Eupen
+04/03/17,FDA,Sint-Truiden,2-1,AS Eupen
+12/03/17,FDA,AS Eupen,1-3,Zulte Waregem
+01/04/17,UEL,AS Eupen,2-2,KSV Roeselare
+08/04/17,UEL,Excel Mouscron,0-2,AS Eupen
+15/04/17,UEL,AS Eupen,3-3,Lokeren
+22/04/17,UEL,Kortrijk,3-3,AS Eupen
+26/04/17,UEL,AS Eupen,1-1,Genk
+29/04/17,UEL,Lokeren,4-1,AS Eupen
+07/05/17,UEL,Genk,2-1,AS Eupen
+13/05/17,UEL,AS Eupen,3-2,Kortrijk
+17/05/17,UEL,AS Eupen,2-0,Excel Mouscron
+20/05/17,UEL,KSV Roeselare,3-2,AS Eupen
+08/07/17,CLF,AS Eupen,3-0,Köln II
+12/07/17,CLF,AS Eupen,2-2,Borussia M'gladbach
+04/04/15,CPL,KSV Roeselare,1-1,AS Eupen
+11/04/15,CPL,AS Eupen,4-0,Geel
+19/04/15,CPL,Lommel,0-1,AS Eupen
+25/04/15,CPL,AS Eupen,1-0,Excelsior Virton
+07/05/15,PL1,AS Eupen,0-1,Lierse
+10/05/15,PL1,OH Leuven,1-1,AS Eupen
+14/05/15,PL1,AS Eupen,1-0,Lommel
+17/05/15,PL1,Lommel,0-0,AS Eupen
+20/05/15,PL1,Lierse,1-3,AS Eupen
+24/05/15,PL1,AS Eupen,0-1,OH Leuven
+11/07/15,CLF,AS Eupen,1-2,Alemannia Aachen
+01/08/15,CLF,AS Eupen,4-1,NAC Breda
+08/08/15,CPL,Union Saint-Gilloise,0-1,AS Eupen
+12/08/15,CPL,AS Eupen,5-1,Deinze
+16/08/15,CUP,AS Eupen,4-1,Cappellen
+22/08/15,CUP,Berlare,1-3,AS Eupen
+30/08/15,CPL,Coxyde,0-2,AS Eupen
+05/09/15,CPL,Dessel Sport,2-2,AS Eupen
+13/09/15,CPL,AS Eupen,1-4,Lierse
+23/09/15,CUP,Gent,3-0,AS Eupen
+26/09/15,CPL,AS Eupen,3-1,White Star Bruxelles
+03/10/15,CPL,Heist,1-5,AS Eupen
+07/10/15,CPL,AS Eupen,6-0,Patro Eisden
+11/10/15,CPL,Cercle Brugge,4-0,AS Eupen
+18/10/15,CPL,AS Eupen,2-0,RFC Seraing
+24/10/15,CPL,KSV Roeselare,2-2,AS Eupen
+01/11/15,CPL,AS Eupen,2-0,Lommel
+07/11/15,CPL,Excelsior Virton,1-4,AS Eupen
+15/11/15,CPL,AS Eupen,0-1,Tubize
+21/11/15,CPL,Geel,0-3,AS Eupen
+04/12/15,CPL,AS Eupen,0-0,Union Saint-Gilloise
+12/12/15,CPL,Deinze,1-1,AS Eupen
+16/12/15,CPL,AS Eupen,3-4,Antwerp
+19/12/15,CPL,AS Eupen,0-0,Coxyde
+16/01/16,CPL,AS Eupen,0-1,Dessel Sport
+23/01/16,CPL,Lierse,1-1,AS Eupen
+06/02/16,CPL,White Star Bruxelles,4-2,AS Eupen
+13/02/16,CPL,AS Eupen,3-1,Heist
+21/02/16,CPL,Patro Eisden,1-2,AS Eupen
+06/03/16,CPL,AS Eupen,2-1,Cercle Brugge
+12/03/16,CPL,RFC Seraing,0-3,AS Eupen
+18/03/16,CPL,AS Eupen,4-0,KSV Roeselare
+02/04/16,CPL,Lommel,0-3,AS Eupen
+09/04/16,CPL,AS Eupen,2-1,Excelsior Virton
+15/04/16,CPL,Tubize,1-1,AS Eupen
+24/04/16,CPL,AS Eupen,4-1,Geel
+30/04/16,CPL,Antwerp,0-0,AS Eupen
+09/07/16,CLF,AS Eupen,2-1,Union Saint-Gilloise
+12/07/16,CLF,AS Eupen,0-1,Alemannia Aachen
+16/07/16,CLF,Lommel,0-1,AS Eupen
+01/03/14,CPL,Hoogstraten,0-6,AS Eupen
+07/03/14,CPL,Tubize,0-1,AS Eupen
+15/03/14,CPL,AS Eupen,3-2,Lommel
+30/03/14,CPL,Visé,0-0,AS Eupen
+06/04/14,CPL,AS Eupen,4-0,Excelsior Virton
+11/04/14,CPL,Sint-Truiden,0-3,AS Eupen
+20/04/14,CPL,AS Eupen,1-0,RWDM Brussels
+27/04/14,CPL,Westerlo,1-0,AS Eupen
+04/05/14,PL1,Sint-Truiden,2-3,AS Eupen
+08/05/14,PL1,AS Eupen,0-3,OH Leuven
+11/05/14,PL1,Excel Mouscron,0-1,AS Eupen
+15/05/14,PL1,AS Eupen,2-2,Excel Mouscron
+18/05/14,PL1,AS Eupen,2-2,Sint-Truiden
+22/05/14,PL1,OH Leuven,2-1,AS Eupen
+15/07/14,CLF,AS Eupen,0-1,Wattenscheid 09
+22/07/14,CLF,AS Eupen,0-1,Bochum
+26/07/14,CLF,AS Eupen,3-1,OFI
+01/08/14,CPL,AS Eupen,3-0,Mons
+08/08/14,CPL,RFC Seraing,2-3,AS Eupen
+13/08/14,CPL,AS Eupen,1-0,Tubize
+17/08/14,CUP,AS Eupen,1-0,Francs Borains
+24/08/14,CUP,RW Walhain,0-1,AS Eupen
+29/08/14,CPL,OH Leuven,2-0,AS Eupen
+03/09/14,CPL,AS Eupen,3-1,Eendracht Aalst
+07/09/14,CPL,Racing Mechelen,3-1,AS Eupen
+13/09/14,CPL,AS Eupen,0-1,Dessel Sport
+20/09/14,CPL,Antwerp,1-2,AS Eupen
+24/09/14,CUP,Sporting Charleroi,2-0,AS Eupen
+28/09/14,CPL,Woluwe-Zaventem,0-2,AS Eupen
+05/10/14,CPL,AS Eupen,3-0,Sint-Truiden
+12/10/14,CPL,White Star Bruxelles,0-1,AS Eupen
+18/10/14,CPL,AS Eupen,1-1,Patro Eisden
+25/10/14,CPL,Heist,0-4,AS Eupen
+01/11/14,CPL,AS Eupen,1-1,KSV Roeselare
+08/11/14,CPL,Geel,0-3,AS Eupen
+15/11/14,CPL,AS Eupen,2-1,Lommel
+22/11/14,CPL,Excelsior Virton,2-0,AS Eupen
+30/11/14,CPL,Mons,1-1,AS Eupen
+05/12/14,CPL,AS Eupen,1-1,RFC Seraing
+13/12/14,CPL,Tubize,0-0,AS Eupen
+19/12/14,CPL,AS Eupen,1-1,OH Leuven
+18/01/15,CPL,Eendracht Aalst,1-2,AS Eupen
+23/01/15,CPL,AS Eupen,5-1,Racing Mechelen
+31/01/15,CPL,Dessel Sport,1-3,AS Eupen
+06/02/15,CPL,AS Eupen,4-1,Antwerp
+14/02/15,CPL,AS Eupen,4-1,Woluwe-Zaventem
+01/03/15,CPL,Sint-Truiden,1-0,AS Eupen
+07/03/15,CPL,AS Eupen,1-2,White Star Bruxelles
+13/03/15,CPL,Patro Eisden,0-2,AS Eupen
+21/03/15,CPL,AS Eupen,2-3,Heist
+15/12/12,CPL,Dessel Sport,2-0,AS Eupen
+19/12/12,CPL,Eendracht Aalst,0-1,AS Eupen
+06/01/13,CPL,AS Eupen,2-1,Lommel
+12/01/13,CPL,Heist,1-2,AS Eupen
+01/02/13,CPL,AS Eupen,1-1,RWDM Brussels
+10/02/13,CPL,Francs Borains,0-0,AS Eupen
+16/02/13,CPL,AS Eupen,1-0,Tubize
+23/02/13,CPL,AS Eupen,2-0,SK Sint-Niklaas
+02/03/13,CPL,Antwerp,1-0,AS Eupen
+05/03/13,CLF,Standard Liège,3-0,AS Eupen
+09/03/13,CPL,AS Eupen,4-1,KSV Roeselare
+15/03/13,CPL,Westerlo,2-0,AS Eupen
+20/03/13,CPL,AS Eupen,0-2,Excel Mouscron
+30/03/13,CPL,AS Eupen,0-0,Sint-Truiden
+03/04/13,CPL,Visé,5-0,AS Eupen
+07/04/13,CPL,KV Oostende,1-0,AS Eupen
+13/04/13,CPL,AS Eupen,4-1,Oudenaarde
+21/04/13,CPL,White Star Bruxelles,3-2,AS Eupen
+28/04/13,CPL,AS Eupen,0-1,Eendracht Aalst
+20/07/13,CLF,MVV,0-1,AS Eupen
+27/07/13,CLF,VVV,1-1,AS Eupen
+03/08/13,CPL,Francs Borains,0-4,AS Eupen
+11/08/13,CPL,AS Eupen,4-2,KSV Roeselare
+18/08/13,CUP,Sint-Eloois-Winkel,P1-1P,AS Eupen
+25/08/13,CUP,Bocholt,1-2,AS Eupen
+01/09/13,CPL,White Star Bruxelles,0-2,AS Eupen
+04/09/13,CPL,Antwerp,0-0,AS Eupen
+07/09/13,CPL,AS Eupen,5-0,Dessel Sport
+14/09/13,CPL,Heist,1-1,AS Eupen
+21/09/13,CPL,AS Eupen,4-2,Geel
+25/09/13,CUP,Anderlecht,7-0,AS Eupen
+28/09/13,CPL,Excel Mouscron,1-2,AS Eupen
+02/10/13,CPL,AS Eupen,2-0,Eendracht Aalst
+06/10/13,CPL,AS Eupen,5-2,Hoogstraten
+12/10/13,CPL,AS Eupen,2-2,Tubize
+18/10/13,CPL,Lommel,1-1,AS Eupen
+26/10/13,CPL,AS Eupen,4-2,Visé
+03/11/13,CPL,Excelsior Virton,1-1,AS Eupen
+08/11/13,CPL,AS Eupen,1-2,Sint-Truiden
+16/11/13,CPL,RWDM Brussels,1-3,AS Eupen
+22/11/13,CPL,AS Eupen,1-0,Westerlo
+30/11/13,CPL,AS Eupen,2-2,Francs Borains
+07/12/13,CPL,KSV Roeselare,2-2,AS Eupen
+13/12/13,CPL,AS Eupen,1-0,White Star Bruxelles
+11/01/14,CPL,Dessel Sport,1-0,AS Eupen
+19/01/14,CPL,AS Eupen,1-0,Antwerp
+26/01/14,CPL,Eendracht Aalst,0-2,AS Eupen
+01/02/14,CPL,AS Eupen,5-1,Heist
+08/02/14,CPL,Geel,0-2,AS Eupen
+14/02/14,CPL,AS Eupen,0-1,Excel Mouscron

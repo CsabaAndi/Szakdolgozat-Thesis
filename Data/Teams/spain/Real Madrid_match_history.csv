@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+27/09/23,LAL,Real Madrid,2-0,Las Palmas
+30/09/23,LAL,Girona,0-3,Real Madrid
+03/10/23,UCL,Napoli,2-3,Real Madrid
+07/10/23,LAL,Real Madrid,4-0,Osasuna
+21/10/23,LAL,Sevilla,1-1,Real Madrid
+24/10/23,UCL,Sporting Braga,1-2,Real Madrid
+28/10/23,LAL,Barcelona,1-2,Real Madrid
+05/11/23,LAL,Real Madrid,0-0,Rayo Vallecano
+08/11/23,UCL,Real Madrid,3-0,Sporting Braga
+11/11/23,LAL,Real Madrid,5-1,Valencia
+26/11/23,LAL,Cadiz,0-3,Real Madrid
+29/11/23,UCL,Real Madrid,4-2,Napoli
+02/12/23,LAL,Real Madrid,2-0,Granada
+09/12/23,LAL,Real Betis,1-1,Real Madrid
+12/12/23,UCL,Union Berlin,2-3,Real Madrid
+17/12/23,LAL,Real Madrid,4-1,Villarreal
+21/12/23,LAL,Alaves,0-1,Real Madrid
+03/01/24,LAL,Real Madrid,1-0,Mallorca
+06/01/24,CDR,Arandina,1-3,Real Madrid
+10/01/24,SUC,Real Madrid,E5-3E,Atletico Madrid
+14/01/24,SUC,Real Madrid,4-1,Barcelona
+18/01/24,CDR,Atletico Madrid,E4-2E,Real Madrid
+21/01/24,LAL,Real Madrid,3-2,Almeria
+27/01/24,LAL,Las Palmas,1-2,Real Madrid
+01/02/24,LAL,Getafe,0-2,Real Madrid
+04/02/24,LAL,Real Madrid,1-1,Atletico Madrid
+10/02/24,LAL,Real Madrid,4-0,Girona
+13/02/24,UCL,RB Leipzig,0-1,Real Madrid
+18/02/24,LAL,Rayo Vallecano,1-1,Real Madrid
+25/02/24,LAL,Real Madrid,1-0,Sevilla
+02/03/24,LAL,Valencia,2-2,Real Madrid
+06/03/24,UCL,Real Madrid,1-1,RB Leipzig
+10/03/24,LAL,Real Madrid,4-0,Celta Vigo
+16/03/24,LAL,Osasuna,2-4,Real Madrid
+31/03/24,LAL,Real Madrid,2-0,Athletic Bilbao
+09/04/24,UCL,Real Madrid,3-3,Manchester City
+13/04/24,LAL,Mallorca,0-1,Real Madrid
+17/04/24,UCL,Manchester City,P1-1P,Real Madrid
+21/04/24,LAL,Real Madrid,3-2,Barcelona
+26/04/24,LAL,Real Sociedad,0-1,Real Madrid
+30/04/24,UCL,Bayern Munich,2-2,Real Madrid
+04/05/24,LAL,Real Madrid,16:15,Cadiz
+08/05/24,UCL,Real Madrid,21:00,Bayern Munich
+11/05/24,LAL,Granada,18:30,Real Madrid
+14/05/24,LAL,Real Madrid,21:30,Alaves
+19/05/24,LAL,Villarreal,-,Real Madrid
+26/05/24,LAL,Real Madrid,-,Real Betis
+31/07/24,CLF,Real Madrid,-,AC Milan
+03/08/24,CLF,Barcelona,-,Real Madrid
+06/08/24,CLF,Chelsea,-,Real Madrid
+03/01/23,CDR,Cacereño,0-1,Real Madrid
+07/01/23,LAL,Villarreal,2-1,Real Madrid
+11/01/23,SUC,Real Madrid,P1-1P,Valencia
+15/01/23,SUC,Real Madrid,1-3,Barcelona
+19/01/23,CDR,Villarreal,2-3,Real Madrid
+22/01/23,LAL,Athletic Bilbao,0-2,Real Madrid
+26/01/23,CDR,Real Madrid,E3-1E,Atletico Madrid
+29/01/23,LAL,Real Madrid,0-0,Real Sociedad
+02/02/23,LAL,Real Madrid,2-0,Valencia
+05/02/23,LAL,Mallorca,1-0,Real Madrid
+08/02/23,FCW,Al Ahly,1-4,Real Madrid
+11/02/23,FCW,Real Madrid,5-3,Al Hilal
+15/02/23,LAL,Real Madrid,4-0,Elche
+18/02/23,LAL,Osasuna,0-2,Real Madrid
+21/02/23,UCL,Liverpool,2-5,Real Madrid
+25/02/23,LAL,Real Madrid,1-1,Atletico Madrid
+02/03/23,CDR,Real Madrid,0-1,Barcelona
+05/03/23,LAL,Real Betis,0-0,Real Madrid
+11/03/23,LAL,Real Madrid,3-1,Espanyol
+15/03/23,UCL,Real Madrid,1-0,Liverpool
+19/03/23,LAL,Barcelona,2-1,Real Madrid
+02/04/23,LAL,Real Madrid,6-0,Real Valladolid
+05/04/23,CDR,Barcelona,0-4,Real Madrid
+08/04/23,LAL,Real Madrid,2-3,Villarreal
+12/04/23,UCL,Real Madrid,2-0,Chelsea
+15/04/23,LAL,Cadiz,0-2,Real Madrid
+18/04/23,UCL,Chelsea,0-2,Real Madrid
+22/04/23,LAL,Real Madrid,2-0,Celta Vigo
+25/04/23,LAL,Girona,4-2,Real Madrid
+29/04/23,LAL,Real Madrid,4-2,Almeria
+02/05/23,LAL,Real Sociedad,2-0,Real Madrid
+06/05/23,CDR,Real Madrid,2-1,Osasuna
+09/05/23,UCL,Real Madrid,1-1,Manchester City
+13/05/23,LAL,Real Madrid,1-0,Getafe
+17/05/23,UCL,Manchester City,4-0,Real Madrid
+21/05/23,LAL,Valencia,1-0,Real Madrid
+24/05/23,LAL,Real Madrid,2-1,Rayo Vallecano
+27/05/23,LAL,Sevilla,1-2,Real Madrid
+04/06/23,LAL,Real Madrid,1-1,Athletic Bilbao
+24/07/23,CLF,Real Madrid,3-2,AC Milan
+27/07/23,CLF,Real Madrid,2-0,Manchester United
+29/07/23,CLF,Barcelona,3-0,Real Madrid
+03/08/23,CLF,Juventus,3-1,Real Madrid
+12/08/23,LAL,Athletic Bilbao,0-2,Real Madrid
+19/08/23,LAL,Almeria,1-3,Real Madrid
+25/08/23,LAL,Celta Vigo,0-1,Real Madrid
+02/09/23,LAL,Real Madrid,2-1,Getafe
+17/09/23,LAL,Real Madrid,2-1,Real Sociedad
+20/09/23,UCL,Real Madrid,1-0,Union Berlin
+24/09/23,LAL,Atletico Madrid,3-1,Real Madrid
+23/01/22,LAL,Real Madrid,2-2,Elche
+03/02/22,CDR,Athletic Bilbao,1-0,Real Madrid
+06/02/22,LAL,Real Madrid,1-0,Granada
+12/02/22,LAL,Villarreal,0-0,Real Madrid
+15/02/22,UCL,PSG,1-0,Real Madrid
+19/02/22,LAL,Real Madrid,3-0,Alaves
+26/02/22,LAL,Rayo Vallecano,0-1,Real Madrid
+05/03/22,LAL,Real Madrid,4-1,Real Sociedad
+09/03/22,UCL,Real Madrid,3-1,PSG
+14/03/22,LAL,Mallorca,0-3,Real Madrid
+20/03/22,LAL,Real Madrid,0-4,Barcelona
+02/04/22,LAL,Celta Vigo,1-2,Real Madrid
+06/04/22,UCL,Chelsea,1-3,Real Madrid
+09/04/22,LAL,Real Madrid,2-0,Getafe
+12/04/22,UCL,Real Madrid,E2-3E,Chelsea
+17/04/22,LAL,Sevilla,2-3,Real Madrid
+20/04/22,LAL,Osasuna,1-3,Real Madrid
+26/04/22,UCL,Manchester City,4-3,Real Madrid
+30/04/22,LAL,Real Madrid,4-0,Espanyol
+04/05/22,UCL,Real Madrid,E3-1E,Manchester City
+08/05/22,LAL,Atletico Madrid,1-0,Real Madrid
+12/05/22,LAL,Real Madrid,6-0,Levante
+15/05/22,LAL,Cadiz,1-1,Real Madrid
+20/05/22,LAL,Real Madrid,0-0,Real Betis
+28/05/22,UCL,Liverpool,0-1,Real Madrid
+24/07/22,CLF,Real Madrid,0-1,Barcelona
+27/07/22,CLF,Real Madrid,2-2,América
+31/07/22,CLF,Real Madrid,2-0,Juventus
+10/08/22,USC,Real Madrid,2-0,Eintracht Frankfurt
+14/08/22,LAL,Almeria,1-2,Real Madrid
+20/08/22,LAL,Celta Vigo,1-4,Real Madrid
+28/08/22,LAL,Espanyol,1-3,Real Madrid
+03/09/22,LAL,Real Madrid,2-1,Real Betis
+06/09/22,UCL,Celtic,0-3,Real Madrid
+11/09/22,LAL,Real Madrid,4-1,Mallorca
+14/09/22,UCL,Real Madrid,2-0,RB Leipzig
+18/09/22,LAL,Atletico Madrid,1-2,Real Madrid
+02/10/22,LAL,Real Madrid,1-1,Osasuna
+05/10/22,UCL,Real Madrid,2-1,Shakhtar Donetsk
+08/10/22,LAL,Getafe,0-1,Real Madrid
+11/10/22,UCL,Shakhtar Donetsk,1-1,Real Madrid
+16/10/22,LAL,Real Madrid,3-1,Barcelona
+19/10/22,LAL,Elche,0-3,Real Madrid
+22/10/22,LAL,Real Madrid,3-1,Sevilla
+25/10/22,UCL,RB Leipzig,3-2,Real Madrid
+30/10/22,LAL,Real Madrid,1-1,Girona
+02/11/22,UCL,Real Madrid,5-1,Celtic
+07/11/22,LAL,Rayo Vallecano,3-2,Real Madrid
+10/11/22,LAL,Real Madrid,2-1,Cadiz
+30/12/22,LAL,Real Valladolid,0-2,Real Madrid
+13/03/21,LAL,Real Madrid,2-1,Elche
+16/03/21,UCL,Real Madrid,3-1,Atalanta
+20/03/21,LAL,Celta Vigo,1-3,Real Madrid
+03/04/21,LAL,Real Madrid,2-0,Eibar
+06/04/21,UCL,Real Madrid,3-1,Liverpool
+10/04/21,LAL,Real Madrid,2-1,Barcelona
+14/04/21,UCL,Liverpool,0-0,Real Madrid
+18/04/21,LAL,Getafe,0-0,Real Madrid
+21/04/21,LAL,Cadiz,0-3,Real Madrid
+24/04/21,LAL,Real Madrid,0-0,Real Betis
+27/04/21,UCL,Real Madrid,1-1,Chelsea
+01/05/21,LAL,Real Madrid,2-0,Osasuna
+05/05/21,UCL,Chelsea,2-0,Real Madrid
+09/05/21,LAL,Real Madrid,2-2,Sevilla
+13/05/21,LAL,Granada,1-4,Real Madrid
+16/05/21,LAL,Athletic Bilbao,0-1,Real Madrid
+22/05/21,LAL,Real Madrid,2-1,Villarreal
+25/07/21,CLF,Rangers,2-1,Real Madrid
+08/08/21,CLF,Real Madrid,0-0,AC Milan
+14/08/21,LAL,Alaves,1-4,Real Madrid
+22/08/21,LAL,Levante,3-3,Real Madrid
+28/08/21,LAL,Real Betis,0-1,Real Madrid
+12/09/21,LAL,Real Madrid,5-2,Celta Vigo
+15/09/21,UCL,Inter Milan,0-1,Real Madrid
+19/09/21,LAL,Valencia,1-2,Real Madrid
+22/09/21,LAL,Real Madrid,6-1,Mallorca
+25/09/21,LAL,Real Madrid,0-0,Villarreal
+28/09/21,UCL,Real Madrid,1-2,Sheriff
+03/10/21,LAL,Espanyol,2-1,Real Madrid
+19/10/21,UCL,Shakhtar Donetsk,0-5,Real Madrid
+24/10/21,LAL,Barcelona,1-2,Real Madrid
+27/10/21,LAL,Real Madrid,0-0,Osasuna
+30/10/21,LAL,Elche,1-2,Real Madrid
+03/11/21,UCL,Real Madrid,2-1,Shakhtar Donetsk
+06/11/21,LAL,Real Madrid,2-1,Rayo Vallecano
+21/11/21,LAL,Granada,1-4,Real Madrid
+24/11/21,UCL,Sheriff,0-3,Real Madrid
+28/11/21,LAL,Real Madrid,2-1,Sevilla
+01/12/21,LAL,Real Madrid,1-0,Athletic Bilbao
+04/12/21,LAL,Real Sociedad,0-2,Real Madrid
+07/12/21,UCL,Real Madrid,2-0,Inter Milan
+12/12/21,LAL,Real Madrid,2-0,Atletico Madrid
+19/12/21,LAL,Real Madrid,0-0,Cadiz
+22/12/21,LAL,Athletic Bilbao,1-2,Real Madrid
+02/01/22,LAL,Getafe,1-0,Real Madrid
+05/01/22,CDR,Alcoyano,1-3,Real Madrid
+08/01/22,LAL,Real Madrid,4-1,Valencia
+12/01/22,SUC,Barcelona,E2-3E,Real Madrid
+16/01/22,SUC,Athletic Bilbao,0-2,Real Madrid
+20/01/22,CDR,Elche,E1-2E,Real Madrid
+26/02/20,UCL,Real Madrid,1-2,Manchester City
+01/03/20,LAL,Real Madrid,2-0,Barcelona
+08/03/20,LAL,Real Betis,2-1,Real Madrid
+14/06/20,LAL,Real Madrid,3-1,Eibar
+18/06/20,LAL,Real Madrid,3-0,Valencia
+21/06/20,LAL,Real Sociedad,1-2,Real Madrid
+24/06/20,LAL,Real Madrid,2-0,Mallorca
+28/06/20,LAL,Espanyol,0-1,Real Madrid
+02/07/20,LAL,Real Madrid,1-0,Getafe
+05/07/20,LAL,Athletic Bilbao,0-1,Real Madrid
+10/07/20,LAL,Real Madrid,2-0,Alaves
+13/07/20,LAL,Granada,1-2,Real Madrid
+16/07/20,LAL,Real Madrid,2-1,Villarreal
+19/07/20,LAL,Leganes,2-2,Real Madrid
+07/08/20,UCL,Manchester City,2-1,Real Madrid
+20/09/20,LAL,Real Sociedad,0-0,Real Madrid
+26/09/20,LAL,Real Betis,2-3,Real Madrid
+30/09/20,LAL,Real Madrid,1-0,Real Valladolid
+04/10/20,LAL,Levante,0-2,Real Madrid
+17/10/20,LAL,Real Madrid,0-1,Cadiz
+21/10/20,UCL,Real Madrid,2-3,Shakhtar Donetsk
+24/10/20,LAL,Barcelona,1-3,Real Madrid
+27/10/20,UCL,Borussia M'gladbach,2-2,Real Madrid
+31/10/20,LAL,Real Madrid,4-1,Huesca
+03/11/20,UCL,Real Madrid,3-2,Inter Milan
+08/11/20,LAL,Valencia,4-1,Real Madrid
+21/11/20,LAL,Villarreal,1-1,Real Madrid
+25/11/20,UCL,Inter Milan,0-2,Real Madrid
+28/11/20,LAL,Real Madrid,1-2,Alaves
+01/12/20,UCL,Shakhtar Donetsk,2-0,Real Madrid
+05/12/20,LAL,Sevilla,0-1,Real Madrid
+09/12/20,UCL,Real Madrid,2-0,Borussia M'gladbach
+12/12/20,LAL,Real Madrid,2-0,Atletico Madrid
+15/12/20,LAL,Real Madrid,3-1,Athletic Bilbao
+20/12/20,LAL,Eibar,1-3,Real Madrid
+23/12/20,LAL,Real Madrid,2-0,Granada
+30/12/20,LAL,Elche,1-1,Real Madrid
+02/01/21,LAL,Real Madrid,2-0,Celta Vigo
+09/01/21,LAL,Osasuna,0-0,Real Madrid
+14/01/21,SUC,Real Madrid,1-2,Athletic Bilbao
+20/01/21,CDR,Alcoyano,E2-1E,Real Madrid
+23/01/21,LAL,Alaves,1-4,Real Madrid
+30/01/21,LAL,Real Madrid,1-2,Levante
+06/02/21,LAL,Huesca,1-2,Real Madrid
+09/02/21,LAL,Real Madrid,2-0,Getafe
+14/02/21,LAL,Real Madrid,2-0,Valencia
+20/02/21,LAL,Real Valladolid,0-1,Real Madrid
+24/02/21,UCL,Atalanta,0-1,Real Madrid
+01/03/21,LAL,Real Madrid,1-1,Real Sociedad
+07/03/21,LAL,Atletico Madrid,1-1,Real Madrid
+15/04/19,LAL,Leganes,1-1,Real Madrid
+21/04/19,LAL,Real Madrid,3-0,Athletic Bilbao
+25/04/19,LAL,Getafe,0-0,Real Madrid
+28/04/19,LAL,Rayo Vallecano,1-0,Real Madrid
+05/05/19,LAL,Real Madrid,3-2,Villarreal
+12/05/19,LAL,Real Sociedad,3-1,Real Madrid
+19/05/19,LAL,Real Madrid,0-2,Real Betis
+21/07/19,ICC,Bayern Munich,3-1,Real Madrid
+24/07/19,ICC,Real Madrid,P2-2P,Arsenal
+27/07/19,ICC,Real Madrid,3-7,Atletico Madrid
+30/07/19,AUC,Real Madrid,0-1,Tottenham Hotspur
+31/07/19,AUC,Real Madrid,5-3,Fenerbahce
+07/08/19,CLF,Salzburg,0-1,Real Madrid
+11/08/19,CLF,Roma,P2-2P,Real Madrid
+17/08/19,LAL,Celta Vigo,1-3,Real Madrid
+24/08/19,LAL,Real Madrid,1-1,Real Valladolid
+01/09/19,LAL,Villarreal,2-2,Real Madrid
+14/09/19,LAL,Real Madrid,3-2,Levante
+18/09/19,UCL,PSG,3-0,Real Madrid
+22/09/19,LAL,Sevilla,0-1,Real Madrid
+25/09/19,LAL,Real Madrid,2-0,Osasuna
+28/09/19,LAL,Atletico Madrid,0-0,Real Madrid
+01/10/19,UCL,Real Madrid,2-2,Club Brugge
+05/10/19,LAL,Real Madrid,4-2,Granada
+19/10/19,LAL,Mallorca,1-0,Real Madrid
+22/10/19,UCL,Galatasaray,0-1,Real Madrid
+30/10/19,LAL,Real Madrid,5-0,Leganes
+02/11/19,LAL,Real Madrid,0-0,Real Betis
+06/11/19,UCL,Real Madrid,6-0,Galatasaray
+09/11/19,LAL,Eibar,0-4,Real Madrid
+23/11/19,LAL,Real Madrid,3-1,Real Sociedad
+26/11/19,UCL,Real Madrid,2-2,PSG
+30/11/19,LAL,Alaves,1-2,Real Madrid
+07/12/19,LAL,Real Madrid,2-0,Espanyol
+11/12/19,UCL,Club Brugge,1-3,Real Madrid
+15/12/19,LAL,Valencia,1-1,Real Madrid
+18/12/19,LAL,Barcelona,0-0,Real Madrid
+22/12/19,LAL,Real Madrid,0-0,Athletic Bilbao
+04/01/20,LAL,Getafe,0-3,Real Madrid
+08/01/20,SUC,Valencia,1-3,Real Madrid
+12/01/20,SUC,Real Madrid,P0-0P,Atletico Madrid
+18/01/20,LAL,Real Madrid,2-1,Sevilla
+22/01/20,CDR,Unionistas de Salamanca,1-3,Real Madrid
+26/01/20,LAL,Real Valladolid,0-1,Real Madrid
+29/01/20,CDR,Real Zaragoza,0-4,Real Madrid
+01/02/20,LAL,Real Madrid,1-0,Atletico Madrid
+06/02/20,CDR,Real Madrid,3-4,Real Sociedad
+09/02/20,LAL,Osasuna,1-4,Real Madrid
+16/02/20,LAL,Real Madrid,2-2,Celta Vigo
+22/02/20,LAL,Levante,1-0,Real Madrid
+15/08/18,USC,Real Madrid,E2-4E,Atletico Madrid
+19/08/18,LAL,Real Madrid,2-0,Getafe
+26/08/18,LAL,Girona,1-4,Real Madrid
+01/09/18,LAL,Real Madrid,4-1,Leganes
+15/09/18,LAL,Athletic Bilbao,1-1,Real Madrid
+19/09/18,UCL,Real Madrid,3-0,Roma
+22/09/18,LAL,Real Madrid,1-0,Espanyol
+26/09/18,LAL,Sevilla,3-0,Real Madrid
+29/09/18,LAL,Real Madrid,0-0,Atletico Madrid
+02/10/18,UCL,CSKA Moscow,1-0,Real Madrid
+06/10/18,LAL,Alaves,1-0,Real Madrid
+20/10/18,LAL,Real Madrid,1-2,Levante
+23/10/18,UCL,Real Madrid,2-1,Viktoria Plzen
+28/10/18,LAL,Barcelona,5-1,Real Madrid
+31/10/18,CDR,UD Melilla,0-4,Real Madrid
+03/11/18,LAL,Real Madrid,2-0,Real Valladolid
+07/11/18,UCL,Viktoria Plzen,0-5,Real Madrid
+11/11/18,LAL,Celta Vigo,2-4,Real Madrid
+24/11/18,LAL,Eibar,3-0,Real Madrid
+27/11/18,UCL,Roma,0-2,Real Madrid
+01/12/18,LAL,Real Madrid,2-0,Valencia
+06/12/18,CDR,Real Madrid,6-1,UD Melilla
+09/12/18,LAL,Huesca,0-1,Real Madrid
+12/12/18,UCL,Real Madrid,0-3,CSKA Moscow
+15/12/18,LAL,Real Madrid,1-0,Rayo Vallecano
+19/12/18,FCW,Kashima Antlers,1-3,Real Madrid
+22/12/18,FCW,Real Madrid,4-1,Al Ain
+03/01/19,LAL,Villarreal,2-2,Real Madrid
+06/01/19,LAL,Real Madrid,0-2,Real Sociedad
+09/01/19,CDR,Real Madrid,3-0,Leganes
+13/01/19,LAL,Real Betis,1-2,Real Madrid
+16/01/19,CDR,Leganes,1-0,Real Madrid
+19/01/19,LAL,Real Madrid,2-0,Sevilla
+24/01/19,CDR,Real Madrid,4-2,Girona
+27/01/19,LAL,Espanyol,2-4,Real Madrid
+31/01/19,CDR,Girona,1-3,Real Madrid
+03/02/19,LAL,Real Madrid,3-0,Alaves
+06/02/19,CDR,Barcelona,1-1,Real Madrid
+09/02/19,LAL,Atletico Madrid,1-3,Real Madrid
+13/02/19,UCL,Ajax,1-2,Real Madrid
+17/02/19,LAL,Real Madrid,1-2,Girona
+24/02/19,LAL,Levante,1-2,Real Madrid
+27/02/19,CDR,Real Madrid,0-3,Barcelona
+02/03/19,LAL,Real Madrid,0-1,Barcelona
+05/03/19,UCL,Real Madrid,1-4,Ajax
+10/03/19,LAL,Real Valladolid,1-4,Real Madrid
+16/03/19,LAL,Real Madrid,2-0,Celta Vigo
+31/03/19,LAL,Real Madrid,3-2,Huesca
+03/04/19,LAL,Valencia,2-1,Real Madrid
+06/04/19,LAL,Real Madrid,2-1,Eibar
+29/10/17,LAL,Girona,2-1,Real Madrid
+01/11/17,UCL,Tottenham Hotspur,3-1,Real Madrid
+05/11/17,LAL,Real Madrid,3-0,Las Palmas
+18/11/17,LAL,Atletico Madrid,0-0,Real Madrid
+21/11/17,UCL,APOEL,0-6,Real Madrid
+25/11/17,LAL,Real Madrid,3-2,Malaga
+28/11/17,CDR,Real Madrid,2-2,Fuenlabrada
+02/12/17,LAL,Athletic Bilbao,0-0,Real Madrid
+06/12/17,UCL,Real Madrid,3-2,Borussia Dortmund
+09/12/17,LAL,Real Madrid,5-0,Sevilla
+13/12/17,FCW,Al Jazira,1-2,Real Madrid
+16/12/17,FCW,Real Madrid,1-0,Grêmio
+23/12/17,LAL,Real Madrid,0-3,Barcelona
+04/01/18,CDR,Numancia,0-3,Real Madrid
+07/01/18,LAL,Celta Vigo,2-2,Real Madrid
+10/01/18,CDR,Real Madrid,2-2,Numancia
+13/01/18,LAL,Real Madrid,0-1,Villarreal
+18/01/18,CDR,Leganes,0-1,Real Madrid
+21/01/18,LAL,Real Madrid,7-1,Deportivo La Coruña
+24/01/18,CDR,Real Madrid,1-2,Leganes
+27/01/18,LAL,Valencia,1-4,Real Madrid
+03/02/18,LAL,Levante,2-2,Real Madrid
+10/02/18,LAL,Real Madrid,5-2,Real Sociedad
+14/02/18,UCL,Real Madrid,3-1,PSG
+18/02/18,LAL,Real Betis,3-5,Real Madrid
+21/02/18,LAL,Leganes,1-3,Real Madrid
+24/02/18,LAL,Real Madrid,4-0,Alaves
+27/02/18,LAL,Espanyol,1-0,Real Madrid
+03/03/18,LAL,Real Madrid,3-1,Getafe
+06/03/18,UCL,PSG,1-2,Real Madrid
+10/03/18,LAL,Eibar,1-2,Real Madrid
+18/03/18,LAL,Real Madrid,6-3,Girona
+31/03/18,LAL,Las Palmas,0-3,Real Madrid
+03/04/18,UCL,Juventus,0-3,Real Madrid
+08/04/18,LAL,Real Madrid,1-1,Atletico Madrid
+11/04/18,UCL,Real Madrid,1-3,Juventus
+15/04/18,LAL,Malaga,1-2,Real Madrid
+18/04/18,LAL,Real Madrid,1-1,Athletic Bilbao
+25/04/18,UCL,Bayern Munich,1-2,Real Madrid
+28/04/18,LAL,Real Madrid,2-1,Leganes
+01/05/18,UCL,Real Madrid,2-2,Bayern Munich
+06/05/18,LAL,Barcelona,2-2,Real Madrid
+09/05/18,LAL,Sevilla,3-2,Real Madrid
+12/05/18,LAL,Real Madrid,6-0,Celta Vigo
+19/05/18,LAL,Villarreal,2-2,Real Madrid
+26/05/18,UCL,Real Madrid,3-1,Liverpool
+01/08/18,ICC,Manchester United,2-1,Real Madrid
+05/08/18,ICC,Real Madrid,3-1,Juventus
+08/08/18,ICC,Real Madrid,2-1,Roma
+11/08/18,CLF,Real Madrid,3-1,AC Milan
+21/01/17,LAL,Real Madrid,2-1,Malaga
+25/01/17,CDR,Celta Vigo,2-2,Real Madrid
+29/01/17,LAL,Real Madrid,3-0,Real Sociedad
+11/02/17,LAL,Osasuna,1-3,Real Madrid
+15/02/17,UCL,Real Madrid,3-1,Napoli
+18/02/17,LAL,Real Madrid,2-0,Espanyol
+22/02/17,LAL,Valencia,2-1,Real Madrid
+26/02/17,LAL,Villarreal,2-3,Real Madrid
+01/03/17,LAL,Real Madrid,3-3,Las Palmas
+04/03/17,LAL,Eibar,1-4,Real Madrid
+07/03/17,UCL,Napoli,1-3,Real Madrid
+12/03/17,LAL,Real Madrid,2-1,Real Betis
+18/03/17,LAL,Athletic Bilbao,1-2,Real Madrid
+02/04/17,LAL,Real Madrid,3-0,Alaves
+05/04/17,LAL,Leganes,2-4,Real Madrid
+08/04/17,LAL,Real Madrid,1-1,Atletico Madrid
+12/04/17,UCL,Bayern Munich,1-2,Real Madrid
+15/04/17,LAL,Sporting Gijon,2-3,Real Madrid
+18/04/17,UCL,Real Madrid,E4-2E,Bayern Munich
+23/04/17,LAL,Real Madrid,2-3,Barcelona
+26/04/17,LAL,Deportivo La Coruña,2-6,Real Madrid
+29/04/17,LAL,Real Madrid,2-1,Valencia
+02/05/17,UCL,Real Madrid,3-0,Atletico Madrid
+06/05/17,LAL,Granada,0-4,Real Madrid
+10/05/17,UCL,Atletico Madrid,2-1,Real Madrid
+14/05/17,LAL,Real Madrid,4-1,Sevilla
+17/05/17,LAL,Celta Vigo,1-4,Real Madrid
+21/05/17,LAL,Malaga,0-2,Real Madrid
+03/06/17,UCL,Juventus,1-4,Real Madrid
+23/07/17,ICC,Real Madrid,P1-1P,Manchester United
+27/07/17,ICC,Manchester City,4-1,Real Madrid
+30/07/17,ICC,Real Madrid,2-3,Barcelona
+03/08/17,MLA,MLS All-Stars,P1-1P,Real Madrid
+08/08/17,USC,Real Madrid,2-1,Manchester United
+13/08/17,SUC,Barcelona,1-3,Real Madrid
+16/08/17,SUC,Real Madrid,2-0,Barcelona
+20/08/17,LAL,Deportivo La Coruña,0-3,Real Madrid
+23/08/17,CLF,Real Madrid,2-1,Fiorentina
+27/08/17,LAL,Real Madrid,2-2,Valencia
+09/09/17,LAL,Real Madrid,1-1,Levante
+13/09/17,UCL,Real Madrid,3-0,APOEL
+17/09/17,LAL,Real Sociedad,1-3,Real Madrid
+20/09/17,LAL,Real Madrid,0-1,Real Betis
+23/09/17,LAL,Alaves,1-2,Real Madrid
+26/09/17,UCL,Borussia Dortmund,1-3,Real Madrid
+01/10/17,LAL,Real Madrid,2-0,Espanyol
+14/10/17,LAL,Getafe,1-2,Real Madrid
+17/10/17,UCL,Real Madrid,1-1,Tottenham Hotspur
+22/10/17,LAL,Real Madrid,3-0,Eibar
+26/10/17,CDR,Fuenlabrada,0-2,Real Madrid
+13/03/16,LAL,Las Palmas,1-2,Real Madrid
+20/03/16,LAL,Real Madrid,4-0,Sevilla
+02/04/16,LAL,Barcelona,1-2,Real Madrid
+06/04/16,UCL,Wolfsburg,2-0,Real Madrid
+09/04/16,LAL,Real Madrid,4-0,Eibar
+12/04/16,UCL,Real Madrid,3-0,Wolfsburg
+16/04/16,LAL,Getafe,1-5,Real Madrid
+20/04/16,LAL,Real Madrid,3-0,Villarreal
+23/04/16,LAL,Rayo Vallecano,2-3,Real Madrid
+26/04/16,UCL,Manchester City,0-0,Real Madrid
+30/04/16,LAL,Real Sociedad,0-1,Real Madrid
+04/05/16,UCL,Real Madrid,1-0,Manchester City
+08/05/16,LAL,Real Madrid,3-2,Valencia
+14/05/16,LAL,Deportivo La Coruña,0-2,Real Madrid
+28/05/16,UCL,Real Madrid,P1-1P,Atletico Madrid
+28/07/16,ICC,Real Madrid,1-3,PSG
+30/07/16,ICC,Real Madrid,3-2,Chelsea
+04/08/16,ICC,Bayern Munich,0-1,Real Madrid
+09/08/16,USC,Real Madrid,E3-2E,Sevilla
+16/08/16,CLF,Real Madrid,5-3,Reims
+21/08/16,LAL,Real Sociedad,0-3,Real Madrid
+27/08/16,LAL,Real Madrid,2-1,Celta Vigo
+10/09/16,LAL,Real Madrid,5-2,Osasuna
+14/09/16,UCL,Real Madrid,2-1,Sporting Lisbon
+18/09/16,LAL,Espanyol,0-2,Real Madrid
+21/09/16,LAL,Real Madrid,1-1,Villarreal
+24/09/16,LAL,Las Palmas,2-2,Real Madrid
+27/09/16,UCL,Borussia Dortmund,2-2,Real Madrid
+02/10/16,LAL,Real Madrid,1-1,Eibar
+15/10/16,LAL,Real Betis,1-6,Real Madrid
+18/10/16,UCL,Real Madrid,5-1,Legia Warsaw
+23/10/16,LAL,Real Madrid,2-1,Athletic Bilbao
+26/10/16,CDR,Cultural Leonesa,1-7,Real Madrid
+29/10/16,LAL,Alaves,1-4,Real Madrid
+02/11/16,UCL,Legia Warsaw,3-3,Real Madrid
+06/11/16,LAL,Real Madrid,3-0,Leganes
+19/11/16,LAL,Atletico Madrid,0-3,Real Madrid
+22/11/16,UCL,Sporting Lisbon,1-2,Real Madrid
+26/11/16,LAL,Real Madrid,2-1,Sporting Gijon
+30/11/16,CDR,Real Madrid,6-1,Cultural Leonesa
+03/12/16,LAL,Barcelona,1-1,Real Madrid
+07/12/16,UCL,Real Madrid,2-2,Borussia Dortmund
+10/12/16,LAL,Real Madrid,3-2,Deportivo La Coruña
+15/12/16,FCW,América,0-2,Real Madrid
+18/12/16,FCW,Real Madrid,E4-2E,Kashima Antlers
+04/01/17,CDR,Real Madrid,3-0,Sevilla
+07/01/17,LAL,Real Madrid,5-0,Granada
+12/01/17,CDR,Sevilla,3-3,Real Madrid
+15/01/17,LAL,Sevilla,2-1,Real Madrid
+18/01/17,CDR,Real Madrid,1-2,Celta Vigo

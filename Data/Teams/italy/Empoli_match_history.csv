@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+04/05/23,SEA,Empoli,3-1,Bologna
+08/05/23,SEA,Empoli,2-1,Salernitana
+15/05/23,SEA,Sampdoria,1-1,Empoli
+22/05/23,SEA,Empoli,4-1,Juventus
+28/05/23,SEA,Verona,1-1,Empoli
+03/06/23,SEA,Empoli,0-2,Lazio
+14/07/23,CLF,Empoli,10-0,Calcio Castelfiorentino
+20/07/23,CLF,Empoli,8-0,Calcio Certaldo
+26/07/23,CLF,Empoli,1-2,Heidenheim
+29/07/23,CLF,Empoli,2-1,Lille
+05/08/23,CLF,Freiburg,2-0,Empoli
+12/08/23,COI,Empoli,1-2,Cittadella
+19/08/23,SEA,Empoli,0-1,Verona
+26/08/23,SEA,Monza,2-0,Empoli
+03/09/23,SEA,Empoli,0-2,Juventus
+17/09/23,SEA,Roma,7-0,Empoli
+24/09/23,SEA,Empoli,0-1,Inter Milan
+27/09/23,SEA,Empoli,1-0,Salernitana
+01/10/23,SEA,Bologna,3-0,Empoli
+06/10/23,SEA,Empoli,0-0,Udinese
+23/10/23,SEA,Fiorentina,0-2,Empoli
+30/10/23,SEA,Empoli,0-3,Atalanta
+06/11/23,SEA,Frosinone,2-1,Empoli
+12/11/23,SEA,Napoli,0-1,Empoli
+26/11/23,SEA,Empoli,3-4,Sassuolo
+02/12/23,SEA,Genoa,1-1,Empoli
+11/12/23,SEA,Empoli,1-1,Lecce
+16/12/23,SEA,Torino,1-0,Empoli
+22/12/23,SEA,Empoli,0-2,Lazio
+30/12/23,SEA,Cagliari,0-0,Empoli
+07/01/24,SEA,Empoli,0-3,AC Milan
+13/01/24,SEA,Verona,2-1,Empoli
+21/01/24,SEA,Empoli,3-0,Monza
+27/01/24,SEA,Juventus,1-1,Empoli
+03/02/24,SEA,Empoli,0-0,Genoa
+09/02/24,SEA,Salernitana,1-3,Empoli
+18/02/24,SEA,Empoli,1-1,Fiorentina
+24/02/24,SEA,Sassuolo,2-3,Empoli
+03/03/24,SEA,Empoli,0-1,Cagliari
+10/03/24,SEA,AC Milan,1-0,Empoli
+15/03/24,SEA,Empoli,0-1,Bologna
+01/04/24,SEA,Inter Milan,2-0,Empoli
+06/04/24,SEA,Empoli,3-2,Torino
+13/04/24,SEA,Lecce,1-0,Empoli
+20/04/24,SEA,Empoli,1-0,Napoli
+28/04/24,SEA,Atalanta,2-0,Empoli
+05/05/24,SEA,Empoli,15:00,Frosinone
+12/05/24,SEA,Lazio,12:30,Empoli
+19/05/24,SEA,Udinese,-,Empoli
+26/05/24,SEA,Empoli,-,Roma
+20/03/22,SEA,Empoli,1-1,Verona
+03/04/22,SEA,Fiorentina,1-0,Empoli
+09/04/22,SEA,Empoli,0-0,Spezia
+16/04/22,SEA,Udinese,4-1,Empoli
+24/04/22,SEA,Empoli,3-2,Napoli
+01/05/22,SEA,Empoli,1-3,Torino
+06/05/22,SEA,Inter Milan,4-2,Empoli
+14/05/22,SEA,Empoli,1-1,Salernitana
+21/05/22,SEA,Atalanta,0-1,Empoli
+14/07/22,CLF,Empoli,11-0,Calcio Castelfiorentino
+19/07/22,CLF,Empoli,3-0,Seravezza
+25/07/22,CLF,Trabzonspor,0-1,Empoli
+28/07/22,CLF,Empoli,2-1,Pafos
+06/08/22,COI,Empoli,E1-2E,SPAL
+14/08/22,SEA,Spezia,1-0,Empoli
+21/08/22,SEA,Empoli,0-0,Fiorentina
+28/08/22,SEA,Lecce,1-1,Empoli
+31/08/22,SEA,Empoli,1-1,Verona
+05/09/22,SEA,Salernitana,2-2,Empoli
+12/09/22,SEA,Empoli,1-2,Roma
+17/09/22,SEA,Bologna,0-1,Empoli
+01/10/22,SEA,Empoli,1-3,AC Milan
+09/10/22,SEA,Torino,1-1,Empoli
+15/10/22,SEA,Empoli,1-0,Monza
+21/10/22,SEA,Juventus,4-0,Empoli
+30/10/22,SEA,Empoli,0-2,Atalanta
+05/11/22,SEA,Empoli,1-0,Sassuolo
+08/11/22,SEA,Napoli,2-0,Empoli
+11/11/22,SEA,Empoli,2-0,Cremonese
+05/12/22,CLF,Sturm Graz,1-2,Empoli
+09/12/22,CLF,Wolverhampton Wanderers,1-1,Empoli
+16/12/22,CLF,Empoli,0-1,Monaco
+23/12/22,CLF,Empoli,2-1,Sassuolo
+04/01/23,SEA,Udinese,1-1,Empoli
+08/01/23,SEA,Lazio,2-2,Empoli
+16/01/23,SEA,Empoli,1-0,Sampdoria
+23/01/23,SEA,Inter Milan,0-1,Empoli
+28/01/23,SEA,Empoli,2-2,Torino
+04/02/23,SEA,Roma,2-0,Empoli
+11/02/23,SEA,Empoli,2-2,Spezia
+19/02/23,SEA,Fiorentina,1-1,Empoli
+25/02/23,SEA,Empoli,0-2,Napoli
+04/03/23,SEA,Monza,2-1,Empoli
+11/03/23,SEA,Empoli,0-1,Udinese
+17/03/23,SEA,Atalanta,2-1,Empoli
+03/04/23,SEA,Empoli,1-0,Lecce
+07/04/23,SEA,AC Milan,0-0,Empoli
+14/04/23,SEA,Cremonese,1-0,Empoli
+23/04/23,SEA,Empoli,0-3,Inter Milan
+30/04/23,SEA,Sassuolo,2-1,Empoli
+09/04/21,SEB,Reggiana,0-1,Empoli
+13/04/21,SEB,Cremonese,2-2,Empoli
+17/04/21,SEB,Empoli,4-2,Brescia
+27/04/21,SEB,Empoli,2-2,Chievo
+01/05/21,SEB,Ascoli,2-0,Empoli
+04/05/21,SEB,Empoli,4-0,Cosenza
+07/05/21,SEB,Salernitana,2-0,Empoli
+10/05/21,SEB,Empoli,2-1,Lecce
+17/07/21,CLF,Calcio Castelfiorentino,0-12,Empoli
+24/07/21,CLF,Cuoiopelli,CANC,Empoli
+28/07/21,CLF,Empoli,3-0,Pontedera
+31/07/21,CLF,Empoli,9-0,Valdinievole Montecatini
+31/07/21,CLF,Empoli,CANC,Montevarchi Calcio
+04/08/21,CLF,Empoli,CANC,Carrarese
+07/08/21,CLF,Udinese,1-0,Empoli
+15/08/21,COI,Empoli,4-2,Vicenza
+21/08/21,SEA,Empoli,1-3,Lazio
+28/08/21,SEA,Juventus,0-1,Empoli
+04/09/21,CLF,Real Forte Querceta,2-8,Empoli
+11/09/21,SEA,Empoli,1-2,Venezia
+19/09/21,SEA,Empoli,0-3,Sampdoria
+22/09/21,SEA,Cagliari,0-2,Empoli
+26/09/21,SEA,Empoli,4-2,Bologna
+03/10/21,SEA,Roma,2-0,Empoli
+09/10/21,CLF,Empoli,2-1,Ternana
+17/10/21,SEA,Empoli,1-4,Atalanta
+23/10/21,SEA,Salernitana,2-4,Empoli
+27/10/21,SEA,Empoli,0-2,Inter Milan
+31/10/21,SEA,Sassuolo,1-2,Empoli
+05/11/21,SEA,Empoli,2-2,Genoa
+13/11/21,CLF,Empoli,1-1,Perugia
+22/11/21,SEA,Verona,2-1,Empoli
+27/11/21,SEA,Empoli,2-1,Fiorentina
+02/12/21,SEA,Torino,2-2,Empoli
+06/12/21,SEA,Empoli,3-1,Udinese
+12/12/21,SEA,Napoli,0-1,Empoli
+15/12/21,COI,Verona,3-4,Empoli
+19/12/21,SEA,Spezia,1-1,Empoli
+22/12/21,SEA,Empoli,2-4,AC Milan
+06/01/22,SEA,Lazio,3-3,Empoli
+09/01/22,SEA,Empoli,1-5,Sassuolo
+16/01/22,SEA,Venezia,1-1,Empoli
+19/01/22,COI,Inter Milan,E3-2E,Empoli
+23/01/22,SEA,Empoli,2-4,Roma
+06/02/22,SEA,Bologna,0-0,Empoli
+13/02/22,SEA,Empoli,1-1,Cagliari
+19/02/22,SEA,Sampdoria,2-0,Empoli
+26/02/22,SEA,Empoli,2-3,Juventus
+06/03/22,SEA,Genoa,0-0,Empoli
+12/03/22,SEA,AC Milan,1-0,Empoli
+07/03/20,SEB,Empoli,1-1,Trapani
+19/06/20,SEB,Spezia,1-0,Empoli
+26/06/20,SEB,Empoli,0-0,Benevento
+29/06/20,SEB,Pescara,1-1,Empoli
+03/07/20,SEB,Venezia,0-2,Empoli
+10/07/20,SEB,Empoli,2-0,Frosinone
+13/07/20,SEB,Ascoli,1-0,Empoli
+17/07/20,SEB,Empoli,2-4,Virtus Entella
+24/07/20,SEB,Salernitana,2-4,Empoli
+27/07/20,SEB,Empoli,1-5,Cosenza
+31/07/20,SEB,Livorno,0-2,Empoli
+04/08/20,SEB,Chievo,1-1,Empoli
+02/09/20,CLF,Empoli,0-1,Pontedera
+06/09/20,CLF,Parma,0-2,Empoli
+12/09/20,CLF,Empoli,4-0,Lucchese
+19/09/20,CLF,Empoli,2-0,Vis Pesaro
+26/09/20,SEB,Frosinone,0-2,Empoli
+30/09/20,COI,Empoli,2-1,Renate
+03/10/20,SEB,Empoli,0-0,Monza
+17/10/20,SEB,Pescara,1-2,Empoli
+20/10/20,SEB,Empoli,2-1,SPAL
+23/10/20,SEB,Empoli,3-1,Pisa
+28/10/20,COI,Benevento,2-4,Empoli
+01/11/20,SEB,Venezia,2-0,Empoli
+07/11/20,SEB,Empoli,3-0,Reggina
+21/11/20,SEB,Cittadella,2-2,Empoli
+25/11/20,COI,Empoli,3-0,Brescia
+28/11/20,SEB,Empoli,2-2,Vicenza
+07/12/20,SEB,Pordenone,0-0,Empoli
+12/12/20,SEB,Virtus Entella,2-5,Empoli
+15/12/20,SEB,Empoli,1-0,Cremonese
+19/12/20,SEB,Chievo,1-1,Empoli
+22/12/20,SEB,Empoli,0-0,Reggiana
+27/12/20,SEB,Brescia,1-3,Empoli
+30/12/20,SEB,Empoli,1-1,Ascoli
+04/01/21,SEB,Cosenza,0-2,Empoli
+13/01/21,COI,Napoli,3-2,Empoli
+17/01/21,SEB,Empoli,5-0,Salernitana
+24/01/21,SEB,Lecce,2-2,Empoli
+30/01/21,SEB,Empoli,3-1,Frosinone
+06/02/21,SEB,Monza,1-1,Empoli
+09/02/21,SEB,Empoli,2-2,Pescara
+13/02/21,SEB,SPAL,1-1,Empoli
+20/02/21,SEB,Pisa,1-1,Empoli
+26/02/21,SEB,Empoli,1-1,Venezia
+02/03/21,SEB,Reggina,0-3,Empoli
+07/03/21,SEB,Empoli,1-1,Cittadella
+13/03/21,SEB,Vicenza,0-2,Empoli
+16/03/21,SEB,Empoli,1-0,Pordenone
+20/03/21,SEB,Empoli,1-0,Virtus Entella
+02/02/19,SEA,Empoli,2-2,Chievo
+07/02/19,SEA,Lazio,1-0,Empoli
+17/02/19,SEA,Empoli,3-0,Sassuolo
+22/02/19,SEA,AC Milan,3-0,Empoli
+02/03/19,SEA,Empoli,3-3,Parma
+11/03/19,SEA,Roma,2-1,Empoli
+17/03/19,SEA,Empoli,2-1,Frosinone
+30/03/19,SEA,Juventus,1-0,Empoli
+03/04/19,SEA,Empoli,2-1,Napoli
+07/04/19,SEA,Udinese,3-2,Empoli
+15/04/19,SEA,Atalanta,0-0,Empoli
+20/04/19,SEA,Empoli,2-4,SPAL
+27/04/19,SEA,Bologna,3-1,Empoli
+05/05/19,SEA,Empoli,1-0,Fiorentina
+12/05/19,SEA,Sampdoria,1-2,Empoli
+19/05/19,SEA,Empoli,4-1,Torino
+26/05/19,SEA,Inter Milan,2-1,Empoli
+27/07/19,CLF,Empoli,5-1,Pontedera
+31/07/19,CLF,Sassuolo,1-0,Empoli
+03/08/19,CLF,Venezia,1-0,Empoli
+11/08/19,COI,Empoli,2-1,Reggina
+18/08/19,COI,Empoli,E2-1E,Pescara
+25/08/19,SEB,Empoli,2-1,Juve Stabia
+30/08/19,SEB,Chievo,1-1,Empoli
+15/09/19,SEB,Crotone,0-0,Empoli
+21/09/19,SEB,Empoli,1-0,Cittadella
+24/09/19,SEB,Pisa,2-3,Empoli
+28/09/19,SEB,Empoli,3-0,Perugia
+05/10/19,SEB,Pordenone,2-0,Empoli
+20/10/19,SEB,Empoli,1-1,Cremonese
+26/10/19,SEB,Trapani,2-2,Empoli
+29/10/19,SEB,Empoli,1-1,Spezia
+03/11/19,SEB,Benevento,2-0,Empoli
+09/11/19,SEB,Empoli,1-2,Pescara
+23/11/19,SEB,Empoli,1-1,Venezia
+30/11/19,SEB,Frosinone,4-0,Empoli
+03/12/19,COI,Cremonese,1-0,Empoli
+07/12/19,SEB,Empoli,2-1,Ascoli
+14/12/19,SEB,Virtus Entella,2-0,Empoli
+21/12/19,SEB,Empoli,1-1,Salernitana
+26/12/19,SEB,Cosenza,1-0,Empoli
+29/12/19,SEB,Empoli,1-1,Livorno
+18/01/20,SEB,Juve Stabia,1-0,Empoli
+24/01/20,SEB,Empoli,1-1,Chievo
+01/02/20,SEB,Empoli,3-1,Crotone
+08/02/20,SEB,Cittadella,1-2,Empoli
+16/02/20,SEB,Empoli,2-1,Pisa
+24/02/20,SEB,Perugia,0-1,Empoli
+29/02/20,SEB,Empoli,0-1,Pordenone
+03/03/20,SEB,Cremonese,2-3,Empoli
+20/01/18,SEB,Empoli,2-1,Ternana
+27/01/18,SEB,Bari,0-4,Empoli
+02/02/18,SEB,Empoli,4-0,Palermo
+10/02/18,SEB,Ascoli,1-2,Empoli
+17/02/18,SEB,Empoli,4-0,Parma
+24/02/18,SEB,Cittadella,1-1,Empoli
+27/02/18,SEB,Empoli,1-1,Avellino
+11/03/18,SEB,Empoli,2-1,Virtus Entella
+17/03/18,SEB,Empoli,3-2,Venezia
+25/03/18,SEB,Pescara,0-1,Empoli
+29/03/18,SEB,Empoli,2-0,Salernitana
+02/04/18,SEB,Foggia,0-3,Empoli
+07/04/18,SEB,Spezia,1-1,Empoli
+14/04/18,SEB,Empoli,3-2,Pro Vercelli
+17/04/18,SEB,Cesena,2-3,Empoli
+23/04/18,SEB,Frosinone,2-4,Empoli
+28/04/18,SEB,Empoli,1-1,Novara
+01/05/18,SEB,Carpi,0-0,Empoli
+07/05/18,SEB,Empoli,1-1,Cremonese
+12/05/18,SEB,Brescia,0-2,Empoli
+18/05/18,SEB,Empoli,2-1,Perugia
+14/07/18,CLF,Lampo 1919,0-9,Empoli
+21/07/18,CLF,Empoli,0-0,Pro Vercelli
+28/07/18,CLF,Empoli,2-2,Spezia
+01/08/18,CLF,Empoli,2-0,Eintracht Frankfurt
+05/08/18,CLF,Sporting Lisbon,P1-1P,Empoli
+12/08/18,COI,Empoli,0-3,Cittadella
+19/08/18,SEA,Empoli,2-0,Cagliari
+26/08/18,SEA,Genoa,2-1,Empoli
+02/09/18,SEA,Chievo,0-0,Empoli
+06/09/18,CLF,Arezzo,1-1,Empoli
+16/09/18,SEA,Empoli,0-1,Lazio
+21/09/18,SEA,Sassuolo,3-1,Empoli
+27/09/18,SEA,Empoli,1-1,AC Milan
+30/09/18,SEA,Parma,1-0,Empoli
+06/10/18,SEA,Empoli,0-2,Roma
+21/10/18,SEA,Frosinone,3-3,Empoli
+27/10/18,SEA,Empoli,1-2,Juventus
+02/11/18,SEA,Napoli,5-1,Empoli
+11/11/18,SEA,Empoli,2-1,Udinese
+25/11/18,SEA,Empoli,3-2,Atalanta
+01/12/18,SEA,SPAL,2-2,Empoli
+09/12/18,SEA,Empoli,2-1,Bologna
+16/12/18,SEA,Fiorentina,3-1,Empoli
+22/12/18,SEA,Empoli,2-4,Sampdoria
+26/12/18,SEA,Torino,3-0,Empoli
+29/12/18,SEA,Empoli,0-1,Inter Milan
+12/01/19,CLF,Empoli,1-0,Perugia
+20/01/19,SEA,Cagliari,2-2,Empoli
+28/01/19,SEA,Empoli,1-3,Genoa
+04/12/16,SEA,Sassuolo,3-0,Empoli
+11/12/16,SEA,Bologna,0-0,Empoli
+17/12/16,SEA,Empoli,2-0,Cagliari
+20/12/16,SEA,Atalanta,2-1,Empoli
+07/01/17,SEA,Empoli,1-0,Palermo
+15/01/17,SEA,Sampdoria,0-0,Empoli
+22/01/17,SEA,Empoli,1-0,Udinese
+29/01/17,SEA,Crotone,4-1,Empoli
+05/02/17,SEA,Empoli,1-1,Torino
+12/02/17,SEA,Inter Milan,2-0,Empoli
+18/02/17,SEA,Empoli,1-2,Lazio
+25/02/17,SEA,Juventus,2-0,Empoli
+05/03/17,SEA,Empoli,0-2,Genoa
+12/03/17,SEA,Chievo,4-0,Empoli
+19/03/17,SEA,Empoli,2-3,Napoli
+01/04/17,SEA,Roma,2-0,Empoli
+08/04/17,SEA,Empoli,1-1,Pescara
+15/04/17,SEA,Fiorentina,1-2,Empoli
+23/04/17,SEA,AC Milan,1-2,Empoli
+30/04/17,SEA,Empoli,1-3,Sassuolo
+07/05/17,SEA,Empoli,3-1,Bologna
+14/05/17,SEA,Cagliari,3-2,Empoli
+21/05/17,SEA,Empoli,0-1,Atalanta
+28/05/17,SEA,Palermo,2-1,Empoli
+23/07/17,CLF,Real Forte Querceta,1-1,Empoli
+28/07/17,CLF,Empoli,3-0,Pontedera
+05/08/17,COI,Empoli,P2-2P,Renate
+18/08/17,CLF,Parma,1-1,Empoli
+26/08/17,SEB,Ternana,1-1,Empoli
+03/09/17,SEB,Empoli,3-2,Bari
+09/09/17,SEB,Palermo,3-3,Empoli
+16/09/17,SEB,Empoli,3-0,Ascoli
+19/09/17,SEB,Parma,1-2,Empoli
+23/09/17,SEB,Empoli,0-1,Cittadella
+30/09/17,SEB,Avellino,3-2,Empoli
+08/10/17,SEB,Empoli,3-1,Foggia
+16/10/17,SEB,Virtus Entella,2-3,Empoli
+21/10/17,SEB,Venezia,1-0,Empoli
+24/10/17,SEB,Empoli,3-1,Pescara
+28/10/17,SEB,Salernitana,2-1,Empoli
+05/11/17,SEB,Empoli,1-1,Spezia
+11/11/17,SEB,Pro Vercelli,2-1,Empoli
+18/11/17,SEB,Empoli,5-3,Cesena
+24/11/17,SEB,Empoli,3-3,Frosinone
+02/12/17,SEB,Novara,1-1,Empoli
+09/12/17,SEB,Empoli,1-0,Carpi
+16/12/17,SEB,Cremonese,1-1,Empoli
+21/12/17,SEB,Empoli,1-1,Brescia
+28/12/17,SEB,Perugia,2-4,Empoli
+13/01/18,CLF,Empoli,0-0,Pontedera
+24/10/15,SEA,Empoli,2-0,Genoa
+29/10/15,SEA,Sampdoria,1-1,Empoli
+02/11/15,SEA,Palermo,0-1,Empoli
+08/11/15,SEA,Empoli,1-3,Juventus
+22/11/15,SEA,Fiorentina,2-2,Empoli
+29/11/15,SEA,Empoli,1-0,Lazio
+06/12/15,SEA,Verona,0-1,Empoli
+13/12/15,SEA,Empoli,3-0,Carpi
+19/12/15,SEA,Bologna,2-3,Empoli
+06/01/16,SEA,Empoli,0-1,Inter Milan
+10/01/16,SEA,Torino,0-1,Empoli
+17/01/16,SEA,Chievo,1-1,Empoli
+23/01/16,SEA,Empoli,2-2,AC Milan
+31/01/16,SEA,Napoli,5-1,Empoli
+03/02/16,SEA,Empoli,1-1,Udinese
+07/02/16,SEA,Atalanta,0-0,Empoli
+13/02/16,SEA,Empoli,1-2,Frosinone
+21/02/16,SEA,Sassuolo,3-2,Empoli
+27/02/16,SEA,Empoli,1-3,Roma
+06/03/16,SEA,Genoa,1-0,Empoli
+12/03/16,SEA,Empoli,1-1,Sampdoria
+19/03/16,SEA,Empoli,0-0,Palermo
+02/04/16,SEA,Juventus,1-0,Empoli
+10/04/16,SEA,Empoli,2-0,Fiorentina
+17/04/16,SEA,Lazio,2-0,Empoli
+20/04/16,SEA,Empoli,1-0,Verona
+25/04/16,SEA,Carpi,1-0,Empoli
+01/05/16,SEA,Empoli,0-0,Bologna
+07/05/16,SEA,Inter Milan,2-1,Empoli
+15/05/16,SEA,Empoli,2-1,Torino
+17/07/16,CLF,Empoli,9-1,Faro Gaggio Montano
+23/07/16,CLF,Empoli,5-0,Castelvetro
+31/07/16,CLF,Lucchese,1-4,Empoli
+06/08/16,CLF,Empoli,0-1,Nantes
+13/08/16,COI,Empoli,2-0,Vicenza
+21/08/16,SEA,Empoli,0-1,Sampdoria
+28/08/16,SEA,Udinese,2-0,Empoli
+12/09/16,SEA,Empoli,2-1,Crotone
+18/09/16,SEA,Torino,0-0,Empoli
+21/09/16,SEA,Empoli,0-2,Inter Milan
+25/09/16,SEA,Lazio,2-0,Empoli
+02/10/16,SEA,Empoli,0-3,Juventus
+16/10/16,SEA,Genoa,0-0,Empoli
+23/10/16,SEA,Empoli,0-0,Chievo
+26/10/16,SEA,Napoli,2-0,Empoli
+30/10/16,SEA,Empoli,0-0,Roma
+06/11/16,SEA,Pescara,0-4,Empoli
+20/11/16,SEA,Empoli,0-4,Fiorentina
+26/11/16,SEA,Empoli,1-4,AC Milan
+29/11/16,COI,Empoli,E1-2E,Cesena
+20/10/14,SEA,Genoa,1-1,Empoli
+25/10/14,SEA,Empoli,0-4,Cagliari
+28/10/14,SEA,Sassuolo,3-1,Empoli
+01/11/14,SEA,Empoli,0-2,Juventus
+09/11/14,SEA,Empoli,2-1,Lazio
+23/11/14,SEA,Parma,0-2,Empoli
+30/11/14,SEA,Empoli,0-0,Atalanta
+03/12/14,COI,Empoli,2-0,Genoa
+07/12/14,SEA,Napoli,2-2,Empoli
+15/12/14,SEA,Empoli,0-0,Torino
+21/12/14,SEA,Fiorentina,1-1,Empoli
+06/01/15,SEA,Empoli,0-0,Verona
+11/01/15,SEA,Sampdoria,1-0,Empoli
+17/01/15,SEA,Empoli,0-0,Inter Milan
+20/01/15,COI,Roma,E2-1E,Empoli
+26/01/15,SEA,Empoli,1-2,Udinese
+31/01/15,SEA,Roma,1-1,Empoli
+08/02/15,SEA,Empoli,2-0,Cesena
+15/02/15,SEA,AC Milan,1-1,Empoli
+22/02/15,SEA,Empoli,3-0,Chievo
+01/03/15,SEA,Palermo,0-0,Empoli
+08/03/15,SEA,Empoli,1-1,Genoa
+14/03/15,SEA,Cagliari,1-1,Empoli
+22/03/15,SEA,Empoli,3-1,Sassuolo
+04/04/15,SEA,Juventus,2-0,Empoli
+12/04/15,SEA,Lazio,4-0,Empoli
+19/04/15,SEA,Empoli,2-2,Parma
+26/04/15,SEA,Atalanta,2-2,Empoli
+30/04/15,SEA,Empoli,4-2,Napoli
+06/05/15,SEA,Torino,0-1,Empoli
+10/05/15,SEA,Empoli,2-3,Fiorentina
+17/05/15,SEA,Verona,2-1,Empoli
+24/05/15,SEA,Empoli,1-1,Sampdoria
+31/05/15,SEA,Inter Milan,4-3,Empoli
+19/07/15,CLF,Montelupo,0-10,Empoli
+22/07/15,CLF,Camaiore Calcio,2-6,Empoli
+25/07/15,CLF,Lucchese,0-4,Empoli
+29/07/15,CLF,Viareggio,1-4,Empoli
+02/08/15,CLF,Pistoiese,0-1,Empoli
+05/08/15,CLF,Pisa,0-2,Empoli
+08/08/15,CLF,Empoli,0-1,Genoa
+15/08/15,COI,Empoli,0-1,Vicenza
+23/08/15,SEA,Empoli,1-3,Chievo
+29/08/15,SEA,AC Milan,2-1,Empoli
+13/09/15,SEA,Empoli,2-2,Napoli
+19/09/15,SEA,Udinese,1-2,Empoli
+24/09/15,SEA,Empoli,0-1,Atalanta
+28/09/15,SEA,Frosinone,2-0,Empoli
+04/10/15,SEA,Empoli,1-0,Sassuolo
+17/10/15,SEA,Roma,3-1,Empoli
+31/08/13,SEB,Palermo,1-2,Empoli
+08/09/13,SEB,Empoli,1-1,Trapani
+14/09/13,SEB,Carpi,0-2,Empoli
+21/09/13,SEB,Empoli,3-1,Padova
+24/09/13,SEB,Empoli,0-0,Siena
+30/09/13,SEB,Avellino,1-0,Empoli
+05/10/13,SEB,Empoli,2-1,Modena
+12/10/13,SEB,Reggina,2-1,Empoli
+19/10/13,SEB,Empoli,2-0,Varese
+26/10/13,SEB,Juve Stabia,0-2,Empoli
+01/11/13,SEB,Empoli,1-1,Bari
+11/11/13,SEB,Ternana,1-0,Empoli
+17/11/13,SEB,Empoli,3-0,Virtus Lanciano
+23/11/13,SEB,Spezia,1-3,Empoli
+29/11/13,SEB,Empoli,2-2,Brescia
+07/12/13,SEB,Crotone,1-1,Empoli
+14/12/13,SEB,Empoli,0-0,Cesena
+21/12/13,SEB,Novara,0-1,Empoli
+26/12/13,SEB,Empoli,0-1,Cittadella
+29/12/13,SEB,Pescara,1-2,Empoli
+25/01/14,SEB,Latina,2-1,Empoli
+03/02/14,SEB,Empoli,1-1,Palermo
+08/02/14,SEB,Trapani,0-0,Empoli
+15/02/14,SEB,Empoli,1-1,Carpi
+22/02/14,SEB,Padova,0-1,Empoli
+01/03/14,SEB,Siena,1-1,Empoli
+07/03/14,SEB,Empoli,0-1,Avellino
+15/03/14,SEB,Modena,0-0,Empoli
+22/03/14,SEB,Empoli,4-0,Reggina
+25/03/14,SEB,Varese,1-0,Empoli
+29/03/14,SEB,Empoli,2-1,Juve Stabia
+06/04/14,SEB,Bari,3-0,Empoli
+12/04/14,SEB,Empoli,1-0,Ternana
+17/04/14,SEB,Virtus Lanciano,2-1,Empoli
+26/04/14,SEB,Empoli,2-0,Spezia
+03/05/14,SEB,Brescia,1-3,Empoli
+09/05/14,SEB,Empoli,3-1,Crotone
+13/05/14,SEB,Cesena,1-0,Empoli
+17/05/14,SEB,Empoli,3-1,Novara
+25/05/14,SEB,Cittadella,2-2,Empoli
+30/05/14,SEB,Empoli,2-0,Pescara
+23/07/14,CLF,Montelupo,0-8,Empoli
+27/07/14,CLF,Lampo 1919,0-10,Empoli
+24/08/14,COI,Empoli,3-0,L'Aquila
+31/08/14,SEA,Udinese,2-0,Empoli
+13/09/14,SEA,Empoli,0-1,Roma
+20/09/14,SEA,Cesena,2-2,Empoli
+23/09/14,SEA,Empoli,2-2,AC Milan
+28/09/14,SEA,Chievo,1-1,Empoli
+05/10/14,SEA,Empoli,3-0,Palermo

@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+11/07/23,CLF,Barnet,1-0,Crystal Palace
+15/07/23,CLF,Crystal Palace,2-2,Brøndby
+19/07/23,CLF,Crawley Town,0-4,Crystal Palace
+22/07/23,CLF,Crystal Palace,2-1,Watford
+27/07/23,CLF,Crystal Palace,1-2,Millonarios
+31/07/23,CLF,Crystal Palace,P1-1P,Sevilla
+05/08/23,CLF,Crystal Palace,2-0,Lyon
+12/08/23,PRL,Sheffield United,0-1,Crystal Palace
+21/08/23,PRL,Crystal Palace,0-1,Arsenal
+26/08/23,PRL,Brentford,1-1,Crystal Palace
+29/08/23,LEC,Plymouth Argyle,2-4,Crystal Palace
+03/09/23,PRL,Crystal Palace,3-2,Wolverhampton Wanderers
+16/09/23,PRL,Aston Villa,3-1,Crystal Palace
+23/09/23,PRL,Crystal Palace,0-0,Fulham
+26/09/23,LEC,Manchester United,3-0,Crystal Palace
+30/09/23,PRL,Manchester United,0-1,Crystal Palace
+07/10/23,PRL,Crystal Palace,0-0,Nottingham Forest
+21/10/23,PRL,Newcastle United,4-0,Crystal Palace
+27/10/23,PRL,Crystal Palace,1-2,Tottenham Hotspur
+04/11/23,PRL,Burnley,0-2,Crystal Palace
+11/11/23,PRL,Crystal Palace,2-3,Everton
+25/11/23,PRL,Luton Town,2-1,Crystal Palace
+03/12/23,PRL,West Ham United,1-1,Crystal Palace
+06/12/23,PRL,Crystal Palace,0-2,AFC Bournemouth
+09/12/23,PRL,Crystal Palace,1-2,Liverpool
+16/12/23,PRL,Manchester City,2-2,Crystal Palace
+21/12/23,PRL,Crystal Palace,1-1,Brighton & Hove Albion
+27/12/23,PRL,Chelsea,2-1,Crystal Palace
+30/12/23,PRL,Crystal Palace,3-1,Brentford
+04/01/24,FAC,Crystal Palace,0-0,Everton
+17/01/24,FAC,Everton,1-0,Crystal Palace
+20/01/24,PRL,Arsenal,5-0,Crystal Palace
+30/01/24,PRL,Crystal Palace,3-2,Sheffield United
+03/02/24,PRL,Brighton & Hove Albion,4-1,Crystal Palace
+12/02/24,PRL,Crystal Palace,1-3,Chelsea
+19/02/24,PRL,Everton,1-1,Crystal Palace
+24/02/24,PRL,Crystal Palace,3-0,Burnley
+02/03/24,PRL,Tottenham Hotspur,3-1,Crystal Palace
+09/03/24,PRL,Crystal Palace,1-1,Luton Town
+14/03/24,CLF,Bodø / Glimt,0-1,Crystal Palace
+30/03/24,PRL,Nottingham Forest,1-1,Crystal Palace
+02/04/24,PRL,AFC Bournemouth,1-0,Crystal Palace
+06/04/24,PRL,Crystal Palace,2-4,Manchester City
+14/04/24,PRL,Liverpool,0-1,Crystal Palace
+21/04/24,PRL,Crystal Palace,5-2,West Ham United
+24/04/24,PRL,Crystal Palace,2-0,Newcastle United
+27/04/24,PRL,Fulham,1-1,Crystal Palace
+06/05/24,PRL,Crystal Palace,21:00,Manchester United
+11/05/24,PRL,Wolverhampton Wanderers,16:00,Crystal Palace
+19/05/24,PRL,Crystal Palace,17:00,Aston Villa
+19/07/22,CLF,Manchester United,3-1,Crystal Palace
+19/07/22,CLF,Gillingham,2-3,Crystal Palace
+22/07/22,CLF,Crystal Palace,1-1,Leeds United
+23/07/22,CLF,Queens Park Rangers,0-3,Crystal Palace
+30/07/22,CLF,Crystal Palace,4-2,Montpellier
+05/08/22,PRL,Crystal Palace,0-2,Arsenal
+15/08/22,PRL,Liverpool,1-1,Crystal Palace
+20/08/22,PRL,Crystal Palace,3-1,Aston Villa
+23/08/22,LEC,Oxford United,0-2,Crystal Palace
+27/08/22,PRL,Manchester City,4-2,Crystal Palace
+30/08/22,PRL,Crystal Palace,1-1,Brentford
+03/09/22,PRL,Newcastle United,0-0,Crystal Palace
+01/10/22,PRL,Crystal Palace,1-2,Chelsea
+09/10/22,PRL,Crystal Palace,2-1,Leeds United
+15/10/22,PRL,Leicester City,0-0,Crystal Palace
+18/10/22,PRL,Crystal Palace,2-1,Wolverhampton Wanderers
+22/10/22,PRL,Everton,3-0,Crystal Palace
+29/10/22,PRL,Crystal Palace,1-0,Southampton
+06/11/22,PRL,West Ham United,1-2,Crystal Palace
+09/11/22,LEC,Newcastle United,P0-0P,Crystal Palace
+12/11/22,PRL,Nottingham Forest,1-0,Crystal Palace
+03/12/22,CLF,Crystal Palace,0-0,Botafogo
+07/12/22,CLF,Crystal Palace,2-2,Trabzonspor
+11/12/22,CLF,Napoli,3-1,Crystal Palace
+16/12/22,CLF,Crystal Palace,2-1,Real Valladolid
+26/12/22,PRL,Crystal Palace,0-3,Fulham
+31/12/22,PRL,AFC Bournemouth,0-2,Crystal Palace
+04/01/23,PRL,Crystal Palace,0-4,Tottenham Hotspur
+07/01/23,FAC,Crystal Palace,1-2,Southampton
+15/01/23,PRL,Chelsea,1-0,Crystal Palace
+18/01/23,PRL,Crystal Palace,1-1,Manchester United
+21/01/23,PRL,Crystal Palace,0-0,Newcastle United
+04/02/23,PRL,Manchester United,2-1,Crystal Palace
+11/02/23,PRL,Crystal Palace,1-1,Brighton & Hove Albion
+18/02/23,PRL,Brentford,1-1,Crystal Palace
+25/02/23,PRL,Crystal Palace,0-0,Liverpool
+04/03/23,PRL,Aston Villa,1-0,Crystal Palace
+11/03/23,PRL,Crystal Palace,0-1,Manchester City
+15/03/23,PRL,Brighton & Hove Albion,1-0,Crystal Palace
+19/03/23,PRL,Arsenal,4-1,Crystal Palace
+01/04/23,PRL,Crystal Palace,2-1,Leicester City
+09/04/23,PRL,Leeds United,1-5,Crystal Palace
+15/04/23,PRL,Southampton,0-2,Crystal Palace
+22/04/23,PRL,Crystal Palace,0-0,Everton
+25/04/23,PRL,Wolverhampton Wanderers,2-0,Crystal Palace
+29/04/23,PRL,Crystal Palace,4-3,West Ham United
+06/05/23,PRL,Tottenham Hotspur,1-0,Crystal Palace
+13/05/23,PRL,Crystal Palace,2-0,AFC Bournemouth
+20/05/23,PRL,Fulham,2-2,Crystal Palace
+28/05/23,PRL,Crystal Palace,1-1,Nottingham Forest
+31/07/21,CLF,Reading,1-3,Crystal Palace
+07/08/21,CLF,Crystal Palace,3-1,Watford
+14/08/21,PRL,Chelsea,3-0,Crystal Palace
+21/08/21,PRL,Crystal Palace,0-0,Brentford
+24/08/21,LEC,Watford,1-0,Crystal Palace
+28/08/21,PRL,West Ham United,2-2,Crystal Palace
+11/09/21,PRL,Crystal Palace,3-0,Tottenham Hotspur
+18/09/21,PRL,Liverpool,3-0,Crystal Palace
+27/09/21,PRL,Crystal Palace,1-1,Brighton & Hove Albion
+03/10/21,PRL,Crystal Palace,2-2,Leicester City
+18/10/21,PRL,Arsenal,2-2,Crystal Palace
+23/10/21,PRL,Crystal Palace,1-1,Newcastle United
+30/10/21,PRL,Manchester City,0-2,Crystal Palace
+06/11/21,PRL,Crystal Palace,2-0,Wolverhampton Wanderers
+20/11/21,PRL,Burnley,3-3,Crystal Palace
+27/11/21,PRL,Crystal Palace,1-2,Aston Villa
+30/11/21,PRL,Leeds United,1-0,Crystal Palace
+05/12/21,PRL,Manchester United,1-0,Crystal Palace
+12/12/21,PRL,Crystal Palace,3-1,Everton
+15/12/21,PRL,Crystal Palace,2-2,Southampton
+26/12/21,PRL,Tottenham Hotspur,3-0,Crystal Palace
+28/12/21,PRL,Crystal Palace,3-0,Norwich City
+01/01/22,PRL,Crystal Palace,2-3,West Ham United
+08/01/22,FAC,Millwall,1-2,Crystal Palace
+14/01/22,PRL,Brighton & Hove Albion,1-1,Crystal Palace
+23/01/22,PRL,Crystal Palace,1-3,Liverpool
+05/02/22,FAC,Crystal Palace,2-0,Hartlepool United
+09/02/22,PRL,Norwich City,1-1,Crystal Palace
+12/02/22,PRL,Brentford,0-0,Crystal Palace
+19/02/22,PRL,Crystal Palace,0-1,Chelsea
+23/02/22,PRL,Watford,1-4,Crystal Palace
+26/02/22,PRL,Crystal Palace,1-1,Burnley
+01/03/22,FAC,Crystal Palace,2-1,Stoke City
+05/03/22,PRL,Wolverhampton Wanderers,0-2,Crystal Palace
+14/03/22,PRL,Crystal Palace,0-0,Manchester City
+20/03/22,FAC,Crystal Palace,4-0,Everton
+04/04/22,PRL,Crystal Palace,3-0,Arsenal
+10/04/22,PRL,Leicester City,2-1,Crystal Palace
+17/04/22,FAC,Chelsea,2-0,Crystal Palace
+20/04/22,PRL,Newcastle United,1-0,Crystal Palace
+25/04/22,PRL,Crystal Palace,0-0,Leeds United
+30/04/22,PRL,Southampton,1-2,Crystal Palace
+07/05/22,PRL,Crystal Palace,1-0,Watford
+15/05/22,PRL,Aston Villa,1-1,Crystal Palace
+19/05/22,PRL,Everton,3-2,Crystal Palace
+22/05/22,PRL,Crystal Palace,1-0,Manchester United
+02/07/22,CLF,Crystal Palace,1-1,Accrington Stanley
+09/07/22,CLF,Crystal Palace,5-4,Millwall
+15/07/22,CLF,Liverpool,2-0,Crystal Palace
+16/07/22,CLF,Crystal Palace,4-2,Ipswich Town
+16/07/20,PRL,Crystal Palace,0-2,Manchester United
+20/07/20,PRL,Wolverhampton Wanderers,2-0,Crystal Palace
+26/07/20,PRL,Crystal Palace,1-1,Tottenham Hotspur
+25/08/20,CLF,Crystal Palace,2-1,Oxford United
+29/08/20,CLF,Crystal Palace,3-0,Charlton Athletic
+01/09/20,CLF,Millwall,0-1,Crystal Palace
+05/09/20,CLF,Crystal Palace,1-1,Brøndby
+12/09/20,PRL,Crystal Palace,1-0,Southampton
+15/09/20,LEC,AFC Bournemouth,P0-0P,Crystal Palace
+19/09/20,PRL,Manchester United,1-3,Crystal Palace
+26/09/20,PRL,Crystal Palace,1-2,Everton
+03/10/20,PRL,Chelsea,4-0,Crystal Palace
+18/10/20,PRL,Crystal Palace,1-1,Brighton & Hove Albion
+24/10/20,PRL,Fulham,1-2,Crystal Palace
+30/10/20,PRL,Wolverhampton Wanderers,2-0,Crystal Palace
+07/11/20,PRL,Crystal Palace,4-1,Leeds United
+23/11/20,PRL,Burnley,1-0,Crystal Palace
+27/11/20,PRL,Crystal Palace,0-2,Newcastle United
+06/12/20,PRL,West Bromwich Albion,1-5,Crystal Palace
+13/12/20,PRL,Crystal Palace,1-1,Tottenham Hotspur
+16/12/20,PRL,West Ham United,1-1,Crystal Palace
+19/12/20,PRL,Crystal Palace,0-7,Liverpool
+26/12/20,PRL,Aston Villa,3-0,Crystal Palace
+28/12/20,PRL,Crystal Palace,1-1,Leicester City
+02/01/21,PRL,Crystal Palace,2-0,Sheffield United
+08/01/21,FAC,Wolverhampton Wanderers,1-0,Crystal Palace
+14/01/21,PRL,Arsenal,0-0,Crystal Palace
+17/01/21,PRL,Manchester City,4-0,Crystal Palace
+26/01/21,PRL,Crystal Palace,2-3,West Ham United
+30/01/21,PRL,Crystal Palace,1-0,Wolverhampton Wanderers
+02/02/21,PRL,Newcastle United,1-2,Crystal Palace
+08/02/21,PRL,Leeds United,2-0,Crystal Palace
+13/02/21,PRL,Crystal Palace,0-3,Burnley
+22/02/21,PRL,Brighton & Hove Albion,1-2,Crystal Palace
+28/02/21,PRL,Crystal Palace,0-0,Fulham
+03/03/21,PRL,Crystal Palace,0-0,Manchester United
+07/03/21,PRL,Tottenham Hotspur,4-1,Crystal Palace
+13/03/21,PRL,Crystal Palace,1-0,West Bromwich Albion
+05/04/21,PRL,Everton,1-1,Crystal Palace
+10/04/21,PRL,Crystal Palace,1-4,Chelsea
+26/04/21,PRL,Leicester City,2-1,Crystal Palace
+01/05/21,PRL,Crystal Palace,0-2,Manchester City
+08/05/21,PRL,Sheffield United,0-2,Crystal Palace
+11/05/21,PRL,Southampton,3-1,Crystal Palace
+16/05/21,PRL,Crystal Palace,3-2,Aston Villa
+19/05/21,PRL,Crystal Palace,1-3,Arsenal
+23/05/21,PRL,Liverpool,2-0,Crystal Palace
+17/07/21,CLF,Walsall,0-1,Crystal Palace
+24/07/21,CLF,Ipswich Town,0-1,Crystal Palace
+27/07/21,CLF,Crystal Palace,2-2,Charlton Athletic
+06/04/19,PRL,Newcastle United,0-1,Crystal Palace
+14/04/19,PRL,Crystal Palace,1-3,Manchester City
+21/04/19,PRL,Arsenal,2-3,Crystal Palace
+27/04/19,PRL,Crystal Palace,0-0,Everton
+04/05/19,PRL,Cardiff City,2-3,Crystal Palace
+12/05/19,PRL,Crystal Palace,5-3,AFC Bournemouth
+09/07/19,CLF,Luzern,P1-1P,Crystal Palace
+13/07/19,CLF,Young Boys,2-0,Crystal Palace
+16/07/19,CLF,Barnet,6-2,Crystal Palace
+19/07/19,CLF,Nottingham Forest,1-0,Crystal Palace
+27/07/19,CLF,Bristol City,0-5,Crystal Palace
+30/07/19,CLF,AFC Wimbledon,2-2,Crystal Palace
+03/08/19,CLF,Crystal Palace,0-4,Hertha Berlin
+10/08/19,PRL,Crystal Palace,0-0,Everton
+18/08/19,PRL,Sheffield United,1-0,Crystal Palace
+24/08/19,PRL,Manchester United,1-2,Crystal Palace
+27/08/19,LEC,Crystal Palace,P0-0P,Colchester United
+31/08/19,PRL,Crystal Palace,1-0,Aston Villa
+14/09/19,PRL,Tottenham Hotspur,4-0,Crystal Palace
+22/09/19,PRL,Crystal Palace,1-1,Wolverhampton Wanderers
+28/09/19,PRL,Crystal Palace,2-0,Norwich City
+05/10/19,PRL,West Ham United,1-2,Crystal Palace
+19/10/19,PRL,Crystal Palace,0-2,Manchester City
+27/10/19,PRL,Arsenal,2-2,Crystal Palace
+03/11/19,PRL,Crystal Palace,0-2,Leicester City
+09/11/19,PRL,Chelsea,2-0,Crystal Palace
+23/11/19,PRL,Crystal Palace,1-2,Liverpool
+30/11/19,PRL,Burnley,0-2,Crystal Palace
+03/12/19,PRL,Crystal Palace,1-0,AFC Bournemouth
+07/12/19,PRL,Watford,0-0,Crystal Palace
+16/12/19,PRL,Crystal Palace,1-1,Brighton & Hove Albion
+21/12/19,PRL,Newcastle United,1-0,Crystal Palace
+26/12/19,PRL,Crystal Palace,2-1,West Ham United
+28/12/19,PRL,Southampton,1-1,Crystal Palace
+01/01/20,PRL,Norwich City,1-1,Crystal Palace
+05/01/20,FAC,Crystal Palace,0-1,Derby County
+11/01/20,PRL,Crystal Palace,1-1,Arsenal
+18/01/20,PRL,Manchester City,2-2,Crystal Palace
+21/01/20,PRL,Crystal Palace,0-2,Southampton
+01/02/20,PRL,Crystal Palace,0-1,Sheffield United
+08/02/20,PRL,Everton,3-1,Crystal Palace
+22/02/20,PRL,Crystal Palace,1-0,Newcastle United
+29/02/20,PRL,Brighton & Hove Albion,0-1,Crystal Palace
+07/03/20,PRL,Crystal Palace,1-0,Watford
+20/06/20,PRL,AFC Bournemouth,0-2,Crystal Palace
+24/06/20,PRL,Liverpool,4-0,Crystal Palace
+29/06/20,PRL,Crystal Palace,0-1,Burnley
+04/07/20,PRL,Leicester City,3-0,Crystal Palace
+07/07/20,PRL,Crystal Palace,2-3,Chelsea
+12/07/20,PRL,Aston Villa,2-0,Crystal Palace
+21/04/18,PRL,Watford,0-0,Crystal Palace
+28/04/18,PRL,Crystal Palace,5-0,Leicester City
+05/05/18,PRL,Stoke City,1-2,Crystal Palace
+13/05/18,PRL,Crystal Palace,2-0,West Bromwich Albion
+12/07/18,CLF,Helsingør,2-2,Crystal Palace
+16/07/18,CLF,Halmstad,1-6,Crystal Palace
+21/07/18,CLF,Oxford United,1-3,Crystal Palace
+24/07/18,CLF,Stevenage,1-2,Crystal Palace
+28/07/18,CLF,Reading,0-4,Crystal Palace
+04/08/18,CLF,Crystal Palace,4-1,Toulouse
+07/08/18,CLF,Kingstonian,CANC,Crystal Palace
+11/08/18,PRL,Fulham,0-2,Crystal Palace
+20/08/18,PRL,Crystal Palace,0-2,Liverpool
+26/08/18,PRL,Watford,2-1,Crystal Palace
+28/08/18,LEC,Swansea City,0-1,Crystal Palace
+01/09/18,PRL,Crystal Palace,0-2,Southampton
+15/09/18,PRL,Huddersfield Town,0-1,Crystal Palace
+22/09/18,PRL,Crystal Palace,0-0,Newcastle United
+25/09/18,LEC,West Bromwich Albion,0-3,Crystal Palace
+01/10/18,PRL,AFC Bournemouth,2-1,Crystal Palace
+06/10/18,PRL,Crystal Palace,0-1,Wolverhampton Wanderers
+21/10/18,PRL,Everton,2-0,Crystal Palace
+28/10/18,PRL,Crystal Palace,2-2,Arsenal
+31/10/18,LEC,Middlesbrough,1-0,Crystal Palace
+04/11/18,PRL,Chelsea,3-1,Crystal Palace
+10/11/18,PRL,Crystal Palace,0-1,Tottenham Hotspur
+24/11/18,PRL,Manchester United,0-0,Crystal Palace
+01/12/18,PRL,Crystal Palace,2-0,Burnley
+04/12/18,PRL,Brighton & Hove Albion,3-1,Crystal Palace
+08/12/18,PRL,West Ham United,3-2,Crystal Palace
+15/12/18,PRL,Crystal Palace,1-0,Leicester City
+22/12/18,PRL,Manchester City,2-3,Crystal Palace
+26/12/18,PRL,Crystal Palace,0-0,Cardiff City
+30/12/18,PRL,Crystal Palace,0-1,Chelsea
+02/01/19,PRL,Wolverhampton Wanderers,0-2,Crystal Palace
+05/01/19,FAC,Crystal Palace,1-0,Grimsby Town
+12/01/19,PRL,Crystal Palace,1-2,Watford
+19/01/19,PRL,Liverpool,4-3,Crystal Palace
+27/01/19,FAC,Crystal Palace,2-0,Tottenham Hotspur
+30/01/19,PRL,Southampton,1-1,Crystal Palace
+02/02/19,PRL,Crystal Palace,2-0,Fulham
+09/02/19,PRL,Crystal Palace,1-1,West Ham United
+17/02/19,FAC,Doncaster Rovers,0-2,Crystal Palace
+23/02/19,PRL,Leicester City,1-4,Crystal Palace
+27/02/19,PRL,Crystal Palace,1-3,Manchester United
+02/03/19,PRL,Burnley,1-3,Crystal Palace
+09/03/19,PRL,Crystal Palace,1-2,Brighton & Hove Albion
+16/03/19,FAC,Watford,2-1,Crystal Palace
+30/03/19,PRL,Crystal Palace,2-0,Huddersfield Town
+03/04/19,PRL,Tottenham Hotspur,2-0,Crystal Palace
+15/04/17,PRL,Crystal Palace,2-2,Leicester City
+23/04/17,PRL,Liverpool,1-2,Crystal Palace
+26/04/17,PRL,Crystal Palace,0-1,Tottenham Hotspur
+29/04/17,PRL,Crystal Palace,0-2,Burnley
+06/05/17,PRL,Manchester City,5-0,Crystal Palace
+14/05/17,PRL,Crystal Palace,4-0,Hull City
+21/05/17,PRL,Manchester United,2-0,Crystal Palace
+15/07/17,CLF,Maidstone United,1-3,Crystal Palace
+19/07/17,PLA,Liverpool,2-0,Crystal Palace
+22/07/17,PLA,West Bromwich Albion,0-2,Crystal Palace
+29/07/17,CLF,Metz,1-1,Crystal Palace
+05/08/17,CLF,Crystal Palace,1-1,Schalke 04
+12/08/17,PRL,Crystal Palace,0-3,Huddersfield Town
+19/08/17,PRL,Liverpool,1-0,Crystal Palace
+22/08/17,LEC,Crystal Palace,2-1,Ipswich Town
+26/08/17,PRL,Crystal Palace,0-2,Swansea City
+10/09/17,PRL,Burnley,1-0,Crystal Palace
+16/09/17,PRL,Crystal Palace,0-1,Southampton
+19/09/17,LEC,Crystal Palace,1-0,Huddersfield Town
+23/09/17,PRL,Manchester City,5-0,Crystal Palace
+30/09/17,PRL,Manchester United,4-0,Crystal Palace
+14/10/17,PRL,Crystal Palace,2-1,Chelsea
+21/10/17,PRL,Newcastle United,1-0,Crystal Palace
+24/10/17,LEC,Bristol City,4-1,Crystal Palace
+28/10/17,PRL,Crystal Palace,2-2,West Ham United
+05/11/17,PRL,Tottenham Hotspur,1-0,Crystal Palace
+18/11/17,PRL,Crystal Palace,2-2,Everton
+25/11/17,PRL,Crystal Palace,2-1,Stoke City
+28/11/17,PRL,Brighton & Hove Albion,0-0,Crystal Palace
+02/12/17,PRL,West Bromwich Albion,0-0,Crystal Palace
+09/12/17,PRL,Crystal Palace,2-2,AFC Bournemouth
+12/12/17,PRL,Crystal Palace,2-1,Watford
+16/12/17,PRL,Leicester City,0-3,Crystal Palace
+23/12/17,PRL,Swansea City,1-1,Crystal Palace
+28/12/17,PRL,Crystal Palace,2-3,Arsenal
+31/12/17,PRL,Crystal Palace,0-0,Manchester City
+02/01/18,PRL,Southampton,1-2,Crystal Palace
+08/01/18,FAC,Brighton & Hove Albion,2-1,Crystal Palace
+13/01/18,PRL,Crystal Palace,1-0,Burnley
+20/01/18,PRL,Arsenal,4-1,Crystal Palace
+30/01/18,PRL,West Ham United,1-1,Crystal Palace
+04/02/18,PRL,Crystal Palace,1-1,Newcastle United
+10/02/18,PRL,Everton,3-1,Crystal Palace
+25/02/18,PRL,Crystal Palace,0-1,Tottenham Hotspur
+05/03/18,PRL,Crystal Palace,2-3,Manchester United
+10/03/18,PRL,Chelsea,2-1,Crystal Palace
+17/03/18,PRL,Huddersfield Town,0-2,Crystal Palace
+31/03/18,PRL,Crystal Palace,1-2,Liverpool
+07/04/18,PRL,AFC Bournemouth,2-2,Crystal Palace
+14/04/18,PRL,Crystal Palace,3-2,Brighton & Hove Albion
+20/04/16,PRL,Manchester United,2-0,Crystal Palace
+24/04/16,FAC,Crystal Palace,2-1,Watford
+30/04/16,PRL,Newcastle United,1-0,Crystal Palace
+07/05/16,PRL,Crystal Palace,2-1,Stoke City
+15/05/16,PRL,Southampton,4-1,Crystal Palace
+21/05/16,FAC,Crystal Palace,E1-2E,Manchester United
+14/07/16,CLF,Philadelphia Union,0-0,Crystal Palace
+17/07/16,CLF,Cincinnati,0-2,Crystal Palace
+20/07/16,CLF,Vancouver Whitecaps,2-2,Crystal Palace
+25/07/16,CLF,Colchester United,0-1,Crystal Palace
+27/07/16,CLF,AFC Wimbledon,CANC,Crystal Palace
+30/07/16,CLF,Fulham,3-1,Crystal Palace
+02/08/16,CLF,Bromley,1-2,Crystal Palace
+06/08/16,CLF,Crystal Palace,3-1,Valencia
+13/08/16,PRL,Crystal Palace,0-1,West Bromwich Albion
+20/08/16,PRL,Tottenham Hotspur,1-0,Crystal Palace
+23/08/16,LEC,Crystal Palace,2-0,Blackpool
+27/08/16,PRL,Crystal Palace,1-1,AFC Bournemouth
+10/09/16,PRL,Middlesbrough,1-2,Crystal Palace
+18/09/16,PRL,Crystal Palace,4-1,Stoke City
+21/09/16,LEC,Southampton,2-0,Crystal Palace
+24/09/16,PRL,Sunderland,2-3,Crystal Palace
+30/09/16,PRL,Everton,1-1,Crystal Palace
+15/10/16,PRL,Crystal Palace,0-1,West Ham United
+22/10/16,PRL,Leicester City,3-1,Crystal Palace
+29/10/16,PRL,Crystal Palace,2-4,Liverpool
+05/11/16,PRL,Burnley,3-2,Crystal Palace
+19/11/16,PRL,Crystal Palace,1-2,Manchester City
+26/11/16,PRL,Swansea City,5-4,Crystal Palace
+03/12/16,PRL,Crystal Palace,3-0,Southampton
+10/12/16,PRL,Hull City,3-3,Crystal Palace
+14/12/16,PRL,Crystal Palace,1-2,Manchester United
+17/12/16,PRL,Crystal Palace,0-1,Chelsea
+26/12/16,PRL,Watford,1-1,Crystal Palace
+01/01/17,PRL,Arsenal,2-0,Crystal Palace
+03/01/17,PRL,Crystal Palace,1-2,Swansea City
+07/01/17,FAC,Bolton Wanderers,0-0,Crystal Palace
+14/01/17,PRL,West Ham United,3-0,Crystal Palace
+17/01/17,FAC,Crystal Palace,2-1,Bolton Wanderers
+21/01/17,PRL,Crystal Palace,0-1,Everton
+28/01/17,FAC,Crystal Palace,0-3,Manchester City
+31/01/17,PRL,AFC Bournemouth,0-2,Crystal Palace
+04/02/17,PRL,Crystal Palace,0-4,Sunderland
+11/02/17,PRL,Stoke City,1-0,Crystal Palace
+25/02/17,PRL,Crystal Palace,1-0,Middlesbrough
+04/03/17,PRL,West Bromwich Albion,0-2,Crystal Palace
+18/03/17,PRL,Crystal Palace,1-0,Watford
+01/04/17,PRL,Chelsea,1-2,Crystal Palace
+05/04/17,PRL,Southampton,3-1,Crystal Palace
+10/04/17,PRL,Crystal Palace,3-0,Arsenal
+24/05/15,PRL,Crystal Palace,1-0,Swansea City
+26/05/15,CLF,Crystal Palace,4-3,Dundee
+11/07/15,CLF,Barnet,3-5,Crystal Palace
+18/07/15,CLF,Union Berlin,2-0,Crystal Palace
+24/07/15,CLF,SuperSport United,0-4,Crystal Palace
+26/07/15,CLF,Crystal Palace,0-2,Sporting Lisbon
+30/07/15,CLF,Bromley,0-6,Crystal Palace
+01/08/15,CLF,Fulham,1-1,Crystal Palace
+03/08/15,CLF,Dagenham & Redbridge,1-0,Crystal Palace
+08/08/15,PRL,Norwich City,1-3,Crystal Palace
+16/08/15,PRL,Crystal Palace,1-2,Arsenal
+22/08/15,PRL,Crystal Palace,2-1,Aston Villa
+25/08/15,LEC,Crystal Palace,E4-1E,Shrewsbury Town
+29/08/15,PRL,Chelsea,1-2,Crystal Palace
+12/09/15,PRL,Crystal Palace,0-1,Manchester City
+20/09/15,PRL,Tottenham Hotspur,1-0,Crystal Palace
+23/09/15,LEC,Crystal Palace,4-1,Charlton Athletic
+27/09/15,PRL,Watford,0-1,Crystal Palace
+03/10/15,PRL,Crystal Palace,2-0,West Bromwich Albion
+17/10/15,PRL,Crystal Palace,1-3,West Ham United
+24/10/15,PRL,Leicester City,1-0,Crystal Palace
+28/10/15,LEC,Manchester City,5-1,Crystal Palace
+31/10/15,PRL,Crystal Palace,0-0,Manchester United
+08/11/15,PRL,Liverpool,1-2,Crystal Palace
+23/11/15,PRL,Crystal Palace,0-1,Sunderland
+28/11/15,PRL,Crystal Palace,5-1,Newcastle United
+07/12/15,PRL,Everton,1-1,Crystal Palace
+12/12/15,PRL,Crystal Palace,1-0,Southampton
+19/12/15,PRL,Stoke City,1-2,Crystal Palace
+26/12/15,PRL,AFC Bournemouth,0-0,Crystal Palace
+28/12/15,PRL,Crystal Palace,0-0,Swansea City
+03/01/16,PRL,Crystal Palace,0-3,Chelsea
+09/01/16,FAC,Southampton,1-2,Crystal Palace
+12/01/16,PRL,Aston Villa,1-0,Crystal Palace
+16/01/16,PRL,Manchester City,4-0,Crystal Palace
+23/01/16,PRL,Crystal Palace,1-3,Tottenham Hotspur
+30/01/16,FAC,Crystal Palace,1-0,Stoke City
+02/02/16,PRL,Crystal Palace,1-2,AFC Bournemouth
+06/02/16,PRL,Swansea City,1-1,Crystal Palace
+13/02/16,PRL,Crystal Palace,1-2,Watford
+21/02/16,FAC,Tottenham Hotspur,0-1,Crystal Palace
+27/02/16,PRL,West Bromwich Albion,3-2,Crystal Palace
+01/03/16,PRL,Sunderland,2-2,Crystal Palace
+06/03/16,PRL,Crystal Palace,1-2,Liverpool
+11/03/16,FAC,Reading,0-2,Crystal Palace
+19/03/16,PRL,Crystal Palace,0-1,Leicester City
+02/04/16,PRL,West Ham United,2-2,Crystal Palace
+09/04/16,PRL,Crystal Palace,1-0,Norwich City
+13/04/16,PRL,Crystal Palace,0-0,Everton
+17/04/16,PRL,Arsenal,1-1,Crystal Palace
+27/04/14,PRL,Crystal Palace,0-2,Manchester City
+05/05/14,PRL,Crystal Palace,3-3,Liverpool
+11/05/14,PRL,Fulham,2-2,Crystal Palace
+16/07/14,CLF,Grazer AK,1-13,Crystal Palace
+24/07/14,CLF,Columbus Crew,2-2,Crystal Palace
+26/07/14,CLF,Philadelphia Union,0-1,Crystal Palace
+29/07/14,CLF,Richmond Kickers,0-3,Crystal Palace
+02/08/14,CLF,Brentford,3-2,Crystal Palace
+16/08/14,PRL,Arsenal,2-1,Crystal Palace
+23/08/14,PRL,Crystal Palace,1-3,West Ham United
+26/08/14,LEC,Walsall,0-3,Crystal Palace
+30/08/14,PRL,Newcastle United,3-3,Crystal Palace
+13/09/14,PRL,Crystal Palace,0-0,Burnley
+21/09/14,PRL,Everton,2-3,Crystal Palace
+24/09/14,LEC,Crystal Palace,E2-3E,Newcastle United
+27/09/14,PRL,Crystal Palace,2-0,Leicester City
+04/10/14,PRL,Hull City,2-0,Crystal Palace
+18/10/14,PRL,Crystal Palace,1-2,Chelsea
+25/10/14,PRL,West Bromwich Albion,2-2,Crystal Palace
+03/11/14,PRL,Crystal Palace,1-3,Sunderland
+08/11/14,PRL,Manchester United,1-0,Crystal Palace
+23/11/14,PRL,Crystal Palace,3-1,Liverpool
+29/11/14,PRL,Swansea City,1-1,Crystal Palace
+02/12/14,PRL,Crystal Palace,0-1,Aston Villa
+06/12/14,PRL,Tottenham Hotspur,0-0,Crystal Palace
+13/12/14,PRL,Crystal Palace,1-1,Stoke City
+20/12/14,PRL,Manchester City,3-0,Crystal Palace
+26/12/14,PRL,Crystal Palace,1-3,Southampton
+28/12/14,PRL,Queens Park Rangers,0-0,Crystal Palace
+01/01/15,PRL,Aston Villa,0-0,Crystal Palace
+04/01/15,FAC,Dover Athletic,0-4,Crystal Palace
+10/01/15,PRL,Crystal Palace,2-1,Tottenham Hotspur
+17/01/15,PRL,Burnley,2-3,Crystal Palace
+24/01/15,FAC,Southampton,2-3,Crystal Palace
+31/01/15,PRL,Crystal Palace,0-1,Everton
+07/02/15,PRL,Leicester City,0-1,Crystal Palace
+11/02/15,PRL,Crystal Palace,1-1,Newcastle United
+14/02/15,FAC,Crystal Palace,1-2,Liverpool
+21/02/15,PRL,Crystal Palace,1-2,Arsenal
+28/02/15,PRL,West Ham United,1-3,Crystal Palace
+03/03/15,PRL,Southampton,1-0,Crystal Palace
+14/03/15,PRL,Crystal Palace,3-1,Queens Park Rangers
+21/03/15,PRL,Stoke City,1-2,Crystal Palace
+06/04/15,PRL,Crystal Palace,2-1,Manchester City
+11/04/15,PRL,Sunderland,1-4,Crystal Palace
+18/04/15,PRL,Crystal Palace,0-2,West Bromwich Albion
+25/04/15,PRL,Crystal Palace,0-2,Hull City
+03/05/15,PRL,Chelsea,1-0,Crystal Palace
+09/05/15,PRL,Crystal Palace,1-2,Manchester United
+16/05/15,PRL,Liverpool,1-3,Crystal Palace

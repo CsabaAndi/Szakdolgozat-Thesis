@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+27/05/23,PRL,Sochi,1-1,Zenit
+03/06/23,PRL,Ural,1-0,Sochi
+25/06/23,CLF,Sochi,2-1,Alaniya Vladikavkaz
+06/07/23,CLF,Sochi,4-1,Leningradets
+10/07/23,CLF,Sochi,5-2,Yenisey
+15/07/23,CLF,Krasnodar,2-2,Sochi
+23/07/23,PRL,Sochi,2-0,Baltika
+26/07/23,CUP,Fakel,1-3,Sochi
+30/07/23,PRL,Krasnodar,2-0,Sochi
+06/08/23,PRL,Sochi,1-2,Akhmat Grozny
+09/08/23,CUP,Orenburg,2-0,Sochi
+13/08/23,PRL,CSKA Moscow,3-1,Sochi
+19/08/23,PRL,Sochi,4-0,Rostov
+27/08/23,PRL,Sochi,0-1,Lokomotiv Moscow
+30/08/23,CUP,Sochi,P0-0P,CSKA Moscow
+03/09/23,PRL,Orenburg,3-0,Sochi
+16/09/23,PRL,Spartak Moscow,1-0,Sochi
+20/09/23,CUP,CSKA Moscow,P1-1P,Sochi
+23/09/23,PRL,Krylya Sovetov,2-1,Sochi
+01/10/23,PRL,Fakel,2-0,Sochi
+04/10/23,CUP,Sochi,1-2,Orenburg
+07/10/23,PRL,Sochi,0-2,Zenit
+22/10/23,PRL,Ural,1-4,Sochi
+29/10/23,PRL,Nizhny Novgorod,1-0,Sochi
+01/11/23,CUP,Sochi,2-0,Fakel
+06/11/23,PRL,Sochi,3-3,Dinamo Moscow
+12/11/23,PRL,Sochi,0-2,Rubin Kazan
+25/11/23,PRL,Zenit,3-0,Sochi
+02/12/23,PRL,Sochi,0-2,Krylya Sovetov
+10/12/23,PRL,Sochi,1-1,Orenburg
+02/02/24,CLF,Sochi,0-0,Akhmat Grozny
+08/02/24,CLF,Sochi,1-0,Slavia Sofia
+09/02/24,CLF,CSKA Moscow,1-2,Sochi
+15/02/24,CLF,Sochi,0-1,Neftchi
+19/02/24,CLF,Sochi,2-2,Neftchi
+19/02/24,CLF,Sochi,2-1,Tyumen
+23/02/24,CLF,Fakel,0-0,Sochi
+03/03/24,PRL,Baltika,0-0,Sochi
+10/03/24,PRL,Lokomotiv Moscow,2-2,Sochi
+14/03/24,CUP,SKA Khabarovsk,P1-1P,Sochi
+30/03/24,PRL,Sochi,2-2,CSKA Moscow
+06/04/24,PRL,Rostov,2-2,Sochi
+13/04/24,PRL,Sochi,1-0,Spartak Moscow
+21/04/24,PRL,Sochi,2-2,Ural
+25/04/24,PRL,Akhmat Grozny,1-0,Sochi
+29/04/24,PRL,Sochi,0-0,Fakel
+05/05/24,PRL,Dinamo Moscow,15:30,Sochi
+12/05/24,PRL,Sochi,18:00,Nizhny Novgorod
+18/05/24,PRL,Sochi,18:00,Krasnodar
+25/05/24,PRL,Rubin Kazan,15:30,Sochi
+13/05/22,PRL,Sochi,0-0,Nizhny Novgorod
+21/05/22,PRL,Dinamo Moscow,1-5,Sochi
+25/06/22,CLF,Sochi,P1-1P,Zenit
+01/07/22,CLF,Nizhny Novgorod,P1-1P,Sochi
+07/07/22,CLF,Sochi,1-2,CSKA Moscow
+08/07/22,CLF,Khimki,0-0,Sochi
+17/07/22,PRL,Torpedo Moskva,1-3,Sochi
+23/07/22,PRL,CSKA Moscow,3-0,Sochi
+30/07/22,PRL,Sochi,2-1,Akhmat Grozny
+07/08/22,PRL,Sochi,2-1,Nizhny Novgorod
+14/08/22,PRL,Spartak Moscow,3-0,Sochi
+20/08/22,PRL,Rostov,2-2,Sochi
+26/08/22,PRL,Sochi,4-1,Khimki
+31/08/22,CUP,Ural,2-0,Sochi
+03/09/22,PRL,Krasnodar,2-1,Sochi
+09/09/22,PRL,Sochi,2-1,Dinamo Moscow
+14/09/22,CUP,Sochi,1-3,Torpedo Moskva
+18/09/22,PRL,Sochi,1-1,Fakel
+28/09/22,CUP,CSKA Moscow,2-1,Sochi
+01/10/22,PRL,Orenburg,4-1,Sochi
+08/10/22,PRL,Sochi,4-0,Lokomotiv Moscow
+16/10/22,PRL,Krylya Sovetov,2-0,Sochi
+20/10/22,CUP,Sochi,2-3,Ural
+24/10/22,PRL,Zenit,7-0,Sochi
+30/10/22,PRL,Sochi,2-2,Ural
+05/11/22,PRL,Sochi,1-1,Spartak Moscow
+13/11/22,PRL,Khimki,0-2,Sochi
+22/11/22,CUP,Torpedo Moskva,P1-1P,Sochi
+26/11/22,CUP,Sochi,1-2,CSKA Moscow
+17/01/23,CLF,Sochi,5-1,Forte Taganrog
+22/01/23,CLF,Sochi,3-0,Neftekhimik
+29/01/23,CLF,Sochi,0-2,Lokomotiv Moscow
+03/02/23,CLF,Krasnodar,1-0,Sochi
+06/02/23,CLF,Sochi,3-0,Rostov
+10/02/23,CLF,Spartak Moscow,2-0,Sochi
+18/02/23,CLF,Fakel,2-4,Sochi
+21/02/23,CLF,Akron,1-3,Sochi
+24/02/23,CLF,Khimki,0-2,Sochi
+24/02/23,CLF,Baltika,0-1,Sochi
+05/03/23,PRL,Sochi,2-0,CSKA Moscow
+10/03/23,PRL,Sochi,0-4,Orenburg
+18/03/23,PRL,Fakel,3-0,Sochi
+01/04/23,PRL,Dinamo Moscow,0-2,Sochi
+09/04/23,PRL,Sochi,1-2,Krylya Sovetov
+15/04/23,PRL,Sochi,0-2,Krasnodar
+23/04/23,PRL,Akhmat Grozny,1-0,Sochi
+30/04/23,PRL,Sochi,3-1,Torpedo Moskva
+08/05/23,PRL,Lokomotiv Moscow,3-0,Sochi
+14/05/23,PRL,Sochi,1-0,Rostov
+22/05/23,PRL,Nizhny Novgorod,4-0,Sochi
+07/05/21,PRL,Sochi,2-1,Rotor Volgograd
+16/05/21,PRL,Khimki,0-0,Sochi
+21/06/21,CLF,Sochi,2-3,Krasnodar II
+30/06/21,CLF,Sochi,1-2,Kuban Krasnodar
+11/07/21,CLF,Spartak Moscow,4-0,Sochi
+14/07/21,CLF,Khimki,2-3,Sochi
+17/07/21,CLF,Rubin Kazan,1-3,Sochi
+22/07/21,UEC,Sochi,3-0,Shamakhi
+26/07/21,PRL,Nizhny Novgorod,1-0,Sochi
+29/07/21,UEC,Shamakhi,2-4,Sochi
+02/08/21,PRL,Akhmat Grozny,1-2,Sochi
+05/08/21,UEC,Sochi,1-1,Partizan
+09/08/21,PRL,Sochi,2-0,Ural
+12/08/21,UEC,Partizan,P2-2P,Sochi
+16/08/21,PRL,Sochi,3-0,Khimki
+21/08/21,PRL,Krylya Sovetov,1-0,Sochi
+26/08/21,PRL,Spartak Moscow,1-2,Sochi
+12/09/21,PRL,Sochi,3-1,Ufa
+19/09/21,PRL,Sochi,0-1,Dinamo Moscow
+26/09/21,PRL,Krasnodar,3-0,Sochi
+03/10/21,PRL,Zenit,1-2,Sochi
+16/10/21,PRL,Sochi,3-2,Rostov
+25/10/21,PRL,Lokomotiv Moscow,2-1,Sochi
+31/10/21,PRL,Arsenal Tula,1-2,Sochi
+06/11/21,PRL,Sochi,4-1,CSKA Moscow
+21/11/21,PRL,Sochi,1-2,Rubin Kazan
+27/11/21,PRL,Ural,1-1,Sochi
+05/12/21,PRL,Sochi,1-2,Krasnodar
+13/12/21,PRL,Sochi,3-0,Spartak Moscow
+20/01/22,CLF,Sochi,4-0,Tom Tomsk
+25/01/22,CLF,Austria Vienna,0-0,Sochi
+29/01/22,CLF,Baltika,0-1,Sochi
+02/02/22,CLF,Rubin Kazan,CANC,Sochi
+02/02/22,CLF,Sochi,2-1,KAMAZ
+10/02/22,CLF,Dinamo Moscow,2-1,Sochi
+14/02/22,CLF,Sochi,CANC,Tobol
+14/02/22,CLF,Sochi,1-0,Kuban Krasnodar
+16/02/22,CLF,Sochi,CANC,Dinamo Minsk
+18/02/22,CLF,Sochi,2-1,Kairat
+26/02/22,PRL,Sochi,2-0,Arsenal Tula
+02/03/22,CUP,Sochi,1-2,CSKA Moscow
+07/03/22,PRL,Rostov,0-1,Sochi
+13/03/22,PRL,Khimki,0-0,Sochi
+20/03/22,PRL,Sochi,2-3,Krylya Sovetov
+03/04/22,PRL,Sochi,0-0,Zenit
+10/04/22,PRL,Ufa,1-2,Sochi
+17/04/22,PRL,Sochi,2-2,Lokomotiv Moscow
+23/04/22,PRL,Sochi,3-2,Akhmat Grozny
+30/04/22,PRL,Rubin Kazan,0-6,Sochi
+07/05/22,PRL,CSKA Moscow,0-1,Sochi
+20/02/20,CLF,Sochi,3-1,Astana
+01/03/20,PRL,Sochi,1-2,Arsenal Tula
+08/03/20,PRL,Sochi,2-0,Ural
+11/03/20,PRL,Sochi,5-1,Orenburg
+15/03/20,PRL,Sochi,2-0,Krasnodar
+13/06/20,CLF,Krasnodar,1-4,Sochi
+19/06/20,PRL,Sochi,10-1,Rostov
+26/06/20,PRL,Akhmat Grozny,1-1,Sochi
+01/07/20,PRL,Sochi,1-1,Dinamo Moscow
+04/07/20,PRL,Lokomotiv Moscow,0-0,Sochi
+08/07/20,PRL,Zenit,2-1,Sochi
+11/07/20,PRL,Sochi,1-0,Spartak Moscow
+16/07/20,PRL,Tambov,3-0,Sochi
+22/07/20,PRL,Krylya Sovetov,3-0,Sochi
+09/08/20,PRL,Spartak Moscow,2-2,Sochi
+14/08/20,PRL,Sochi,1-1,Khimki
+18/08/20,PRL,Sochi,3-2,Rubin Kazan
+22/08/20,PRL,Rotor Volgograd,1-2,Sochi
+25/08/20,PRL,Tambov,0-1,Sochi
+30/08/20,PRL,Sochi,0-0,Ural
+12/09/20,PRL,Akhmat Grozny,0-1,Sochi
+16/09/20,CUP,Zvezda Perm,0-1,Sochi
+20/09/20,PRL,Arsenal Tula,3-2,Sochi
+26/09/20,PRL,Sochi,1-1,Krasnodar
+04/10/20,PRL,Sochi,4-2,Rostov
+17/10/20,PRL,Zenit,3-1,Sochi
+21/10/20,CUP,Orenburg,P1-1P,Sochi
+24/10/20,PRL,Dinamo Moscow,3-1,Sochi
+31/10/20,PRL,Sochi,2-1,Lokomotiv Moscow
+06/11/20,PRL,Sochi,1-1,Ufa
+22/11/20,PRL,CSKA Moscow,1-1,Sochi
+29/11/20,PRL,Ural,1-0,Sochi
+07/12/20,PRL,Sochi,2-0,Akhmat Grozny
+12/12/20,PRL,Sochi,1-0,Spartak Moscow
+16/12/20,PRL,Sochi,2-0,Dinamo Moscow
+24/01/21,CLF,Rubin Kazan,3-2,Sochi
+28/01/21,CLF,Sochi,0-1,Cukaricki
+11/02/21,CLF,Akhmat Grozny,1-2,Sochi
+14/02/21,CLF,Dinamo Moscow,2-4,Sochi
+21/02/21,CUP,Krasnodar,1-2,Sochi
+27/02/21,PRL,Sochi,4-0,Arsenal Tula
+06/03/21,PRL,Rostov,0-0,Sochi
+14/03/21,PRL,Lokomotiv Moscow,3-1,Sochi
+19/03/21,PRL,Sochi,5-0,Tambov
+03/04/21,PRL,Rubin Kazan,1-0,Sochi
+07/04/21,CUP,Sochi,1-3,Lokomotiv Moscow
+11/04/21,PRL,Sochi,1-2,Zenit
+18/04/21,PRL,Sochi,2-1,CSKA Moscow
+25/04/21,PRL,Ufa,2-3,Sochi
+01/05/21,PRL,Krasnodar,1-3,Sochi
+20/02/19,CLF,Sochi,3-0,Sokol Saratov
+24/02/19,CLF,Sochi,0-1,Volgar Astrakhan
+26/02/19,CLF,Sochi,4-1,Yenisey
+03/03/19,FIL,Nizhny Novgorod,0-0,Sochi
+10/03/19,FIL,Sochi,1-0,Armavir
+16/03/19,FIL,Krasnodar II,0-2,Sochi
+24/03/19,FIL,Sochi,2-0,SKA Khabarovsk
+30/03/19,FIL,Mordovia Saransk,0-2,Sochi
+07/04/19,FIL,Sochi,1-1,Tyumen
+13/04/19,FIL,Tambov,0-3,Sochi
+20/04/19,FIL,Sochi,2-1,Chertanovo
+24/04/19,FIL,Luch Vladivostok,0-1,Sochi
+28/04/19,FIL,Sochi,3-1,Tom Tomsk
+04/05/19,FIL,Sibir,0-1,Sochi
+11/05/19,FIL,Avangard Kursk,2-1,Sochi
+19/05/19,FIL,Sochi,0-0,Shinnik
+25/05/19,FIL,Spartak Moskva II,1-1,Sochi
+19/06/19,CLF,Luch Vladivostok,0-2,Sochi
+22/06/19,CLF,Spartak Moscow,7-1,Sochi
+29/06/19,CLF,Olimpija,4-3,Sochi
+05/07/19,CLF,Sochi,2-1,Rijeka
+13/07/19,PRL,Spartak Moscow,1-0,Sochi
+21/07/19,PRL,Sochi,0-2,Zenit
+27/07/19,PRL,Krasnodar,3-0,Sochi
+04/08/19,PRL,Sochi,0-0,Ufa
+11/08/19,PRL,CSKA Moscow,0-0,Sochi
+16/08/19,PRL,Orenburg,1-1,Sochi
+26/08/19,PRL,Ural,3-1,Sochi
+31/08/19,PRL,Rubin Kazan,0-3,Sochi
+08/09/19,CLF,Zenit,2-1,Sochi
+14/09/19,PRL,Sochi,0-1,Lokomotiv Moscow
+22/09/19,PRL,Dinamo Moscow,2-3,Sochi
+25/09/19,CUP,Shinnik,P0-0P,Sochi
+30/09/19,PRL,Sochi,2-0,Akhmat Grozny
+05/10/19,PRL,Sochi,0-2,Krylya Sovetov
+20/10/19,PRL,Arsenal Tula,1-1,Sochi
+26/10/19,PRL,Rostov,2-0,Sochi
+02/11/19,PRL,Sochi,1-2,Tambov
+10/11/19,PRL,Sochi,2-3,CSKA Moscow
+16/11/19,CLF,Sochi,1-1,Dinamo Moscow
+24/11/19,PRL,Ufa,1-1,Sochi
+08/12/19,PRL,Sochi,1-1,Rubin Kazan
+19/01/20,CLF,Chindia Târgovişte,0-0,Sochi
+22/01/20,CLF,Sochi,0-0,St. Pölten
+29/01/20,CLF,Cracovia,0-0,Sochi
+01/02/20,CLF,Spartak Trnava,2-2,Sochi
+07/02/20,CLF,Sochi,1-2,Yenisey
+07/02/20,CLF,BATE,1-1,Sochi
+14/02/20,CLF,Akhmat Grozny,2-2,Sochi
+17/02/20,CLF,Dinamo Moscow,1-3,Sochi
+18/11/17,FIL,Sochi,3-2,Luch Vladivostok
+25/11/17,FIL,Nizhny Novgorod,2-2,Sochi
+04/03/18,FIL,Sochi,1-3,Krylya Sovetov
+10/03/18,FIL,Tom Tomsk,1-0,Sochi
+16/03/18,FIL,Sochi,2-1,Khimki
+24/03/18,FIL,Volgar Astrakhan,0-0,Sochi
+31/03/18,FIL,Sochi,0-0,Shinnik
+07/04/18,FIL,Avangard Kursk,0-0,Sochi
+11/04/18,FIL,Tyumen,1-1,Sochi
+15/04/18,FIL,Sochi,1-1,Sibir
+21/04/18,FIL,Orenburg,4-3,Sochi
+28/04/18,FIL,Sochi,1-1,Tambov
+02/05/18,FIL,Spartak Moskva II,2-2,Sochi
+06/05/18,FIL,Sochi,3-1,Baltika
+12/05/18,FIL,Yenisey,2-1,Sochi
+21/06/18,CLF,Sochi,1-0,AGMK
+24/06/18,CLF,Spartak Moscow,2-0,Sochi
+30/06/18,CLF,Sochi,0-0,Armavir
+02/07/18,CLF,Sochi,4-0,Shakhtyor Soligorsk
+05/07/18,CLF,Nizhny Novgorod,0-1,Sochi
+17/07/18,FIL,Sochi,0-1,Spartak Moskva II
+22/07/18,FIL,Fakel,1-2,Sochi
+29/07/18,FIL,Sochi,3-2,Khimki
+04/08/18,FIL,Rotor Volgograd,1-1,Sochi
+08/08/18,FIL,Zenit II,1-4,Sochi
+12/08/18,FIL,Baltika,2-2,Sochi
+18/08/18,FIL,Sochi,0-1,Nizhny Novgorod
+22/08/18,CUP,Chernomorets,2-1,Sochi
+26/08/18,FIL,Armavir,0-3,Sochi
+01/09/18,FIL,Sochi,1-1,Krasnodar II
+08/09/18,FIL,SKA Khabarovsk,2-2,Sochi
+15/09/18,FIL,Sochi,0-2,Mordovia Saransk
+19/09/18,FIL,Tyumen,2-1,Sochi
+23/09/18,FIL,Sochi,0-0,Tambov
+30/09/18,FIL,Chertanovo,2-6,Sochi
+06/10/18,FIL,Sochi,2-2,Luch Vladivostok
+13/10/18,FIL,Tom Tomsk,1-0,Sochi
+20/10/18,FIL,Sochi,4-1,Sibir
+24/10/18,FIL,Sochi,1-0,Avangard Kursk
+28/10/18,FIL,Shinnik,1-1,Sochi
+04/11/18,FIL,Sochi,0-2,Fakel
+10/11/18,FIL,Sochi,2-0,Zenit II
+14/11/18,FIL,Sochi,4-2,Rotor Volgograd
+18/11/18,FIL,Khimki,0-0,Sochi
+24/11/18,FIL,Sochi,4-1,Baltika
+25/01/19,CLF,Sochi,1-0,Kuban Krasnodar
+01/02/19,CLF,Sochi,1-1,Ararat
+07/02/19,CLF,Yenisey,3-3,Sochi
+10/02/19,CLF,Sochi,1-0,Željezničar
+13/02/19,CLF,Sochi,1-2,Suwon Bluewings
+01/10/16,SLB,Sochi,3-1,Dnepr Smolensk
+09/10/16,SLB,Strogino,0-0,Sochi
+16/10/16,SLB,Sochi,2-1,Solaris Moskva
+24/10/16,SLB,Tekstilshchik,0-4,Sochi
+30/10/16,SLB,Sochi,2-0,Domodedovo
+06/11/16,SLB,Torpedo Vladimir,1-3,Sochi
+12/02/17,CLF,Sochi,0-1,Mordovia Saransk
+15/02/17,CLF,Tyumen,3-1,Sochi
+18/02/17,CLF,Sochi,1-1,SKA Khabarovsk
+23/02/17,CLF,Kuban Krasnodar,0-2,Sochi
+10/03/17,CLF,Notodden,0-3,Sochi
+02/04/17,SLB,Sochi,1-0,Dinamo Moskva II
+09/04/17,SLB,Sochi,2-0,Pskov
+16/04/17,SLB,Olimp-Dolgoprudny,1-1,Sochi
+22/04/17,SLB,Sochi,4-0,Volga Tver
+30/04/17,SLB,Spartak Kostroma,1-2,Sochi
+07/05/17,SLB,Sochi,1-0,Kolomna
+14/05/17,SLB,Dnepr Smolensk,3-2,Sochi
+21/05/17,SLB,Sochi,5-0,Strogino
+28/05/17,SLB,Solaris Moskva,3-6,Sochi
+04/06/17,SLB,Sochi,4-0,Znamya Truda
+18/06/17,CLF,Sochi,0-2,Tosno
+20/06/17,CLF,Baltika,1-0,Sochi
+02/07/17,CLF,Khimki,1-0,Sochi
+08/07/17,FIL,Sochi,2-1,Yenisey
+16/07/17,FIL,Zenit II,0-1,Sochi
+22/07/17,FIL,Sochi,2-0,Fakel
+26/07/17,FIL,Sochi,0-3,Rotor Volgograd
+30/07/17,FIL,Sochi,2-2,Kuban Krasnodar
+05/08/17,FIL,Luch Vladivostok,1-2,Sochi
+09/08/17,FIL,Sochi,3-1,Nizhny Novgorod
+13/08/17,FIL,Krylya Sovetov,2-0,Sochi
+19/08/17,FIL,Sochi,2-0,Tom Tomsk
+23/08/17,CUP,Chertanovo,0-2,Sochi
+27/08/17,FIL,Khimki,0-1,Sochi
+02/09/17,FIL,Sochi,2-2,Volgar Astrakhan
+06/09/17,FIL,Shinnik,1-2,Sochi
+10/09/17,FIL,Sochi,1-2,Avangard Kursk
+16/09/17,FIL,Sochi,2-0,Tyumen
+21/09/17,CUP,Sochi,E3-2E,Zenit
+24/09/17,FIL,Sibir,1-1,Sochi
+30/09/17,FIL,Sochi,0-1,Orenburg
+07/10/17,FIL,Tambov,1-1,Sochi
+14/10/17,FIL,Sochi,2-2,Spartak Moskva II
+21/10/17,FIL,Baltika,3-2,Sochi
+25/10/17,CUP,SKA Khabarovsk,2-0,Sochi
+29/10/17,FIL,Sochi,3-3,Zenit II
+04/11/17,FIL,Fakel,0-0,Sochi
+08/11/17,FIL,Rotor Volgograd,0-0,Sochi
+12/11/17,FIL,Kuban Krasnodar,0-1,Sochi
+06/04/15,FIL,Sochi,0-2,Orenburg
+12/04/15,FIL,Sakhalin,2-0,Sochi
+19/04/15,FIL,Yenisey,3-1,Sochi
+25/04/15,FIL,Sochi,0-4,Krylya Sovetov
+03/05/15,FIL,Luch Vladivostok,2-0,Sochi
+11/05/15,FIL,Sochi,1-2,SKA Khabarovsk
+16/05/15,FIL,Khimik Dzerzhinsk,2-1,Sochi
+24/05/15,FIL,Sochi,0-3,Sokol Saratov
+30/05/15,FIL,Tom Tomsk,5-1,Sochi
+16/07/15,CUP,Karelia,P0-0P,Sochi
+20/07/15,SLB,Khimki,1-0,Sochi
+04/08/15,SLB,Torpedo Vladimir,2-0,Sochi
+12/08/15,SLB,Spartak Kostroma,2-1,Sochi
+18/08/15,SLB,Sochi,3-0,Kolomna
+25/08/15,SLB,Dnepr Smolensk,1-1,Sochi
+01/09/15,SLB,Sochi,1-2,Strogino
+08/09/15,SLB,Pskov,1-1,Sochi
+15/09/15,SLB,Sochi,2-0,Karelia
+21/09/15,SLB,Solaris Moskva,2-1,Sochi
+27/09/15,SLB,Sochi,1-3,Olimp-Dolgoprudny
+01/10/15,SLB,Znamya Truda,3-1,Sochi
+05/10/15,SLB,Sochi,1-0,Volga Tver
+11/10/15,SLB,Domodedovo,1-3,Sochi
+17/10/15,SLB,Sochi,1-0,Tekstilshchik
+27/10/15,SLB,Sochi,2-3,Torpedo Vladimir
+01/11/15,SLB,Sochi,3-2,Spartak Kostroma
+08/11/15,SLB,Kolomna,0-1,Sochi
+10/04/16,SLB,Sochi,3-0,Dnepr Smolensk
+16/04/16,SLB,Strogino,0-3,Sochi
+20/04/16,SLB,Sochi,3-3,Pskov
+24/04/16,SLB,Karelia,0-2,Sochi
+30/04/16,SLB,Sochi,1-1,Solaris Moskva
+05/05/16,SLB,Olimp-Dolgoprudny,2-1,Sochi
+11/05/16,SLB,Sochi,2-1,Znamya Truda
+16/05/16,SLB,Volga Tver,0-1,Sochi
+20/05/16,SLB,Sochi,3-0,Domodedovo
+26/05/16,SLB,Tekstilshchik,1-1,Sochi
+31/05/16,SLB,Sochi,1-0,Khimki
+20/07/16,SLB,Znamya Truda,0-3,Sochi
+24/07/16,CUP,Zvezda St. Petersburg,0-1,Sochi
+28/07/16,SLB,Sochi,3-2,Tekstilshchik
+04/08/16,SLB,Domodedovo,0-3,Sochi
+07/08/16,CUP,Sochi,E0-1E,Olimp-Dolgoprudny
+11/08/16,SLB,Sochi,1-0,Torpedo Vladimir
+18/08/16,SLB,Dinamo Moskva II,2-1,Sochi
+25/08/16,SLB,Pskov,1-1,Sochi
+02/09/16,SLB,Sochi,1-0,Olimp-Dolgoprudny
+10/09/16,SLB,Volga Tver,0-1,Sochi
+17/09/16,SLB,Sochi,3-3,Spartak Kostroma
+25/09/16,SLB,Kolomna,0-4,Sochi
+27/09/13,FIL,Sochi,0-3,Neftekhimik
+30/09/13,FIL,Sochi,1-1,Luch Vladivostok
+07/10/13,FIL,Salyut Belgorod,1-1,Sochi
+13/10/13,FIL,Sochi,0-0,Rotor Volgograd
+18/10/13,FIL,Torpedo Moskva,2-0,Sochi
+23/10/13,FIL,Sochi,0-3,Mordovia Saransk
+27/10/13,FIL,Spartak Nal'chik,3-0,Sochi
+03/11/13,FIL,Sibir,0-2,Sochi
+10/11/13,FIL,Sochi,4-2,Yenisey
+17/11/13,FIL,SKA Khabarovsk,1-1,Sochi
+23/11/13,FIL,Sochi,0-1,Orenburg
+10/03/14,FIL,Sochi,1-2,Khimik Dzerzhinsk
+16/03/14,FIL,Shinnik,0-1,Sochi
+23/03/14,FIL,Ufa,3-0,Sochi
+30/03/14,FIL,Sochi,4-0,Angusht
+04/04/14,FIL,Neftekhimik,1-0,Sochi
+09/04/14,FIL,Sochi,3-0,FK Spartak Vladikavkaz
+20/04/14,FIL,Sochi,2-0,Baltika
+26/04/14,FIL,Luch Vladivostok,0-1,Sochi
+30/04/14,FIL,Sochi,3-0,Salyut Belgorod
+05/05/14,FIL,Rotor Volgograd,3-1,Sochi
+12/05/14,FIL,Sochi,2-3,Torpedo Moskva
+15/05/14,FIL,Arsenal Tula,0-1,Sochi
+30/06/14,CLF,Sochi,1-0,Pskov
+06/07/14,FIL,Sochi,0-1,Tom Tomsk
+12/07/14,FIL,Tosno,2-1,Sochi
+19/07/14,FIL,Sochi,0-1,Tyumen
+27/07/14,FIL,Sibir,0-0,Sochi
+03/08/14,FIL,Sochi,1-1,Shinnik
+10/08/14,FIL,Anzhi,5-1,Sochi
+17/08/14,FIL,Sochi,0-2,Baltika
+24/08/14,FIL,Volga,0-0,Sochi
+31/08/14,CUP,Ryazan,E1-0E,Sochi
+07/09/14,FIL,Sochi,1-2,Volgar Astrakhan
+13/09/14,FIL,Orenburg,2-1,Sochi
+20/09/14,FIL,Sochi,0-1,Sakhalin
+30/09/14,FIL,Sochi,1-0,Yenisey
+05/10/14,FIL,Krylya Sovetov,1-1,Sochi
+11/10/14,FIL,Sochi,0-2,Luch Vladivostok
+19/10/14,FIL,SKA Khabarovsk,3-1,Sochi
+25/10/14,FIL,Sochi,1-0,Khimik Dzerzhinsk
+02/11/14,FIL,Sokol Saratov,1-1,Sochi
+09/11/14,FIL,Sochi,1-3,Tosno
+14/11/14,FIL,Tyumen,0-0,Sochi
+18/11/14,FIL,Sochi,2-2,Sibir
+22/11/14,FIL,Shinnik,2-1,Sochi
+14/03/15,FIL,Sochi,0-2,Anzhi
+18/03/15,FIL,Baltika,1-0,Sochi
+22/03/15,FIL,Sochi,0-1,Volga
+29/03/15,FIL,Volgar Astrakhan,3-0,Sochi
+01/06/12,SLB,Sochi,3-0,Dinamo Kostroma
+04/06/12,SLB,Sochi,2-0,Dinamo Vologda
+09/07/12,FIL,Ural,4-0,Sochi
+17/07/12,FIL,Sochi,1-3,Tom Tomsk
+23/07/12,FIL,Yenisey,1-1,Sochi
+31/07/12,FIL,Sochi,3-2,Sibir
+06/08/12,FIL,Novokuznetsk,0-0,Sochi
+13/08/12,FIL,Sochi,0-0,Khimki
+17/08/12,FIL,SKA Khabarovsk,2-1,Sochi
+22/08/12,FIL,Sochi,0-1,Baltika
+28/08/12,FIL,Spartak Nal'chik,0-2,Sochi
+02/09/12,CUP,Lokomotiv Moskva II,2-0,Sochi
+06/09/12,FIL,Sochi,2-1,Ufa
+10/09/12,FIL,Torpedo Moskva,1-0,Sochi
+21/09/12,FIL,Volgar Astrakhan,3-2,Sochi
+01/10/12,FIL,Sochi,0-1,Neftekhimik
+08/10/12,FIL,Salyut Belgorod,0-1,Sochi
+15/10/12,FIL,Sochi,3-1,Shinnik
+22/10/12,FIL,Rotor Volgograd,2-0,Sochi
+26/10/12,FIL,Tom Tomsk,2-1,Sochi
+06/11/12,FIL,Sibir,2-0,Sochi
+12/11/12,FIL,Sochi,3-1,Novokuznetsk
+16/11/12,FIL,Sochi,2-1,Yenisey
+20/11/12,FIL,Khimki,1-0,Sochi
+06/02/13,CLF,Sochi,0-2,Gaz Metan Mediaş
+11/03/13,FIL,Sochi,1-2,SKA Khabarovsk
+18/03/13,FIL,Baltika,2-0,Sochi
+25/03/13,FIL,Sochi,0-2,Spartak Nal'chik
+01/04/13,FIL,Ufa,1-2,Sochi
+08/04/13,FIL,Sochi,1-0,Torpedo Moskva
+22/04/13,FIL,Sochi,1-0,Volgar Astrakhan
+29/04/13,FIL,Neftekhimik,2-0,Sochi
+07/05/13,FIL,Sochi,1-1,Salyut Belgorod
+13/05/13,FIL,Shinnik,1-0,Sochi
+20/05/13,FIL,Sochi,0-3,Rotor Volgograd
+25/05/13,FIL,Sochi,0-0,Ural
+07/07/13,FIL,Sochi,0-1,Arsenal Tula
+13/07/13,FIL,Mordovia Saransk,4-1,Sochi
+18/07/13,FIL,Sochi,0-0,Spartak Nal'chik
+23/07/13,FIL,Sochi,1-0,Sibir
+28/07/13,FIL,Yenisey,2-1,Sochi
+02/08/13,FIL,Sochi,0-0,SKA Khabarovsk
+07/08/13,FIL,Orenburg,2-1,Sochi
+12/08/13,FIL,Sochi,0-0,Shinnik
+18/08/13,FIL,Khimik Dzerzhinsk,1-2,Sochi
+23/08/13,FIL,Sochi,2-0,Ufa
+28/08/13,FIL,Angusht,2-0,Sochi
+01/09/13,CUP,Tosno,E1-0E,Sochi
+10/09/13,FIL,FK Spartak Vladikavkaz,3-1,Sochi
+22/09/13,FIL,Baltika,2-1,Sochi

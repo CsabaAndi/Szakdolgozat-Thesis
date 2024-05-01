@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+17/03/23,EED,PEC Zwolle,2-0,NAC Breda
+31/03/23,EED,PEC Zwolle,2-0,Utrecht II
+07/04/23,EED,Eindhoven,4-2,PEC Zwolle
+14/04/23,EED,PEC Zwolle,2-0,Telstar
+21/04/23,EED,Almere City,1-1,PEC Zwolle
+28/04/23,EED,PEC Zwolle,4-0,Dordrecht
+08/05/23,EED,PSV II,3-1,PEC Zwolle
+12/05/23,EED,PEC Zwolle,3-1,Roda JC
+19/05/23,EED,Helmond Sport,2-3,PEC Zwolle
+07/07/23,CLF,Berkum,1-3,PEC Zwolle
+08/07/23,CLF,Feyenoord,3-1,PEC Zwolle
+11/07/23,CLF,PEC Zwolle,3-1,Westerlo
+19/07/23,CLF,Twente,3-2,PEC Zwolle
+05/08/23,CLF,PEC Zwolle,0-0,Groningen
+12/08/23,ERE,PEC Zwolle,1-2,Sparta Rotterdam
+20/08/23,ERE,Twente,3-1,PEC Zwolle
+27/08/23,ERE,PEC Zwolle,1-0,Utrecht
+02/09/23,ERE,Almere City,1-2,PEC Zwolle
+17/09/23,ERE,PEC Zwolle,1-1,Go Ahead Eagles
+24/09/23,ERE,PEC Zwolle,0-3,AZ
+01/10/23,ERE,Heracles,2-1,PEC Zwolle
+08/10/23,ERE,PEC Zwolle,0-2,Feyenoord
+11/10/23,CLF,Heerenveen,1-0,PEC Zwolle
+22/10/23,ERE,Excelsior,2-4,PEC Zwolle
+27/10/23,ERE,Vitesse,1-1,PEC Zwolle
+01/11/23,KNB,AFC,1-0,PEC Zwolle
+05/11/23,ERE,PEC Zwolle,2-0,Fortuna Sittard
+12/11/23,ERE,PSV,4-0,PEC Zwolle
+25/11/23,ERE,PEC Zwolle,1-2,RKC Waalwijk
+02/12/23,ERE,Volendam,0-5,PEC Zwolle
+09/12/23,ERE,PEC Zwolle,1-3,NEC
+17/12/23,ERE,Ajax,2-2,PEC Zwolle
+13/01/24,ERE,PEC Zwolle,2-2,Heerenveen
+20/01/24,ERE,AZ,2-2,PEC Zwolle
+26/01/24,ERE,PEC Zwolle,1-0,Vitesse
+04/02/24,ERE,Sparta Rotterdam,0-2,PEC Zwolle
+11/02/24,ERE,Go Ahead Eagles,1-1,PEC Zwolle
+17/02/24,ERE,PEC Zwolle,0-1,Almere City
+24/02/24,ERE,PEC Zwolle,1-7,PSV
+03/03/24,ERE,Heerenveen,2-0,PEC Zwolle
+10/03/24,ERE,PEC Zwolle,1-1,Volendam
+16/03/24,ERE,Fortuna Sittard,3-1,PEC Zwolle
+31/03/24,ERE,PEC Zwolle,1-3,Ajax
+03/04/24,ERE,Utrecht,5-1,PEC Zwolle
+06/04/24,ERE,PEC Zwolle,2-1,Excelsior
+14/04/24,ERE,NEC,2-2,PEC Zwolle
+28/04/24,ERE,PEC Zwolle,3-1,Heracles
+05/05/24,ERE,Feyenoord,20:00,PEC Zwolle
+12/05/24,ERE,RKC Waalwijk,14:30,PEC Zwolle
+19/05/24,ERE,PEC Zwolle,14:30,Twente
+13/03/22,ERE,PEC Zwolle,1-2,Feyenoord
+19/03/22,ERE,Twente,1-0,PEC Zwolle
+24/03/22,CLF,Heerenveen,1-0,PEC Zwolle
+03/04/22,ERE,PEC Zwolle,0-1,Go Ahead Eagles
+10/04/22,ERE,PEC Zwolle,2-1,AZ
+23/04/22,ERE,RKC Waalwijk,0-2,PEC Zwolle
+30/04/22,ERE,Ajax,3-0,PEC Zwolle
+07/05/22,ERE,PEC Zwolle,1-1,Utrecht
+11/05/22,ERE,Sparta Rotterdam,2-0,PEC Zwolle
+15/05/22,ERE,PEC Zwolle,1-2,PSV
+02/07/22,CLF,AZ,3-1,PEC Zwolle
+06/07/22,CLF,Katwijk,2-1,PEC Zwolle
+08/07/22,CLF,PEC Zwolle,0-0,Emmen
+12/07/22,CLF,PEC Zwolle,7-3,RKC Waalwijk
+15/07/22,CLF,PEC Zwolle,0-2,Heerenveen
+22/07/22,CLF,PEC Zwolle,3-1,Cambuur
+30/07/22,CLF,PEC Zwolle,2-1,Dordrecht
+07/08/22,EED,PEC Zwolle,2-1,De Graafschap
+12/08/22,EED,Telstar,0-5,PEC Zwolle
+21/08/22,EED,VVV,0-4,PEC Zwolle
+26/08/22,EED,PEC Zwolle,4-2,PSV II
+02/09/22,EED,Den Bosch,1-2,PEC Zwolle
+09/09/22,EED,PEC Zwolle,2-2,Willem II
+12/09/22,EED,AZ II,2-3,PEC Zwolle
+16/09/22,EED,PEC Zwolle,1-2,ADO Den Haag
+30/09/22,EED,PEC Zwolle,1-1,Ajax II
+07/10/22,EED,Dordrecht,3-0,PEC Zwolle
+14/10/22,EED,PEC Zwolle,3-2,Heracles
+20/10/22,KNB,HHC,0-1,PEC Zwolle
+24/10/22,EED,Utrecht II,0-1,PEC Zwolle
+28/10/22,EED,PEC Zwolle,0-1,MVV
+04/11/22,EED,TOP Oss,0-5,PEC Zwolle
+11/11/22,EED,PEC Zwolle,5-2,Eindhoven
+19/11/22,EED,NAC Breda,0-2,PEC Zwolle
+03/12/22,CLF,PEC Zwolle,0-1,KV Oostende
+07/12/22,CLF,Bochum,1-3,PEC Zwolle
+12/12/22,EED,PEC Zwolle,1-0,Helmond Sport
+06/01/23,EED,PEC Zwolle,3-2,Almere City
+12/01/23,KNB,Feyenoord,3-1,PEC Zwolle
+15/01/23,EED,Heracles,0-3,PEC Zwolle
+20/01/23,EED,PEC Zwolle,2-0,VVV
+27/01/23,EED,PEC Zwolle,4-1,TOP Oss
+30/01/23,EED,Roda JC,1-2,PEC Zwolle
+06/02/23,EED,Ajax II,0-0,PEC Zwolle
+10/02/23,EED,PEC Zwolle,4-1,AZ II
+17/02/23,EED,ADO Den Haag,3-1,PEC Zwolle
+27/02/23,EED,MVV,3-2,PEC Zwolle
+03/03/23,EED,PEC Zwolle,13-0,Den Bosch
+10/03/23,EED,Willem II,2-3,PEC Zwolle
+13/03/23,EED,De Graafschap,0-1,PEC Zwolle
+13/02/21,ERE,Groningen,1-0,PEC Zwolle
+20/02/21,ERE,Emmen,3-2,PEC Zwolle
+26/02/21,ERE,PEC Zwolle,4-1,Heerenveen
+07/03/21,ERE,Heracles,2-1,PEC Zwolle
+14/03/21,ERE,PEC Zwolle,0-2,Ajax
+21/03/21,ERE,PEC Zwolle,2-1,VVV
+03/04/21,ERE,Sparta Rotterdam,3-2,PEC Zwolle
+10/04/21,ERE,PEC Zwolle,1-0,Twente
+24/04/21,ERE,Heerenveen,0-2,PEC Zwolle
+01/05/21,ERE,Vitesse,2-1,PEC Zwolle
+09/05/21,ERE,PEC Zwolle,0-1,ADO Den Haag
+13/05/21,ERE,PSV,4-2,PEC Zwolle
+16/05/21,ERE,PEC Zwolle,1-0,Groningen
+30/06/21,CLF,PEC Zwolle,1-1,Borussia Dortmund II
+03/07/21,CLF,St. Pauli,CANC,PEC Zwolle
+08/07/21,CLF,PEC Zwolle,0-2,Volendam
+20/07/21,CLF,PEC Zwolle,3-0,Helmond Sport
+24/07/21,CLF,PEC Zwolle,2-1,Cambuur
+28/07/21,CLF,Fenerbahce,2-2,PEC Zwolle
+31/07/21,CLF,PEC Zwolle,0-2,Heerenveen
+07/08/21,CLF,Heracles,3-1,PEC Zwolle
+15/08/21,ERE,PEC Zwolle,0-1,Vitesse
+20/08/21,ERE,NEC,2-0,PEC Zwolle
+28/08/21,ERE,Willem II,1-0,PEC Zwolle
+11/09/21,ERE,PEC Zwolle,0-2,Ajax
+19/09/21,ERE,Go Ahead Eagles,1-0,PEC Zwolle
+22/09/21,ERE,PEC Zwolle,1-1,Sparta Rotterdam
+25/09/21,ERE,Utrecht,5-1,PEC Zwolle
+02/10/21,ERE,PEC Zwolle,0-1,Heerenveen
+16/10/21,ERE,PSV,3-1,PEC Zwolle
+23/10/21,ERE,PEC Zwolle,1-0,Heracles
+26/10/21,KNB,PEC Zwolle,4-1,De Graafschap
+30/10/21,ERE,AZ,3-2,PEC Zwolle
+06/11/21,ERE,PEC Zwolle,1-2,Cambuur
+21/11/21,ERE,Feyenoord,4-0,PEC Zwolle
+27/11/21,ERE,PEC Zwolle,0-0,RKC Waalwijk
+03/12/21,ERE,Groningen,1-1,PEC Zwolle
+11/12/21,ERE,PEC Zwolle,0-1,Fortuna Sittard
+14/12/21,KNB,PEC Zwolle,4-0,MVV
+18/12/21,ERE,PEC Zwolle,1-3,Twente
+21/12/21,ERE,Vitesse,1-0,PEC Zwolle
+07/01/22,CLF,Hannover 96,CANC,PEC Zwolle
+14/01/22,ERE,PEC Zwolle,2-0,Willem II
+19/01/22,KNB,NAC Breda,2-1,PEC Zwolle
+22/01/22,ERE,Heerenveen,0-1,PEC Zwolle
+05/02/22,ERE,PEC Zwolle,1-1,NEC
+12/02/22,ERE,Cambuur,3-4,PEC Zwolle
+20/02/22,ERE,PEC Zwolle,1-1,Groningen
+26/02/22,ERE,Heracles,2-0,PEC Zwolle
+06/03/22,ERE,Fortuna Sittard,0-1,PEC Zwolle
+17/12/19,KNB,Fortuna Sittard,3-0,PEC Zwolle
+21/12/19,ERE,PSV,4-1,PEC Zwolle
+10/01/20,CLF,PEC Zwolle,1-3,Zulte Waregem
+10/01/20,CLF,PEC Zwolle,0-2,Standard Liège
+17/01/20,ERE,PEC Zwolle,3-3,Utrecht
+26/01/20,ERE,Willem II,0-0,PEC Zwolle
+01/02/20,ERE,PEC Zwolle,1-0,Groningen
+08/02/20,ERE,RKC Waalwijk,0-0,PEC Zwolle
+16/02/20,ERE,PEC Zwolle,3-4,Feyenoord
+23/02/20,ERE,AZ,2-0,PEC Zwolle
+29/02/20,ERE,PEC Zwolle,4-3,Vitesse
+06/03/20,ERE,Fortuna Sittard,1-1,PEC Zwolle
+14/03/20,ERE,PEC Zwolle,CANC,Heracles
+21/03/20,ERE,PEC Zwolle,CANC,VVV
+05/04/20,ERE,Ajax,CANC,PEC Zwolle
+12/04/20,ERE,PEC Zwolle,CANC,Twente
+21/04/20,ERE,Sparta Rotterdam,CANC,PEC Zwolle
+25/04/20,ERE,PEC Zwolle,CANC,Heerenveen
+03/05/20,ERE,PEC Zwolle,CANC,Emmen
+10/05/20,ERE,ADO Den Haag,CANC,PEC Zwolle
+01/08/20,CLF,Cambuur,2-0,PEC Zwolle
+05/08/20,CLF,AZ,0-1,PEC Zwolle
+09/08/20,CLF,Heracles,0-1,PEC Zwolle
+24/08/20,CLF,Emmen,0-1,PEC Zwolle
+29/08/20,CLF,PEC Zwolle,0-2,Utrecht
+05/09/20,CLF,Heerenveen,0-1,PEC Zwolle
+12/09/20,ERE,PEC Zwolle,0-2,Feyenoord
+19/09/20,ERE,AZ,1-1,PEC Zwolle
+26/09/20,ERE,PEC Zwolle,4-0,Sparta Rotterdam
+08/10/20,CLF,PEC Zwolle,3-3,Utrecht
+18/10/20,ERE,PEC Zwolle,0-3,PSV
+21/10/20,ERE,RKC Waalwijk,1-1,PEC Zwolle
+24/10/20,ERE,PEC Zwolle,0-0,Willem II
+31/10/20,ERE,Twente,5-1,PEC Zwolle
+06/11/20,ERE,Fortuna Sittard,2-2,PEC Zwolle
+21/11/20,ERE,PEC Zwolle,1-1,Utrecht
+28/11/20,ERE,VVV,2-2,PEC Zwolle
+01/12/20,KNB,Staphorst,CANC,PEC Zwolle
+05/12/20,ERE,PEC Zwolle,2-1,Vitesse
+12/12/20,ERE,Ajax,4-0,PEC Zwolle
+15/12/20,KNB,Excelsior,2-0,PEC Zwolle
+18/12/20,ERE,PEC Zwolle,0-0,Emmen
+23/12/20,ERE,ADO Den Haag,0-2,PEC Zwolle
+09/01/21,ERE,PEC Zwolle,1-1,AZ
+13/01/21,ERE,Feyenoord,1-0,PEC Zwolle
+16/01/21,ERE,PEC Zwolle,0-2,Fortuna Sittard
+22/01/21,ERE,Willem II,1-3,PEC Zwolle
+26/01/21,ERE,PEC Zwolle,2-2,Heracles
+30/01/21,ERE,Utrecht,3-3,PEC Zwolle
+06/02/21,ERE,PEC Zwolle,1-1,RKC Waalwijk
+09/11/18,ERE,PEC Zwolle,2-3,Willem II
+24/11/18,ERE,PEC Zwolle,2-3,ADO Den Haag
+01/12/18,ERE,De Graafschap,0-2,PEC Zwolle
+08/12/18,ERE,PEC Zwolle,1-4,Ajax
+15/12/18,ERE,PEC Zwolle,0-0,NAC Breda
+18/12/18,KNB,AZ,5-0,PEC Zwolle
+21/12/18,ERE,VVV,2-0,PEC Zwolle
+07/01/19,CLF,Nürnberg,1-1,PEC Zwolle
+11/01/19,CLF,Bayer Leverkusen,3-1,PEC Zwolle
+14/01/19,CLF,PEC Zwolle,3-0,Cambuur
+19/01/19,ERE,PEC Zwolle,3-1,Feyenoord
+26/01/19,ERE,Heracles,0-2,PEC Zwolle
+03/02/19,ERE,PEC Zwolle,4-3,Utrecht
+09/02/19,ERE,Heerenveen,1-1,PEC Zwolle
+15/02/19,ERE,ADO Den Haag,1-0,PEC Zwolle
+23/02/19,ERE,PEC Zwolle,0-3,De Graafschap
+10/03/19,ERE,PEC Zwolle,0-0,AZ
+13/03/19,ERE,Ajax,2-1,PEC Zwolle
+17/03/19,ERE,Excelsior,0-2,PEC Zwolle
+31/03/19,ERE,PEC Zwolle,3-0,Emmen
+04/04/19,ERE,PSV,4-0,PEC Zwolle
+07/04/19,ERE,PEC Zwolle,5-0,Fortuna Sittard
+14/04/19,ERE,Willem II,2-0,PEC Zwolle
+20/04/19,ERE,Vitesse,4-1,PEC Zwolle
+29/04/19,ERE,PEC Zwolle,3-2,Groningen
+12/05/19,ERE,PEC Zwolle,2-4,VVV
+15/05/19,ERE,NAC Breda,0-0,PEC Zwolle
+29/06/19,CLF,SV Dalfsen,0-11,PEC Zwolle
+05/07/19,CLF,Emmen,1-1,PEC Zwolle
+09/07/19,CLF,PEC Zwolle,2-2,PAOK
+12/07/19,CLF,PEC Zwolle,CANC,Gent
+27/07/19,CLF,PEC Zwolle,1-0,Asteras Tripolis
+02/08/19,ERE,PEC Zwolle,1-3,Willem II
+11/08/19,ERE,Utrecht,3-1,PEC Zwolle
+16/08/19,ERE,Vitesse,3-0,PEC Zwolle
+25/08/19,ERE,PEC Zwolle,2-2,Sparta Rotterdam
+30/08/19,ERE,Emmen,1-3,PEC Zwolle
+15/09/19,ERE,PEC Zwolle,6-2,RKC Waalwijk
+21/09/19,ERE,Groningen,2-0,PEC Zwolle
+29/09/19,ERE,PEC Zwolle,0-4,PSV
+05/10/19,ERE,Heerenveen,1-0,PEC Zwolle
+20/10/19,ERE,PEC Zwolle,3-1,ADO Den Haag
+26/10/19,ERE,Heracles,4-0,PEC Zwolle
+29/10/19,KNB,HSV Hoek,0-3,PEC Zwolle
+01/11/19,ERE,PEC Zwolle,2-4,Ajax
+10/11/19,ERE,Twente,2-1,PEC Zwolle
+23/11/19,ERE,PEC Zwolle,3-1,Fortuna Sittard
+01/12/19,ERE,Feyenoord,1-0,PEC Zwolle
+07/12/19,ERE,PEC Zwolle,0-3,AZ
+14/12/19,ERE,VVV,1-2,PEC Zwolle
+24/10/17,KNB,PEC Zwolle,E3-2E,Kozakken Boys
+28/10/17,ERE,PEC Zwolle,2-0,ADO Den Haag
+05/11/17,ERE,Vitesse,0-0,PEC Zwolle
+19/11/17,ERE,PEC Zwolle,0-1,PSV
+25/11/17,ERE,Heerenveen,1-2,PEC Zwolle
+01/12/17,ERE,PEC Zwolle,1-1,Utrecht
+09/12/17,ERE,Excelsior,1-2,PEC Zwolle
+12/12/17,ERE,PEC Zwolle,1-1,AZ
+16/12/17,ERE,Willem II,2-3,PEC Zwolle
+19/12/17,KNB,PEC Zwolle,2-0,NEC
+22/12/17,ERE,ADO Den Haag,4-0,PEC Zwolle
+20/01/18,ERE,PEC Zwolle,1-0,NAC Breda
+27/01/18,ERE,PEC Zwolle,1-2,Vitesse
+31/01/18,KNB,AZ,4-1,PEC Zwolle
+03/02/18,ERE,PSV,4-0,PEC Zwolle
+06/02/18,ERE,PEC Zwolle,3-2,Heerenveen
+10/02/18,ERE,Utrecht,2-1,PEC Zwolle
+18/02/18,ERE,PEC Zwolle,0-1,Ajax
+24/02/18,ERE,Heracles,2-1,PEC Zwolle
+04/03/18,ERE,PEC Zwolle,1-1,VVV
+11/03/18,ERE,Groningen,2-0,PEC Zwolle
+18/03/18,ERE,PEC Zwolle,3-4,Feyenoord
+31/03/18,ERE,PEC Zwolle,2-0,Sparta Rotterdam
+07/04/18,ERE,Roda JC,3-2,PEC Zwolle
+14/04/18,ERE,PEC Zwolle,1-1,Excelsior
+17/04/18,ERE,Twente,2-0,PEC Zwolle
+29/04/18,ERE,PEC Zwolle,0-1,Willem II
+06/05/18,ERE,AZ,6-0,PEC Zwolle
+29/06/18,CLF,Berkum,1-3,PEC Zwolle
+03/07/18,CLF,Genemuiden,1-4,PEC Zwolle
+10/07/18,CLF,PEC Zwolle,2-5,Meppen
+14/07/18,CLF,PEC Zwolle,5-0,Excelsior
+17/07/18,CLF,PEC Zwolle,CANC,RKC Waalwijk
+21/07/18,CLF,Hannover 96,3-1,PEC Zwolle
+28/07/18,CLF,PEC Zwolle,3-1,Levante
+04/08/18,CLF,PEC Zwolle,3-0,RKC Waalwijk
+10/08/18,ERE,PEC Zwolle,2-3,Heerenveen
+19/08/18,ERE,Utrecht,2-0,PEC Zwolle
+25/08/18,ERE,PEC Zwolle,1-2,PSV
+02/09/18,ERE,Groningen,0-1,PEC Zwolle
+06/09/18,CLF,Heerenveen,0-1,PEC Zwolle
+16/09/18,ERE,PEC Zwolle,0-2,Vitesse
+23/09/18,ERE,Emmen,0-1,PEC Zwolle
+26/09/18,KNB,Staphorst,0-1,PEC Zwolle
+30/09/18,ERE,AZ,2-2,PEC Zwolle
+06/10/18,ERE,PEC Zwolle,2-0,Excelsior
+21/10/18,ERE,Feyenoord,3-0,PEC Zwolle
+27/10/18,ERE,PEC Zwolle,1-1,Heracles
+30/10/18,KNB,De Graafschap,2-5,PEC Zwolle
+04/11/18,ERE,Fortuna Sittard,3-0,PEC Zwolle
+06/10/16,CLF,PEC Zwolle,1-2,Cambuur
+16/10/16,ERE,Twente,2-2,PEC Zwolle
+21/10/16,ERE,Excelsior,0-2,PEC Zwolle
+27/10/16,KNB,PEC Zwolle,2-1,VVV
+30/10/16,ERE,PEC Zwolle,3-1,Go Ahead Eagles
+05/11/16,ERE,PEC Zwolle,0-0,Roda JC
+20/11/16,ERE,Feyenoord,3-0,PEC Zwolle
+26/11/16,ERE,PEC Zwolle,0-4,Groningen
+03/12/16,ERE,Vitesse,3-1,PEC Zwolle
+10/12/16,ERE,PEC Zwolle,0-0,Willem II
+14/12/16,KNB,PEC Zwolle,1-2,Utrecht
+18/12/16,ERE,Heracles,3-0,PEC Zwolle
+07/01/17,CLF,NEC,1-2,PEC Zwolle
+15/01/17,ERE,PEC Zwolle,1-3,Ajax
+21/01/17,ERE,ADO Den Haag,1-2,PEC Zwolle
+29/01/17,ERE,PEC Zwolle,1-2,Twente
+05/02/17,ERE,Sparta Rotterdam,2-3,PEC Zwolle
+10/02/17,ERE,PEC Zwolle,2-0,NEC
+18/02/17,ERE,Utrecht,3-1,PEC Zwolle
+26/02/17,ERE,AZ,1-1,PEC Zwolle
+04/03/17,ERE,PEC Zwolle,3-1,Vitesse
+12/03/17,ERE,Willem II,2-0,PEC Zwolle
+19/03/17,ERE,Go Ahead Eagles,1-3,PEC Zwolle
+01/04/17,ERE,PEC Zwolle,1-1,Excelsior
+06/04/17,ERE,Roda JC,2-1,PEC Zwolle
+09/04/17,ERE,PEC Zwolle,2-2,Feyenoord
+16/04/17,ERE,Groningen,5-1,PEC Zwolle
+22/04/17,ERE,PEC Zwolle,1-2,Heracles
+07/05/17,ERE,PEC Zwolle,2-1,Heerenveen
+14/05/17,ERE,PSV,4-1,PEC Zwolle
+20/05/17,CLF,Hatto Heim,1-9,PEC Zwolle
+01/07/17,CLF,Genemuiden,0-3,PEC Zwolle
+04/07/17,CLF,HZVV,0-3,PEC Zwolle
+08/07/17,CLF,SV Dalfsen,0-8,PEC Zwolle
+11/07/17,CLF,VVOG,0-0,PEC Zwolle
+14/07/17,CLF,PEC Zwolle,3-0,Emmen
+18/07/17,CLF,PEC Zwolle,3-0,Almere City
+21/07/17,CLF,Gençlerbirliği,0-2,PEC Zwolle
+28/07/17,CLF,Volendam,2-2,PEC Zwolle
+05/08/17,CLF,PEC Zwolle,4-0,Cambuur
+13/08/17,ERE,PEC Zwolle,4-2,Roda JC
+20/08/17,ERE,Sparta Rotterdam,1-1,PEC Zwolle
+26/08/17,ERE,PEC Zwolle,2-0,Twente
+09/09/17,ERE,Ajax,3-0,PEC Zwolle
+16/09/17,ERE,PEC Zwolle,2-1,Heracles
+21/09/17,KNB,De Meern,0-5,PEC Zwolle
+24/09/17,ERE,VVV,1-1,PEC Zwolle
+30/09/17,ERE,PEC Zwolle,3-2,Groningen
+14/10/17,ERE,Feyenoord,0-0,PEC Zwolle
+21/10/17,ERE,NAC Breda,0-2,PEC Zwolle
+29/08/15,ERE,Heerenveen,1-1,PEC Zwolle
+12/09/15,ERE,PEC Zwolle,3-0,Excelsior
+19/09/15,ERE,PEC Zwolle,2-1,ADO Den Haag
+24/09/15,KNB,Feyenoord,3-0,PEC Zwolle
+27/09/15,ERE,Feyenoord,2-0,PEC Zwolle
+03/10/15,ERE,Willem II,0-1,PEC Zwolle
+18/10/15,ERE,PEC Zwolle,1-5,Vitesse
+23/10/15,ERE,PEC Zwolle,1-2,Utrecht
+31/10/15,ERE,Groningen,2-0,PEC Zwolle
+07/11/15,ERE,PEC Zwolle,1-1,Heracles
+21/11/15,ERE,Roda JC,0-5,PEC Zwolle
+29/11/15,ERE,PEC Zwolle,0-2,Ajax
+06/12/15,ERE,NEC,2-2,PEC Zwolle
+13/12/15,ERE,PEC Zwolle,2-1,AZ
+19/12/15,ERE,PSV,3-2,PEC Zwolle
+08/01/16,CLF,NEC,3-1,PEC Zwolle
+16/01/16,ERE,PEC Zwolle,5-2,Heerenveen
+24/01/16,ERE,Utrecht,1-0,PEC Zwolle
+27/01/16,ERE,Vitesse,1-1,PEC Zwolle
+30/01/16,ERE,PEC Zwolle,1-3,Groningen
+06/02/16,ERE,Heracles,2-0,PEC Zwolle
+14/02/16,ERE,PEC Zwolle,3-1,Feyenoord
+19/02/16,ERE,ADO Den Haag,0-2,PEC Zwolle
+27/02/16,ERE,Cambuur,1-0,PEC Zwolle
+05/03/16,ERE,PEC Zwolle,2-1,De Graafschap
+12/03/16,ERE,Twente,2-1,PEC Zwolle
+19/03/16,ERE,PEC Zwolle,4-1,Willem II
+03/04/16,ERE,Ajax,3-0,PEC Zwolle
+08/04/16,ERE,PEC Zwolle,3-1,Roda JC
+16/04/16,ERE,AZ,5-1,PEC Zwolle
+20/04/16,ERE,PEC Zwolle,2-0,NEC
+01/05/16,ERE,Excelsior,2-2,PEC Zwolle
+08/05/16,ERE,PEC Zwolle,1-3,PSV
+12/05/16,ERE,PEC Zwolle,0-0,Utrecht
+15/05/16,ERE,Utrecht,5-2,PEC Zwolle
+05/07/16,CLF,Genemuiden,0-1,PEC Zwolle
+08/07/16,CLF,PEC Zwolle,1-2,VVV
+15/07/16,CLF,PEC Zwolle,3-0,Gent
+20/07/16,CLF,Panathinaikos,4-0,PEC Zwolle
+23/07/16,CLF,PEC Zwolle,0-4,Southampton
+30/07/16,CLF,PEC Zwolle,1-0,Gençlerbirliği
+05/08/16,ERE,NEC,1-1,PEC Zwolle
+13/08/16,ERE,PEC Zwolle,0-3,Sparta Rotterdam
+20/08/16,ERE,PEC Zwolle,0-4,PSV
+27/08/16,ERE,Heerenveen,1-0,PEC Zwolle
+10/09/16,ERE,PEC Zwolle,1-1,Utrecht
+18/09/16,ERE,PEC Zwolle,0-2,AZ
+21/09/16,KNB,DVS '33,1-4,PEC Zwolle
+24/09/16,ERE,Ajax,5-1,PEC Zwolle
+30/09/16,ERE,PEC Zwolle,2-1,ADO Den Haag
+21/09/14,ERE,AZ,1-0,PEC Zwolle
+24/09/14,KNB,PEC Zwolle,3-2,TOP Oss
+27/09/14,ERE,PEC Zwolle,4-2,Heracles
+05/10/14,ERE,Ajax,0-0,PEC Zwolle
+19/10/14,ERE,Go Ahead Eagles,3-2,PEC Zwolle
+26/10/14,ERE,PEC Zwolle,2-2,Heerenveen
+29/10/14,KNB,PEC Zwolle,6-1,HHC
+01/11/14,ERE,Feyenoord,2-0,PEC Zwolle
+08/11/14,ERE,PEC Zwolle,2-0,Groningen
+13/11/14,CLF,PEC Zwolle,1-1,Emmen
+23/11/14,ERE,PEC Zwolle,1-2,Twente
+30/11/14,ERE,Excelsior,0-5,PEC Zwolle
+07/12/14,ERE,PEC Zwolle,3-1,ADO Den Haag
+13/12/14,ERE,Willem II,0-1,PEC Zwolle
+16/12/14,KNB,VVV,0-1,PEC Zwolle
+20/12/14,ERE,Cambuur,2-1,PEC Zwolle
+10/01/15,CLF,PEC Zwolle,1-2,Cape Town Spurs
+17/01/15,ERE,PEC Zwolle,4-1,NAC Breda
+24/01/15,ERE,PEC Zwolle,1-1,AZ
+27/01/15,KNB,Cambuur,E2-3E,PEC Zwolle
+01/02/15,ERE,Utrecht,0-2,PEC Zwolle
+04/02/15,ERE,PEC Zwolle,4-0,Dordrecht
+07/02/15,ERE,Heerenveen,4-0,PEC Zwolle
+15/02/15,ERE,PEC Zwolle,0-1,Go Ahead Eagles
+21/02/15,ERE,ADO Den Haag,3-2,PEC Zwolle
+28/02/15,ERE,Vitesse,2-1,PEC Zwolle
+07/03/15,ERE,PEC Zwolle,6-1,Cambuur
+14/03/15,ERE,Twente,2-0,PEC Zwolle
+22/03/15,ERE,PEC Zwolle,1-1,Excelsior
+04/04/15,ERE,PEC Zwolle,1-0,Willem II
+07/04/15,KNB,Twente,P1-1P,PEC Zwolle
+10/04/15,ERE,PSV,3-1,PEC Zwolle
+19/04/15,ERE,Heracles,2-0,PEC Zwolle
+26/04/15,ERE,PEC Zwolle,1-1,Ajax
+03/05/15,KNB,PEC Zwolle,0-2,Groningen
+10/05/15,ERE,Groningen,0-1,PEC Zwolle
+17/05/15,ERE,PEC Zwolle,3-0,Feyenoord
+21/05/15,ERE,PEC Zwolle,1-2,Vitesse
+24/05/15,ERE,Vitesse,1-1,PEC Zwolle
+30/06/15,CLF,Hatto Heim,0-9,PEC Zwolle
+04/07/15,CLF,Genemuiden,CANC,PEC Zwolle
+07/07/15,CLF,Genemuiden,1-4,PEC Zwolle
+11/07/15,CLF,PEC Zwolle,2-2,Dnipro
+17/07/15,CLF,PEC Zwolle,3-1,Sparta Rotterdam
+21/07/15,CLF,Derby County,CANC,PEC Zwolle
+25/07/15,CLF,PEC Zwolle,1-3,Levante
+01/08/15,CLF,VVV,1-2,PEC Zwolle
+12/08/15,ERE,PEC Zwolle,2-2,Cambuur
+15/08/15,ERE,De Graafschap,0-3,PEC Zwolle
+23/08/15,ERE,PEC Zwolle,2-1,Twente
+14/09/13,ERE,Ajax,2-1,PEC Zwolle
+22/09/13,ERE,Vitesse,3-0,PEC Zwolle
+25/09/13,KNB,PEC Zwolle,2-0,Fortuna Sittard
+28/09/13,ERE,PEC Zwolle,0-0,NAC Breda
+05/10/13,ERE,Roda JC,0-0,PEC Zwolle
+20/10/13,ERE,PEC Zwolle,6-1,ADO Den Haag
+27/10/13,ERE,PEC Zwolle,0-2,AZ
+30/10/13,KNB,PEC Zwolle,4-0,Wilhelmina 08
+02/11/13,ERE,PSV,1-1,PEC Zwolle
+10/11/13,ERE,PEC Zwolle,1-1,Twente
+24/11/13,ERE,Groningen,0-0,PEC Zwolle
+30/11/13,ERE,PEC Zwolle,1-1,RKC Waalwijk
+08/12/13,ERE,Go Ahead Eagles,4-1,PEC Zwolle
+13/12/13,ERE,PEC Zwolle,1-2,Heerenveen
+17/12/13,KNB,Excelsior,1-4,PEC Zwolle
+21/12/13,ERE,Feyenoord,3-0,PEC Zwolle
+07/01/14,CLF,Cape Town Spurs,1-2,PEC Zwolle
+11/01/14,CLF,PEC Zwolle,1-4,Stuttgart
+18/01/14,ERE,PEC Zwolle,1-2,Vitesse
+22/01/14,KNB,PEC Zwolle,5-1,JVC Cuijk
+25/01/14,ERE,NAC Breda,1-2,PEC Zwolle
+01/02/14,ERE,PEC Zwolle,3-1,Roda JC
+06/02/14,ERE,Utrecht,1-2,PEC Zwolle
+09/02/14,ERE,PEC Zwolle,1-1,Ajax
+16/02/14,ERE,Cambuur,3-1,PEC Zwolle
+22/02/14,ERE,PEC Zwolle,1-1,Heracles
+01/03/14,ERE,PEC Zwolle,3-3,NEC
+08/03/14,ERE,Heerenveen,3-0,PEC Zwolle
+16/03/14,ERE,PEC Zwolle,2-0,Go Ahead Eagles
+23/03/14,ERE,AZ,2-1,PEC Zwolle
+26/03/14,KNB,PEC Zwolle,2-1,NEC
+30/03/14,ERE,ADO Den Haag,1-1,PEC Zwolle
+04/04/14,ERE,PEC Zwolle,0-1,Groningen
+13/04/14,ERE,RKC Waalwijk,1-1,PEC Zwolle
+20/04/14,KNB,PEC Zwolle,5-1,Ajax
+27/04/14,ERE,PEC Zwolle,1-2,PSV
+03/05/14,ERE,Twente,2-2,PEC Zwolle
+13/05/14,CLF,ASV Dronten,1-8,PEC Zwolle
+12/07/14,CLF,PEC Zwolle,1-1,Excel Mouscron
+12/07/14,CLF,PEC Zwolle,CANC,Bochum
+18/07/14,CLF,PEC Zwolle,2-1,PAOK
+25/07/14,CLF,Hannover 96,1-2,PEC Zwolle
+03/08/14,SUC,PEC Zwolle,1-0,Ajax
+08/08/14,ERE,PEC Zwolle,2-0,Utrecht
+16/08/14,ERE,Dordrecht,1-2,PEC Zwolle
+21/08/14,UEL,PEC Zwolle,1-1,Sparta Prague
+24/08/14,ERE,PEC Zwolle,2-1,Vitesse
+28/08/14,UEL,Sparta Prague,3-1,PEC Zwolle
+31/08/14,ERE,NAC Breda,3-1,PEC Zwolle
+13/09/14,ERE,PEC Zwolle,3-1,PSV

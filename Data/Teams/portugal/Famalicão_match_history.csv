@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+03/04/23,PRL,Famalicão,0-1,Arouca
+08/04/23,PRL,Paços Ferreira,1-3,Famalicão
+14/04/23,PRL,Famalicão,2-1,Vitoria Guimaraes
+22/04/23,PRL,Famalicão,3-2,Marítimo
+26/04/23,TDP,Famalicão,1-2,Porto
+30/04/23,PRL,Sporting Lisbon,2-1,Famalicão
+04/05/23,TDP,Porto,E3-2E,Famalicão
+08/05/23,PRL,Famalicão,1-2,Chaves
+13/05/23,PRL,Vizela,0-0,Famalicão
+20/05/23,PRL,Famalicão,2-4,Porto
+26/05/23,PRL,Rio Ave,2-2,Famalicão
+15/07/23,CLF,Famalicão,1-0,Trofense
+23/07/23,TDL,CF Os Belenenses,3-2,Famalicão
+04/08/23,CLF,Chaves,0-1,Famalicão
+11/08/23,PRL,Sporting Braga,1-2,Famalicão
+21/08/23,PRL,Famalicão,0-0,Moreirense
+27/08/23,PRL,Sporting Lisbon,1-0,Famalicão
+02/09/23,PRL,Famalicão,1-0,Farense
+16/09/23,PRL,Rio Ave,1-1,Famalicão
+22/09/23,PRL,Famalicão,1-0,Arouca
+30/09/23,PRL,Boavista,2-2,Famalicão
+08/10/23,PRL,Famalicão,1-3,Vitoria Guimaraes
+29/10/23,PRL,Estrela,1-0,Famalicão
+04/11/23,PRL,Famalicão,3-1,Gil Vicente
+11/11/23,PRL,Vizela,0-0,Famalicão
+18/11/23,TDP,Camacha,0-5,Famalicão
+25/11/23,TDP,Benfica,2-0,Famalicão
+02/12/23,PRL,Famalicão,0-3,Porto
+09/12/23,PRL,Portimonense,1-1,Famalicão
+17/12/23,PRL,Famalicão,1-1,Estoril
+29/12/23,PRL,Benfica,3-0,Famalicão
+07/01/24,PRL,Famalicão,2-2,Chaves
+13/01/24,PRL,Casa Pia,0-2,Famalicão
+18/01/24,PRL,Famalicão,1-2,Sporting Braga
+28/01/24,PRL,Moreirense,1-0,Famalicão
+10/02/24,PRL,Farense,1-1,Famalicão
+16/02/24,PRL,Famalicão,2-1,Rio Ave
+23/02/24,PRL,Arouca,3-2,Famalicão
+04/03/24,PRL,Famalicão,1-1,Boavista
+09/03/24,PRL,Vitoria Guimaraes,1-0,Famalicão
+16/03/24,PRL,Famalicão,0-0,Estrela
+29/03/24,PRL,Gil Vicente,1-2,Famalicão
+06/04/24,PRL,Famalicão,3-2,Vizela
+13/04/24,PRL,Porto,2-2,Famalicão
+16/04/24,PRL,Famalicão,0-1,Sporting Lisbon
+21/04/24,PRL,Famalicão,2-2,Portimonense
+28/04/24,PRL,Estoril,1-0,Famalicão
+05/05/24,PRL,Famalicão,21:30,Benfica
+10/05/24,PRL,Chaves,21:15,Famalicão
+19/05/24,PRL,Famalicão,-,Casa Pia
+16/01/22,PRL,Famalicão,0-0,Paços Ferreira
+23/01/22,PRL,Porto,3-1,Famalicão
+31/01/22,PRL,Famalicão,0-0,Arouca
+06/02/22,PRL,Sporting Lisbon,2-0,Famalicão
+13/02/22,PRL,Famalicão,5-0,Moreirense
+20/02/22,PRL,Marítimo,0-1,Famalicão
+26/02/22,PRL,Famalicão,2-1,Tondela
+06/03/22,PRL,Vitoria Guimaraes,2-1,Famalicão
+12/03/22,PRL,Famalicão,0-0,Santa Clara
+18/03/22,PRL,Vizela,1-1,Famalicão
+02/04/22,PRL,Famalicão,1-2,Boavista
+10/04/22,PRL,Portimonense,1-0,Famalicão
+15/04/22,PRL,Famalicão,2-2,Gil Vicente
+23/04/22,PRL,Benfica,0-0,Famalicão
+29/04/22,PRL,Famalicão,3-1,Estoril
+09/05/22,PRL,Belenenses,2-3,Famalicão
+15/05/22,PRL,Famalicão,3-2,Sporting Braga
+06/08/22,PRL,Estoril,2-0,Famalicão
+12/08/22,PRL,Famalicão,0-3,Sporting Braga
+22/08/22,PRL,Gil Vicente,0-0,Famalicão
+28/08/22,PRL,Famalicão,1-0,Santa Clara
+04/09/22,PRL,Portimonense,1-0,Famalicão
+10/09/22,PRL,Famalicão,0-1,Benfica
+18/09/22,PRL,Casa Pia,1-0,Famalicão
+02/10/22,PRL,Famalicão,4-0,Boavista
+10/10/22,PRL,Arouca,4-1,Famalicão
+15/10/22,TDP,Trofense,0-1,Famalicão
+22/10/22,PRL,Famalicão,2-1,Paços Ferreira
+31/10/22,PRL,Vitoria Guimaraes,3-2,Famalicão
+06/11/22,PRL,Marítimo,0-0,Famalicão
+09/11/22,TDP,Famalicão,4-1,Dumiense
+13/11/22,PRL,Famalicão,1-2,Sporting Lisbon
+26/11/22,TDL,Famalicão,1-1,Academico Viseu
+02/12/22,TDL,Torreense,1-0,Famalicão
+09/12/22,TDL,Famalicão,0-0,Tondela
+15/12/22,TDL,Estoril,0-1,Famalicão
+30/12/22,PRL,Chaves,0-2,Famalicão
+06/01/23,PRL,Famalicão,2-1,Vizela
+10/01/23,TDP,Leixões,E1-2E,Famalicão
+15/01/23,PRL,Porto,4-1,Famalicão
+22/01/23,PRL,Famalicão,0-0,Rio Ave
+29/01/23,PRL,Famalicão,1-0,Estoril
+05/02/23,PRL,Sporting Braga,4-1,Famalicão
+08/02/23,TDP,Famalicão,4-1,Belenenses
+12/02/23,PRL,Famalicão,0-1,Gil Vicente
+19/02/23,PRL,Santa Clara,1-3,Famalicão
+24/02/23,PRL,Famalicão,1-0,Portimonense
+03/03/23,PRL,Benfica,2-0,Famalicão
+13/03/23,PRL,Famalicão,1-0,Casa Pia
+19/03/23,PRL,Boavista,1-2,Famalicão
+27/12/20,PRL,Famalicão,0-1,Gil Vicente
+03/01/21,PRL,Tondela,1-0,Famalicão
+08/01/21,PRL,Famalicão,1-4,Porto
+17/01/21,PRL,Santa Clara,1-2,Famalicão
+24/01/21,PRL,Famalicão,0-1,Vitoria Guimaraes
+30/01/21,PRL,Nacional,2-1,Famalicão
+04/02/21,PRL,Famalicão,0-2,Moreirense
+08/02/21,PRL,Benfica,2-0,Famalicão
+12/02/21,PRL,Famalicão,0-0,Belenenses
+21/02/21,PRL,Rio Ave,0-1,Famalicão
+27/02/21,PRL,Famalicão,0-0,Farense
+06/03/21,PRL,Boavista,3-0,Famalicão
+15/03/21,PRL,Famalicão,2-2,Sporting Braga
+21/03/21,PRL,Marítimo,0-4,Famalicão
+04/04/21,PRL,Famalicão,2-0,Paços Ferreira
+11/04/21,PRL,Sporting Lisbon,1-1,Famalicão
+18/04/21,PRL,Famalicão,0-1,Portimonense
+22/04/21,PRL,Gil Vicente,0-3,Famalicão
+26/04/21,PRL,Famalicão,2-2,Tondela
+30/04/21,PRL,Porto,3-2,Famalicão
+07/05/21,PRL,Famalicão,1-0,Santa Clara
+12/05/21,PRL,Vitoria Guimaraes,1-2,Famalicão
+16/05/21,PRL,Famalicão,3-0,Nacional
+19/05/21,PRL,Moreirense,3-0,Famalicão
+08/07/21,CLF,Santa Clara,CANC,Famalicão
+16/07/21,CLF,Gil Vicente,CANC,Famalicão
+24/07/21,TDL,Feirense,0-1,Famalicão
+01/08/21,TDL,Famalicão,1-0,Estoril
+08/08/21,PRL,Paços Ferreira,2-0,Famalicão
+15/08/21,PRL,Famalicão,1-2,Porto
+20/08/21,PRL,Arouca,2-1,Famalicão
+28/08/21,PRL,Famalicão,1-1,Sporting Lisbon
+12/09/21,PRL,Moreirense,2-2,Famalicão
+18/09/21,PRL,Famalicão,0-0,Marítimo
+22/09/21,TDL,Famalicão,5-0,Penafiel
+25/09/21,PRL,Tondela,3-2,Famalicão
+01/10/21,PRL,Famalicão,1-2,Vitoria Guimaraes
+15/10/21,TDP,Académica,0-4,Famalicão
+23/10/21,PRL,Santa Clara,0-2,Famalicão
+26/10/21,TDL,Sporting Lisbon,2-1,Famalicão
+31/10/21,PRL,Famalicão,1-1,Vizela
+05/11/21,PRL,Boavista,2-5,Famalicão
+20/11/21,TDP,Alverca,1-2,Famalicão
+27/11/21,PRL,Famalicão,0-3,Portimonense
+05/12/21,PRL,Gil Vicente,4-0,Famalicão
+12/12/21,PRL,Famalicão,1-4,Benfica
+17/12/21,PRL,Estoril,2-2,Famalicão
+21/12/21,TDP,Famalicão,P1-1P,Portimonense
+09/01/22,PRL,Sporting Braga,2-2,Famalicão
+13/01/22,PRL,Famalicão,1-0,Belenenses
+06/09/19,CLF,Celta Vigo,1-1,Famalicão
+14/09/19,PRL,Famalicão,4-2,Paços Ferreira
+23/09/19,PRL,Sporting Lisbon,1-2,Famalicão
+28/09/19,PRL,Famalicão,3-1,Belenenses
+20/10/19,TDP,Lusitânia Lourosa,P1-1P,Famalicão
+27/10/19,PRL,Porto,3-0,Famalicão
+30/10/19,PRL,Famalicão,2-1,Gil Vicente
+03/11/19,PRL,Sporting Braga,2-2,Famalicão
+09/11/19,PRL,Famalicão,3-3,Moreirense
+23/11/19,TDP,Famalicão,1-0,Académica
+30/11/19,PRL,Portimonense,2-1,Famalicão
+07/12/19,PRL,Famalicão,2-3,Tondela
+14/12/19,PRL,Benfica,4-0,Famalicão
+19/12/19,TDP,Famalicão,3-0,Mafra
+05/01/20,PRL,Famalicão,3-0,Vitória Setúbal
+11/01/20,PRL,Boavista,0-1,Famalicão
+15/01/20,TDP,Paços Ferreira,0-1,Famalicão
+19/01/20,PRL,Famalicão,1-1,Marítimo
+26/01/20,PRL,Famalicão,0-1,Santa Clara
+31/01/20,PRL,Rio Ave,2-2,Famalicão
+04/02/20,TDP,Benfica,3-2,Famalicão
+08/02/20,PRL,Famalicão,0-7,Vitoria Guimaraes
+11/02/20,TDP,Famalicão,1-1,Benfica
+16/02/20,PRL,Famalicão,1-1,Desportivo Aves
+23/02/20,PRL,Paços Ferreira,2-1,Famalicão
+03/03/20,PRL,Famalicão,3-1,Sporting Lisbon
+08/03/20,PRL,Belenenses,0-0,Famalicão
+03/06/20,PRL,Famalicão,2-1,Porto
+09/06/20,PRL,Gil Vicente,1-3,Famalicão
+19/06/20,PRL,Famalicão,0-0,Sporting Braga
+24/06/20,PRL,Moreirense,1-1,Famalicão
+30/06/20,PRL,Famalicão,0-1,Portimonense
+05/07/20,PRL,Tondela,0-1,Famalicão
+09/07/20,PRL,Famalicão,1-1,Benfica
+13/07/20,PRL,Vitória Setúbal,1-2,Famalicão
+18/07/20,PRL,Famalicão,2-2,Boavista
+25/07/20,PRL,Marítimo,3-3,Famalicão
+29/08/20,CLF,Famalicão,CANC,Real Sociedad
+18/09/20,PRL,Famalicão,1-5,Benfica
+28/09/20,PRL,Belenenses,1-2,Famalicão
+04/10/20,PRL,Famalicão,1-1,Rio Ave
+18/10/20,PRL,Farense,3-3,Famalicão
+25/10/20,PRL,Famalicão,2-2,Boavista
+02/11/20,PRL,Sporting Braga,1-0,Famalicão
+07/11/20,PRL,Famalicão,2-1,Marítimo
+21/11/20,TDP,Oriental Lisboa,0-3,Famalicão
+27/11/20,PRL,Paços Ferreira,2-0,Famalicão
+05/12/20,PRL,Famalicão,2-2,Sporting Lisbon
+12/12/20,TDP,Rio Ave,2-1,Famalicão
+18/12/20,PRL,Portimonense,0-0,Famalicão
+25/07/18,CLF,Famalicão,0-2,Moreirense
+31/07/18,CLF,Vitória Guimarães II,2-1,Famalicão
+04/08/18,CLF,Famalicão,3-0,Sporting Braga II
+04/08/18,CLF,Fafe,0-1,Famalicão
+11/08/18,SEL,Farense,1-0,Famalicão
+19/08/18,SEL,Famalicão,2-0,Penafiel
+26/08/18,SEL,Paços Ferreira,1-2,Famalicão
+02/09/18,SEL,Famalicão,2-0,Arouca
+08/09/18,CLF,Vitoria Guimaraes,1-1,Famalicão
+23/09/18,SEL,Academico Viseu,3-4,Famalicão
+30/09/18,TDP,Águeda,1-0,Famalicão
+06/10/18,SEL,Mafra,1-1,Famalicão
+27/10/18,SEL,Famalicão,4-2,Porto II
+03/11/18,SEL,Sporting Braga II,2-0,Famalicão
+11/11/18,SEL,Famalicão,2-1,Sporting Covilhã
+18/11/18,SEL,Oliveirense,1-2,Famalicão
+01/12/18,SEL,Cova Piedade,0-0,Famalicão
+08/12/18,SEL,Famalicão,1-0,Leixões
+17/12/18,SEL,Académica,0-1,Famalicão
+22/12/18,SEL,Famalicão,0-0,Benfica II
+02/01/19,SEL,Vitória Guimarães II,0-1,Famalicão
+06/01/19,SEL,Famalicão,0-0,Varzim
+14/01/19,SEL,Famalicão,2-0,Estoril
+19/01/19,SEL,Famalicão,0-0,Farense
+28/01/19,SEL,Penafiel,1-2,Famalicão
+05/02/19,SEL,Famalicão,0-1,Paços Ferreira
+10/02/19,SEL,Arouca,2-1,Famalicão
+16/02/19,SEL,Famalicão,3-2,Academico Viseu
+23/02/19,SEL,Famalicão,2-1,Mafra
+03/03/19,SEL,Porto II,1-1,Famalicão
+09/03/19,SEL,Famalicão,1-2,Sporting Braga II
+17/03/19,SEL,Sporting Covilhã,2-0,Famalicão
+31/03/19,SEL,Famalicão,3-1,Cova Piedade
+07/04/19,SEL,Leixões,2-3,Famalicão
+13/04/19,SEL,Famalicão,2-0,Académica
+20/04/19,SEL,Benfica II,1-3,Famalicão
+28/04/19,SEL,Famalicão,4-1,Vitória Guimarães II
+04/05/19,SEL,Varzim,1-4,Famalicão
+12/05/19,SEL,Famalicão,3-2,Oliveirense
+19/05/19,SEL,Estoril,2-1,Famalicão
+10/07/19,CLF,Famalicão,2-1,Santa Clara
+14/07/19,CLF,Vitoria Guimaraes,5-2,Famalicão
+20/07/19,CLF,Famalicão,4-0,Feirense
+24/07/19,CLF,Desportivo Aves,0-0,Famalicão
+27/07/19,CLF,Famalicão,2-1,Rio Ave
+03/08/19,TDL,Famalicão,0-2,Sporting Covilhã
+10/08/19,PRL,Santa Clara,0-2,Famalicão
+16/08/19,PRL,Famalicão,1-0,Rio Ave
+25/08/19,PRL,Vitoria Guimaraes,1-1,Famalicão
+31/08/19,PRL,Desportivo Aves,2-3,Famalicão
+30/04/17,SEL,Famalicão,2-0,Vizela
+07/05/17,SEL,Varzim,1-0,Famalicão
+14/05/17,SEL,Famalicão,2-1,Academico Viseu
+21/05/17,SEL,Gil Vicente,0-2,Famalicão
+23/07/17,TDL,Famalicão,1-2,Santa Clara
+06/08/17,SEL,Famalicão,2-0,Arouca
+13/08/17,SEL,Penafiel,1-1,Famalicão
+19/08/17,SEL,Famalicão,0-0,Benfica II
+23/08/17,SEL,Nacional,3-0,Famalicão
+27/08/17,SEL,Famalicão,1-0,Oliveirense
+10/09/17,SEL,Famalicão,3-1,Varzim
+17/09/17,SEL,Sporting Covilhã,1-1,Famalicão
+24/09/17,TDP,Coimbrões,1-3,Famalicão
+27/09/17,SEL,Famalicão,1-1,Sporting Braga II
+30/09/17,SEL,Real,1-1,Famalicão
+15/10/17,TDP,Alta Lisboa,0-2,Famalicão
+21/10/17,SEL,Famalicão,0-1,Academico Viseu
+28/10/17,SEL,Vitória Guimarães II,1-2,Famalicão
+05/11/17,SEL,Gil Vicente,1-2,Famalicão
+12/11/17,SEL,Famalicão,3-0,Cova Piedade
+16/11/17,TDP,Sporting Lisbon,2-0,Famalicão
+25/11/17,SEL,Famalicão,6-0,Sporting CP II
+03/12/17,SEL,Académica,1-1,Famalicão
+09/12/17,SEL,Famalicão,5-2,Santa Clara
+17/12/17,SEL,União Madeira,3-0,Famalicão
+21/12/17,SEL,Famalicão,0-3,Porto II
+06/01/18,SEL,Leixões,1-0,Famalicão
+14/01/18,SEL,Arouca,1-0,Famalicão
+21/01/18,SEL,Famalicão,1-2,Penafiel
+30/01/18,SEL,Benfica II,5-0,Famalicão
+04/02/18,SEL,Famalicão,3-2,Nacional
+11/02/18,SEL,Oliveirense,2-0,Famalicão
+18/02/18,SEL,Varzim,2-0,Famalicão
+24/02/18,SEL,Famalicão,1-0,Sporting Covilhã
+04/03/18,SEL,Sporting Braga II,1-0,Famalicão
+10/03/18,SEL,Famalicão,2-0,Real
+17/03/18,SEL,Famalicão,1-1,Vitória Guimarães II
+25/03/18,SEL,Academico Viseu,0-1,Famalicão
+31/03/18,SEL,Cova Piedade,1-0,Famalicão
+07/04/18,SEL,Famalicão,2-0,Gil Vicente
+11/04/18,SEL,Sporting CP II,1-1,Famalicão
+15/04/18,SEL,Famalicão,1-2,Académica
+22/04/18,SEL,Santa Clara,2-0,Famalicão
+29/04/18,SEL,Famalicão,1-2,União Madeira
+05/05/18,SEL,Porto II,3-2,Famalicão
+12/05/18,SEL,Famalicão,1-1,Leixões
+07/07/18,CLF,Rio Ave,1-1,Famalicão
+14/07/18,CLF,Famalicão,2-0,AR São Martinho
+17/07/18,CLF,Famalicão,1-1,Rio Ave
+22/07/18,TDL,Famalicão,P1-1P,Arouca
+24/04/16,SEL,Freamunde,0-0,Famalicão
+30/04/16,SEL,Leixões,0-0,Famalicão
+08/05/16,SEL,Famalicão,2-2,Atlético CP
+14/05/16,SEL,Penafiel,1-1,Famalicão
+06/07/16,CLF,Famalicão,0-2,Arouca
+09/07/16,CLF,Famalicão,1-0,Vitória Guimarães II
+13/07/16,CLF,Famalicão,1-0,Chaves
+23/07/16,CLF,Gafanha,0-3,Famalicão
+23/07/16,CLF,Famalicão,1-0,Tondela
+31/07/16,TDL,Famalicão,0-3,Penafiel
+06/08/16,SEL,Leixões,0-0,Famalicão
+13/08/16,SEL,Famalicão,4-2,Olhanense
+20/08/16,SEL,Santa Clara,2-1,Famalicão
+24/08/16,SEL,Famalicão,1-1,Sporting CP II
+28/08/16,SEL,Sporting Braga II,3-0,Famalicão
+10/09/16,SEL,Famalicão,3-2,Freamunde
+16/09/16,SEL,Académica,3-0,Famalicão
+21/09/16,SEL,Famalicão,0-0,Penafiel
+25/09/16,TDP,Mosteirense,0-2,Famalicão
+02/10/16,SEL,Famalicão,2-3,Portimonense
+09/10/16,SEL,Sporting Covilhã,2-1,Famalicão
+13/10/16,TDP,Famalicão,0-1,Sporting Lisbon
+19/10/16,SEL,Porto II,1-1,Famalicão
+23/10/16,SEL,Famalicão,2-0,União Madeira
+29/10/16,SEL,Vitória Guimarães II,1-0,Famalicão
+06/11/16,SEL,Famalicão,3-1,Fafe
+23/11/16,SEL,Famalicão,0-0,Benfica II
+27/11/16,SEL,Cova Piedade,1-2,Famalicão
+04/12/16,SEL,Famalicão,0-0,Desportivo Aves
+11/12/16,SEL,Vizela,3-2,Famalicão
+17/12/16,SEL,Famalicão,0-2,Varzim
+21/12/16,SEL,Academico Viseu,1-1,Famalicão
+08/01/17,SEL,Famalicão,1-0,Gil Vicente
+14/01/17,SEL,Famalicão,0-2,Leixões
+22/01/17,SEL,Olhanense,0-1,Famalicão
+28/01/17,SEL,Famalicão,0-1,Santa Clara
+05/02/17,SEL,Sporting CP II,1-1,Famalicão
+11/02/17,SEL,Famalicão,2-0,Sporting Braga II
+15/02/17,SEL,Freamunde,1-0,Famalicão
+19/02/17,SEL,Famalicão,2-1,Académica
+26/02/17,SEL,Penafiel,0-2,Famalicão
+05/03/17,SEL,Famalicão,2-2,Sporting Covilhã
+11/03/17,SEL,Portimonense,2-1,Famalicão
+15/03/17,SEL,Famalicão,1-3,Porto II
+19/03/17,SEL,União Madeira,2-1,Famalicão
+02/04/17,SEL,Famalicão,0-0,Vitória Guimarães II
+09/04/17,SEL,Fafe,1-1,Famalicão
+15/04/17,SEL,Benfica II,2-0,Famalicão
+19/04/17,SEL,Famalicão,3-0,Cova Piedade
+23/04/17,SEL,Desportivo Aves,2-0,Famalicão
+22/07/15,CLF,Famalicão,3-1,Moreirense
+29/07/15,CLF,Paços Ferreira,3-0,Famalicão
+09/08/15,SEL,Varzim,1-2,Famalicão
+15/08/15,SEL,Famalicão,1-0,Olhanense
+22/08/15,SEL,Chaves,0-0,Famalicão
+26/08/15,SEL,Famalicão,3-3,Vitória Guimarães II
+30/08/15,SEL,Gil Vicente,1-1,Famalicão
+13/09/15,SEL,Famalicão,2-4,Porto II
+16/09/15,SEL,Oliveirense,2-2,Famalicão
+20/09/15,SEL,Famalicão,0-0,Academico Viseu
+23/09/15,TDL,Oliveirense,1-2,Famalicão
+27/09/15,TDP,Castrense,0-5,Famalicão
+30/09/15,SEL,Feirense,2-1,Famalicão
+03/10/15,SEL,Famalicão,1-1,Sporting CP II
+17/10/15,TDP,Famalicão,P1-1P,Feirense
+21/10/15,SEL,Mafra,0-0,Famalicão
+25/10/15,SEL,Famalicão,2-1,Farense
+01/11/15,SEL,Portimonense,0-3,Famalicão
+08/11/15,SEL,Desportivo Aves,2-0,Famalicão
+15/11/15,SEL,Famalicão,1-1,Sporting Covilhã
+25/11/15,SEL,Famalicão,2-0,Santa Clara
+29/11/15,SEL,Benfica II,1-3,Famalicão
+02/12/15,SEL,Famalicão,1-2,Sporting Braga II
+06/12/15,SEL,Oriental Lisboa,0-1,Famalicão
+09/12/15,SEL,Famalicão,1-3,Freamunde
+13/12/15,SEL,Famalicão,3-0,Leixões
+20/12/15,SEL,Atlético CP,1-0,Famalicão
+30/12/15,TDL,Famalicão,0-1,Feirense
+03/01/16,SEL,Famalicão,1-1,Penafiel
+10/01/16,SEL,Famalicão,0-1,Varzim
+17/01/16,SEL,Olhanense,0-1,Famalicão
+20/01/16,TDL,Famalicão,1-0,Porto
+23/01/16,SEL,Famalicão,4-3,Chaves
+27/01/16,TDL,Marítimo,0-0,Famalicão
+31/01/16,SEL,Vitória Guimarães II,1-2,Famalicão
+07/02/16,SEL,Famalicão,2-2,Gil Vicente
+13/02/16,SEL,Porto II,1-2,Famalicão
+17/02/16,SEL,Famalicão,2-0,Oliveirense
+21/02/16,SEL,Academico Viseu,0-1,Famalicão
+28/02/16,SEL,Famalicão,1-0,Feirense
+05/03/16,SEL,Sporting CP II,0-0,Famalicão
+09/03/16,SEL,Famalicão,4-1,Mafra
+13/03/16,SEL,Farense,2-2,Famalicão
+20/03/16,SEL,Sporting Covilhã,0-1,Famalicão
+26/03/16,SEL,Famalicão,1-1,Portimonense
+03/04/16,SEL,Famalicão,3-2,Desportivo Aves
+06/04/16,SEL,Santa Clara,1-0,Famalicão
+10/04/16,SEL,Famalicão,2-3,Benfica II
+13/04/16,SEL,Sporting Braga II,2-0,Famalicão
+17/04/16,SEL,Famalicão,2-2,Oriental Lisboa
+16/03/14,CDP,Tirsense,0-0,Famalicão
+23/03/14,CDP,Felgueiras 1932,0-1,Famalicão
+30/03/14,CDP,Famalicão,2-1,Varzim
+06/04/14,CDP,Famalicão,3-1,Lixa
+13/04/14,CDP,Oliveirense,2-1,Famalicão
+19/04/14,CDP,Famalicão,1-1,Ribeirão
+27/04/14,CDP,Joane,2-1,Famalicão
+04/05/14,CDP,Famalicão,1-1,Tirsense
+11/05/14,CDP,Famalicão,3-2,Felgueiras 1932
+24/05/14,CDP,Varzim,0-0,Famalicão
+24/08/14,CDP,Felgueiras 1932,0-0,Famalicão
+31/08/14,CDP,Famalicão,1-0,Vizela
+06/09/14,TDP,Ferreiras,0-3,Famalicão
+14/09/14,CDP,Amarante,0-3,Famalicão
+21/09/14,CDP,Famalicão,4-2,Ribeirão
+28/09/14,TDP,Academico Viseu,1-2,Famalicão
+05/10/14,CDP,Tirsense,2-2,Famalicão
+12/10/14,CDP,Famalicão,5-0,Vila Real
+18/10/14,TDP,Famalicão,2-1,Pombal
+26/10/14,CDP,Famalicão,2-1,Santa Eulália
+02/11/14,CDP,Varzim,2-0,Famalicão
+09/11/14,CDP,Famalicão,1-2,Oliveirense
+16/11/14,CDP,Famalicão,0-1,Felgueiras 1932
+22/11/14,TDP,Famalicão,4-0,Fafe
+30/11/14,CDP,Vizela,0-1,Famalicão
+07/12/14,CDP,Famalicão,3-0,Amarante
+13/12/14,CDP,Ribeirão,0-1,Famalicão
+17/12/14,TDP,Paços Ferreira,1-2,Famalicão
+21/12/14,CDP,Famalicão,2-0,Tirsense
+28/12/14,CDP,Vila Real,0-1,Famalicão
+03/01/15,CDP,Santa Eulália,1-2,Famalicão
+07/01/15,TDP,Sporting Lisbon,4-0,Famalicão
+11/01/15,CDP,Famalicão,2-2,Varzim
+18/01/15,CDP,Oliveirense,1-2,Famalicão
+15/02/15,CDP,Famalicão,2-1,Fafe
+22/02/15,CDP,Sousense,0-2,Famalicão
+01/03/15,CDP,Famalicão,2-0,Mirandela
+08/03/15,CDP,Varzim,0-0,Famalicão
+15/03/15,CDP,Lusitano FCV,0-1,Famalicão
+22/03/15,CDP,Famalicão,1-0,Cesarense
+28/03/15,CDP,Salgueiros,1-2,Famalicão
+12/04/15,CDP,Fafe,0-0,Famalicão
+19/04/15,CDP,Famalicão,5-0,Sousense
+26/04/15,CDP,Mirandela,0-1,Famalicão
+03/05/15,CDP,Famalicão,2-1,Varzim
+10/05/15,CDP,Famalicão,1-0,Lusitano FCV
+17/05/15,CDP,Cesarense,0-4,Famalicão
+24/05/15,CDP,Famalicão,2-0,Salgueiros
+10/06/15,CDP,Famalicão,P1-1P,Mafra
+18/07/15,CLF,Sporting Braga II,4-2,Famalicão
+04/11/12,CDP,Mirandela,1-0,Famalicão
+11/11/12,CDP,Famalicão,3-1,Os Limianos
+25/11/12,CDP,Ribeirão,1-0,Famalicão
+09/12/12,CDP,Famalicão,0-1,Fafe
+16/12/12,CDP,Infesta,0-1,Famalicão
+22/12/12,CDP,Famalicão,3-1,Tirsense
+29/12/12,CDP,Varzim,0-0,Famalicão
+06/01/13,CDP,Famalicão,1-2,Amarante
+13/01/13,CDP,Boavista,2-3,Famalicão
+20/01/13,CDP,Gondomar,1-1,Famalicão
+27/01/13,CDP,Famalicão,1-0,Joane
+03/02/13,CDP,Famalicão,1-1,Chaves
+10/02/13,CDP,Vilaverdense,1-1,Famalicão
+17/02/13,CDP,Famalicão,0-1,Vizela
+24/02/13,CDP,Padroense,2-2,Famalicão
+03/03/13,CDP,Famalicão,2-0,Mirandela
+10/03/13,CDP,Os Limianos,1-1,Famalicão
+17/03/13,CDP,Famalicão,4-2,Ribeirão
+24/03/13,CDP,Fafe,2-0,Famalicão
+30/03/13,CDP,Famalicão,2-1,Infesta
+07/04/13,CDP,Tirsense,3-0,Famalicão
+14/04/13,CDP,Famalicão,2-2,Varzim
+21/04/13,CDP,Amarante,2-1,Famalicão
+28/04/13,CDP,Famalicão,2-2,Boavista
+27/07/13,CLF,Famalicão,0-2,Gil Vicente
+25/08/13,CDP,Ribeirão,1-2,Famalicão
+08/09/13,CDP,Famalicão,2-1,Varzim
+15/09/13,CDP,Felgueiras 1932,3-2,Famalicão
+22/09/13,TDP,Famalicão,3-0,Eirense
+28/09/13,CDP,Famalicão,0-0,Tirsense
+06/10/13,CDP,Famalicão,4-1,Lixa
+13/10/13,CDP,Vizela,1-1,Famalicão
+20/10/13,TDP,Louletano,0-2,Famalicão
+27/10/13,CDP,Famalicão,2-0,Vitória Guimarães II
+03/11/13,CDP,Joane,1-0,Famalicão
+10/11/13,TDP,Famalicão,E0-1E,Estoril
+17/11/13,CDP,Famalicão,0-1,Oliveirense
+24/11/13,CDP,Famalicão,0-1,Ribeirão
+01/12/13,CDP,Varzim,2-1,Famalicão
+08/12/13,CDP,Famalicão,1-1,Felgueiras 1932
+15/12/13,CDP,Tirsense,1-0,Famalicão
+22/12/13,CDP,Lixa,1-2,Famalicão
+29/12/13,CDP,Famalicão,1-1,Vizela
+12/01/14,CDP,Vitória Guimarães II,2-1,Famalicão
+19/01/14,CDP,Famalicão,0-0,Joane
+26/01/14,CDP,Oliveirense,2-1,Famalicão
+16/02/14,CDP,Lixa,2-2,Famalicão
+23/02/14,CDP,Famalicão,0-3,Oliveirense
+02/03/14,CDP,Ribeirão,0-1,Famalicão
+09/03/14,CDP,Famalicão,2-1,Joane

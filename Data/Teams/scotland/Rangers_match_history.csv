@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+27/09/23,LEC,Rangers,4-0,Livingston
+30/09/23,PRE,Rangers,1-3,Aberdeen
+05/10/23,UEL,Aris Limassol,2-1,Rangers
+08/10/23,PRE,St. Mirren,0-3,Rangers
+21/10/23,PRE,Rangers,4-0,Hibernian
+26/10/23,UEL,Sparta Prague,0-0,Rangers
+29/10/23,PRE,Rangers,2-1,Hearts
+01/11/23,PRE,Dundee,0-5,Rangers
+05/11/23,LEC,Hearts,1-3,Rangers
+09/11/23,UEL,Rangers,2-1,Sparta Prague
+12/11/23,PRE,Livingston,0-2,Rangers
+26/11/23,PRE,Aberdeen,1-1,Rangers
+30/11/23,UEL,Rangers,1-1,Aris Limassol
+03/12/23,PRE,Rangers,2-0,St. Mirren
+06/12/23,PRE,Hearts,0-1,Rangers
+09/12/23,PRE,Rangers,3-1,Dundee
+14/12/23,UEL,Real Betis,2-3,Rangers
+17/12/23,LEC,Rangers,1-0,Aberdeen
+20/12/23,PRE,Rangers,2-0,St. Johnstone
+24/12/23,PRE,Motherwell,0-2,Rangers
+30/12/23,PRE,Celtic,2-1,Rangers
+02/01/24,PRE,Rangers,3-1,Kilmarnock
+13/01/24,CLF,Hertha Berlin,1-0,Rangers
+16/01/24,CLF,Rangers,2-2,FC Copenhagen
+20/01/24,FAC,Dumbarton,1-4,Rangers
+24/01/24,PRE,Hibernian,0-3,Rangers
+27/01/24,PRE,St. Mirren,0-1,Rangers
+03/02/24,PRE,Rangers,3-0,Livingston
+06/02/24,PRE,Rangers,2-1,Aberdeen
+10/02/24,FAC,Rangers,2-0,Ayr United
+14/02/24,PRE,Rangers,3-1,Ross County
+18/02/24,PRE,St. Johnstone,0-3,Rangers
+24/02/24,PRE,Rangers,5-0,Hearts
+28/02/24,PRE,Kilmarnock,1-2,Rangers
+02/03/24,PRE,Rangers,1-2,Motherwell
+07/03/24,UEL,Benfica,2-2,Rangers
+10/03/24,FAC,Hibernian,0-2,Rangers
+14/03/24,UEL,Rangers,0-1,Benfica
+30/03/24,PRE,Rangers,3-1,Hibernian
+07/04/24,PRE,Rangers,3-3,Celtic
+14/04/24,PRE,Ross County,3-2,Rangers
+17/04/24,PRE,Dundee,0-0,Rangers
+21/04/24,FAC,Rangers,2-0,Hearts
+28/04/24,PRE,St. Mirren,1-2,Rangers
+05/05/24,PRE,Rangers,14:00,Kilmarnock
+11/05/24,PRE,Celtic,13:30,Rangers
+14/05/24,PRE,Rangers,20:30,Dundee
+18/05/24,PRE,Hearts,13:30,Rangers
+25/05/24,FAC,Celtic,16:00,Rangers
+20/07/24,CLF,Rangers,17:00,Manchester United
+06/11/22,PRE,St. Johnstone,2-1,Rangers
+09/11/22,PRE,Rangers,1-0,Hearts
+12/11/22,PRE,St. Mirren,1-1,Rangers
+10/12/22,CLF,Rangers,3-0,Bayer Leverkusen
+15/12/22,PRE,Rangers,3-2,Hibernian
+20/12/22,PRE,Aberdeen,2-3,Rangers
+23/12/22,PRE,Ross County,0-1,Rangers
+28/12/22,PRE,Rangers,3-0,Motherwell
+02/01/23,PRE,Rangers,2-2,Celtic
+08/01/23,PRE,Dundee United,0-2,Rangers
+15/01/23,LEC,Rangers,E2-1E,Aberdeen
+18/01/23,PRE,Kilmarnock,2-3,Rangers
+21/01/23,FAC,St. Johnstone,0-1,Rangers
+28/01/23,PRE,Rangers,2-0,St. Johnstone
+01/02/23,PRE,Hearts,0-3,Rangers
+04/02/23,PRE,Rangers,2-1,Ross County
+12/02/23,FAC,Rangers,3-2,Partick Thistle
+18/02/23,PRE,Livingston,0-3,Rangers
+26/02/23,LEC,Rangers,1-2,Celtic
+04/03/23,PRE,Rangers,3-1,Kilmarnock
+08/03/23,PRE,Hibernian,1-4,Rangers
+12/03/23,FAC,Rangers,3-0,Raith Rovers
+18/03/23,PRE,Motherwell,2-4,Rangers
+01/04/23,PRE,Rangers,2-0,Dundee United
+08/04/23,PRE,Celtic,3-2,Rangers
+15/04/23,PRE,Rangers,5-2,St. Mirren
+23/04/23,PRE,Aberdeen,2-0,Rangers
+30/04/23,FAC,Rangers,0-1,Celtic
+07/05/23,PRE,Rangers,1-0,Aberdeen
+13/05/23,PRE,Rangers,3-0,Celtic
+21/05/23,PRE,Hibernian,1-3,Rangers
+24/05/23,PRE,Rangers,2-2,Hearts
+27/05/23,PRE,St. Mirren,0-3,Rangers
+14/07/23,CLF,Hallescher FC,0-2,Rangers
+18/07/23,CLF,Rangers,1-2,Newcastle United
+22/07/23,CLF,Rangers,2-1,Hamburg
+26/07/23,CLF,Rangers,1-3,Olympiakos
+29/07/23,CLF,Hoffenheim,2-2,Rangers
+05/08/23,PRE,Kilmarnock,1-0,Rangers
+09/08/23,UCL,Rangers,2-1,Servette
+12/08/23,PRE,Rangers,4-0,Livingston
+15/08/23,UCL,Servette,1-1,Rangers
+19/08/23,LEC,Rangers,2-1,Greenock Morton
+22/08/23,UCL,Rangers,2-2,PSV
+26/08/23,PRE,Ross County,0-2,Rangers
+30/08/23,UCL,PSV,5-1,Rangers
+03/09/23,PRE,Rangers,0-1,Celtic
+16/09/23,PRE,St. Johnstone,0-2,Rangers
+21/09/23,UEL,Rangers,1-0,Real Betis
+24/09/23,PRE,Rangers,1-0,Motherwell
+24/02/22,UEL,Rangers,2-2,Borussia Dortmund
+27/02/22,PRE,Rangers,2-2,Motherwell
+02/03/22,PRE,St. Johnstone,0-1,Rangers
+05/03/22,PRE,Rangers,1-0,Aberdeen
+10/03/22,UEL,Rangers,3-0,Red Star Belgrade
+13/03/22,FAC,Dundee,0-3,Rangers
+17/03/22,UEL,Red Star Belgrade,2-1,Rangers
+20/03/22,PRE,Dundee,1-2,Rangers
+03/04/22,PRE,Rangers,1-2,Celtic
+07/04/22,UEL,Sporting Braga,1-0,Rangers
+10/04/22,PRE,St. Mirren,0-4,Rangers
+14/04/22,UEL,Rangers,E3-1E,Sporting Braga
+17/04/22,FAC,Celtic,E1-2E,Rangers
+23/04/22,PRE,Motherwell,1-3,Rangers
+28/04/22,UEL,RB Leipzig,1-0,Rangers
+01/05/22,PRE,Celtic,1-1,Rangers
+05/05/22,UEL,Rangers,3-1,RB Leipzig
+08/05/22,PRE,Rangers,2-0,Dundee United
+11/05/22,PRE,Rangers,4-1,Ross County
+14/05/22,PRE,Hearts,1-3,Rangers
+18/05/22,UEL,Eintracht Frankfurt,P1-1P,Rangers
+21/05/22,FAC,Rangers,E2-0E,Hearts
+09/07/22,CLF,Sunderland,SUSP,Rangers
+16/07/22,CLF,Blackpool,1-2,Rangers
+19/07/22,CLF,Rangers,3-1,West Ham United
+23/07/22,CLF,Rangers,1-2,Tottenham Hotspur
+30/07/22,PRE,Livingston,1-2,Rangers
+02/08/22,UCL,Union Saint-Gilloise,2-0,Rangers
+06/08/22,PRE,Rangers,2-0,Kilmarnock
+09/08/22,UCL,Rangers,3-0,Union Saint-Gilloise
+13/08/22,PRE,Rangers,4-0,St. Johnstone
+16/08/22,UCL,Rangers,2-2,PSV
+20/08/22,PRE,Hibernian,2-2,Rangers
+24/08/22,UCL,PSV,0-1,Rangers
+27/08/22,PRE,Rangers,4-0,Ross County
+30/08/22,LEC,Rangers,3-1,Queen of the South
+03/09/22,PRE,Celtic,4-0,Rangers
+07/09/22,UCL,Ajax,4-0,Rangers
+14/09/22,UCL,Rangers,0-3,Napoli
+17/09/22,PRE,Rangers,2-1,Dundee United
+01/10/22,PRE,Hearts,0-4,Rangers
+04/10/22,UCL,Liverpool,2-0,Rangers
+08/10/22,PRE,Rangers,4-0,St. Mirren
+12/10/22,UCL,Rangers,1-7,Liverpool
+16/10/22,PRE,Motherwell,1-2,Rangers
+19/10/22,LEC,Rangers,1-0,Dundee
+22/10/22,PRE,Rangers,1-1,Livingston
+26/10/22,UCL,Napoli,3-0,Rangers
+29/10/22,PRE,Rangers,4-1,Aberdeen
+01/11/22,UCL,Rangers,1-3,Ajax
+12/05/21,PRE,Livingston,0-3,Rangers
+15/05/21,PRE,Rangers,4-0,Aberdeen
+05/07/21,CLF,Partick Thistle,0-1,Rangers
+10/07/21,CLF,Tranmere Rovers,1-0,Rangers
+17/07/21,CLF,Rangers,2-2,Arsenal
+24/07/21,CLF,Rangers,0-0,Brighton & Hove Albion
+25/07/21,CLF,Rangers,2-1,Real Madrid
+31/07/21,PRE,Rangers,3-0,Livingston
+03/08/21,UCL,Malmö,2-1,Rangers
+07/08/21,PRE,Dundee United,1-0,Rangers
+10/08/21,UCL,Rangers,1-2,Malmö
+13/08/21,LEC,Rangers,5-0,Dunfermline Athletic
+19/08/21,UEL,Rangers,1-0,Alashkert
+22/08/21,PRE,Ross County,2-4,Rangers
+26/08/21,UEL,Alashkert,0-0,Rangers
+29/08/21,PRE,Rangers,1-0,Celtic
+11/09/21,PRE,St. Johnstone,1-2,Rangers
+16/09/21,UEL,Rangers,0-2,Lyon
+19/09/21,PRE,Rangers,1-1,Motherwell
+22/09/21,LEC,Rangers,2-0,Livingston
+25/09/21,PRE,Dundee,0-1,Rangers
+30/09/21,UEL,Sparta Prague,1-0,Rangers
+03/10/21,PRE,Rangers,2-1,Hibernian
+16/10/21,PRE,Rangers,1-1,Hearts
+21/10/21,UEL,Rangers,2-0,Brøndby
+24/10/21,PRE,St. Mirren,1-2,Rangers
+27/10/21,PRE,Rangers,2-2,Aberdeen
+31/10/21,PRE,Motherwell,1-6,Rangers
+04/11/21,UEL,Brøndby,1-1,Rangers
+07/11/21,PRE,Rangers,4-2,Ross County
+21/11/21,LEC,Rangers,1-3,Hibernian
+25/11/21,UEL,Rangers,2-0,Sparta Prague
+28/11/21,PRE,Livingston,1-3,Rangers
+01/12/21,PRE,Hibernian,0-1,Rangers
+04/12/21,PRE,Rangers,3-0,Dundee
+09/12/21,UEL,Lyon,1-1,Rangers
+12/12/21,PRE,Hearts,0-2,Rangers
+15/12/21,PRE,Rangers,2-0,St. Johnstone
+18/12/21,PRE,Rangers,1-0,Dundee United
+26/12/21,PRE,Rangers,2-0,St. Mirren
+18/01/22,PRE,Aberdeen,1-1,Rangers
+21/01/22,FAC,Rangers,4-0,Stirling Albion
+26/01/22,PRE,Rangers,1-0,Livingston
+29/01/22,PRE,Ross County,3-3,Rangers
+02/02/22,PRE,Celtic,3-0,Rangers
+06/02/22,PRE,Rangers,5-0,Hearts
+09/02/22,PRE,Rangers,2-0,Hibernian
+12/02/22,FAC,Annan Athletic,0-3,Rangers
+17/02/22,UEL,Borussia Dortmund,2-4,Rangers
+20/02/22,PRE,Dundee United,1-1,Rangers
+22/08/20,PRE,Rangers,2-0,Kilmarnock
+29/08/20,PRE,Hamilton Academical,0-2,Rangers
+12/09/20,PRE,Rangers,4-0,Dundee United
+17/09/20,UEL,Lincoln Red Imps,0-5,Rangers
+20/09/20,PRE,Hibernian,2-2,Rangers
+24/09/20,UEL,Willem II,0-4,Rangers
+27/09/20,PRE,Motherwell,1-5,Rangers
+01/10/20,UEL,Rangers,2-1,Galatasaray
+04/10/20,PRE,Rangers,2-0,Ross County
+17/10/20,PRE,Celtic,0-2,Rangers
+22/10/20,UEL,Standard Liège,0-2,Rangers
+25/10/20,PRE,Rangers,2-0,Livingston
+29/10/20,UEL,Rangers,1-0,Lech Poznań
+01/11/20,PRE,Kilmarnock,0-1,Rangers
+05/11/20,UEL,Benfica,3-3,Rangers
+08/11/20,PRE,Rangers,8-0,Hamilton Academical
+22/11/20,PRE,Rangers,4-0,Aberdeen
+26/11/20,UEL,Rangers,2-2,Benfica
+29/11/20,LEC,Falkirk,0-4,Rangers
+03/12/20,UEL,Rangers,3-2,Standard Liège
+06/12/20,PRE,Ross County,0-4,Rangers
+10/12/20,UEL,Lech Poznań,0-2,Rangers
+13/12/20,PRE,Dundee United,1-2,Rangers
+16/12/20,LEC,St. Mirren,3-2,Rangers
+19/12/20,PRE,Rangers,3-1,Motherwell
+23/12/20,PRE,St. Johnstone,0-3,Rangers
+26/12/20,PRE,Rangers,1-0,Hibernian
+30/12/20,PRE,St. Mirren,0-2,Rangers
+02/01/21,PRE,Rangers,1-0,Celtic
+10/01/21,PRE,Aberdeen,1-2,Rangers
+17/01/21,PRE,Motherwell,1-1,Rangers
+23/01/21,PRE,Rangers,5-0,Ross County
+27/01/21,PRE,Hibernian,0-1,Rangers
+03/02/21,PRE,Rangers,1-0,St. Johnstone
+07/02/21,PRE,Hamilton Academical,1-1,Rangers
+13/02/21,PRE,Rangers,1-0,Kilmarnock
+18/02/21,UEL,Antwerp,3-4,Rangers
+21/02/21,PRE,Rangers,4-1,Dundee United
+25/02/21,UEL,Rangers,5-2,Antwerp
+03/03/21,PRE,Livingston,0-1,Rangers
+06/03/21,PRE,Rangers,3-0,St. Mirren
+11/03/21,UEL,Slavia Prague,1-1,Rangers
+18/03/21,UEL,Rangers,0-2,Slavia Prague
+21/03/21,PRE,Celtic,1-1,Rangers
+04/04/21,FAC,Rangers,4-0,Cove Rangers
+11/04/21,PRE,Rangers,2-1,Hibernian
+18/04/21,FAC,Rangers,2-0,Celtic
+21/04/21,PRE,St. Johnstone,1-1,Rangers
+25/04/21,FAC,Rangers,P1-1P,St. Johnstone
+02/05/21,PRE,Rangers,4-1,Celtic
+28/09/19,PRE,Rangers,5-0,Aberdeen
+03/10/19,UEL,Young Boys,2-1,Rangers
+06/10/19,PRE,Rangers,5-0,Hamilton Academical
+20/10/19,PRE,Hearts,1-1,Rangers
+24/10/19,UEL,Porto,1-1,Rangers
+27/10/19,PRE,Rangers,2-1,Motherwell
+30/10/19,PRE,Ross County,0-4,Rangers
+02/11/19,PRE,Rangers,CANC,St. Johnstone
+03/11/19,LEC,Rangers,3-0,Hearts
+07/11/19,UEL,Rangers,2-0,Porto
+10/11/19,PRE,Livingston,0-2,Rangers
+24/11/19,PRE,Hamilton Academical,1-3,Rangers
+28/11/19,UEL,Feyenoord,2-2,Rangers
+01/12/19,PRE,Rangers,5-0,Hearts
+04/12/19,PRE,Aberdeen,2-2,Rangers
+08/12/19,LEC,Rangers,0-1,Celtic
+12/12/19,UEL,Rangers,1-1,Young Boys
+15/12/19,PRE,Motherwell,0-2,Rangers
+20/12/19,PRE,Hibernian,0-3,Rangers
+26/12/19,PRE,Rangers,1-0,Kilmarnock
+29/12/19,PRE,Celtic,1-2,Rangers
+11/01/20,CLF,Rangers,6-1,Lokomotiv
+17/01/20,FAC,Rangers,2-0,Stranraer
+22/01/20,PRE,Rangers,1-0,St. Mirren
+26/01/20,PRE,Hearts,2-1,Rangers
+29/01/20,PRE,Rangers,2-0,Ross County
+01/02/20,PRE,Rangers,0-0,Aberdeen
+05/02/20,PRE,Rangers,2-1,Hibernian
+08/02/20,FAC,Hamilton Academical,1-4,Rangers
+12/02/20,PRE,Kilmarnock,2-1,Rangers
+16/02/20,PRE,Rangers,1-0,Livingston
+20/02/20,UEL,Rangers,3-2,Sporting Braga
+23/02/20,PRE,St. Johnstone,2-2,Rangers
+26/02/20,UEL,Sporting Braga,0-1,Rangers
+29/02/20,FAC,Hearts,1-0,Rangers
+04/03/20,PRE,Rangers,0-1,Hamilton Academical
+08/03/20,PRE,Ross County,0-1,Rangers
+12/03/20,UEL,Rangers,1-3,Bayer Leverkusen
+15/03/20,PRE,Rangers,CANC,Celtic
+22/03/20,PRE,St. Mirren,CANC,Rangers
+04/04/20,PRE,Rangers,CANC,Motherwell
+16/07/20,CLF,Lyon,0-2,Rangers
+18/07/20,CLF,Nice,0-2,Rangers
+22/07/20,CLF,Rangers,4-0,Motherwell
+25/07/20,CLF,Rangers,2-0,Coventry City
+01/08/20,PRE,Aberdeen,0-1,Rangers
+06/08/20,UEL,Bayer Leverkusen,1-0,Rangers
+09/08/20,PRE,Rangers,3-0,St. Mirren
+12/08/20,PRE,Rangers,3-0,St. Johnstone
+16/08/20,PRE,Livingston,0-0,Rangers
+13/12/18,UEL,Rapid Vienna,1-0,Rangers
+16/12/18,PRE,Rangers,1-0,Hamilton Academical
+19/12/18,PRE,Hibernian,0-0,Rangers
+23/12/18,PRE,St. Johnstone,1-2,Rangers
+26/12/18,PRE,Rangers,1-1,Hibernian
+29/12/18,PRE,Rangers,1-0,Celtic
+20/01/19,CLF,Rangers,3-2,HJK
+23/01/19,PRE,Kilmarnock,2-1,Rangers
+27/01/19,PRE,Livingston,0-3,Rangers
+30/01/19,FAC,Cowdenbeath,1-3,Rangers
+02/02/19,PRE,Rangers,4-0,St. Mirren
+06/02/19,PRE,Aberdeen,2-4,Rangers
+09/02/19,FAC,Kilmarnock,0-0,Rangers
+16/02/19,PRE,Rangers,0-0,St. Johnstone
+20/02/19,FAC,Rangers,5-0,Kilmarnock
+24/02/19,PRE,Hamilton Academical,0-5,Rangers
+27/02/19,PRE,Rangers,4-0,Dundee
+03/03/19,FAC,Aberdeen,1-1,Rangers
+08/03/19,PRE,Hibernian,1-1,Rangers
+12/03/19,FAC,Rangers,0-2,Aberdeen
+16/03/19,PRE,Rangers,1-1,Kilmarnock
+31/03/19,PRE,Celtic,2-1,Rangers
+03/04/19,PRE,Rangers,3-0,Hearts
+07/04/19,PRE,Motherwell,0-3,Rangers
+20/04/19,PRE,Hearts,1-3,Rangers
+28/04/19,PRE,Rangers,2-0,Aberdeen
+05/05/19,PRE,Rangers,1-0,Hibernian
+12/05/19,PRE,Rangers,2-0,Celtic
+19/05/19,PRE,Kilmarnock,2-1,Rangers
+07/07/19,CLF,Rangers,5-0,Oxford United
+09/07/19,UEL,St Joseph's,0-4,Rangers
+14/07/19,CLF,Rangers,4-0,Marseille
+18/07/19,UEL,Rangers,6-0,St Joseph's
+21/07/19,CLF,Rangers,1-1,Blackburn Rovers
+25/07/19,UEL,Rangers,2-0,Progrès Niederkorn
+28/07/19,CLF,Rangers,1-0,Derby County
+01/08/19,UEL,Progrès Niederkorn,0-0,Rangers
+04/08/19,PRE,Kilmarnock,1-2,Rangers
+08/08/19,UEL,Midtjylland,2-4,Rangers
+11/08/19,PRE,Rangers,6-1,Hibernian
+15/08/19,UEL,Rangers,3-1,Midtjylland
+18/08/19,LEC,East Fife,0-3,Rangers
+22/08/19,UEL,Legia Warsaw,0-0,Rangers
+25/08/19,PRE,St. Mirren,0-1,Rangers
+29/08/19,UEL,Rangers,1-0,Legia Warsaw
+01/09/19,PRE,Rangers,0-2,Celtic
+14/09/19,PRE,Rangers,3-1,Livingston
+19/09/19,UEL,Rangers,1-0,Feyenoord
+22/09/19,PRE,St. Johnstone,0-4,Rangers
+25/09/19,LEC,Livingston,0-1,Rangers
+06/02/18,PRE,Partick Thistle,0-2,Rangers
+11/02/18,FAC,Ayr United,1-6,Rangers
+18/02/18,PRE,Hamilton Academical,3-5,Rangers
+24/02/18,PRE,Rangers,2-0,Hearts
+27/02/18,PRE,St. Johnstone,1-4,Rangers
+04/03/18,FAC,Rangers,4-1,Falkirk
+11/03/18,PRE,Rangers,2-3,Celtic
+17/03/18,PRE,Rangers,0-1,Kilmarnock
+31/03/18,PRE,Motherwell,2-2,Rangers
+07/04/18,PRE,Rangers,4-0,Dundee
+15/04/18,FAC,Celtic,4-0,Rangers
+22/04/18,PRE,Rangers,2-1,Hearts
+29/04/18,PRE,Celtic,5-0,Rangers
+05/05/18,PRE,Rangers,1-0,Kilmarnock
+08/05/18,PRE,Aberdeen,1-1,Rangers
+13/05/18,PRE,Hibernian,5-5,Rangers
+06/07/18,CLF,Rangers,6-0,Bury
+12/07/18,UEL,Rangers,2-0,Shkupi
+17/07/18,UEL,Shkupi,0-0,Rangers
+26/07/18,UEL,Osijek,0-1,Rangers
+29/07/18,CLF,Rangers,3-0,Wigan Athletic
+02/08/18,UEL,Rangers,1-1,Osijek
+05/08/18,PRE,Aberdeen,1-1,Rangers
+09/08/18,UEL,Rangers,3-1,Maribor
+12/08/18,PRE,Rangers,2-0,St. Mirren
+16/08/18,UEL,Maribor,0-0,Rangers
+19/08/18,LEC,Kilmarnock,1-3,Rangers
+23/08/18,UEL,Rangers,1-0,Ufa
+26/08/18,PRE,Motherwell,3-3,Rangers
+30/08/18,UEL,Ufa,1-1,Rangers
+02/09/18,PRE,Celtic,1-0,Rangers
+15/09/18,PRE,Rangers,4-0,Dundee
+20/09/18,UEL,Villarreal,2-2,Rangers
+23/09/18,PRE,Rangers,5-1,St. Johnstone
+26/09/18,LEC,Rangers,4-0,Ayr United
+30/09/18,PRE,Livingston,1-0,Rangers
+04/10/18,UEL,Rangers,3-1,Rapid Vienna
+07/10/18,PRE,Rangers,3-1,Hearts
+21/10/18,PRE,Hamilton Academical,1-4,Rangers
+25/10/18,UEL,Rangers,0-0,Spartak Moscow
+28/10/18,LEC,Aberdeen,1-0,Rangers
+31/10/18,PRE,Rangers,1-1,Kilmarnock
+03/11/18,PRE,St. Mirren,0-2,Rangers
+08/11/18,UEL,Spartak Moscow,4-3,Rangers
+11/11/18,PRE,Rangers,7-1,Motherwell
+24/11/18,PRE,Rangers,3-0,Livingston
+29/11/18,UEL,Rangers,0-0,Villarreal
+02/12/18,PRE,Hearts,1-2,Rangers
+05/12/18,PRE,Rangers,0-1,Aberdeen
+09/12/18,PRE,Dundee,1-1,Rangers
+24/02/17,PRE,Inverness CT,2-1,Rangers
+01/03/17,PRE,Rangers,3-2,St. Johnstone
+04/03/17,FAC,Rangers,6-0,Hamilton Academical
+12/03/17,PRE,Celtic,1-1,Rangers
+18/03/17,PRE,Rangers,4-0,Hamilton Academical
+01/04/17,PRE,Rangers,1-1,Motherwell
+05/04/17,PRE,Kilmarnock,0-0,Rangers
+09/04/17,PRE,Aberdeen,0-3,Rangers
+15/04/17,PRE,Rangers,2-0,Partick Thistle
+23/04/17,FAC,Celtic,2-0,Rangers
+29/04/17,PRE,Rangers,1-5,Celtic
+07/05/17,PRE,Partick Thistle,1-2,Rangers
+13/05/17,PRE,Rangers,2-1,Hearts
+17/05/17,PRE,Rangers,1-2,Aberdeen
+21/05/17,PRE,St. Johnstone,1-2,Rangers
+29/06/17,UEL,Rangers,1-0,Progrès Niederkorn
+04/07/17,UEL,Progrès Niederkorn,2-0,Rangers
+22/07/17,CLF,Rangers,1-1,Marseille
+30/07/17,CLF,Sheffield Wednesday,0-2,Rangers
+06/08/17,PRE,Motherwell,1-2,Rangers
+09/08/17,LEC,Rangers,6-0,Dunfermline Athletic
+12/08/17,PRE,Rangers,2-3,Hibernian
+19/08/17,PRE,Rangers,0-0,Hearts
+27/08/17,PRE,Ross County,1-3,Rangers
+09/09/17,PRE,Rangers,4-1,Dundee
+15/09/17,PRE,Partick Thistle,2-2,Rangers
+19/09/17,LEC,Partick Thistle,E1-3E,Rangers
+23/09/17,PRE,Rangers,0-2,Celtic
+29/09/17,PRE,Hamilton Academical,1-4,Rangers
+13/10/17,PRE,St. Johnstone,0-3,Rangers
+22/10/17,LEC,Rangers,0-2,Motherwell
+25/10/17,PRE,Rangers,1-1,Kilmarnock
+28/10/17,PRE,Hearts,1-3,Rangers
+04/11/17,PRE,Rangers,3-0,Partick Thistle
+18/11/17,PRE,Rangers,0-2,Hamilton Academical
+24/11/17,PRE,Dundee,2-1,Rangers
+29/11/17,PRE,Rangers,3-0,Aberdeen
+03/12/17,PRE,Aberdeen,1-2,Rangers
+09/12/17,PRE,Rangers,2-1,Ross County
+13/12/17,PRE,Hibernian,1-2,Rangers
+16/12/17,PRE,Rangers,1-3,St. Johnstone
+23/12/17,PRE,Kilmarnock,2-1,Rangers
+27/12/17,PRE,Rangers,2-0,Motherwell
+30/12/17,PRE,Celtic,0-0,Rangers
+12/01/18,FLC,Atlético Mineiro,0-1,Rangers
+13/01/18,FLC,Rangers,4-2,Corinthians
+24/01/18,PRE,Rangers,2-0,Aberdeen
+28/01/18,PRE,Ross County,1-2,Rangers
+31/01/18,FAC,Fraserburgh,0-3,Rangers
+03/02/18,PRE,Rangers,1-2,Hibernian
+05/03/16,FAC,Rangers,4-0,Dundee
+11/03/16,CHA,Rangers,3-1,Greenock Morton
+18/03/16,CHA,Falkirk,3-2,Rangers
+26/03/16,CHA,Rangers,4-3,Queen of the South
+02/04/16,CHA,Raith Rovers,3-3,Rangers
+05/04/16,CHA,Rangers,1-0,Dumbarton
+10/04/16,CHC,Rangers,4-0,Peterhead
+17/04/16,FAC,Rangers,P2-2P,Celtic
+20/04/16,CHA,Hibernian,3-2,Rangers
+23/04/16,CHA,Rangers,1-1,Alloa Athletic
+26/04/16,CHA,Livingston,1-0,Rangers
+01/05/16,CHA,St. Mirren,2-2,Rangers
+21/05/16,FAC,Rangers,2-3,Hibernian
+07/07/16,CLF,Charleston Battery,1-2,Rangers
+16/07/16,LEC,Motherwell,0-2,Rangers
+19/07/16,LEC,Rangers,2-0,Annan Athletic
+22/07/16,LEC,East Stirlingshire,0-3,Rangers
+25/07/16,LEC,Rangers,3-0,Stranraer
+30/07/16,CLF,Rangers,1-3,Burnley
+06/08/16,PRE,Rangers,1-1,Hamilton Academical
+09/08/16,LEC,Rangers,5-0,Peterhead
+13/08/16,PRE,Dundee,1-2,Rangers
+20/08/16,PRE,Rangers,2-1,Motherwell
+26/08/16,PRE,Kilmarnock,1-1,Rangers
+10/09/16,PRE,Celtic,5-1,Rangers
+17/09/16,PRE,Rangers,0-0,Ross County
+20/09/16,LEC,Rangers,5-0,Queen of the South
+25/09/16,PRE,Aberdeen,2-1,Rangers
+01/10/16,PRE,Rangers,2-0,Partick Thistle
+14/10/16,PRE,Inverness CT,0-1,Rangers
+23/10/16,LEC,Rangers,0-1,Celtic
+26/10/16,PRE,Rangers,1-1,St. Johnstone
+29/10/16,PRE,Rangers,3-0,Kilmarnock
+06/11/16,PRE,Ross County,1-1,Rangers
+19/11/16,PRE,Rangers,1-0,Dundee
+26/11/16,PRE,Partick Thistle,1-2,Rangers
+30/11/16,PRE,Hearts,2-0,Rangers
+03/12/16,PRE,Rangers,2-1,Aberdeen
+10/12/16,PRE,Rangers,2-0,Hearts
+16/12/16,PRE,Hamilton Academical,1-2,Rangers
+24/12/16,PRE,Rangers,1-0,Inverness CT
+28/12/16,PRE,St. Johnstone,1-1,Rangers
+31/12/16,PRE,Rangers,1-2,Celtic
+15/01/17,CLF,RB Leipzig,4-0,Rangers
+21/01/17,FAC,Rangers,2-1,Motherwell
+28/01/17,PRE,Motherwell,0-2,Rangers
+01/02/17,PRE,Hearts,4-1,Rangers
+04/02/17,PRE,Rangers,1-1,Ross County
+12/02/17,FAC,Rangers,2-1,Greenock Morton
+19/02/17,PRE,Dundee,2-1,Rangers

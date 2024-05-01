@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+06/05/23,PRE,St. Johnstone,1-0,Dundee United
+13/05/23,PRE,St. Johnstone,0-2,Motherwell
+20/05/23,PRE,Kilmarnock,0-1,St. Johnstone
+24/05/23,PRE,Ross County,3-3,St. Johnstone
+28/05/23,PRE,St. Johnstone,2-0,Livingston
+04/07/23,CLF,Dunfermline Athletic,1-1,St. Johnstone
+11/07/23,CLF,East Fife,0-3,St. Johnstone
+15/07/23,LEC,Stenhousemuir,1-0,St. Johnstone
+22/07/23,LEC,Alloa Athletic,0-4,St. Johnstone
+25/07/23,LEC,St. Johnstone,1-2,Ayr United
+29/07/23,LEC,St. Johnstone,0-4,Stirling Albion
+05/08/23,PRE,St. Johnstone,0-2,Hearts
+12/08/23,PRE,Ross County,2-0,St. Johnstone
+26/08/23,PRE,Celtic,0-0,St. Johnstone
+02/09/23,PRE,St. Johnstone,2-2,Dundee
+16/09/23,PRE,St. Johnstone,0-2,Rangers
+23/09/23,PRE,Hibernian,2-0,St. Johnstone
+30/09/23,PRE,St. Johnstone,1-1,Livingston
+08/10/23,PRE,Aberdeen,0-0,St. Johnstone
+28/10/23,PRE,St. Mirren,4-0,St. Johnstone
+01/11/23,PRE,St. Johnstone,2-1,Kilmarnock
+07/11/23,PRE,St. Johnstone,2-2,Motherwell
+11/11/23,PRE,St. Johnstone,1-0,Ross County
+25/11/23,PRE,Hearts,1-0,St. Johnstone
+03/12/23,PRE,St. Johnstone,1-3,Celtic
+06/12/23,PRE,St. Johnstone,1-0,St. Mirren
+09/12/23,PRE,Motherwell,1-1,St. Johnstone
+16/12/23,PRE,St. Johnstone,1-0,Hibernian
+20/12/23,PRE,Rangers,2-0,St. Johnstone
+23/12/23,PRE,Kilmarnock,2-1,St. Johnstone
+27/12/23,PRE,Livingston,0-0,St. Johnstone
+20/01/24,FAC,Airdrieonians,1-0,St. Johnstone
+24/01/24,PRE,St. Johnstone,1-1,Aberdeen
+27/01/24,PRE,St. Johnstone,1-1,Motherwell
+03/02/24,PRE,Ross County,0-1,St. Johnstone
+07/02/24,PRE,St. Johnstone,0-1,Hearts
+11/02/24,PRE,Dundee,2-1,St. Johnstone
+18/02/24,PRE,St. Johnstone,0-3,Rangers
+24/02/24,PRE,St. Mirren,2-0,St. Johnstone
+28/02/24,PRE,Aberdeen,0-2,St. Johnstone
+02/03/24,PRE,St. Johnstone,1-1,Livingston
+16/03/24,PRE,Celtic,3-1,St. Johnstone
+30/03/24,PRE,St. Johnstone,1-2,Dundee
+06/04/24,PRE,Hibernian,1-2,St. Johnstone
+13/04/24,PRE,St. Johnstone,0-2,Kilmarnock
+27/04/24,PRE,St. Johnstone,1-3,Hibernian
+04/05/24,PRE,Aberdeen,16:00,St. Johnstone
+11/05/24,PRE,Livingston,16:00,St. Johnstone
+15/05/24,PRE,St. Johnstone,20:45,Ross County
+19/05/24,PRE,Motherwell,16:00,St. Johnstone
+02/04/22,PRE,St. Johnstone,1-0,Livingston
+09/04/22,PRE,Celtic,7-0,St. Johnstone
+23/04/22,PRE,Dundee,1-1,St. Johnstone
+30/04/22,PRE,St. Johnstone,0-1,St. Mirren
+07/05/22,PRE,Livingston,1-1,St. Johnstone
+11/05/22,PRE,St. Johnstone,1-0,Aberdeen
+15/05/22,PRE,Hibernian,4-0,St. Johnstone
+20/05/22,PL1,Inverness CT,2-2,St. Johnstone
+23/05/22,PL1,St. Johnstone,4-0,Inverness CT
+01/07/22,CLF,Aberdeen,1-1,St. Johnstone
+08/07/22,CLF,CS Strollers,1-1,St. Johnstone
+09/07/22,CLF,St. Johnstone,3-2,Cove Rangers
+12/07/22,LEC,St. Johnstone,P0-0P,Annan Athletic
+16/07/22,LEC,Queen of the South,P2-2P,St. Johnstone
+19/07/22,LEC,Elgin City,2-4,St. Johnstone
+23/07/22,LEC,St. Johnstone,1-0,Ayr United
+30/07/22,PRE,St. Johnstone,0-1,Hibernian
+06/08/22,PRE,Motherwell,1-2,St. Johnstone
+13/08/22,PRE,Rangers,4-0,St. Johnstone
+20/08/22,PRE,St. Johnstone,0-1,Aberdeen
+28/08/22,PRE,Hearts,3-2,St. Johnstone
+03/09/22,PRE,St. Johnstone,3-0,St. Mirren
+17/09/22,PRE,St. Johnstone,0-0,Ross County
+01/10/22,PRE,Dundee United,1-2,St. Johnstone
+05/10/22,PRE,Kilmarnock,2-1,St. Johnstone
+08/10/22,PRE,St. Johnstone,1-2,Celtic
+15/10/22,PRE,Livingston,1-0,St. Johnstone
+21/10/22,PRE,Hibernian,1-2,St. Johnstone
+29/10/22,PRE,St. Johnstone,1-0,Kilmarnock
+06/11/22,PRE,St. Johnstone,2-1,Rangers
+09/11/22,PRE,St. Mirren,2-2,St. Johnstone
+12/11/22,PRE,St. Johnstone,1-1,Motherwell
+17/12/22,PRE,Ross County,1-2,St. Johnstone
+24/12/22,PRE,Celtic,4-1,St. Johnstone
+28/12/22,PRE,St. Johnstone,2-3,Hearts
+02/01/23,PRE,St. Johnstone,0-1,Dundee United
+07/01/23,PRE,Aberdeen,2-0,St. Johnstone
+14/01/23,PRE,St. Johnstone,2-4,Livingston
+21/01/23,FAC,St. Johnstone,0-1,Rangers
+28/01/23,PRE,Rangers,2-0,St. Johnstone
+01/02/23,PRE,Motherwell,0-2,St. Johnstone
+05/02/23,PRE,St. Johnstone,1-4,Celtic
+18/02/23,PRE,Dundee United,1-2,St. Johnstone
+25/02/23,PRE,St. Johnstone,1-1,St. Mirren
+04/03/23,PRE,Hearts,3-0,St. Johnstone
+18/03/23,PRE,Kilmarnock,1-1,St. Johnstone
+01/04/23,PRE,St. Johnstone,0-1,Aberdeen
+08/04/23,PRE,St. Johnstone,0-2,Ross County
+15/04/23,PRE,Livingston,2-0,St. Johnstone
+22/04/23,PRE,St. Johnstone,1-1,Hibernian
+21/04/21,PRE,St. Johnstone,1-1,Rangers
+25/04/21,FAC,Rangers,P1-1P,St. Johnstone
+01/05/21,PRE,Hibernian,0-1,St. Johnstone
+09/05/21,FAC,St. Mirren,1-2,St. Johnstone
+12/05/21,PRE,Celtic,4-0,St. Johnstone
+15/05/21,PRE,St. Johnstone,0-0,Livingston
+22/05/21,FAC,St. Johnstone,1-0,Hibernian
+13/07/21,CLF,St. Johnstone,1-1,Preston North End
+16/07/21,CLF,Aberdeen,0-0,St. Johnstone
+21/07/21,CLF,Arbroath,1-4,St. Johnstone
+24/07/21,CLF,St. Johnstone,0-0,Fleetwood Town
+31/07/21,PRE,Ross County,0-0,St. Johnstone
+05/08/21,UEL,Galatasaray,1-1,St. Johnstone
+08/08/21,PRE,St. Johnstone,1-1,Motherwell
+12/08/21,UEL,St. Johnstone,2-4,Galatasaray
+15/08/21,LEC,Arbroath,P2-2P,St. Johnstone
+19/08/21,UEC,LASK,1-1,St. Johnstone
+22/08/21,PRE,St. Johnstone,0-1,Dundee United
+26/08/21,UEC,St. Johnstone,0-2,LASK
+29/08/21,PRE,St. Mirren,0-0,St. Johnstone
+11/09/21,PRE,St. Johnstone,1-2,Rangers
+18/09/21,PRE,Aberdeen,0-1,St. Johnstone
+22/09/21,LEC,Dundee,0-2,St. Johnstone
+26/09/21,PRE,Hibernian,1-0,St. Johnstone
+02/10/21,PRE,St. Johnstone,3-1,Dundee
+16/10/21,PRE,St. Johnstone,0-3,Livingston
+23/10/21,PRE,Celtic,2-0,St. Johnstone
+27/10/21,PRE,St. Johnstone,1-1,Hearts
+30/10/21,PRE,Dundee United,0-1,St. Johnstone
+06/11/21,PRE,St. Johnstone,0-0,St. Mirren
+20/11/21,LEC,Celtic,1-0,St. Johnstone
+27/11/21,PRE,St. Johnstone,1-2,Hibernian
+01/12/21,PRE,Dundee,1-0,St. Johnstone
+11/12/21,PRE,St. Johnstone,0-1,Aberdeen
+15/12/21,PRE,Rangers,2-0,St. Johnstone
+18/12/21,PRE,Motherwell,2-0,St. Johnstone
+22/12/21,PRE,St. Johnstone,1-2,Ross County
+26/12/21,PRE,St. Johnstone,1-3,Celtic
+18/01/22,PRE,Hearts,2-0,St. Johnstone
+22/01/22,FAC,Kelty Hearts,E1-0E,St. Johnstone
+26/01/22,PRE,St. Johnstone,0-0,Dundee
+01/02/22,PRE,Livingston,1-2,St. Johnstone
+05/02/22,PRE,St. Johnstone,0-0,Dundee United
+09/02/22,PRE,St. Mirren,2-1,St. Johnstone
+15/02/22,PRE,Aberdeen,1-1,St. Johnstone
+19/02/22,PRE,St. Johnstone,2-1,Hearts
+26/02/22,PRE,Ross County,3-1,St. Johnstone
+02/03/22,PRE,St. Johnstone,0-1,Rangers
+05/03/22,PRE,Hibernian,0-0,St. Johnstone
+19/03/22,PRE,St. Johnstone,2-1,Motherwell
+01/03/20,FAC,St. Johnstone,0-1,Celtic
+04/03/20,PRE,St. Mirren,0-0,St. Johnstone
+07/03/20,PRE,St. Johnstone,1-0,Livingston
+14/03/20,PRE,Hibernian,CANC,St. Johnstone
+21/03/20,PRE,Celtic,CANC,St. Johnstone
+04/04/20,PRE,St. Johnstone,CANC,Hamilton Academical
+01/08/20,PRE,Dundee United,1-1,St. Johnstone
+12/08/20,PRE,Rangers,3-0,St. Johnstone
+15/08/20,PRE,Kilmarnock,1-2,St. Johnstone
+20/08/20,PRE,St. Johnstone,0-1,Aberdeen
+23/08/20,PRE,St. Johnstone,0-1,Hibernian
+29/08/20,PRE,St. Johnstone,1-0,St. Mirren
+12/09/20,PRE,Motherwell,1-0,St. Johnstone
+19/09/20,PRE,St. Johnstone,0-1,Ross County
+26/09/20,PRE,Livingston,2-0,St. Johnstone
+04/10/20,PRE,St. Johnstone,0-2,Celtic
+07/10/20,LEC,Kelty Hearts,1-2,St. Johnstone
+10/10/20,LEC,St. Johnstone,7-0,Brechin City
+17/10/20,PRE,Hamilton Academical,3-5,St. Johnstone
+24/10/20,PRE,St. Johnstone,0-0,Dundee United
+06/11/20,PRE,St. Johnstone,1-0,Kilmarnock
+10/11/20,LEC,St. Johnstone,P0-0P,Dundee United
+14/11/20,LEC,Peterhead,1-3,St. Johnstone
+21/11/20,PRE,St. Johnstone,1-1,Motherwell
+24/11/20,PRE,Hibernian,2-2,St. Johnstone
+28/11/20,LEC,Motherwell,1-2,St. Johnstone
+06/12/20,PRE,Celtic,1-1,St. Johnstone
+12/12/20,PRE,St. Johnstone,1-2,Livingston
+15/12/20,LEC,Dunfermline Athletic,P1-1P,St. Johnstone
+19/12/20,PRE,St. Mirren,3-2,St. Johnstone
+23/12/20,PRE,St. Johnstone,0-3,Rangers
+26/12/20,PRE,Aberdeen,2-1,St. Johnstone
+30/12/20,PRE,St. Johnstone,0-0,Hamilton Academical
+02/01/21,PRE,Ross County,1-1,St. Johnstone
+12/01/21,PRE,Dundee United,2-2,St. Johnstone
+16/01/21,PRE,St. Johnstone,1-0,St. Mirren
+23/01/21,LEC,St. Johnstone,3-0,Hibernian
+27/01/21,PRE,St. Johnstone,0-0,Aberdeen
+30/01/21,PRE,Kilmarnock,2-3,St. Johnstone
+03/02/21,PRE,Rangers,1-0,St. Johnstone
+06/02/21,PRE,Livingston,1-2,St. Johnstone
+14/02/21,PRE,St. Johnstone,1-2,Celtic
+20/02/21,PRE,Motherwell,0-3,St. Johnstone
+28/02/21,LEC,Livingston,0-1,St. Johnstone
+03/03/21,PRE,Hamilton Academical,1-1,St. Johnstone
+06/03/21,PRE,St. Johnstone,1-0,Hibernian
+20/03/21,PRE,St. Johnstone,1-0,Ross County
+03/04/21,FAC,Dundee,0-1,St. Johnstone
+10/04/21,PRE,St. Johnstone,0-1,Aberdeen
+17/04/21,FAC,St. Johnstone,2-0,Clyde
+27/02/19,PRE,St. Johnstone,1-2,Hibernian
+09/03/19,PRE,Livingston,3-1,St. Johnstone
+27/03/19,PRE,St. Johnstone,1-0,St. Mirren
+30/03/19,PRE,Motherwell,3-0,St. Johnstone
+03/04/19,PRE,St. Johnstone,2-0,Dundee
+06/04/19,PRE,Kilmarnock,2-0,St. Johnstone
+20/04/19,PRE,St. Johnstone,2-0,Dundee
+27/04/19,PRE,St. Mirren,1-1,St. Johnstone
+04/05/19,PRE,St. Johnstone,1-1,Livingston
+11/05/19,PRE,St. Johnstone,2-0,Motherwell
+18/05/19,PRE,Hamilton Academical,2-0,St. Johnstone
+29/06/19,CLF,Edinburgh City,2-0,St. Johnstone
+03/07/19,CLF,Glentoran,1-1,St. Johnstone
+06/07/19,CLF,Linfield,2-4,St. Johnstone
+09/07/19,CLF,Greenock Morton,2-3,St. Johnstone
+12/07/19,CLF,Inverness CT,3-1,St. Johnstone
+16/07/19,LEC,Montrose,1-0,St. Johnstone
+21/07/19,LEC,St. Johnstone,1-2,Ross County
+24/07/19,LEC,St. Johnstone,4-0,Brechin City
+27/07/19,LEC,Forfar Athletic,2-1,St. Johnstone
+03/08/19,PRE,Celtic,7-0,St. Johnstone
+10/08/19,PRE,St. Johnstone,2-2,Livingston
+24/08/19,PRE,Hibernian,2-2,St. Johnstone
+31/08/19,PRE,St. Johnstone,0-1,Kilmarnock
+14/09/19,PRE,Aberdeen,1-1,St. Johnstone
+22/09/19,PRE,St. Johnstone,0-4,Rangers
+28/09/19,PRE,St. Johnstone,0-1,Motherwell
+05/10/19,PRE,Ross County,2-2,St. Johnstone
+19/10/19,PRE,St. Mirren,2-0,St. Johnstone
+26/10/19,PRE,St. Johnstone,3-2,Hamilton Academical
+30/10/19,PRE,St. Johnstone,1-0,Hearts
+02/11/19,PRE,Rangers,CANC,St. Johnstone
+09/11/19,PRE,St. Johnstone,1-4,Hibernian
+24/11/19,PRE,St. Johnstone,1-1,Aberdeen
+30/11/19,PRE,Motherwell,4-0,St. Johnstone
+04/12/19,PRE,Kilmarnock,0-0,St. Johnstone
+14/12/19,PRE,Hearts,0-1,St. Johnstone
+21/12/19,PRE,St. Johnstone,0-0,St. Mirren
+26/12/19,PRE,Hamilton Academical,0-1,St. Johnstone
+29/12/19,PRE,St. Johnstone,1-1,Ross County
+18/01/20,FAC,St. Johnstone,3-0,Greenock Morton
+22/01/20,PRE,Livingston,1-0,St. Johnstone
+25/01/20,PRE,St. Johnstone,2-1,Kilmarnock
+29/01/20,PRE,St. Johnstone,0-3,Celtic
+01/02/20,PRE,St. Johnstone,3-3,Hearts
+05/02/20,PRE,Aberdeen,0-1,St. Johnstone
+08/02/20,FAC,Ayr United,1-2,St. Johnstone
+12/02/20,PRE,St. Johnstone,2-1,Motherwell
+15/02/20,PRE,Ross County,1-1,St. Johnstone
+23/02/20,PRE,St. Johnstone,2-2,Rangers
+27/02/18,PRE,St. Johnstone,1-4,Rangers
+07/03/18,PRE,Kilmarnock,2-0,St. Johnstone
+10/03/18,PRE,Dundee,0-4,St. Johnstone
+16/03/18,PRE,St. Johnstone,1-1,Hibernian
+28/03/18,PRE,St. Johnstone,1-0,Hamilton Academical
+31/03/18,PRE,Aberdeen,4-1,St. Johnstone
+07/04/18,PRE,St. Johnstone,0-0,Motherwell
+21/04/18,PRE,Dundee,2-1,St. Johnstone
+28/04/18,PRE,St. Johnstone,1-1,Partick Thistle
+05/05/18,PRE,Motherwell,1-5,St. Johnstone
+08/05/18,PRE,Hamilton Academical,1-2,St. Johnstone
+12/05/18,PRE,St. Johnstone,1-1,Ross County
+30/06/18,CLF,Osijek,3-0,St. Johnstone
+08/07/18,CLF,St. Johnstone,2-2,Aberdeen
+10/07/18,CLF,Berwick Rangers,0-4,St. Johnstone
+14/07/18,LEC,St. Johnstone,P0-0P,East Fife
+21/07/18,LEC,Montrose,0-1,St. Johnstone
+24/07/18,LEC,St. Johnstone,1-0,Falkirk
+28/07/18,LEC,Forfar Athletic,1-3,St. Johnstone
+04/08/18,PRE,Kilmarnock,2-0,St. Johnstone
+12/08/18,PRE,St. Johnstone,1-1,Hibernian
+18/08/18,LEC,Queen of the South,E2-4E,St. Johnstone
+25/08/18,PRE,St. Johnstone,1-0,Dundee
+01/09/18,PRE,Hamilton Academical,1-2,St. Johnstone
+15/09/18,PRE,St. Johnstone,1-1,Aberdeen
+23/09/18,PRE,Rangers,5-1,St. Johnstone
+26/09/18,LEC,St. Johnstone,0-1,Celtic
+29/09/18,PRE,Hearts,2-1,St. Johnstone
+07/10/18,PRE,St. Johnstone,0-6,Celtic
+20/10/18,PRE,Motherwell,0-1,St. Johnstone
+27/10/18,PRE,St. Johnstone,2-0,St. Mirren
+31/10/18,PRE,Livingston,0-1,St. Johnstone
+03/11/18,PRE,Hibernian,0-1,St. Johnstone
+10/11/18,PRE,St. Johnstone,4-0,Hamilton Academical
+24/11/18,PRE,St. Johnstone,0-0,Kilmarnock
+05/12/18,PRE,St. Johnstone,2-2,Hearts
+08/12/18,PRE,Aberdeen,0-2,St. Johnstone
+15/12/18,PRE,St. Johnstone,1-2,Motherwell
+23/12/18,PRE,St. Johnstone,1-2,Rangers
+26/12/18,PRE,St. Mirren,0-1,St. Johnstone
+29/12/18,PRE,Dundee,0-2,St. Johnstone
+19/01/19,FAC,St. Johnstone,2-0,Hamilton Academical
+23/01/19,PRE,St. Johnstone,1-0,Livingston
+26/01/19,PRE,Hearts,2-0,St. Johnstone
+30/01/19,PRE,Celtic,2-0,St. Johnstone
+03/02/19,PRE,St. Johnstone,0-2,Celtic
+06/02/19,PRE,Hamilton Academical,2-1,St. Johnstone
+10/02/19,FAC,Celtic,5-0,St. Johnstone
+16/02/19,PRE,Rangers,0-0,St. Johnstone
+23/02/19,PRE,St. Johnstone,0-2,Aberdeen
+11/02/17,FAC,St. Johnstone,0-1,Partick Thistle
+18/02/17,PRE,Ross County,1-2,St. Johnstone
+25/02/17,PRE,St. Johnstone,0-2,Kilmarnock
+01/03/17,PRE,Rangers,3-2,St. Johnstone
+11/03/17,PRE,St. Johnstone,2-0,Dundee
+18/03/17,PRE,Motherwell,1-2,St. Johnstone
+01/04/17,PRE,Hamilton Academical,1-0,St. Johnstone
+05/04/17,PRE,St. Johnstone,1-0,Hearts
+08/04/17,PRE,Inverness CT,0-3,St. Johnstone
+15/04/17,PRE,St. Johnstone,1-2,Aberdeen
+29/04/17,PRE,Aberdeen,0-2,St. Johnstone
+06/05/17,PRE,Celtic,4-1,St. Johnstone
+13/05/17,PRE,St. Johnstone,1-0,Partick Thistle
+17/05/17,PRE,St. Johnstone,1-0,Hearts
+21/05/17,PRE,St. Johnstone,1-2,Rangers
+24/06/17,CLF,St. Johnstone,2-0,Connah's Quay
+29/06/17,UEL,St. Johnstone,1-2,Riteriai
+01/07/17,CLF,St. Johnstone,0-3,Aberdeen
+06/07/17,UEL,Riteriai,1-0,St. Johnstone
+15/07/17,CLF,St. Johnstone,3-0,Sunderland
+22/07/17,CLF,St. Johnstone,1-0,Hartlepool United
+05/08/17,PRE,Kilmarnock,1-2,St. Johnstone
+08/08/17,LEC,St. Johnstone,0-3,Partick Thistle
+12/08/17,PRE,St. Johnstone,4-1,Motherwell
+19/08/17,PRE,St. Johnstone,1-0,Partick Thistle
+26/08/17,PRE,Celtic,1-1,St. Johnstone
+09/09/17,PRE,St. Johnstone,1-1,Hibernian
+16/09/17,PRE,Dundee,3-2,St. Johnstone
+23/09/17,PRE,St. Johnstone,2-1,Hamilton Academical
+30/09/17,PRE,Aberdeen,3-0,St. Johnstone
+13/10/17,PRE,St. Johnstone,0-3,Rangers
+21/10/17,PRE,Hearts,1-0,St. Johnstone
+24/10/17,PRE,St. Johnstone,0-0,Ross County
+28/10/17,PRE,Partick Thistle,1-0,St. Johnstone
+04/11/17,PRE,St. Johnstone,0-4,Celtic
+18/11/17,PRE,Hibernian,1-2,St. Johnstone
+02/12/17,PRE,St. Johnstone,1-2,Kilmarnock
+09/12/17,PRE,Hamilton Academical,0-1,St. Johnstone
+13/12/17,PRE,St. Johnstone,0-3,Aberdeen
+16/12/17,PRE,Rangers,1-3,St. Johnstone
+23/12/17,PRE,St. Johnstone,0-0,Hearts
+27/12/17,PRE,Ross County,1-1,St. Johnstone
+30/12/17,PRE,St. Johnstone,0-2,Dundee
+27/01/18,PRE,St. Johnstone,1-3,Partick Thistle
+29/01/18,FAC,Albion Rovers,0-4,St. Johnstone
+03/02/18,PRE,Hearts,1-0,St. Johnstone
+06/02/18,PRE,Motherwell,2-0,St. Johnstone
+10/02/18,FAC,Hearts,3-0,St. Johnstone
+18/02/18,PRE,Celtic,0-0,St. Johnstone
+24/02/18,PRE,St. Johnstone,2-0,Ross County
+06/02/16,PRE,St. Johnstone,3-4,Aberdeen
+12/02/16,PRE,Dundee,2-0,St. Johnstone
+20/02/16,PRE,St. Johnstone,2-1,Motherwell
+23/02/16,PRE,Partick Thistle,2-0,St. Johnstone
+27/02/16,PRE,Aberdeen,1-1,St. Johnstone
+02/03/16,PRE,St. Johnstone,1-2,Partick Thistle
+09/03/16,PRE,St. Johnstone,1-0,Inverness CT
+16/03/16,PRE,St. Johnstone,1-1,Ross County
+19/03/16,PRE,Hearts,0-3,St. Johnstone
+02/04/16,PRE,St. Johnstone,0-1,Dundee United
+09/04/16,PRE,Kilmarnock,3-0,St. Johnstone
+22/04/16,PRE,St. Johnstone,3-0,Aberdeen
+30/04/16,PRE,Ross County,0-1,St. Johnstone
+07/05/16,PRE,Motherwell,1-2,St. Johnstone
+11/05/16,PRE,St. Johnstone,2-1,Celtic
+15/05/16,PRE,Hearts,2-2,St. Johnstone
+09/07/16,CLF,Glentoran,1-2,St. Johnstone
+12/07/16,CLF,Livingston,1-1,St. Johnstone
+16/07/16,LEC,Elgin City,1-3,St. Johnstone
+19/07/16,CLF,St. Johnstone,2-0,Bradford City
+23/07/16,LEC,St. Johnstone,3-0,Falkirk
+26/07/16,LEC,Brechin City,P1-1P,St. Johnstone
+30/07/16,LEC,St. Johnstone,4-0,Stirling Albion
+07/08/16,PRE,St. Johnstone,0-0,Aberdeen
+10/08/16,LEC,St. Johnstone,3-2,Hearts
+13/08/16,PRE,Motherwell,1-2,St. Johnstone
+20/08/16,PRE,St. Johnstone,2-4,Celtic
+27/08/16,PRE,Inverness CT,2-1,St. Johnstone
+10/09/16,PRE,Partick Thistle,0-2,St. Johnstone
+17/09/16,PRE,St. Johnstone,1-0,Hearts
+22/09/16,LEC,Aberdeen,1-0,St. Johnstone
+25/09/16,PRE,Hamilton Academical,1-1,St. Johnstone
+01/10/16,PRE,Ross County,0-2,St. Johnstone
+15/10/16,PRE,St. Johnstone,0-1,Kilmarnock
+23/10/16,PRE,St. Johnstone,2-1,Dundee
+26/10/16,PRE,Rangers,1-1,St. Johnstone
+29/10/16,PRE,St. Johnstone,1-2,Partick Thistle
+05/11/16,PRE,Hearts,2-2,St. Johnstone
+19/11/16,PRE,St. Johnstone,2-4,Ross County
+03/12/16,PRE,St. Johnstone,3-0,Inverness CT
+10/12/16,PRE,Aberdeen,0-0,St. Johnstone
+17/12/16,PRE,St. Johnstone,1-1,Motherwell
+23/12/16,PRE,Kilmarnock,0-1,St. Johnstone
+28/12/16,PRE,St. Johnstone,1-1,Rangers
+31/12/16,PRE,Dundee,3-0,St. Johnstone
+21/01/17,FAC,St. Johnstone,2-0,Stenhousemuir
+25/01/17,PRE,Celtic,1-0,St. Johnstone
+28/01/17,PRE,St. Johnstone,3-0,Hamilton Academical
+01/02/17,PRE,Partick Thistle,0-1,St. Johnstone
+05/02/17,PRE,St. Johnstone,2-5,Celtic
+20/01/15,PRE,Inverness CT,2-0,St. Johnstone
+23/01/15,PRE,St. Johnstone,1-1,Aberdeen
+31/01/15,PRE,Motherwell,1-1,St. Johnstone
+07/02/15,FAC,Queen of the South,2-0,St. Johnstone
+14/02/15,PRE,St. Johnstone,1-2,Celtic
+21/02/15,PRE,Dundee United,0-2,St. Johnstone
+28/02/15,PRE,St. Johnstone,0-0,Kilmarnock
+04/03/15,PRE,Celtic,0-1,St. Johnstone
+14/03/15,PRE,Partick Thistle,3-0,St. Johnstone
+21/03/15,PRE,St. Johnstone,2-0,St. Mirren
+04/04/15,PRE,Hamilton Academical,1-1,St. Johnstone
+07/04/15,PRE,Ross County,1-0,St. Johnstone
+11/04/15,PRE,St. Johnstone,1-0,Dundee
+25/04/15,PRE,Dundee,0-2,St. Johnstone
+02/05/15,PRE,St. Johnstone,1-1,Inverness CT
+09/05/15,PRE,St. Johnstone,1-1,Dundee United
+15/05/15,PRE,St. Johnstone,0-0,Celtic
+24/05/15,PRE,Aberdeen,0-1,St. Johnstone
+24/06/15,CLF,Glenavon,1-1,St. Johnstone
+28/06/15,CLF,Aberdeen,1-0,St. Johnstone
+02/07/15,UEL,Alashkert,1-0,St. Johnstone
+09/07/15,UEL,St. Johnstone,2-1,Alashkert
+12/07/15,CLF,St. Johnstone,0-0,Real Sociedad
+25/07/15,CLF,St. Johnstone,0-1,Blackpool
+02/08/15,PRE,Hearts,4-3,St. Johnstone
+08/08/15,PRE,St. Johnstone,1-1,Inverness CT
+11/08/15,PRE,St. Johnstone,1-1,Ross County
+15/08/15,PRE,Dundee,2-1,St. Johnstone
+22/08/15,PRE,St. Johnstone,2-1,Motherwell
+29/08/15,PRE,Celtic,3-1,St. Johnstone
+12/09/15,PRE,St. Johnstone,4-1,Hamilton Academical
+19/09/15,PRE,Kilmarnock,2-1,St. Johnstone
+22/09/15,LEC,Rangers,1-3,St. Johnstone
+26/09/15,PRE,St. Johnstone,2-1,Dundee United
+03/10/15,PRE,Aberdeen,1-5,St. Johnstone
+17/10/15,PRE,St. Johnstone,1-2,Partick Thistle
+24/10/15,PRE,Inverness CT,0-1,St. Johnstone
+27/10/15,LEC,Greenock Morton,1-3,St. Johnstone
+31/10/15,PRE,Hamilton Academical,2-4,St. Johnstone
+07/11/15,PRE,St. Johnstone,2-1,Kilmarnock
+21/11/15,PRE,Dundee United,1-2,St. Johnstone
+27/11/15,PRE,St. Johnstone,1-1,Dundee
+05/12/15,PRE,Ross County,2-3,St. Johnstone
+13/12/15,PRE,St. Johnstone,0-3,Celtic
+19/12/15,PRE,St. Johnstone,0-0,Hearts
+30/12/15,PRE,Motherwell,2-0,St. Johnstone
+09/01/16,FAC,St. Johnstone,0-1,Kilmarnock
+16/01/16,PRE,St. Johnstone,0-0,Hamilton Academical
+23/01/16,PRE,Celtic,3-1,St. Johnstone
+30/01/16,LEC,Hibernian,2-1,St. Johnstone
+08/02/14,FAC,Forfar Athletic,0-4,St. Johnstone
+16/02/14,PRE,Celtic,3-0,St. Johnstone
+22/02/14,PRE,St. Johnstone,0-1,Inverness CT
+25/02/14,PRE,St. Johnstone,3-0,Motherwell
+01/03/14,PRE,Aberdeen,1-0,St. Johnstone
+08/03/14,FAC,Raith Rovers,1-3,St. Johnstone
+12/03/14,PRE,Dundee United,0-1,St. Johnstone
+15/03/14,PRE,St. Johnstone,0-1,Ross County
+22/03/14,PRE,St. Johnstone,2-0,Hibernian
+25/03/14,PRE,St. Mirren,0-1,St. Johnstone
+29/03/14,PRE,St. Johnstone,1-1,Partick Thistle
+05/04/14,PRE,Kilmarnock,1-2,St. Johnstone
+13/04/14,FAC,St. Johnstone,2-1,Aberdeen
+19/04/14,PRE,St. Johnstone,2-0,Dundee United
+26/04/14,PRE,Aberdeen,1-1,St. Johnstone
+03/05/14,PRE,Motherwell,2-1,St. Johnstone
+07/05/14,PRE,St. Johnstone,3-3,Celtic
+11/05/14,PRE,Inverness CT,2-0,St. Johnstone
+17/05/14,FAC,St. Johnstone,2-0,Dundee United
+09/07/14,CLF,East Fife,0-4,St. Johnstone
+12/07/14,CLF,Raith Rovers,1-1,St. Johnstone
+17/07/14,UEL,Luzern,1-1,St. Johnstone
+19/07/14,CLF,St. Johnstone,0-0,York City
+24/07/14,UEL,St. Johnstone,P1-1P,Luzern
+31/07/14,UEL,St. Johnstone,1-2,Spartak Trnava
+07/08/14,UEL,Spartak Trnava,1-1,St. Johnstone
+10/08/14,PRE,Ross County,1-2,St. Johnstone
+13/08/14,PRE,St. Johnstone,0-3,Celtic
+16/08/14,PRE,Hamilton Academical,1-0,St. Johnstone
+23/08/14,PRE,St. Johnstone,1-0,Aberdeen
+30/08/14,PRE,Motherwell,0-1,St. Johnstone
+13/09/14,PRE,St. Johnstone,0-1,Dundee
+20/09/14,PRE,Inverness CT,2-1,St. Johnstone
+23/09/14,LEC,Kilmarnock,0-1,St. Johnstone
+27/09/14,PRE,Dundee United,2-0,St. Johnstone
+04/10/14,PRE,St. Johnstone,1-2,St. Mirren
+18/10/14,PRE,St. Johnstone,1-2,Kilmarnock
+25/10/14,PRE,Partick Thistle,0-0,St. Johnstone
+28/10/14,LEC,Rangers,1-0,St. Johnstone
+31/10/14,PRE,St. Johnstone,2-1,Motherwell
+08/11/14,PRE,Dundee,1-1,St. Johnstone
+22/11/14,PRE,St. Johnstone,2-1,Ross County
+29/11/14,FAC,St. Johnstone,2-1,Ross County
+06/12/14,PRE,St. Mirren,0-1,St. Johnstone
+13/12/14,PRE,Kilmarnock,0-1,St. Johnstone
+20/12/14,PRE,St. Johnstone,1-0,Inverness CT
+27/12/14,PRE,St. Johnstone,2-1,Dundee United
+01/01/15,PRE,Aberdeen,2-0,St. Johnstone
+04/01/15,PRE,St. Johnstone,0-1,Hamilton Academical
+17/01/15,PRE,St. Johnstone,2-0,Partick Thistle

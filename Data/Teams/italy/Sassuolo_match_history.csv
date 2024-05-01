@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+13/05/23,SEA,Inter Milan,4-2,Sassuolo
+19/05/23,SEA,Sassuolo,1-2,Monza
+26/05/23,SEA,Sampdoria,2-2,Sassuolo
+02/06/23,SEA,Sassuolo,1-3,Fiorentina
+19/07/23,CLF,Sassuolo,2-1,Pafos
+27/07/23,CLF,Sassuolo,4-0,Südtirol
+02/08/23,CLF,Parma,1-0,Sassuolo
+05/08/23,CLF,Wolfsburg,1-1,Sassuolo
+13/08/23,COI,Cosenza,E2-5E,Sassuolo
+20/08/23,SEA,Sassuolo,0-2,Atalanta
+27/08/23,SEA,Napoli,2-0,Sassuolo
+01/09/23,SEA,Sassuolo,3-1,Verona
+09/09/23,CLF,Sassuolo,0-2,FeralpiSalò
+17/09/23,SEA,Frosinone,4-2,Sassuolo
+23/09/23,SEA,Sassuolo,4-2,Juventus
+27/09/23,SEA,Inter Milan,1-2,Sassuolo
+02/10/23,SEA,Sassuolo,0-1,Monza
+06/10/23,SEA,Lecce,1-1,Sassuolo
+21/10/23,SEA,Sassuolo,0-2,Lazio
+28/10/23,SEA,Sassuolo,1-1,Bologna
+02/11/23,COI,Sassuolo,P0-0P,Spezia
+06/11/23,SEA,Torino,2-1,Sassuolo
+10/11/23,SEA,Sassuolo,2-2,Salernitana
+26/11/23,SEA,Empoli,3-4,Sassuolo
+03/12/23,SEA,Sassuolo,1-2,Roma
+11/12/23,SEA,Cagliari,2-1,Sassuolo
+17/12/23,SEA,Udinese,2-2,Sassuolo
+22/12/23,SEA,Sassuolo,1-2,Genoa
+30/12/23,SEA,AC Milan,1-0,Sassuolo
+03/01/24,COI,Atalanta,3-1,Sassuolo
+06/01/24,SEA,Sassuolo,1-0,Fiorentina
+16/01/24,SEA,Juventus,3-0,Sassuolo
+28/01/24,SEA,Monza,1-0,Sassuolo
+03/02/24,SEA,Bologna,4-2,Sassuolo
+10/02/24,SEA,Sassuolo,1-1,Torino
+17/02/24,SEA,Atalanta,3-0,Sassuolo
+24/02/24,SEA,Sassuolo,2-3,Empoli
+28/02/24,SEA,Sassuolo,1-6,Napoli
+03/03/24,SEA,Verona,1-0,Sassuolo
+09/03/24,SEA,Sassuolo,1-0,Frosinone
+17/03/24,SEA,Roma,1-0,Sassuolo
+01/04/24,SEA,Sassuolo,1-1,Udinese
+05/04/24,SEA,Salernitana,2-2,Sassuolo
+14/04/24,SEA,Sassuolo,3-3,AC Milan
+21/04/24,SEA,Sassuolo,0-3,Lecce
+28/04/24,SEA,Fiorentina,5-1,Sassuolo
+04/05/24,SEA,Sassuolo,20:45,Inter Milan
+12/05/24,SEA,Genoa,15:00,Sassuolo
+19/05/24,SEA,Sassuolo,-,Cagliari
+26/05/24,SEA,Lazio,-,Sassuolo
+10/04/22,SEA,Sassuolo,2-1,Atalanta
+16/04/22,SEA,Cagliari,1-0,Sassuolo
+25/04/22,SEA,Sassuolo,1-2,Juventus
+30/04/22,SEA,Napoli,6-1,Sassuolo
+07/05/22,SEA,Sassuolo,1-1,Udinese
+15/05/22,SEA,Bologna,1-3,Sassuolo
+22/05/22,SEA,Sassuolo,0-3,AC Milan
+16/07/22,CLF,Sassuolo,3-1,Jablonec
+21/07/22,CLF,Sassuolo,2-0,Südtirol
+31/07/22,CLF,Reims,2-2,Sassuolo
+04/08/22,CLF,Sassuolo,4-1,Vis Pesaro
+08/08/22,COI,Modena,3-2,Sassuolo
+15/08/22,SEA,Juventus,3-0,Sassuolo
+20/08/22,SEA,Sassuolo,1-0,Lecce
+27/08/22,SEA,Spezia,2-2,Sassuolo
+30/08/22,SEA,Sassuolo,0-0,AC Milan
+04/09/22,SEA,Cremonese,0-0,Sassuolo
+11/09/22,SEA,Sassuolo,1-3,Udinese
+17/09/22,SEA,Torino,0-1,Sassuolo
+02/10/22,SEA,Sassuolo,5-0,Salernitana
+08/10/22,SEA,Sassuolo,1-2,Inter Milan
+15/10/22,SEA,Atalanta,2-1,Sassuolo
+24/10/22,SEA,Sassuolo,2-1,Verona
+29/10/22,SEA,Napoli,4-0,Sassuolo
+05/11/22,SEA,Empoli,1-0,Sassuolo
+09/11/22,SEA,Sassuolo,1-1,Roma
+12/11/22,SEA,Bologna,3-0,Sassuolo
+11/12/22,CLF,Marseille,2-3,Sassuolo
+17/12/22,CLF,PSV,CANC,Sassuolo
+23/12/22,CLF,Empoli,2-1,Sassuolo
+29/12/22,CLF,Sassuolo,0-1,Inter Milan
+04/01/23,SEA,Sassuolo,1-2,Sampdoria
+07/01/23,SEA,Fiorentina,2-1,Sassuolo
+15/01/23,SEA,Sassuolo,0-2,Lazio
+22/01/23,SEA,Monza,1-1,Sassuolo
+29/01/23,SEA,AC Milan,2-5,Sassuolo
+04/02/23,SEA,Sassuolo,1-0,Atalanta
+12/02/23,SEA,Udinese,2-2,Sassuolo
+17/02/23,SEA,Sassuolo,0-2,Napoli
+25/02/23,SEA,Lecce,0-1,Sassuolo
+06/03/23,SEA,Sassuolo,3-2,Cremonese
+12/03/23,SEA,Roma,3-4,Sassuolo
+17/03/23,SEA,Sassuolo,1-0,Spezia
+03/04/23,SEA,Sassuolo,1-1,Torino
+08/04/23,SEA,Verona,2-1,Sassuolo
+16/04/23,SEA,Sassuolo,1-0,Juventus
+22/04/23,SEA,Salernitana,3-0,Sassuolo
+30/04/23,SEA,Sassuolo,2-1,Empoli
+03/05/23,SEA,Lazio,2-0,Sassuolo
+08/05/23,SEA,Sassuolo,1-1,Bologna
+17/03/21,SEA,Torino,3-2,Sassuolo
+03/04/21,SEA,Sassuolo,2-2,Roma
+07/04/21,SEA,Inter Milan,2-1,Sassuolo
+12/04/21,SEA,Benevento,0-1,Sassuolo
+17/04/21,SEA,Sassuolo,3-1,Fiorentina
+21/04/21,SEA,AC Milan,1-2,Sassuolo
+24/04/21,SEA,Sassuolo,1-0,Sampdoria
+02/05/21,SEA,Sassuolo,1-1,Atalanta
+09/05/21,SEA,Genoa,1-2,Sassuolo
+12/05/21,SEA,Sassuolo,1-3,Juventus
+16/05/21,SEA,Parma,1-3,Sassuolo
+23/05/21,SEA,Sassuolo,2-0,Lazio
+24/07/21,CLF,Sassuolo,0-0,Südtirol
+01/08/21,CLF,Parma,0-3,Sassuolo
+07/08/21,CLF,Sassuolo,3-1,Vicenza
+14/08/21,CLF,Lazio,1-1,Sassuolo
+21/08/21,SEA,Verona,2-3,Sassuolo
+29/08/21,SEA,Sassuolo,0-0,Sampdoria
+04/09/21,CLF,Sassuolo,0-2,Cremonese
+12/09/21,SEA,Roma,2-1,Sassuolo
+17/09/21,SEA,Sassuolo,0-1,Torino
+21/09/21,SEA,Atalanta,2-1,Sassuolo
+26/09/21,SEA,Sassuolo,1-0,Salernitana
+02/10/21,SEA,Sassuolo,1-2,Inter Milan
+17/10/21,SEA,Genoa,2-2,Sassuolo
+23/10/21,SEA,Sassuolo,3-1,Venezia
+27/10/21,SEA,Juventus,1-2,Sassuolo
+31/10/21,SEA,Sassuolo,1-2,Empoli
+07/11/21,SEA,Udinese,3-2,Sassuolo
+21/11/21,SEA,Sassuolo,2-2,Cagliari
+28/11/21,SEA,AC Milan,1-3,Sassuolo
+01/12/21,SEA,Sassuolo,2-2,Napoli
+05/12/21,SEA,Spezia,2-2,Sassuolo
+12/12/21,SEA,Sassuolo,2-1,Lazio
+19/12/21,SEA,Fiorentina,2-2,Sassuolo
+22/12/21,SEA,Sassuolo,0-3,Bologna
+06/01/22,SEA,Sassuolo,1-1,Genoa
+09/01/22,SEA,Empoli,1-5,Sassuolo
+16/01/22,SEA,Sassuolo,2-4,Verona
+19/01/22,COI,Sassuolo,1-0,Cagliari
+23/01/22,SEA,Torino,1-1,Sassuolo
+06/02/22,SEA,Sampdoria,4-0,Sassuolo
+10/02/22,COI,Juventus,2-1,Sassuolo
+13/02/22,SEA,Sassuolo,2-2,Roma
+20/02/22,SEA,Inter Milan,0-2,Sassuolo
+26/02/22,SEA,Sassuolo,2-1,Fiorentina
+06/03/22,SEA,Venezia,1-4,Sassuolo
+12/03/22,SEA,Salernitana,2-2,Sassuolo
+18/03/22,SEA,Sassuolo,4-1,Spezia
+02/04/22,SEA,Lazio,2-1,Sassuolo
+18/12/19,SEA,Brescia,0-2,Sassuolo
+22/12/19,SEA,Sassuolo,1-2,Napoli
+05/01/20,SEA,Genoa,2-1,Sassuolo
+12/01/20,SEA,Udinese,3-0,Sassuolo
+18/01/20,SEA,Sassuolo,2-1,Torino
+26/01/20,SEA,Sampdoria,0-0,Sassuolo
+01/02/20,SEA,Sassuolo,4-2,Roma
+09/02/20,SEA,SPAL,1-2,Sassuolo
+16/02/20,SEA,Sassuolo,0-1,Parma
+09/03/20,SEA,Sassuolo,3-0,Brescia
+21/06/20,SEA,Atalanta,4-1,Sassuolo
+24/06/20,SEA,Inter Milan,3-3,Sassuolo
+28/06/20,SEA,Sassuolo,3-3,Verona
+01/07/20,SEA,Fiorentina,1-3,Sassuolo
+04/07/20,SEA,Sassuolo,4-2,Lecce
+08/07/20,SEA,Bologna,1-2,Sassuolo
+11/07/20,SEA,Lazio,1-2,Sassuolo
+15/07/20,SEA,Sassuolo,3-3,Juventus
+18/07/20,SEA,Cagliari,1-1,Sassuolo
+21/07/20,SEA,Sassuolo,1-2,AC Milan
+25/07/20,SEA,Napoli,2-0,Sassuolo
+29/07/20,SEA,Sassuolo,5-0,Genoa
+02/08/20,SEA,Sassuolo,0-1,Udinese
+20/09/20,SEA,Sassuolo,1-1,Cagliari
+27/09/20,SEA,Spezia,1-4,Sassuolo
+03/10/20,SEA,Sassuolo,4-1,Crotone
+18/10/20,SEA,Bologna,3-4,Sassuolo
+23/10/20,SEA,Sassuolo,3-3,Torino
+01/11/20,SEA,Napoli,0-2,Sassuolo
+06/11/20,SEA,Sassuolo,0-0,Udinese
+22/11/20,SEA,Verona,0-2,Sassuolo
+28/11/20,SEA,Sassuolo,0-3,Inter Milan
+06/12/20,SEA,Roma,0-0,Sassuolo
+11/12/20,SEA,Sassuolo,1-0,Benevento
+16/12/20,SEA,Fiorentina,1-1,Sassuolo
+20/12/20,SEA,Sassuolo,1-2,AC Milan
+23/12/20,SEA,Sampdoria,2-3,Sassuolo
+03/01/21,SEA,Atalanta,5-1,Sassuolo
+06/01/21,SEA,Sassuolo,2-1,Genoa
+10/01/21,SEA,Juventus,3-1,Sassuolo
+14/01/21,COI,Sassuolo,0-2,SPAL
+17/01/21,SEA,Sassuolo,1-1,Parma
+24/01/21,SEA,Lazio,2-1,Sassuolo
+31/01/21,SEA,Cagliari,1-1,Sassuolo
+06/02/21,SEA,Sassuolo,1-2,Spezia
+14/02/21,SEA,Crotone,1-2,Sassuolo
+20/02/21,SEA,Sassuolo,1-1,Bologna
+03/03/21,SEA,Sassuolo,3-3,Napoli
+06/03/21,SEA,Udinese,2-0,Sassuolo
+13/03/21,SEA,Sassuolo,3-2,Verona
+11/11/18,SEA,Sassuolo,1-1,Lazio
+25/11/18,SEA,Parma,2-1,Sassuolo
+02/12/18,SEA,Sassuolo,0-0,Udinese
+05/12/18,COI,Sassuolo,2-1,Catania
+09/12/18,SEA,Sassuolo,3-3,Fiorentina
+16/12/18,SEA,Frosinone,0-2,Sassuolo
+22/12/18,SEA,Sassuolo,1-1,Torino
+26/12/18,SEA,Roma,3-1,Sassuolo
+29/12/18,SEA,Sassuolo,2-6,Atalanta
+13/01/19,COI,Napoli,2-0,Sassuolo
+19/01/19,SEA,Inter Milan,0-0,Sassuolo
+26/01/19,SEA,Sassuolo,3-0,Cagliari
+03/02/19,SEA,Genoa,1-1,Sassuolo
+10/02/19,SEA,Sassuolo,0-3,Juventus
+17/02/19,SEA,Empoli,3-0,Sassuolo
+24/02/19,SEA,Sassuolo,1-1,SPAL
+02/03/19,SEA,AC Milan,1-0,Sassuolo
+10/03/19,SEA,Sassuolo,1-1,Napoli
+16/03/19,SEA,Sassuolo,3-5,Sampdoria
+31/03/19,SEA,Bologna,2-1,Sassuolo
+04/04/19,SEA,Sassuolo,4-0,Chievo
+07/04/19,SEA,Lazio,2-2,Sassuolo
+14/04/19,SEA,Sassuolo,0-0,Parma
+20/04/19,SEA,Udinese,1-1,Sassuolo
+29/04/19,SEA,Fiorentina,0-1,Sassuolo
+05/05/19,SEA,Sassuolo,2-2,Frosinone
+12/05/19,SEA,Torino,3-2,Sassuolo
+18/05/19,SEA,Sassuolo,0-0,Roma
+26/05/19,SEA,Atalanta,3-1,Sassuolo
+27/07/19,CLF,Sassuolo,2-0,Südtirol
+28/07/19,CLF,Sassuolo,10-1,Ciliverghe
+31/07/19,CLF,Sassuolo,1-0,Empoli
+10/08/19,CLF,Sassuolo,1-0,Alessandria
+18/08/19,COI,Sassuolo,1-0,Spezia
+25/08/19,SEA,Torino,2-1,Sassuolo
+01/09/19,SEA,Sassuolo,4-1,Sampdoria
+15/09/19,SEA,Roma,4-2,Sassuolo
+22/09/19,SEA,Sassuolo,3-0,SPAL
+25/09/19,SEA,Parma,1-0,Sassuolo
+28/09/19,SEA,Sassuolo,1-4,Atalanta
+20/10/19,SEA,Sassuolo,3-4,Inter Milan
+25/10/19,SEA,Verona,0-1,Sassuolo
+30/10/19,SEA,Sassuolo,1-2,Fiorentina
+03/11/19,SEA,Lecce,2-2,Sassuolo
+08/11/19,SEA,Sassuolo,3-1,Bologna
+24/11/19,SEA,Sassuolo,1-2,Lazio
+01/12/19,SEA,Juventus,2-2,Sassuolo
+04/12/19,COI,Sassuolo,1-2,Perugia
+08/12/19,SEA,Sassuolo,2-2,Cagliari
+15/12/19,SEA,AC Milan,0-0,Sassuolo
+20/09/17,SEA,Cagliari,0-1,Sassuolo
+24/09/17,SEA,Sassuolo,0-1,Bologna
+01/10/17,SEA,Lazio,6-1,Sassuolo
+15/10/17,SEA,Sassuolo,0-0,Chievo
+22/10/17,SEA,SPAL,0-1,Sassuolo
+25/10/17,SEA,Sassuolo,0-1,Udinese
+29/10/17,SEA,Napoli,3-1,Sassuolo
+05/11/17,SEA,Sassuolo,0-2,AC Milan
+19/11/17,SEA,Benevento,1-2,Sassuolo
+25/11/17,SEA,Sassuolo,0-2,Verona
+29/11/17,COI,Sassuolo,2-1,Bari
+03/12/17,SEA,Fiorentina,3-0,Sassuolo
+10/12/17,SEA,Sassuolo,2-1,Crotone
+17/12/17,SEA,Sampdoria,0-1,Sassuolo
+20/12/17,COI,Atalanta,2-1,Sassuolo
+23/12/17,SEA,Sassuolo,1-0,Inter Milan
+30/12/17,SEA,Roma,1-1,Sassuolo
+06/01/18,SEA,Genoa,1-0,Sassuolo
+21/01/18,SEA,Sassuolo,1-1,Torino
+27/01/18,SEA,Sassuolo,0-3,Atalanta
+04/02/18,SEA,Juventus,7-0,Sassuolo
+11/02/18,SEA,Sassuolo,0-0,Cagliari
+18/02/18,SEA,Bologna,2-1,Sassuolo
+25/02/18,SEA,Sassuolo,0-3,Lazio
+11/03/18,SEA,Sassuolo,1-1,SPAL
+17/03/18,SEA,Udinese,1-2,Sassuolo
+24/03/18,CLF,Sassuolo,3-0,Bassano
+31/03/18,SEA,Sassuolo,1-1,Napoli
+04/04/18,SEA,Chievo,1-1,Sassuolo
+08/04/18,SEA,AC Milan,1-1,Sassuolo
+15/04/18,SEA,Sassuolo,2-2,Benevento
+18/04/18,SEA,Verona,0-1,Sassuolo
+21/04/18,SEA,Sassuolo,1-0,Fiorentina
+29/04/18,SEA,Crotone,4-1,Sassuolo
+06/05/18,SEA,Sassuolo,1-0,Sampdoria
+12/05/18,SEA,Inter Milan,1-2,Sassuolo
+20/05/18,SEA,Sassuolo,0-1,Roma
+25/07/18,CLF,Sassuolo,1-0,Südtirol
+12/08/18,COI,Sassuolo,5-1,Ternana
+19/08/18,SEA,Sassuolo,1-0,Inter Milan
+26/08/18,SEA,Cagliari,2-2,Sassuolo
+02/09/18,SEA,Sassuolo,5-3,Genoa
+16/09/18,SEA,Juventus,2-1,Sassuolo
+21/09/18,SEA,Sassuolo,3-1,Empoli
+27/09/18,SEA,SPAL,0-2,Sassuolo
+30/09/18,SEA,Sassuolo,1-4,AC Milan
+07/10/18,SEA,Napoli,2-0,Sassuolo
+22/10/18,SEA,Sampdoria,0-0,Sassuolo
+28/10/18,SEA,Sassuolo,2-2,Bologna
+04/11/18,SEA,Chievo,0-2,Sassuolo
+28/08/16,SEA,Sassuolo,2-1,Pescara
+10/09/16,SEA,Juventus,3-1,Sassuolo
+15/09/16,UEL,Sassuolo,3-0,Athletic Bilbao
+18/09/16,SEA,Sassuolo,2-0,Genoa
+21/09/16,SEA,Chievo,2-1,Sassuolo
+25/09/16,SEA,Sassuolo,1-0,Udinese
+29/09/16,UEL,Genk,3-1,Sassuolo
+02/10/16,SEA,AC Milan,4-3,Sassuolo
+16/10/16,SEA,Sassuolo,2-1,Crotone
+20/10/16,UEL,Rapid Vienna,1-1,Sassuolo
+23/10/16,SEA,Bologna,1-1,Sassuolo
+26/10/16,SEA,Sassuolo,1-3,Roma
+30/10/16,SEA,Lazio,2-1,Sassuolo
+03/11/16,UEL,Sassuolo,2-2,Rapid Vienna
+06/11/16,SEA,Sassuolo,0-3,Atalanta
+20/11/16,SEA,Sampdoria,3-2,Sassuolo
+24/11/16,UEL,Athletic Bilbao,3-2,Sassuolo
+28/11/16,SEA,Napoli,1-1,Sassuolo
+04/12/16,SEA,Sassuolo,3-0,Empoli
+09/12/16,UEL,Sassuolo,0-2,Genk
+12/12/16,SEA,Fiorentina,2-1,Sassuolo
+18/12/16,SEA,Sassuolo,0-1,Inter Milan
+22/12/16,SEA,Cagliari,4-3,Sassuolo
+08/01/17,SEA,Sassuolo,0-0,Torino
+15/01/17,SEA,Sassuolo,4-1,Palermo
+18/01/17,COI,Sassuolo,1-2,Cesena
+22/01/17,SEA,Pescara,1-3,Sassuolo
+29/01/17,SEA,Sassuolo,0-2,Juventus
+05/02/17,SEA,Genoa,0-1,Sassuolo
+12/02/17,SEA,Sassuolo,1-3,Chievo
+19/02/17,SEA,Udinese,1-2,Sassuolo
+26/02/17,SEA,Sassuolo,0-1,AC Milan
+05/03/17,SEA,Crotone,0-0,Sassuolo
+12/03/17,SEA,Sassuolo,0-1,Bologna
+19/03/17,SEA,Roma,3-1,Sassuolo
+01/04/17,SEA,Sassuolo,1-2,Lazio
+08/04/17,SEA,Atalanta,1-1,Sassuolo
+15/04/17,SEA,Sassuolo,2-1,Sampdoria
+23/04/17,SEA,Sassuolo,2-2,Napoli
+30/04/17,SEA,Empoli,1-3,Sassuolo
+07/05/17,SEA,Sassuolo,2-2,Fiorentina
+14/05/17,SEA,Inter Milan,1-2,Sassuolo
+21/05/17,SEA,Sassuolo,6-2,Cagliari
+28/05/17,SEA,Torino,5-3,Sassuolo
+27/07/17,CLF,Eintracht Frankfurt,1-1,Sassuolo
+12/08/17,COI,Sassuolo,2-0,Spezia
+20/08/17,SEA,Sassuolo,0-0,Genoa
+27/08/17,SEA,Torino,3-0,Sassuolo
+10/09/17,SEA,Atalanta,2-1,Sassuolo
+17/09/17,SEA,Sassuolo,1-3,Juventus
+31/05/15,SEA,Sassuolo,3-1,Genoa
+22/07/15,CLF,Sassuolo,4-0,Südtirol
+02/08/15,CLF,Pescara,2-3,Sassuolo
+09/08/15,CLF,Sassuolo,1-1,Villarreal
+15/08/15,COI,Sassuolo,2-0,Modena
+23/08/15,SEA,Sassuolo,2-1,Napoli
+29/08/15,SEA,Bologna,0-1,Sassuolo
+13/09/15,SEA,Sassuolo,2-2,Atalanta
+20/09/15,SEA,Roma,2-2,Sassuolo
+23/09/15,SEA,Palermo,0-1,Sassuolo
+27/09/15,SEA,Sassuolo,1-1,Chievo
+04/10/15,SEA,Empoli,1-0,Sassuolo
+18/10/15,SEA,Sassuolo,2-1,Lazio
+25/10/15,SEA,AC Milan,2-1,Sassuolo
+28/10/15,SEA,Sassuolo,1-0,Juventus
+01/11/15,SEA,Udinese,0-0,Sassuolo
+08/11/15,SEA,Sassuolo,1-0,Carpi
+22/11/15,SEA,Genoa,2-1,Sassuolo
+30/11/15,SEA,Sassuolo,1-1,Fiorentina
+03/12/15,COI,Sassuolo,0-1,Cagliari
+06/12/15,SEA,Sampdoria,1-3,Sassuolo
+20/12/15,SEA,Verona,1-1,Sassuolo
+06/01/16,SEA,Sassuolo,2-2,Frosinone
+10/01/16,SEA,Inter Milan,0-1,Sassuolo
+16/01/16,SEA,Napoli,3-1,Sassuolo
+20/01/16,SEA,Sassuolo,1-1,Torino
+24/01/16,SEA,Sassuolo,0-2,Bologna
+30/01/16,SEA,Atalanta,1-1,Sassuolo
+02/02/16,SEA,Sassuolo,0-2,Roma
+07/02/16,SEA,Sassuolo,2-2,Palermo
+13/02/16,SEA,Chievo,1-1,Sassuolo
+21/02/16,SEA,Sassuolo,3-2,Empoli
+29/02/16,SEA,Lazio,0-2,Sassuolo
+06/03/16,SEA,Sassuolo,2-0,AC Milan
+11/03/16,SEA,Juventus,1-0,Sassuolo
+20/03/16,SEA,Sassuolo,1-1,Udinese
+02/04/16,SEA,Carpi,1-3,Sassuolo
+09/04/16,SEA,Sassuolo,0-1,Genoa
+17/04/16,SEA,Fiorentina,3-1,Sassuolo
+20/04/16,SEA,Sassuolo,0-0,Sampdoria
+24/04/16,SEA,Torino,1-3,Sassuolo
+01/05/16,SEA,Sassuolo,1-0,Verona
+08/05/16,SEA,Frosinone,0-1,Sassuolo
+14/05/16,SEA,Sassuolo,3-1,Inter Milan
+21/07/16,CLF,Sassuolo,8-0,Castelvetro
+28/07/16,UEL,Luzern,1-1,Sassuolo
+04/08/16,UEL,Sassuolo,3-0,Luzern
+18/08/16,UEL,Sassuolo,3-0,Red Star Belgrade
+21/08/16,SEA,Palermo,0-1,Sassuolo
+25/08/16,UEL,Red Star Belgrade,1-1,Sassuolo
+26/03/14,SEA,Sassuolo,1-2,Sampdoria
+30/03/14,SEA,Sassuolo,0-2,Roma
+06/04/14,SEA,Atalanta,0-2,Sassuolo
+12/04/14,SEA,Sassuolo,1-1,Cagliari
+19/04/14,SEA,Chievo,0-1,Sassuolo
+28/04/14,SEA,Sassuolo,1-3,Juventus
+06/05/14,SEA,Fiorentina,3-4,Sassuolo
+11/05/14,SEA,Sassuolo,4-2,Genoa
+18/05/14,SEA,AC Milan,2-1,Sassuolo
+14/08/14,CLF,Villarreal,4-2,Sassuolo
+21/08/14,COI,Sassuolo,4-1,Cittadella
+31/08/14,SEA,Sassuolo,1-1,Cagliari
+14/09/14,SEA,Inter Milan,7-0,Sassuolo
+21/09/14,SEA,Sassuolo,0-0,Sampdoria
+24/09/14,SEA,Fiorentina,0-0,Sassuolo
+28/09/14,SEA,Sassuolo,0-1,Napoli
+05/10/14,SEA,Lazio,3-2,Sassuolo
+18/10/14,SEA,Sassuolo,1-1,Juventus
+25/10/14,SEA,Parma,1-3,Sassuolo
+28/10/14,SEA,Sassuolo,3-1,Empoli
+02/11/14,SEA,Chievo,0-0,Sassuolo
+08/11/14,SEA,Sassuolo,0-0,Atalanta
+23/11/14,SEA,Torino,0-1,Sassuolo
+29/11/14,SEA,Sassuolo,2-1,Verona
+02/12/14,COI,Sassuolo,1-0,Pescara
+06/12/14,SEA,Roma,2-2,Sassuolo
+13/12/14,SEA,Palermo,2-1,Sassuolo
+20/12/14,SEA,Sassuolo,1-1,Cesena
+06/01/15,SEA,AC Milan,1-2,Sassuolo
+10/01/15,SEA,Sassuolo,1-1,Udinese
+13/01/15,COI,AC Milan,2-1,Sassuolo
+18/01/15,SEA,Genoa,3-3,Sassuolo
+24/01/15,SEA,Cagliari,2-1,Sassuolo
+01/02/15,SEA,Sassuolo,3-1,Inter Milan
+08/02/15,SEA,Sampdoria,1-1,Sassuolo
+14/02/15,SEA,Sassuolo,1-3,Fiorentina
+23/02/15,SEA,Napoli,2-0,Sassuolo
+01/03/15,SEA,Sassuolo,0-3,Lazio
+09/03/15,SEA,Juventus,1-0,Sassuolo
+15/03/15,SEA,Sassuolo,4-1,Parma
+22/03/15,SEA,Empoli,3-1,Sassuolo
+04/04/15,SEA,Sassuolo,1-0,Chievo
+12/04/15,SEA,Atalanta,2-1,Sassuolo
+19/04/15,SEA,Sassuolo,1-1,Torino
+26/04/15,SEA,Verona,3-2,Sassuolo
+29/04/15,SEA,Sassuolo,0-3,Roma
+02/05/15,SEA,Sassuolo,0-0,Palermo
+10/05/15,SEA,Cesena,2-3,Sassuolo
+17/05/15,SEA,Sassuolo,3-2,AC Milan
+24/05/15,SEA,Udinese,0-1,Sassuolo
+09/02/13,SEB,Pro Vercelli,1-3,Sassuolo
+16/02/13,SEB,Sassuolo,3-2,Spezia
+23/02/13,SEB,Vicenza,0-1,Sassuolo
+26/02/13,SEB,Ascoli,2-4,Sassuolo
+02/03/13,SEB,Sassuolo,0-2,Grosseto
+09/03/13,SEB,Varese,3-4,Sassuolo
+16/03/13,SEB,Sassuolo,1-0,Cittadella
+19/03/13,SEB,Juve Stabia,1-1,Sassuolo
+24/03/13,SEB,Sassuolo,0-0,Ternana
+28/03/13,SEB,Sassuolo,1-1,Verona
+06/04/13,SEB,Novara,3-2,Sassuolo
+13/04/13,SEB,Sassuolo,1-1,Brescia
+16/04/13,SEB,Reggina,0-2,Sassuolo
+20/04/13,SEB,Sassuolo,2-1,Bari
+26/04/13,SEB,Modena,2-1,Sassuolo
+06/05/13,SEB,Sassuolo,1-1,Padova
+11/05/13,SEB,Virtus Lanciano,2-2,Sassuolo
+18/05/13,SEB,Sassuolo,1-0,Livorno
+17/08/13,COI,Novara,E1-3E,Sassuolo
+25/08/13,SEA,Torino,2-0,Sassuolo
+01/09/13,SEA,Sassuolo,1-4,Livorno
+15/09/13,SEA,Verona,2-0,Sassuolo
+22/09/13,SEA,Sassuolo,0-7,Inter Milan
+25/09/13,SEA,Napoli,1-1,Sassuolo
+29/09/13,SEA,Sassuolo,2-2,Lazio
+06/10/13,SEA,Parma,3-1,Sassuolo
+20/10/13,SEA,Sassuolo,2-1,Bologna
+27/10/13,SEA,Catania,0-0,Sassuolo
+30/10/13,SEA,Sassuolo,1-2,Udinese
+03/11/13,SEA,Sampdoria,3-4,Sassuolo
+10/11/13,SEA,Roma,1-1,Sassuolo
+15/11/13,CLF,Sassuolo,4-1,Concordia Chiajna
+24/11/13,SEA,Sassuolo,2-0,Atalanta
+01/12/13,SEA,Cagliari,2-2,Sassuolo
+04/12/13,COI,Atalanta,2-0,Sassuolo
+08/12/13,SEA,Sassuolo,0-1,Chievo
+15/12/13,SEA,Juventus,4-0,Sassuolo
+22/12/13,SEA,Sassuolo,0-1,Fiorentina
+06/01/14,SEA,Genoa,2-0,Sassuolo
+12/01/14,SEA,Sassuolo,4-3,AC Milan
+19/01/14,SEA,Sassuolo,0-2,Torino
+26/01/14,SEA,Livorno,3-1,Sassuolo
+02/02/14,SEA,Sassuolo,1-2,Verona
+09/02/14,SEA,Inter Milan,1-0,Sassuolo
+16/02/14,SEA,Sassuolo,0-2,Napoli
+23/02/14,SEA,Lazio,3-2,Sassuolo
+02/03/14,SEA,Sassuolo,0-1,Parma
+09/03/14,SEA,Bologna,0-0,Sassuolo
+16/03/14,SEA,Sassuolo,3-1,Catania
+23/03/14,SEA,Udinese,1-0,Sassuolo

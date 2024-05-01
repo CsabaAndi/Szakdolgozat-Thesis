@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+11/08/23,CLF,Napoli,2-0,Apollon
+19/08/23,SEA,Frosinone,1-3,Napoli
+27/08/23,SEA,Napoli,2-0,Sassuolo
+02/09/23,SEA,Napoli,1-2,Lazio
+16/09/23,SEA,Genoa,2-2,Napoli
+20/09/23,UCL,Sporting Braga,1-2,Napoli
+24/09/23,SEA,Bologna,0-0,Napoli
+27/09/23,SEA,Napoli,4-1,Udinese
+30/09/23,SEA,Lecce,0-4,Napoli
+03/10/23,UCL,Napoli,2-3,Real Madrid
+08/10/23,SEA,Napoli,1-3,Fiorentina
+21/10/23,SEA,Verona,1-3,Napoli
+24/10/23,UCL,Union Berlin,0-1,Napoli
+29/10/23,SEA,Napoli,2-2,AC Milan
+04/11/23,SEA,Salernitana,0-2,Napoli
+08/11/23,UCL,Napoli,1-1,Union Berlin
+12/11/23,SEA,Napoli,0-1,Empoli
+25/11/23,SEA,Atalanta,1-2,Napoli
+29/11/23,UCL,Real Madrid,4-2,Napoli
+03/12/23,SEA,Napoli,0-3,Inter Milan
+08/12/23,SEA,Juventus,1-0,Napoli
+12/12/23,UCL,Napoli,2-0,Sporting Braga
+16/12/23,SEA,Napoli,2-1,Cagliari
+19/12/23,COI,Napoli,0-4,Frosinone
+23/12/23,SEA,Roma,2-0,Napoli
+29/12/23,SEA,Napoli,0-0,Monza
+07/01/24,SEA,Torino,3-0,Napoli
+13/01/24,SEA,Napoli,2-1,Salernitana
+18/01/24,SUC,Napoli,3-0,Fiorentina
+22/01/24,SUC,Napoli,0-1,Inter Milan
+28/01/24,SEA,Lazio,0-0,Napoli
+04/02/24,SEA,Napoli,2-1,Verona
+11/02/24,SEA,AC Milan,1-0,Napoli
+17/02/24,SEA,Napoli,1-1,Genoa
+21/02/24,UCL,Napoli,1-1,Barcelona
+25/02/24,SEA,Cagliari,1-1,Napoli
+28/02/24,SEA,Sassuolo,1-6,Napoli
+03/03/24,SEA,Napoli,2-1,Juventus
+08/03/24,SEA,Napoli,1-1,Torino
+12/03/24,UCL,Barcelona,3-1,Napoli
+17/03/24,SEA,Inter Milan,1-1,Napoli
+30/03/24,SEA,Napoli,0-3,Atalanta
+07/04/24,SEA,Monza,2-4,Napoli
+14/04/24,SEA,Napoli,2-2,Frosinone
+20/04/24,SEA,Empoli,1-0,Napoli
+28/04/24,SEA,Napoli,2-2,Roma
+06/05/24,SEA,Udinese,20:45,Napoli
+11/05/24,SEA,Napoli,18:00,Bologna
+19/05/24,SEA,Fiorentina,-,Napoli
+26/05/24,SEA,Napoli,-,Lecce
+18/09/22,SEA,AC Milan,1-2,Napoli
+01/10/22,SEA,Napoli,3-1,Torino
+04/10/22,UCL,Ajax,1-6,Napoli
+09/10/22,SEA,Cremonese,1-4,Napoli
+12/10/22,UCL,Napoli,4-2,Ajax
+16/10/22,SEA,Napoli,3-2,Bologna
+23/10/22,SEA,Roma,0-1,Napoli
+26/10/22,UCL,Napoli,3-0,Rangers
+29/10/22,SEA,Napoli,4-0,Sassuolo
+01/11/22,UCL,Liverpool,2-0,Napoli
+05/11/22,SEA,Atalanta,1-2,Napoli
+08/11/22,SEA,Napoli,2-0,Empoli
+12/11/22,SEA,Napoli,3-2,Udinese
+07/12/22,CLF,Antalyaspor,2-3,Napoli
+11/12/22,CLF,Napoli,3-1,Crystal Palace
+17/12/22,CLF,Napoli,2-3,Villarreal
+21/12/22,CLF,Napoli,1-4,Lille
+04/01/23,SEA,Inter Milan,1-0,Napoli
+08/01/23,SEA,Sampdoria,0-2,Napoli
+13/01/23,SEA,Napoli,5-1,Juventus
+17/01/23,COI,Napoli,P2-2P,Cremonese
+21/01/23,SEA,Salernitana,0-2,Napoli
+29/01/23,SEA,Napoli,2-1,Roma
+05/02/23,SEA,Spezia,0-3,Napoli
+12/02/23,SEA,Napoli,3-0,Cremonese
+17/02/23,SEA,Sassuolo,0-2,Napoli
+21/02/23,UCL,Eintracht Frankfurt,0-2,Napoli
+25/02/23,SEA,Empoli,0-2,Napoli
+03/03/23,SEA,Napoli,0-1,Lazio
+11/03/23,SEA,Napoli,2-0,Atalanta
+15/03/23,UCL,Napoli,3-0,Eintracht Frankfurt
+19/03/23,SEA,Torino,0-4,Napoli
+02/04/23,SEA,Napoli,0-4,AC Milan
+07/04/23,SEA,Lecce,1-2,Napoli
+12/04/23,UCL,AC Milan,1-0,Napoli
+15/04/23,SEA,Napoli,0-0,Verona
+18/04/23,UCL,Napoli,1-1,AC Milan
+23/04/23,SEA,Juventus,0-1,Napoli
+30/04/23,SEA,Napoli,1-1,Salernitana
+04/05/23,SEA,Udinese,1-1,Napoli
+07/05/23,SEA,Napoli,1-0,Fiorentina
+14/05/23,SEA,Monza,2-0,Napoli
+21/05/23,SEA,Napoli,3-1,Inter Milan
+28/05/23,SEA,Bologna,2-2,Napoli
+04/06/23,SEA,Napoli,2-0,Sampdoria
+20/07/23,CLF,Napoli,6-1,Anaune
+24/07/23,CLF,Napoli,1-1,SPAL
+29/07/23,CLF,Napoli,4-0,Hatayspor
+02/08/23,CLF,Napoli,P1-1P,Girona
+06/08/23,CLF,Napoli,1-0,Augsburg
+28/10/21,SEA,Napoli,3-0,Bologna
+31/10/21,SEA,Salernitana,0-1,Napoli
+04/11/21,UEL,Legia Warsaw,1-4,Napoli
+07/11/21,SEA,Napoli,1-1,Verona
+21/11/21,SEA,Inter Milan,3-2,Napoli
+24/11/21,UEL,Spartak Moscow,2-1,Napoli
+28/11/21,SEA,Napoli,4-0,Lazio
+01/12/21,SEA,Sassuolo,2-2,Napoli
+04/12/21,SEA,Napoli,2-3,Atalanta
+09/12/21,UEL,Napoli,3-2,Leicester City
+12/12/21,SEA,Napoli,0-1,Empoli
+19/12/21,SEA,AC Milan,0-1,Napoli
+22/12/21,SEA,Napoli,0-1,Spezia
+06/01/22,SEA,Juventus,1-1,Napoli
+09/01/22,SEA,Napoli,1-0,Sampdoria
+13/01/22,COI,Napoli,E2-5E,Fiorentina
+17/01/22,SEA,Bologna,0-2,Napoli
+23/01/22,SEA,Napoli,4-1,Salernitana
+06/02/22,SEA,Venezia,0-2,Napoli
+12/02/22,SEA,Napoli,1-1,Inter Milan
+17/02/22,UEL,Barcelona,1-1,Napoli
+21/02/22,SEA,Cagliari,1-1,Napoli
+24/02/22,UEL,Napoli,2-4,Barcelona
+27/02/22,SEA,Lazio,1-2,Napoli
+06/03/22,SEA,Napoli,0-1,AC Milan
+13/03/22,SEA,Verona,1-2,Napoli
+19/03/22,SEA,Napoli,2-1,Udinese
+03/04/22,SEA,Atalanta,1-3,Napoli
+10/04/22,SEA,Napoli,2-3,Fiorentina
+18/04/22,SEA,Napoli,1-1,Roma
+24/04/22,SEA,Empoli,3-2,Napoli
+30/04/22,SEA,Napoli,6-1,Sassuolo
+07/05/22,SEA,Torino,0-1,Napoli
+15/05/22,SEA,Napoli,3-0,Genoa
+22/05/22,SEA,Spezia,0-3,Napoli
+14/07/22,CLF,Napoli,10-0,Anaune
+14/07/22,CLF,Napoli,CANC,Anaunia
+17/07/22,CLF,Napoli,4-1,Perugia
+27/07/22,CLF,Napoli,2-2,Adana Demirspor
+31/07/22,CLF,Napoli,1-1,Mallorca
+03/08/22,CLF,Napoli,3-1,Girona
+06/08/22,CLF,Napoli,0-0,Espanyol
+15/08/22,SEA,Verona,2-5,Napoli
+21/08/22,SEA,Napoli,4-0,Monza
+28/08/22,SEA,Fiorentina,0-0,Napoli
+31/08/22,SEA,Napoli,1-1,Lecce
+03/09/22,SEA,Lazio,1-2,Napoli
+07/09/22,UCL,Napoli,4-1,Liverpool
+10/09/22,SEA,Napoli,1-0,Spezia
+14/09/22,UCL,Rangers,0-3,Napoli
+03/01/21,SEA,Cagliari,1-4,Napoli
+06/01/21,SEA,Napoli,1-2,Spezia
+10/01/21,SEA,Udinese,1-2,Napoli
+13/01/21,COI,Napoli,3-2,Empoli
+17/01/21,SEA,Napoli,6-0,Fiorentina
+20/01/21,SUC,Juventus,2-0,Napoli
+24/01/21,SEA,Verona,3-1,Napoli
+28/01/21,COI,Napoli,4-2,Spezia
+31/01/21,SEA,Napoli,2-0,Parma
+03/02/21,COI,Napoli,0-0,Atalanta
+06/02/21,SEA,Genoa,2-1,Napoli
+10/02/21,COI,Atalanta,3-1,Napoli
+13/02/21,SEA,Napoli,1-0,Juventus
+18/02/21,UEL,Granada,2-0,Napoli
+21/02/21,SEA,Atalanta,4-2,Napoli
+25/02/21,UEL,Napoli,2-1,Granada
+28/02/21,SEA,Napoli,2-0,Benevento
+03/03/21,SEA,Sassuolo,3-3,Napoli
+07/03/21,SEA,Napoli,3-1,Bologna
+14/03/21,SEA,AC Milan,0-1,Napoli
+21/03/21,SEA,Roma,0-2,Napoli
+03/04/21,SEA,Napoli,4-3,Crotone
+07/04/21,SEA,Juventus,2-1,Napoli
+11/04/21,SEA,Sampdoria,0-2,Napoli
+18/04/21,SEA,Napoli,1-1,Inter Milan
+22/04/21,SEA,Napoli,5-2,Lazio
+26/04/21,SEA,Torino,0-2,Napoli
+02/05/21,SEA,Napoli,1-1,Cagliari
+08/05/21,SEA,Spezia,1-4,Napoli
+11/05/21,SEA,Napoli,5-1,Udinese
+16/05/21,SEA,Fiorentina,0-2,Napoli
+23/05/21,SEA,Napoli,1-1,Verona
+24/07/21,CLF,Napoli,1-0,Pro Vercelli
+31/07/21,CLF,Bayern Munich,0-3,Napoli
+04/08/21,CLF,Wisła Kraków,1-2,Napoli
+08/08/21,CLF,Napoli,2-1,Ascoli
+14/08/21,CLF,Napoli,4-0,Pescara
+22/08/21,SEA,Napoli,2-0,Venezia
+29/08/21,SEA,Genoa,1-2,Napoli
+06/09/21,CLF,Napoli,1-5,Benevento
+11/09/21,SEA,Napoli,2-1,Juventus
+16/09/21,UEL,Leicester City,2-2,Napoli
+20/09/21,SEA,Udinese,0-4,Napoli
+23/09/21,SEA,Sampdoria,0-4,Napoli
+26/09/21,SEA,Napoli,2-0,Cagliari
+30/09/21,UEL,Napoli,2-3,Spartak Moscow
+03/10/21,SEA,Fiorentina,1-2,Napoli
+17/10/21,SEA,Napoli,1-0,Torino
+21/10/21,UEL,Napoli,3-0,Legia Warsaw
+24/10/21,SEA,Roma,0-0,Napoli
+06/01/20,SEA,Napoli,1-3,Inter Milan
+11/01/20,SEA,Lazio,1-0,Napoli
+14/01/20,COI,Napoli,2-0,Perugia
+18/01/20,SEA,Napoli,0-2,Fiorentina
+21/01/20,COI,Napoli,1-0,Lazio
+26/01/20,SEA,Napoli,2-1,Juventus
+03/02/20,SEA,Sampdoria,2-4,Napoli
+09/02/20,SEA,Napoli,2-3,Lecce
+12/02/20,COI,Inter Milan,0-1,Napoli
+16/02/20,SEA,Cagliari,0-1,Napoli
+21/02/20,SEA,Brescia,1-2,Napoli
+25/02/20,UCL,Napoli,1-1,Barcelona
+29/02/20,SEA,Napoli,2-1,Torino
+13/06/20,COI,Napoli,1-1,Inter Milan
+17/06/20,COI,Napoli,P0-0P,Juventus
+23/06/20,SEA,Verona,0-2,Napoli
+28/06/20,SEA,Napoli,3-1,SPAL
+02/07/20,SEA,Atalanta,2-0,Napoli
+05/07/20,SEA,Napoli,2-1,Roma
+08/07/20,SEA,Genoa,1-2,Napoli
+12/07/20,SEA,Napoli,2-2,AC Milan
+15/07/20,SEA,Bologna,1-1,Napoli
+19/07/20,SEA,Napoli,2-1,Udinese
+22/07/20,SEA,Parma,2-1,Napoli
+25/07/20,SEA,Napoli,2-0,Sassuolo
+28/07/20,SEA,Inter Milan,2-0,Napoli
+01/08/20,SEA,Napoli,3-1,Lazio
+08/08/20,UCL,Barcelona,3-1,Napoli
+04/09/20,CLF,Napoli,4-0,Teramo
+11/09/20,CLF,Napoli,4-0,Pescara
+13/09/20,CLF,Sporting Lisbon,CANC,Napoli
+20/09/20,SEA,Parma,0-2,Napoli
+27/09/20,SEA,Napoli,6-0,Genoa
+17/10/20,SEA,Napoli,4-1,Atalanta
+22/10/20,UEL,Napoli,0-1,AZ
+25/10/20,SEA,Benevento,1-2,Napoli
+29/10/20,UEL,Real Sociedad,0-1,Napoli
+01/11/20,SEA,Napoli,0-2,Sassuolo
+05/11/20,UEL,Rijeka,1-2,Napoli
+08/11/20,SEA,Bologna,0-1,Napoli
+22/11/20,SEA,Napoli,1-3,AC Milan
+26/11/20,UEL,Napoli,2-0,Rijeka
+29/11/20,SEA,Napoli,4-0,Roma
+03/12/20,UEL,AZ,1-1,Napoli
+06/12/20,SEA,Crotone,0-4,Napoli
+10/12/20,UEL,Napoli,1-1,Real Sociedad
+13/12/20,SEA,Napoli,2-1,Sampdoria
+16/12/20,SEA,Inter Milan,1-0,Napoli
+20/12/20,SEA,Lazio,2-0,Napoli
+23/12/20,SEA,Napoli,1-1,Torino
+17/02/19,SEA,Napoli,0-0,Torino
+21/02/19,UEL,Napoli,2-0,Zürich
+24/02/19,SEA,Parma,0-4,Napoli
+03/03/19,SEA,Napoli,1-2,Juventus
+07/03/19,UEL,Napoli,3-0,Salzburg
+10/03/19,SEA,Sassuolo,1-1,Napoli
+14/03/19,UEL,Salzburg,3-1,Napoli
+17/03/19,SEA,Napoli,4-2,Udinese
+31/03/19,SEA,Roma,1-4,Napoli
+03/04/19,SEA,Empoli,2-1,Napoli
+07/04/19,SEA,Napoli,1-1,Genoa
+11/04/19,UEL,Arsenal,2-0,Napoli
+14/04/19,SEA,Chievo,1-3,Napoli
+18/04/19,UEL,Napoli,0-1,Arsenal
+22/04/19,SEA,Napoli,1-2,Atalanta
+28/04/19,SEA,Frosinone,0-2,Napoli
+05/05/19,SEA,Napoli,2-1,Cagliari
+12/05/19,SEA,SPAL,1-2,Napoli
+19/05/19,SEA,Napoli,4-1,Inter Milan
+25/05/19,SEA,Bologna,3-2,Napoli
+13/07/19,CLF,Napoli,1-2,Benevento
+19/07/19,CLF,Napoli,5-0,FeralpiSalò
+24/07/19,CLF,Napoli,3-3,Cremonese
+28/07/19,CLF,Liverpool,0-3,Napoli
+04/08/19,CLF,Marseille,0-1,Napoli
+08/08/19,CLF,Barcelona,2-1,Napoli
+10/08/19,CLF,Napoli,0-4,Barcelona
+24/08/19,SEA,Fiorentina,3-4,Napoli
+31/08/19,SEA,Juventus,4-3,Napoli
+14/09/19,SEA,Napoli,2-0,Sampdoria
+17/09/19,UCL,Napoli,2-0,Liverpool
+22/09/19,SEA,Lecce,1-4,Napoli
+25/09/19,SEA,Napoli,0-1,Cagliari
+29/09/19,SEA,Napoli,2-1,Brescia
+02/10/19,UCL,Genk,0-0,Napoli
+06/10/19,SEA,Torino,0-0,Napoli
+19/10/19,SEA,Napoli,2-0,Verona
+23/10/19,UCL,Salzburg,2-3,Napoli
+27/10/19,SEA,SPAL,1-1,Napoli
+30/10/19,SEA,Napoli,2-2,Atalanta
+02/11/19,SEA,Roma,2-1,Napoli
+05/11/19,UCL,Napoli,1-1,Salzburg
+09/11/19,SEA,Napoli,0-0,Genoa
+23/11/19,SEA,AC Milan,1-1,Napoli
+27/11/19,UCL,Liverpool,1-1,Napoli
+01/12/19,SEA,Napoli,1-2,Bologna
+07/12/19,SEA,Udinese,1-1,Napoli
+10/12/19,UCL,Napoli,4-0,Genk
+14/12/19,SEA,Napoli,1-2,Parma
+22/12/19,SEA,Sassuolo,1-2,Napoli
+03/03/18,SEA,Napoli,2-4,Roma
+11/03/18,SEA,Inter Milan,0-0,Napoli
+18/03/18,SEA,Napoli,1-0,Genoa
+31/03/18,SEA,Sassuolo,1-1,Napoli
+08/04/18,SEA,Napoli,2-1,Chievo
+15/04/18,SEA,AC Milan,0-0,Napoli
+18/04/18,SEA,Napoli,4-2,Udinese
+22/04/18,SEA,Juventus,0-1,Napoli
+29/04/18,SEA,Fiorentina,3-0,Napoli
+06/05/18,SEA,Napoli,2-2,Torino
+13/05/18,SEA,Sampdoria,0-2,Napoli
+20/05/18,SEA,Napoli,2-1,Crotone
+14/07/18,CLF,Napoli,4-0,Gozzano
+22/07/18,CLF,Napoli,5-1,Carpi
+29/07/18,CLF,Napoli,2-0,Chievo
+04/08/18,CLF,Liverpool,5-0,Napoli
+07/08/18,CLF,Borussia Dortmund,1-3,Napoli
+11/08/18,CLF,Wolfsburg,3-1,Napoli
+18/08/18,SEA,Lazio,1-2,Napoli
+25/08/18,SEA,Napoli,3-2,AC Milan
+02/09/18,SEA,Sampdoria,3-0,Napoli
+15/09/18,SEA,Napoli,1-0,Fiorentina
+18/09/18,UCL,Red Star Belgrade,0-0,Napoli
+23/09/18,SEA,Torino,1-3,Napoli
+26/09/18,SEA,Napoli,3-0,Parma
+29/09/18,SEA,Juventus,3-1,Napoli
+03/10/18,UCL,Napoli,1-0,Liverpool
+07/10/18,SEA,Napoli,2-0,Sassuolo
+20/10/18,SEA,Udinese,0-3,Napoli
+24/10/18,UCL,PSG,2-2,Napoli
+28/10/18,SEA,Napoli,1-1,Roma
+02/11/18,SEA,Napoli,5-1,Empoli
+06/11/18,UCL,Napoli,1-1,PSG
+10/11/18,SEA,Genoa,1-2,Napoli
+25/11/18,SEA,Napoli,0-0,Chievo
+28/11/18,UCL,Napoli,3-1,Red Star Belgrade
+03/12/18,SEA,Atalanta,1-2,Napoli
+08/12/18,SEA,Napoli,4-0,Frosinone
+11/12/18,UCL,Liverpool,1-0,Napoli
+16/12/18,SEA,Cagliari,0-1,Napoli
+22/12/18,SEA,Napoli,1-0,SPAL
+26/12/18,SEA,Inter Milan,1-0,Napoli
+29/12/18,SEA,Napoli,3-2,Bologna
+13/01/19,COI,Napoli,2-0,Sassuolo
+20/01/19,SEA,Napoli,2-1,Lazio
+26/01/19,SEA,AC Milan,0-0,Napoli
+29/01/19,COI,AC Milan,2-0,Napoli
+02/02/19,SEA,Napoli,3-0,Sampdoria
+09/02/19,SEA,Fiorentina,0-0,Napoli
+14/02/19,UEL,Zürich,1-3,Napoli
+06/05/17,SEA,Napoli,3-1,Cagliari
+14/05/17,SEA,Torino,0-5,Napoli
+20/05/17,SEA,Napoli,4-1,Fiorentina
+28/05/17,SEA,Sampdoria,2-4,Napoli
+12/07/17,CLF,Napoli,17-0,Anaunia
+15/07/17,CLF,Napoli,7-0,Trento
+18/07/17,CLF,Napoli,4-1,Carpi
+22/07/17,CLF,Napoli,1-1,Chievo
+01/08/17,AUC,Atletico Madrid,2-1,Napoli
+02/08/17,AUC,Bayern Munich,0-2,Napoli
+06/08/17,CLF,AFC Bournemouth,2-2,Napoli
+10/08/17,CLF,Napoli,2-0,Espanyol
+16/08/17,UCL,Napoli,2-0,Nice
+19/08/17,SEA,Verona,1-3,Napoli
+22/08/17,UCL,Nice,0-2,Napoli
+27/08/17,SEA,Napoli,3-1,Atalanta
+10/09/17,SEA,Bologna,0-3,Napoli
+13/09/17,UCL,Shakhtar Donetsk,2-1,Napoli
+17/09/17,SEA,Napoli,6-0,Benevento
+20/09/17,SEA,Lazio,1-4,Napoli
+23/09/17,SEA,SPAL,2-3,Napoli
+26/09/17,UCL,Napoli,3-1,Feyenoord
+01/10/17,SEA,Napoli,3-0,Cagliari
+14/10/17,SEA,Roma,0-1,Napoli
+17/10/17,UCL,Manchester City,2-1,Napoli
+21/10/17,SEA,Napoli,0-0,Inter Milan
+25/10/17,SEA,Genoa,2-3,Napoli
+29/10/17,SEA,Napoli,3-1,Sassuolo
+01/11/17,UCL,Napoli,2-4,Manchester City
+05/11/17,SEA,Chievo,0-0,Napoli
+18/11/17,SEA,Napoli,2-1,AC Milan
+21/11/17,UCL,Napoli,3-0,Shakhtar Donetsk
+26/11/17,SEA,Udinese,0-1,Napoli
+01/12/17,SEA,Napoli,0-1,Juventus
+06/12/17,UCL,Feyenoord,2-1,Napoli
+10/12/17,SEA,Napoli,0-0,Fiorentina
+16/12/17,SEA,Torino,1-3,Napoli
+19/12/17,COI,Napoli,1-0,Udinese
+23/12/17,SEA,Napoli,3-2,Sampdoria
+29/12/17,SEA,Crotone,0-1,Napoli
+02/01/18,COI,Napoli,1-2,Atalanta
+06/01/18,SEA,Napoli,2-0,Verona
+21/01/18,SEA,Atalanta,0-1,Napoli
+28/01/18,SEA,Napoli,3-1,Bologna
+04/02/18,SEA,Benevento,0-2,Napoli
+10/02/18,SEA,Napoli,4-1,Lazio
+15/02/18,UEL,Napoli,1-3,RB Leipzig
+18/02/18,SEA,Napoli,1-0,SPAL
+22/02/18,UEL,RB Leipzig,0-2,Napoli
+26/02/18,SEA,Cagliari,0-5,Napoli
+28/07/16,CLF,Napoli,5-0,Virtus Entella
+01/08/16,CLF,Napoli,3-0,Nice
+07/08/16,CLF,Napoli,5-0,Monaco
+13/08/16,CLF,Hertha Berlin,1-4,Napoli
+21/08/16,SEA,Pescara,2-2,Napoli
+27/08/16,SEA,Napoli,4-2,AC Milan
+10/09/16,SEA,Palermo,0-3,Napoli
+13/09/16,UCL,Dinamo Kiev,1-2,Napoli
+17/09/16,SEA,Napoli,3-1,Bologna
+21/09/16,SEA,Genoa,0-0,Napoli
+24/09/16,SEA,Napoli,2-0,Chievo
+28/09/16,UCL,Napoli,4-2,Benfica
+02/10/16,SEA,Atalanta,1-0,Napoli
+15/10/16,SEA,Napoli,1-3,Roma
+19/10/16,UCL,Napoli,2-3,Besiktas
+23/10/16,SEA,Crotone,1-2,Napoli
+26/10/16,SEA,Napoli,2-0,Empoli
+29/10/16,SEA,Juventus,2-1,Napoli
+01/11/16,UCL,Besiktas,1-1,Napoli
+05/11/16,SEA,Napoli,1-1,Lazio
+19/11/16,SEA,Udinese,1-2,Napoli
+23/11/16,UCL,Napoli,0-0,Dinamo Kiev
+28/11/16,SEA,Napoli,1-1,Sassuolo
+02/12/16,SEA,Napoli,3-0,Inter Milan
+06/12/16,UCL,Benfica,1-2,Napoli
+11/12/16,SEA,Cagliari,0-5,Napoli
+18/12/16,SEA,Napoli,5-3,Torino
+22/12/16,SEA,Fiorentina,3-3,Napoli
+07/01/17,SEA,Napoli,2-1,Sampdoria
+10/01/17,COI,Napoli,3-1,Spezia
+15/01/17,SEA,Napoli,3-1,Pescara
+21/01/17,SEA,AC Milan,1-2,Napoli
+24/01/17,COI,Napoli,1-0,Fiorentina
+29/01/17,SEA,Napoli,1-1,Palermo
+04/02/17,SEA,Bologna,1-7,Napoli
+10/02/17,SEA,Napoli,2-0,Genoa
+15/02/17,UCL,Real Madrid,3-1,Napoli
+19/02/17,SEA,Chievo,1-3,Napoli
+25/02/17,SEA,Napoli,0-2,Atalanta
+28/02/17,COI,Juventus,3-1,Napoli
+04/03/17,SEA,Roma,1-2,Napoli
+07/03/17,UCL,Napoli,1-3,Real Madrid
+12/03/17,SEA,Napoli,3-0,Crotone
+19/03/17,SEA,Empoli,2-3,Napoli
+02/04/17,SEA,Napoli,1-1,Juventus
+05/04/17,COI,Napoli,3-2,Juventus
+09/04/17,SEA,Lazio,0-3,Napoli
+15/04/17,SEA,Napoli,3-0,Udinese
+23/04/17,SEA,Sassuolo,2-2,Napoli
+30/04/17,SEA,Inter Milan,0-1,Napoli
+02/08/15,CLF,Nice,3-2,Napoli
+08/08/15,CLF,Porto,0-0,Napoli
+23/08/15,SEA,Sassuolo,2-1,Napoli
+30/08/15,SEA,Napoli,2-2,Sampdoria
+13/09/15,SEA,Empoli,2-2,Napoli
+17/09/15,UEL,Napoli,5-0,Club Brugge
+20/09/15,SEA,Napoli,5-0,Lazio
+23/09/15,SEA,Carpi,0-0,Napoli
+26/09/15,SEA,Napoli,2-1,Juventus
+01/10/15,UEL,Legia Warsaw,0-2,Napoli
+04/10/15,SEA,AC Milan,0-4,Napoli
+18/10/15,SEA,Napoli,2-1,Fiorentina
+22/10/15,UEL,Midtjylland,1-4,Napoli
+25/10/15,SEA,Chievo,0-1,Napoli
+28/10/15,SEA,Napoli,2-0,Palermo
+01/11/15,SEA,Genoa,0-0,Napoli
+05/11/15,UEL,Napoli,5-0,Midtjylland
+08/11/15,SEA,Napoli,1-0,Udinese
+22/11/15,SEA,Verona,0-2,Napoli
+26/11/15,UEL,Club Brugge,0-1,Napoli
+30/11/15,SEA,Napoli,2-1,Inter Milan
+06/12/15,SEA,Bologna,3-2,Napoli
+10/12/15,UEL,Napoli,5-2,Legia Warsaw
+13/12/15,SEA,Napoli,0-0,Roma
+16/12/15,COI,Napoli,3-0,Verona
+20/12/15,SEA,Atalanta,1-3,Napoli
+06/01/16,SEA,Napoli,2-1,Torino
+10/01/16,SEA,Frosinone,1-5,Napoli
+16/01/16,SEA,Napoli,3-1,Sassuolo
+19/01/16,COI,Napoli,0-2,Inter Milan
+24/01/16,SEA,Sampdoria,2-4,Napoli
+31/01/16,SEA,Napoli,5-1,Empoli
+03/02/16,SEA,Lazio,0-2,Napoli
+07/02/16,SEA,Napoli,1-0,Carpi
+13/02/16,SEA,Juventus,1-0,Napoli
+18/02/16,UEL,Villarreal,1-0,Napoli
+22/02/16,SEA,Napoli,1-1,AC Milan
+25/02/16,UEL,Napoli,1-1,Villarreal
+29/02/16,SEA,Fiorentina,1-1,Napoli
+05/03/16,SEA,Napoli,3-1,Chievo
+13/03/16,SEA,Palermo,0-1,Napoli
+20/03/16,SEA,Napoli,3-1,Genoa
+03/04/16,SEA,Udinese,3-1,Napoli
+10/04/16,SEA,Napoli,3-0,Verona
+16/04/16,SEA,Inter Milan,2-0,Napoli
+19/04/16,SEA,Napoli,6-0,Bologna
+25/04/16,SEA,Roma,1-0,Napoli
+02/05/16,SEA,Napoli,2-1,Atalanta
+08/05/16,SEA,Torino,1-2,Napoli
+14/05/16,SEA,Napoli,4-0,Frosinone

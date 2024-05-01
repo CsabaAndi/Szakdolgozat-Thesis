@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+16/04/23,PRL,Rio Ave,1-1,Casa Pia
+21/04/23,PRL,Casa Pia,0-1,Sporting Braga
+29/04/23,PRL,Chaves,1-0,Casa Pia
+05/05/23,PRL,Casa Pia,1-1,Portimonense
+14/05/23,PRL,Porto,2-1,Casa Pia
+21/05/23,PRL,Casa Pia,2-2,Estoril
+27/05/23,PRL,Gil Vicente,1-0,Casa Pia
+08/07/23,CLF,Casa Pia,2-0,Mafra
+15/07/23,CLF,Estrela,1-1,Casa Pia
+19/07/23,CLF,Casa Pia,1-0,Moreirense
+23/07/23,TDL,Vilaverdense,0-2,Casa Pia
+30/07/23,TDL,Torreense,0-2,Casa Pia
+12/08/23,PRL,Farense,0-3,Casa Pia
+18/08/23,PRL,Casa Pia,1-2,Sporting Lisbon
+27/08/23,PRL,Boavista,1-1,Casa Pia
+02/09/23,PRL,Casa Pia,1-1,Rio Ave
+17/09/23,PRL,Arouca,0-1,Casa Pia
+23/09/23,PRL,Casa Pia,0-0,Vitoria Guimaraes
+28/09/23,TDL,Casa Pia,2-1,Nacional
+02/10/23,PRL,Gil Vicente,2-0,Casa Pia
+08/10/23,PRL,Casa Pia,0-1,Estrela
+21/10/23,TDP,Rabo Peixe,0-2,Casa Pia
+28/10/23,PRL,Benfica,1-1,Casa Pia
+01/11/23,TDL,Sporting Braga,1-1,Casa Pia
+05/11/23,PRL,Casa Pia,0-1,Vizela
+10/11/23,PRL,Estoril,4-0,Casa Pia
+25/11/23,TDP,Nacional,P0-0P,Casa Pia
+02/12/23,PRL,Casa Pia,1-0,Portimonense
+09/12/23,PRL,Porto,3-1,Casa Pia
+17/12/23,PRL,Chaves,1-3,Casa Pia
+30/12/23,PRL,Casa Pia,1-3,Sporting Braga
+08/01/24,PRL,Moreirense,1-4,Casa Pia
+13/01/24,PRL,Casa Pia,0-2,Famalicão
+20/01/24,PRL,Casa Pia,1-3,Farense
+29/01/24,PRL,Sporting Lisbon,8-0,Casa Pia
+05/02/24,PRL,Casa Pia,0-0,Boavista
+11/02/24,PRL,Rio Ave,1-0,Casa Pia
+18/02/24,PRL,Casa Pia,1-0,Arouca
+24/02/24,PRL,Vitoria Guimaraes,0-2,Casa Pia
+03/03/24,PRL,Casa Pia,0-0,Gil Vicente
+08/03/24,PRL,Estrela,3-1,Casa Pia
+17/03/24,PRL,Casa Pia,0-1,Benfica
+31/03/24,PRL,Vizela,0-4,Casa Pia
+08/04/24,PRL,Casa Pia,0-0,Estoril
+14/04/24,PRL,Portimonense,2-2,Casa Pia
+21/04/24,PRL,Casa Pia,1-2,Porto
+27/04/24,PRL,Casa Pia,3-1,Chaves
+05/05/24,PRL,Sporting Braga,19:00,Casa Pia
+12/05/24,PRL,Casa Pia,19:00,Moreirense
+19/05/24,PRL,Famalicão,-,Casa Pia
+11/02/22,SEL,Casa Pia,1-0,Trofense
+19/02/22,SEL,Casa Pia,1-0,Nacional
+26/02/22,SEL,Sporting Covilhã,0-1,Casa Pia
+08/03/22,SEL,Casa Pia,3-1,Mafra
+13/03/22,SEL,Chaves,4-1,Casa Pia
+20/03/22,SEL,Casa Pia,1-1,Feirense
+03/04/22,SEL,Académica,0-2,Casa Pia
+09/04/22,SEL,Casa Pia,1-0,Farense
+15/04/22,SEL,Varzim,1-0,Casa Pia
+23/04/22,SEL,Casa Pia,3-0,Estrela
+01/05/22,SEL,Rio Ave,1-0,Casa Pia
+07/05/22,SEL,Casa Pia,2-1,Vilafranquense
+15/05/22,SEL,Leixões,1-5,Casa Pia
+08/07/22,CLF,Casa Pia,1-2,Sheffield United
+20/07/22,CLF,Mafra,0-1,Casa Pia
+07/08/22,PRL,Santa Clara,0-0,Casa Pia
+13/08/22,PRL,Casa Pia,0-1,Benfica
+21/08/22,PRL,Casa Pia,2-0,Boavista
+29/08/22,PRL,Vitoria Guimaraes,0-1,Casa Pia
+04/09/22,PRL,Casa Pia,0-0,Arouca
+11/09/22,PRL,Paços Ferreira,2-3,Casa Pia
+18/09/22,PRL,Casa Pia,1-0,Famalicão
+03/10/22,PRL,Marítimo,1-2,Casa Pia
+09/10/22,PRL,Casa Pia,0-1,Vizela
+16/10/22,TDP,AR São Martinho,0-2,Casa Pia
+22/10/22,PRL,Sporting Lisbon,3-1,Casa Pia
+30/10/22,PRL,Casa Pia,1-0,Rio Ave
+06/11/22,PRL,Sporting Braga,0-1,Casa Pia
+09/11/22,TDP,Casa Pia,2-0,Valadares Gaia
+13/11/22,PRL,Casa Pia,1-2,Chaves
+20/11/22,TDL,Paços Ferreira,1-1,Casa Pia
+03/12/22,TDL,Casa Pia,0-1,Sporting Braga
+11/12/22,TDL,Casa Pia,1-0,Trofense
+19/12/22,CLF,Roma,1-0,Casa Pia
+28/12/22,PRL,Portimonense,1-2,Casa Pia
+07/01/23,PRL,Casa Pia,0-0,Porto
+12/01/23,TDP,Vitória Setúbal,0-1,Casa Pia
+16/01/23,PRL,Estoril,2-0,Casa Pia
+22/01/23,PRL,Casa Pia,1-3,Gil Vicente
+29/01/23,PRL,Casa Pia,2-1,Santa Clara
+04/02/23,PRL,Benfica,3-0,Casa Pia
+09/02/23,TDP,Casa Pia,E2-5E,Nacional
+13/02/23,PRL,Boavista,0-0,Casa Pia
+19/02/23,PRL,Casa Pia,0-0,Vitoria Guimaraes
+25/02/23,PRL,Arouca,2-0,Casa Pia
+06/03/23,PRL,Casa Pia,2-1,Paços Ferreira
+13/03/23,PRL,Famalicão,1-0,Casa Pia
+19/03/23,PRL,Casa Pia,2-0,Marítimo
+01/04/23,PRL,Vizela,3-1,Casa Pia
+09/04/23,PRL,Casa Pia,3-4,Sporting Lisbon
+31/01/21,SEL,Casa Pia,1-1,Leixões
+07/02/21,SEL,Benfica II,2-0,Casa Pia
+14/02/21,SEL,Casa Pia,0-1,Feirense
+20/02/21,SEL,Vizela,3-1,Casa Pia
+28/02/21,SEL,Casa Pia,2-0,Oliveirense
+08/03/21,SEL,Porto II,1-1,Casa Pia
+13/03/21,SEL,Casa Pia,3-0,Vilafranquense
+22/03/21,SEL,Penafiel,1-1,Casa Pia
+28/03/21,SEL,Sporting Covilhã,0-0,Casa Pia
+06/04/21,SEL,Casa Pia,1-2,Chaves
+13/04/21,SEL,Mafra,0-4,Casa Pia
+18/04/21,SEL,Casa Pia,0-3,Académica
+23/04/21,SEL,Estoril,1-1,Casa Pia
+02/05/21,SEL,Casa Pia,0-0,Academico Viseu
+09/05/21,SEL,Arouca,2-1,Casa Pia
+16/05/21,SEL,Casa Pia,3-0,Varzim
+22/05/21,SEL,Cova Piedade,4-0,Casa Pia
+08/07/21,CLF,Casa Pia,2-0,SønderjyskE
+13/07/21,CLF,Casa Pia,CANC,Vilafranquense
+14/07/21,CLF,Casa Pia,2-1,Torreense
+17/07/21,CLF,Casa Pia,CANC,Benfica II
+17/07/21,CLF,Casa Pia,1-0,Mafra
+24/07/21,TDL,Academico Viseu,1-4,Casa Pia
+28/07/21,CLF,Casa Pia,0-0,União Santarém
+01/08/21,TDL,Casa Pia,0-1,Vitoria Guimaraes
+07/08/21,SEL,Academico Viseu,2-1,Casa Pia
+14/08/21,SEL,Casa Pia,2-0,Porto II
+21/08/21,SEL,Penafiel,1-0,Casa Pia
+28/08/21,SEL,Casa Pia,4-2,Benfica II
+12/09/21,SEL,Trofense,0-0,Casa Pia
+19/09/21,SEL,Nacional,1-2,Casa Pia
+25/09/21,TDP,Canelas 2010,2-4,Casa Pia
+03/10/21,SEL,Casa Pia,4-0,Sporting Covilhã
+10/10/21,SEL,Mafra,1-1,Casa Pia
+16/10/21,TDP,Valadares Gaia,1-3,Casa Pia
+23/10/21,SEL,Casa Pia,1-0,Chaves
+31/10/21,SEL,Feirense,1-1,Casa Pia
+06/11/21,SEL,Casa Pia,2-0,Académica
+19/11/21,TDP,Casa Pia,3-1,Farense
+26/11/21,SEL,Farense,0-1,Casa Pia
+02/12/21,SEL,Casa Pia,1-0,Varzim
+13/12/21,SEL,Estrela,1-0,Casa Pia
+19/12/21,SEL,Casa Pia,0-1,Rio Ave
+22/12/21,TDP,Casa Pia,1-2,Sporting Lisbon
+03/01/22,SEL,Vilafranquense,0-2,Casa Pia
+09/01/22,SEL,Casa Pia,1-0,Leixões
+15/01/22,SEL,Casa Pia,0-1,Academico Viseu
+23/01/22,SEL,Porto II,0-3,Casa Pia
+31/01/22,SEL,Casa Pia,2-0,Penafiel
+04/02/22,SEL,Benfica II,1-1,Casa Pia
+20/10/19,TDP,Casa Pia,1-3,Vizela
+26/10/19,SEL,Casa Pia,2-3,Academico Viseu
+02/11/19,SEL,Casa Pia,3-2,Vilafranquense
+10/11/19,SEL,Chaves,2-0,Casa Pia
+16/11/19,TDL,Casa Pia,0-1,Chaves
+01/12/19,SEL,Casa Pia,0-1,Nacional
+05/12/19,TDL,Casa Pia,0-3,Porto
+08/12/19,SEL,Académica,3-1,Casa Pia
+14/12/19,SEL,Casa Pia,0-1,Mafra
+22/12/19,TDL,Santa Clara,1-2,Casa Pia
+29/12/19,SEL,Feirense,1-1,Casa Pia
+05/01/20,SEL,Casa Pia,1-4,Sporting Covilhã
+11/01/20,SEL,Benfica II,4-0,Casa Pia
+19/01/20,SEL,Casa Pia,2-2,Varzim
+26/01/20,SEL,Casa Pia,0-2,Farense
+01/02/20,SEL,Penafiel,1-1,Casa Pia
+09/02/20,SEL,Estoril,4-1,Casa Pia
+16/02/20,SEL,Casa Pia,1-3,Porto II
+22/02/20,SEL,Oliveirense,2-1,Casa Pia
+01/03/20,SEL,Casa Pia,1-1,Cova Piedade
+08/03/20,SEL,Academico Viseu,1-0,Casa Pia
+15/03/20,SEL,Casa Pia,CANC,Leixões
+21/03/20,SEL,Vilafranquense,CANC,Casa Pia
+05/04/20,SEL,Casa Pia,CANC,Chaves
+11/04/20,SEL,Nacional,CANC,Casa Pia
+19/04/20,SEL,Casa Pia,CANC,Académica
+22/04/20,SEL,Mafra,CANC,Casa Pia
+26/04/20,SEL,Casa Pia,CANC,Feirense
+03/05/20,SEL,Sporting Covilhã,CANC,Casa Pia
+10/05/20,SEL,Casa Pia,CANC,Benfica II
+17/05/20,SEL,Varzim,CANC,Casa Pia
+13/09/20,SEL,Leixões,2-2,Casa Pia
+19/09/20,SEL,Casa Pia,0-6,Benfica II
+22/09/20,SEL,Feirense,2-1,Casa Pia
+27/09/20,SEL,Casa Pia,1-1,Vizela
+03/10/20,SEL,Oliveirense,0-1,Casa Pia
+11/10/20,TDP,Vila Real,2-3,Casa Pia
+17/10/20,SEL,Casa Pia,2-1,Porto II
+24/10/20,SEL,Vilafranquense,2-2,Casa Pia
+01/11/20,SEL,Casa Pia,3-3,Penafiel
+07/11/20,SEL,Casa Pia,0-1,Sporting Covilhã
+25/11/20,TDP,Casa Pia,E2-3E,Nacional
+01/12/20,SEL,Chaves,1-2,Casa Pia
+08/12/20,SEL,Casa Pia,2-0,Mafra
+20/12/20,SEL,Académica,1-1,Casa Pia
+30/12/20,SEL,Casa Pia,0-2,Estoril
+05/01/21,SEL,Academico Viseu,1-1,Casa Pia
+10/01/21,SEL,Casa Pia,1-1,Arouca
+17/01/21,SEL,Varzim,0-1,Casa Pia
+25/01/21,SEL,Casa Pia,2-1,Cova Piedade
+02/09/18,CDP,Casa Pia,2-1,Olímpico do Montijo
+08/09/18,TDP,Casa Pia,6-0,Graciosa
+23/09/18,CDP,Casa Pia,5-0,Angrense
+30/09/18,TDP,Casa Pia,2-0,Olímpico do Montijo
+07/10/18,CDP,Vasco da Gama Vidigueira,1-3,Casa Pia
+14/10/18,CDP,Casa Pia,2-0,Oriental Lisboa
+21/10/18,TDP,Casa Pia,2-1,Angrense
+28/10/18,CDP,Ferreiras,1-0,Casa Pia
+04/11/18,CDP,Casa Pia,4-0,Ideal
+11/11/18,CDP,Armacenenses,1-4,Casa Pia
+18/11/18,CDP,Casa Pia,3-1,Sacavenense
+25/11/18,TDP,Paços Ferreira,3-1,Casa Pia
+02/12/18,CDP,Casa Pia,2-0,Olhanense
+09/12/18,CDP,Redondense,0-7,Casa Pia
+15/12/18,CDP,Casa Pia,2-1,1º Dezembro
+20/12/18,CDP,Praiense,2-1,Casa Pia
+06/01/19,CDP,Amora,1-0,Casa Pia
+13/01/19,CDP,Casa Pia,3-2,Real
+20/01/19,CDP,Casa Pia,2-1,Louletano
+27/01/19,CDP,Moura,0-1,Casa Pia
+03/02/19,CDP,Casa Pia,4-0,Pinhalnovense
+10/02/19,CDP,Olímpico do Montijo,3-2,Casa Pia
+17/02/19,CDP,Casa Pia,0-2,Praiense
+24/02/19,CDP,Angrense,0-0,Casa Pia
+03/03/19,CDP,Casa Pia,2-1,Vasco da Gama Vidigueira
+10/03/19,CDP,Oriental Lisboa,1-0,Casa Pia
+17/03/19,CDP,Casa Pia,4-1,Ferreiras
+24/03/19,CDP,Ideal,0-2,Casa Pia
+31/03/19,CDP,Casa Pia,1-2,Armacenenses
+07/04/19,CDP,Sacavenense,1-2,Casa Pia
+15/04/19,CDP,Olhanense,1-2,Casa Pia
+19/04/19,CDP,Casa Pia,4-0,Redondense
+28/04/19,CDP,1º Dezembro,1-2,Casa Pia
+05/05/19,CDP,Casa Pia,1-0,Amora
+12/05/19,CDP,Real,2-0,Casa Pia
+25/05/19,CDP,Casa Pia,1-0,Espinho
+02/06/19,CDP,Espinho,P1-0P,Casa Pia
+09/06/19,CDP,Casa Pia,1-0,Praiense
+16/06/19,CDP,Praiense,2-1,Casa Pia
+23/06/19,CDP,Vilafranquense,P2-2P,Casa Pia
+28/07/19,TDL,Casa Pia,P0-0P,Vilafranquense
+03/08/19,TDL,Casa Pia,2-0,Boavista
+10/08/19,SEL,Farense,3-1,Casa Pia
+17/08/19,SEL,Casa Pia,1-2,Penafiel
+25/08/19,SEL,Casa Pia,0-1,Estoril
+31/08/19,SEL,Porto II,0-0,Casa Pia
+15/09/19,SEL,Casa Pia,1-3,Oliveirense
+22/09/19,SEL,Cova Piedade,0-1,Casa Pia
+29/09/19,TDP,Aljustrelense,0-2,Casa Pia
+12/10/19,SEL,Leixões,1-0,Casa Pia
+19/02/17,CDP,Sintrense,0-0,Casa Pia
+26/02/17,CDP,Viana Alentejo,1-4,Casa Pia
+05/03/17,CDP,Casa Pia,3-1,Loures
+12/03/17,CDP,Aljustrelense,1-3,Casa Pia
+19/03/17,CDP,Casa Pia,3-3,Oriental Lisboa
+26/03/17,CDP,Armacenenses,2-3,Casa Pia
+02/04/17,CDP,Fabril Barreiro,2-4,Casa Pia
+09/04/17,CDP,Casa Pia,0-0,Sintrense
+15/04/17,CDP,Casa Pia,5-1,Viana Alentejo
+23/04/17,CDP,Loures,2-0,Casa Pia
+30/04/17,CDP,Casa Pia,7-0,Aljustrelense
+07/05/17,CDP,Oriental Lisboa,2-0,Casa Pia
+14/05/17,CDP,Casa Pia,2-2,Armacenenses
+20/08/17,CDP,Casa Pia,3-1,Lusitano VRSA
+27/08/17,CDP,Oriental Lisboa,2-2,Casa Pia
+03/09/17,TDP,Casa Pia,2-0,Pinhalnovense
+10/09/17,CDP,Casa Pia,2-0,Castrense
+17/09/17,CDP,Farense,1-2,Casa Pia
+24/09/17,TDP,Casa Pia,5-0,Recreativo Canaviais
+30/09/17,CDP,Casa Pia,0-0,Armacenenses
+08/10/17,CDP,Olímpico do Montijo,1-1,Casa Pia
+15/10/17,TDP,Vilafranquense,E2-1E,Casa Pia
+22/10/17,CDP,Casa Pia,2-0,Almancilense
+29/10/17,CDP,Louletano,0-1,Casa Pia
+05/11/17,CDP,Casa Pia,1-0,Operário
+12/11/17,CDP,Moura,0-1,Casa Pia
+26/11/17,CDP,Casa Pia,5-0,Moncarapachense
+03/12/17,CDP,Pinhalnovense,1-0,Casa Pia
+10/12/17,CDP,Olhanense,3-0,Casa Pia
+17/12/17,CDP,Casa Pia,2-0,Estrela Vendas Novas
+07/01/18,CDP,Ideal,1-2,Casa Pia
+14/01/18,CDP,Lusitano VRSA,0-4,Casa Pia
+21/01/18,CDP,Casa Pia,1-0,Oriental Lisboa
+28/01/18,CDP,Castrense,0-0,Casa Pia
+04/02/18,CDP,Casa Pia,0-1,Farense
+11/02/18,CDP,Armacenenses,1-2,Casa Pia
+18/02/18,CDP,Casa Pia,3-3,Olímpico do Montijo
+25/02/18,CDP,Almancilense,1-4,Casa Pia
+04/03/18,CDP,Casa Pia,1-2,Louletano
+11/03/18,CDP,Operário,3-0,Casa Pia
+18/03/18,CDP,Casa Pia,1-2,Moura
+25/03/18,CDP,Moncarapachense,2-0,Casa Pia
+31/03/18,CDP,Casa Pia,3-0,Pinhalnovense
+08/04/18,CDP,Casa Pia,4-0,Olhanense
+15/04/18,CDP,Estrela Vendas Novas,4-2,Casa Pia
+22/04/18,CDP,Casa Pia,1-2,Ideal
+12/07/18,CLF,Benfica II,CANC,Casa Pia
+12/08/18,CDP,Louletano,1-0,Casa Pia
+19/08/18,CDP,Casa Pia,0-1,Moura
+26/08/18,CDP,Pinhalnovense,0-4,Casa Pia
+01/11/15,CDP,Casa Pia,2-2,Coruchense
+08/11/15,CDP,Atlético Malveira,0-1,Casa Pia
+15/11/15,CDP,Eléctrico,0-2,Casa Pia
+22/11/15,TDP,Casa Pia,0-1,Vitória Setúbal
+29/11/15,CDP,Casa Pia,0-1,Sintrense
+06/12/15,CDP,1º Dezembro,0-2,Casa Pia
+13/12/15,CDP,Casa Pia,4-0,Real
+20/12/15,CDP,Loures,2-1,Casa Pia
+03/01/16,CDP,Casa Pia,1-1,Torreense
+10/01/16,CDP,Casa Pia,2-0,Sacavenense
+17/01/16,CDP,Coruchense,1-2,Casa Pia
+23/01/16,CDP,Casa Pia,3-0,Atlético Malveira
+14/02/16,CDP,Angrense,2-1,Casa Pia
+21/02/16,CDP,Casa Pia,2-1,Moura
+28/02/16,CDP,Casa Pia,5-0,Praiense
+06/03/16,CDP,Benfica Castelo Branco,1-1,Casa Pia
+13/03/16,CDP,Casa Pia,3-0,1º Dezembro
+20/03/16,CDP,Cova Piedade,2-0,Casa Pia
+26/03/16,CDP,Casa Pia,2-2,União de Leiria
+03/04/16,CDP,Casa Pia,1-0,Angrense
+10/04/16,CDP,Moura,0-0,Casa Pia
+17/04/16,CDP,Praiense,1-0,Casa Pia
+24/04/16,CDP,Casa Pia,1-1,Benfica Castelo Branco
+30/04/16,CDP,1º Dezembro,0-1,Casa Pia
+08/05/16,CDP,Casa Pia,1-0,Cova Piedade
+15/05/16,CDP,União de Leiria,1-1,Casa Pia
+29/05/16,CDP,Casa Pia,0-1,Fafe
+04/06/16,CDP,Fafe,0-0,Casa Pia
+21/08/16,CDP,Atlético CP,0-2,Casa Pia
+28/08/16,CDP,Casa Pia,0-0,FC Barreirense
+04/09/16,TDP,Casa Pia,P2-2P,Fabril Barreiro
+11/09/16,CDP,Oriental Lisboa,0-2,Casa Pia
+18/09/16,CDP,Casa Pia,3-2,1º Dezembro
+25/09/16,TDP,Casa Pia,2-1,Pinhalnovense
+02/10/16,CDP,Real,2-0,Casa Pia
+09/10/16,CDP,Casa Pia,2-2,Sintrense
+16/10/16,TDP,Gil Vicente,P0-0P,Casa Pia
+23/10/16,CDP,Sacavenense,1-0,Casa Pia
+30/10/16,CDP,Loures,1-0,Casa Pia
+06/11/16,CDP,Casa Pia,5-0,Atlético Malveira
+13/11/16,CDP,Casa Pia,8-0,Atlético CP
+27/11/16,CDP,FC Barreirense,0-1,Casa Pia
+04/12/16,CDP,Casa Pia,2-1,Oriental Lisboa
+11/12/16,CDP,1º Dezembro,1-1,Casa Pia
+18/12/16,CDP,Casa Pia,0-0,Real
+08/01/17,CDP,Sintrense,1-1,Casa Pia
+15/01/17,CDP,Casa Pia,0-1,Sacavenense
+22/01/17,CDP,Casa Pia,3-0,Loures
+29/01/17,CDP,Atlético Malveira,1-2,Casa Pia
+12/02/17,CDP,Casa Pia,2-2,Fabril Barreiro
+27/04/14,CDP,O Elvas,1-1,Casa Pia
+04/05/14,CDP,Casa Pia,2-0,Praiense
+11/05/14,CDP,Casa Pia,3-1,Ideal
+24/05/14,CDP,Operário,1-1,Casa Pia
+24/08/14,CDP,Casa Pia,3-0,Sacavenense
+31/08/14,CDP,Loures,0-0,Casa Pia
+14/09/14,CDP,Casa Pia,1-0,União Montemor
+21/09/14,CDP,Pinhalnovense,0-2,Casa Pia
+28/09/14,TDP,Vila Real,2-3,Casa Pia
+05/10/14,CDP,Sintrense,0-2,Casa Pia
+12/10/14,CDP,Casa Pia,0-1,Cova Piedade
+19/10/14,TDP,Casa Pia,E1-4E,Vizela
+26/10/14,CDP,Atlético Malveira,1-2,Casa Pia
+02/11/14,CDP,Casa Pia,1-3,1º Dezembro
+09/11/14,CDP,Fabril Barreiro,1-2,Casa Pia
+16/11/14,CDP,Sacavenense,1-0,Casa Pia
+30/11/14,CDP,Casa Pia,1-1,Loures
+07/12/14,CDP,União Montemor,1-0,Casa Pia
+14/12/14,CDP,Casa Pia,0-0,Pinhalnovense
+21/12/14,CDP,Casa Pia,0-1,Sintrense
+28/12/14,CDP,Cova Piedade,0-1,Casa Pia
+04/01/15,CDP,Casa Pia,1-0,Atlético Malveira
+11/01/15,CDP,1º Dezembro,0-1,Casa Pia
+18/01/15,CDP,Casa Pia,1-1,Fabril Barreiro
+15/02/15,CDP,Casa Pia,2-1,Louletano
+22/02/15,CDP,Mafra,1-0,Casa Pia
+01/03/15,CDP,Benfica Castelo Branco,2-1,Casa Pia
+08/03/15,CDP,Casa Pia,2-0,Caldas
+15/03/15,CDP,AD Nogueirense,2-0,Casa Pia
+22/03/15,CDP,Casa Pia,2-0,1º Dezembro
+28/03/15,CDP,Operário,0-1,Casa Pia
+12/04/15,CDP,Louletano,0-4,Casa Pia
+19/04/15,CDP,Casa Pia,1-1,Mafra
+26/04/15,CDP,Casa Pia,0-0,Benfica Castelo Branco
+03/05/15,CDP,Caldas,1-1,Casa Pia
+10/05/15,CDP,Casa Pia,2-0,AD Nogueirense
+17/05/15,CDP,1º Dezembro,0-1,Casa Pia
+24/05/15,CDP,Casa Pia,2-1,Operário
+06/06/15,CDP,Varzim,2-0,Casa Pia
+10/06/15,CDP,Casa Pia,1-1,Varzim
+23/08/15,CDP,Casa Pia,3-0,Eléctrico
+30/08/15,CDP,Sintrense,1-1,Casa Pia
+06/09/15,TDP,Casa Pia,1-3,Vilafranquense
+13/09/15,CDP,Casa Pia,0-0,1º Dezembro
+20/09/15,CDP,Real,2-0,Casa Pia
+27/09/15,TDP,Ginásio de Alcobaça,0-5,Casa Pia
+03/10/15,CDP,Casa Pia,1-1,Loures
+10/10/15,CDP,Torreense,0-1,Casa Pia
+17/10/15,TDP,Casa Pia,3-1,Oriental Lisboa
+25/10/15,CDP,Sacavenense,1-2,Casa Pia
+02/12/12,CDP,Casa Pia,1-0,Farense
+09/12/12,CDP,Pinhalnovense,2-5,Casa Pia
+16/12/12,CDP,Casa Pia,0-0,Oeiras
+22/12/12,CDP,Torreense,0-0,Casa Pia
+06/01/13,CDP,Quarteirense,1-2,Casa Pia
+13/01/13,CDP,Casa Pia,1-1,Carregado
+20/01/13,CDP,Casa Pia,0-0,1º Dezembro
+27/01/13,CDP,Mafra,3-2,Casa Pia
+03/02/13,CDP,Casa Pia,0-2,Fátima
+10/02/13,CDP,Sertanense,2-0,Casa Pia
+17/02/13,CDP,Casa Pia,2-0,Louletano
+24/02/13,CDP,Oriental Lisboa,1-0,Casa Pia
+03/03/13,CDP,Ribeira Brava,0-1,Casa Pia
+10/03/13,CDP,Casa Pia,1-1,União de Leiria
+17/03/13,CDP,CF Benfica,2-2,Casa Pia
+24/03/13,CDP,Casa Pia,3-0,Pinhalnovense
+30/03/13,CDP,Oeiras,0-2,Casa Pia
+07/04/13,CDP,Casa Pia,2-0,Torreense
+14/04/13,CDP,Farense,1-0,Casa Pia
+21/04/13,CDP,Casa Pia,0-1,Quarteirense
+28/04/13,CDP,Carregado,1-1,Casa Pia
+25/08/13,CDP,Casa Pia,1-2,Loures
+01/09/13,TDP,Aljustrelense,P2-2P,Casa Pia
+08/09/13,CDP,Ideal,1-2,Casa Pia
+15/09/13,CDP,Casa Pia,3-1,1º Dezembro
+28/09/13,CDP,Oriental Lisboa,1-0,Casa Pia
+06/10/13,CDP,Casa Pia,0-0,CF Benfica
+13/10/13,CDP,Sintrense,1-0,Casa Pia
+27/10/13,CDP,Casa Pia,7-0,O Elvas
+03/11/13,CDP,Praiense,0-1,Casa Pia
+17/11/13,CDP,Casa Pia,1-0,Operário
+24/11/13,CDP,Loures,1-0,Casa Pia
+01/12/13,CDP,Casa Pia,1-0,Ideal
+08/12/13,CDP,1º Dezembro,1-2,Casa Pia
+15/12/13,CDP,Casa Pia,0-2,Oriental Lisboa
+22/12/13,CDP,CF Benfica,1-3,Casa Pia
+29/12/13,CDP,Casa Pia,1-0,Sintrense
+12/01/14,CDP,O Elvas,0-1,Casa Pia
+19/01/14,CDP,Casa Pia,1-0,Praiense
+26/01/14,CDP,Operário,3-1,Casa Pia
+16/02/14,CDP,Sintrense,0-1,Casa Pia
+23/02/14,CDP,Casa Pia,4-1,1º Dezembro
+02/03/14,CDP,CF Benfica,0-1,Casa Pia
+09/03/14,CDP,Casa Pia,0-1,O Elvas
+16/03/14,CDP,Praiense,0-0,Casa Pia
+23/03/14,CDP,Ideal,0-0,Casa Pia
+30/03/14,CDP,Casa Pia,2-1,Operário
+06/04/14,CDP,Casa Pia,0-0,Sintrense
+13/04/14,CDP,1º Dezembro,0-0,Casa Pia
+19/04/14,CDP,Casa Pia,5-0,CF Benfica
+27/03/11,CDP,Casa Pia,4-1,Juventude Évora
+03/04/11,CDP,Oriental Lisboa,1-0,Casa Pia
+10/04/11,CDP,Casa Pia,2-3,Torreense
+17/04/11,CDP,Farense,2-1,Casa Pia
+23/04/11,CDP,Casa Pia,1-1,Operário
+30/04/11,CDP,Lagoa,0-1,Casa Pia
+28/08/11,TDP,Casa Pia,2-0,Cerveira
+04/09/11,IID,Casa Pia,1-1,Cartaxo
+11/09/11,TDP,Portosantense,1-0,Casa Pia
+18/09/11,IID,Alcochetense,1-1,Casa Pia
+25/09/11,IID,Casa Pia,1-1,Pêro Pinheiro
+02/10/11,IID,Sintrense,2-1,Casa Pia
+09/10/11,IID,Casa Pia,2-0,Eléctrico
+23/10/11,IID,Oeiras,3-0,Casa Pia
+30/10/11,IID,Casa Pia,0-1,Real
+06/11/11,IID,O Elvas,1-2,Casa Pia
+13/11/11,IID,Olímpico do Montijo,3-3,Casa Pia
+27/11/11,IID,Casa Pia,3-2,CF Benfica
+11/12/11,IID,Sacavenense,1-0,Casa Pia
+18/12/11,IID,Cartaxo,0-3,Casa Pia
+08/01/12,IID,Casa Pia,1-0,Alcochetense
+15/01/12,IID,Pêro Pinheiro,2-1,Casa Pia
+22/01/12,IID,Casa Pia,3-0,Sintrense
+29/01/12,IID,Eléctrico,1-2,Casa Pia
+05/02/12,IID,Casa Pia,0-0,Oeiras
+12/02/12,IID,Real,2-1,Casa Pia
+19/02/12,IID,Casa Pia,4-0,O Elvas
+26/02/12,IID,Casa Pia,0-0,Olímpico do Montijo
+04/03/12,IID,CF Benfica,1-0,Casa Pia
+11/03/12,IID,Casa Pia,2-1,Sacavenense
+25/03/12,IID,CF Benfica,1-0,Casa Pia
+01/04/12,IID,Casa Pia,2-1,Oeiras
+07/04/12,IID,Casa Pia,1-0,Pêro Pinheiro
+15/04/12,IID,Real,1-1,Casa Pia
+22/04/12,IID,Casa Pia,0-0,Sintrense
+29/04/12,IID,Casa Pia,1-4,CF Benfica
+06/05/12,IID,Oeiras,3-1,Casa Pia
+13/05/12,IID,Pêro Pinheiro,0-3,Casa Pia
+19/05/12,IID,Casa Pia,1-0,Real
+27/05/12,IID,Sintrense,1-2,Casa Pia
+02/09/12,CDP,1º Dezembro,1-1,Casa Pia
+16/09/12,TDP,Casa Pia,0-1,Penafiel
+23/09/12,CDP,Casa Pia,1-1,Mafra
+30/09/12,CDP,Fátima,1-0,Casa Pia
+07/10/12,CDP,Casa Pia,1-1,Sertanense
+14/10/12,CDP,Louletano,0-0,Casa Pia
+28/10/12,CDP,Casa Pia,1-2,Oriental Lisboa
+04/11/12,CDP,Casa Pia,1-0,Ribeira Brava
+11/11/12,CDP,União de Leiria,0-0,Casa Pia
+25/11/12,CDP,Casa Pia,0-0,CF Benfica

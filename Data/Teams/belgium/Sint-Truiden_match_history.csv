@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+08/07/23,CLF,PSV,1-2,Sint-Truiden
+14/07/23,CLF,Sint-Truiden,0-2,Helmond Sport
+15/07/23,CLF,Wehen Wiesbaden,1-0,Sint-Truiden
+19/07/23,CLF,Lierse K,1-3,Sint-Truiden
+22/07/23,CLF,Sint-Truiden,2-0,Al-Taawoun
+30/07/23,FDA,Sint-Truiden,1-0,Standard Liège
+02/08/23,CLF,RB Leipzig,4-0,Sint-Truiden
+06/08/23,FDA,Kortrijk,0-1,Sint-Truiden
+13/08/23,FDA,Sint-Truiden,0-1,Anderlecht
+20/08/23,FDA,Gent,2-2,Sint-Truiden
+27/08/23,FDA,Sint-Truiden,0-2,Cercle Brugge
+03/09/23,FDA,Sporting Charleroi,1-1,Sint-Truiden
+07/09/23,CLF,Bochum,1-1,Sint-Truiden
+17/09/23,FDA,Sint-Truiden,2-0,Mechelen
+24/09/23,FDA,Genk,3-3,Sint-Truiden
+01/10/23,FDA,Club Brugge,1-1,Sint-Truiden
+08/10/23,FDA,Sint-Truiden,0-4,Union Saint-Gilloise
+12/10/23,CLF,Borussia M'gladbach,4-1,Sint-Truiden
+22/10/23,FDA,OH Leuven,4-0,Sint-Truiden
+27/10/23,FDA,Sint-Truiden,2-1,RWDM
+31/10/23,CUP,Sint-Truiden,E3-0E,Francs Borains
+03/11/23,FDA,Sint-Truiden,1-1,AS Eupen
+10/11/23,FDA,Westerlo,3-3,Sint-Truiden
+24/11/23,FDA,Sint-Truiden,1-1,Antwerp
+03/12/23,FDA,Mechelen,0-2,Sint-Truiden
+06/12/23,CUP,Sint-Truiden,0-1,Gent
+09/12/23,FDA,Sint-Truiden,1-1,OH Leuven
+16/12/23,FDA,RWDM,3-0,Sint-Truiden
+23/12/23,FDA,Sint-Truiden,1-0,Sporting Charleroi
+27/12/23,FDA,Standard Liège,1-1,Sint-Truiden
+21/01/24,FDA,Union Saint-Gilloise,2-1,Sint-Truiden
+28/01/24,FDA,Sint-Truiden,1-1,Genk
+01/02/24,FDA,Sint-Truiden,4-1,Gent
+04/02/24,FDA,Cercle Brugge,4-1,Sint-Truiden
+09/02/24,FDA,Sint-Truiden,1-0,Kortrijk
+18/02/24,FDA,Anderlecht,4-1,Sint-Truiden
+24/02/24,FDA,Sint-Truiden,1-0,Westerlo
+03/03/24,FDA,Antwerp,3-0,Sint-Truiden
+10/03/24,FDA,AS Eupen,1-0,Sint-Truiden
+17/03/24,FDA,Sint-Truiden,2-1,Club Brugge
+31/03/24,FDA,Sint-Truiden,2-0,Westerlo
+05/04/24,FDA,Mechelen,2-3,Sint-Truiden
+12/04/24,FDA,Sint-Truiden,3-3,Standard Liège
+20/04/24,FDA,OH Leuven,1-0,Sint-Truiden
+23/04/24,FDA,Sint-Truiden,0-2,Gent
+27/04/24,FDA,Standard Liège,1-1,Sint-Truiden
+03/05/24,FDA,Westerlo,20:45,Sint-Truiden
+12/05/24,FDA,Sint-Truiden,16:00,Mechelen
+17/05/24,FDA,Sint-Truiden,20:45,OH Leuven
+25/05/24,FDA,Gent,20:30,Sint-Truiden
+25/06/22,CLF,Anderlecht,0-1,Sint-Truiden
+29/06/22,CLF,Standard Liège,0-2,Sint-Truiden
+03/07/22,CLF,Dynamo Dresden,0-0,Sint-Truiden
+06/07/22,CLF,Wörgl,0-6,Sint-Truiden
+08/07/22,CLF,Viktoria Plzen,1-3,Sint-Truiden
+13/07/22,CLF,Sint-Truiden,0-2,RFC Seraing
+23/07/22,FDA,Sint-Truiden,1-1,Union Saint-Gilloise
+30/07/22,FDA,Gent,1-1,Sint-Truiden
+06/08/22,FDA,Kortrijk,0-0,Sint-Truiden
+14/08/22,FDA,Sint-Truiden,0-3,Anderlecht
+20/08/22,FDA,KV Oostende,0-1,Sint-Truiden
+27/08/22,FDA,Sint-Truiden,3-1,Mechelen
+03/09/22,FDA,Genk,0-0,Sint-Truiden
+09/09/22,FDA,Sint-Truiden,1-2,Standard Liège
+17/09/22,FDA,Zulte Waregem,0-3,Sint-Truiden
+02/10/22,FDA,Sint-Truiden,0-1,AS Eupen
+07/10/22,FDA,Antwerp,2-0,Sint-Truiden
+15/10/22,FDA,Sint-Truiden,2-1,Sporting Charleroi
+19/10/22,FDA,Club Brugge,3-0,Sint-Truiden
+22/10/22,FDA,Sint-Truiden,0-0,OH Leuven
+29/10/22,FDA,Westerlo,2-3,Sint-Truiden
+05/11/22,FDA,RFC Seraing,1-2,Sint-Truiden
+09/11/22,CUP,Sint-Truiden,1-0,Meux
+12/11/22,FDA,Sint-Truiden,0-1,Cercle Brugge
+13/12/22,CLF,Sint-Truiden,3-0,RKC Waalwijk
+21/12/22,CUP,Club Brugge,1-4,Sint-Truiden
+27/12/22,FDA,Sint-Truiden,2-0,Zulte Waregem
+06/01/23,FDA,Standard Liège,1-1,Sint-Truiden
+11/01/23,CUP,Zulte Waregem,2-0,Sint-Truiden
+14/01/23,FDA,AS Eupen,0-2,Sint-Truiden
+19/01/23,FDA,Sint-Truiden,1-1,Club Brugge
+22/01/23,FDA,Sint-Truiden,0-3,Gent
+28/01/23,FDA,OH Leuven,1-1,Sint-Truiden
+04/02/23,FDA,Sint-Truiden,1-0,Kortrijk
+12/02/23,FDA,Anderlecht,3-1,Sint-Truiden
+19/02/23,FDA,Sint-Truiden,0-1,Westerlo
+26/02/23,FDA,Sporting Charleroi,1-0,Sint-Truiden
+05/03/23,FDA,Sint-Truiden,2-2,Genk
+11/03/23,FDA,Mechelen,1-0,Sint-Truiden
+18/03/23,FDA,Sint-Truiden,2-1,RFC Seraing
+23/03/23,CLF,FC Cologne,0-1,Sint-Truiden
+02/04/23,FDA,Union Saint-Gilloise,2-1,Sint-Truiden
+09/04/23,FDA,Sint-Truiden,5-0,KV Oostende
+15/04/23,FDA,Cercle Brugge,3-1,Sint-Truiden
+23/04/23,FDA,Sint-Truiden,0-1,Antwerp
+17/06/23,CLF,Zepperen-Brustem,1-3,Sint-Truiden
+24/06/23,CLF,Sint-Truiden,3-0,Dessel Sport
+28/06/23,CLF,Thes Sport,0-3,Sint-Truiden
+01/07/23,CLF,Westerlo,2-2,Sint-Truiden
+05/07/23,CLF,Patro Eisden,0-0,Sint-Truiden
+18/04/21,FDA,Sint-Truiden,0-1,Anderlecht
+18/06/21,CLF,Zepperen-Brustem,1-4,Sint-Truiden
+19/06/21,CLF,Berg en Dal,1-4,Sint-Truiden
+25/06/21,CLF,Anderlecht,1-1,Sint-Truiden
+26/06/21,CLF,Sint-Truiden,CANC,Patro Eisden
+30/06/21,CLF,Sint-Truiden,2-1,Lierse K
+02/07/21,CLF,Mechelen,CANC,Sint-Truiden
+07/07/21,CLF,Sint-Truiden,1-0,RWDM
+10/07/21,CLF,Sint-Truiden,2-1,Westerlo
+17/07/21,CLF,Sint-Truiden,1-1,AS Eupen
+25/07/21,FDA,Sint-Truiden,2-1,Gent
+31/07/21,FDA,Sporting Charleroi,0-0,Sint-Truiden
+07/08/21,FDA,Sint-Truiden,1-3,Zulte Waregem
+14/08/21,FDA,AS Eupen,2-1,Sint-Truiden
+21/08/21,FDA,Sint-Truiden,0-2,Kortrijk
+28/08/21,FDA,Cercle Brugge,0-1,Sint-Truiden
+02/09/21,CLF,Fortuna Düsseldorf,1-0,Sint-Truiden
+08/09/21,CLF,Westerlo,0-5,Sint-Truiden
+13/09/21,FDA,Beerschot,0-1,Sint-Truiden
+19/09/21,FDA,Sint-Truiden,1-2,Genk
+25/09/21,FDA,Standard Liège,1-2,Sint-Truiden
+02/10/21,FDA,Sint-Truiden,1-1,KV Oostende
+17/10/21,FDA,Sint-Truiden,2-2,Anderlecht
+24/10/21,FDA,OH Leuven,4-1,Sint-Truiden
+27/10/21,CUP,RFC Seraing,E3-2E,Sint-Truiden
+30/10/21,FDA,Sint-Truiden,1-2,Club Brugge
+06/11/21,FDA,Mechelen,0-1,Sint-Truiden
+21/11/21,FDA,Sint-Truiden,2-1,Antwerp
+27/11/21,FDA,RFC Seraing,2-0,Sint-Truiden
+03/12/21,FDA,Sint-Truiden,1-2,Union Saint-Gilloise
+11/12/21,FDA,Sint-Truiden,1-2,Cercle Brugge
+14/12/21,FDA,Anderlecht,2-0,Sint-Truiden
+18/12/21,FDA,Gent,2-1,Sint-Truiden
+27/12/21,FDA,Sint-Truiden,2-0,AS Eupen
+05/01/22,CLF,Werder Bremen,CANC,Sint-Truiden
+15/01/22,FDA,Club Brugge,2-0,Sint-Truiden
+22/01/22,FDA,Sint-Truiden,3-1,RFC Seraing
+25/01/22,FDA,Antwerp,1-1,Sint-Truiden
+28/01/22,FDA,Sint-Truiden,0-1,Sporting Charleroi
+05/02/22,FDA,Kortrijk,1-3,Sint-Truiden
+13/02/22,FDA,Union Saint-Gilloise,0-1,Sint-Truiden
+20/02/22,FDA,Sint-Truiden,2-0,OH Leuven
+26/02/22,FDA,KV Oostende,0-0,Sint-Truiden
+04/03/22,FDA,Sint-Truiden,1-1,Mechelen
+13/03/22,FDA,Genk,0-1,Sint-Truiden
+20/03/22,FDA,Sint-Truiden,3-2,Beerschot
+02/04/22,FDA,Zulte Waregem,0-2,Sint-Truiden
+10/04/22,FDA,Sint-Truiden,3-0,Standard Liège
+11/06/22,CLF,Zepperen-Brustem,2-2,Sint-Truiden
+18/06/22,CLF,Tienen,3-1,Sint-Truiden
+15/02/20,FDA,Sint-Truiden,0-1,Cercle Brugge
+18/02/20,CLF,Sint-Truiden,3-0,Westerlo
+23/02/20,FDA,Gent,4-1,Sint-Truiden
+28/02/20,FDA,Sint-Truiden,0-3,Mechelen
+07/03/20,FDA,Standard Liège,0-0,Sint-Truiden
+15/03/20,FDA,Sint-Truiden,CANC,Anderlecht
+08/07/20,CLF,Geel,1-2,Sint-Truiden
+11/07/20,CLF,Anderlecht,3-0,Sint-Truiden
+18/07/20,CLF,Sint-Truiden,0-0,Beerschot
+22/07/20,CLF,Westerlo,0-1,Sint-Truiden
+25/07/20,CLF,Zulte Waregem,2-3,Sint-Truiden
+30/07/20,CLF,Sint-Truiden,4-1,SK Beveren
+31/07/20,CLF,AS Eupen,2-2,Sint-Truiden
+09/08/20,FDA,Sint-Truiden,2-1,Gent
+16/08/20,FDA,Anderlecht,3-1,Sint-Truiden
+17/08/20,CLF,Sint-Truiden,1-1,Lommel
+24/08/20,FDA,Sint-Truiden,0-0,KV Oostende
+29/08/20,FDA,AS Eupen,1-1,Sint-Truiden
+04/09/20,CLF,Westerlo,1-2,Sint-Truiden
+13/09/20,FDA,Sint-Truiden,2-3,Antwerp
+21/09/20,FDA,Cercle Brugge,3-0,Sint-Truiden
+26/09/20,FDA,Mechelen,2-0,Sint-Truiden
+03/10/20,FDA,Sint-Truiden,0-0,Kortrijk
+17/10/20,FDA,Beerschot,6-3,Sint-Truiden
+25/10/20,FDA,Sint-Truiden,2-0,Standard Liège
+07/11/20,FDA,Sint-Truiden,1-2,Genk
+23/11/20,FDA,OH Leuven,2-2,Sint-Truiden
+28/11/20,FDA,Sint-Truiden,1-1,SK Beveren
+01/12/20,FDA,Excel Mouscron,3-2,Sint-Truiden
+05/12/20,FDA,Club Brugge,1-0,Sint-Truiden
+12/12/20,FDA,Sint-Truiden,1-2,Sporting Charleroi
+19/12/20,FDA,Zulte Waregem,0-2,Sint-Truiden
+26/12/20,FDA,Standard Liège,1-2,Sint-Truiden
+30/12/20,FDA,Sint-Truiden,1-0,Beerschot
+10/01/21,FDA,Sint-Truiden,1-2,Club Brugge
+17/01/21,FDA,Sint-Truiden,3-1,OH Leuven
+20/01/21,FDA,Kortrijk,0-2,Sint-Truiden
+23/01/21,FDA,Sint-Truiden,0-2,Excel Mouscron
+27/01/21,FDA,Gent,1-1,Sint-Truiden
+31/01/21,FDA,Sint-Truiden,3-0,Cercle Brugge
+03/02/21,CUP,Lokeren-Temse,0-2,Sint-Truiden
+06/02/21,FDA,KV Oostende,3-1,Sint-Truiden
+10/02/21,CUP,Genk,1-0,Sint-Truiden
+13/02/21,FDA,Sint-Truiden,1-2,Zulte Waregem
+21/02/21,FDA,Antwerp,0-0,Sint-Truiden
+28/02/21,FDA,Sint-Truiden,0-2,AS Eupen
+05/03/21,FDA,Sporting Charleroi,0-0,Sint-Truiden
+03/04/21,FDA,Sint-Truiden,2-1,Mechelen
+06/04/21,FDA,SK Beveren,2-4,Sint-Truiden
+11/04/21,FDA,Genk,4-0,Sint-Truiden
+02/03/19,FDA,Club Brugge,1-0,Sint-Truiden
+10/03/19,FDA,Excel Mouscron,1-1,Sint-Truiden
+17/03/19,FDA,Sint-Truiden,0-2,Gent
+31/03/19,UEL,Sint-Truiden,3-1,Sporting Charleroi
+03/04/19,UEL,Beerschot,1-2,Sint-Truiden
+06/04/19,UEL,Westerlo,2-2,Sint-Truiden
+13/04/19,UEL,Sint-Truiden,1-0,KV Oostende
+20/04/19,UEL,AS Eupen,1-1,Sint-Truiden
+28/04/19,UEL,Sint-Truiden,2-2,Beerschot
+04/05/19,UEL,Sporting Charleroi,2-0,Sint-Truiden
+12/05/19,UEL,Sint-Truiden,2-2,AS Eupen
+15/05/19,UEL,KV Oostende,1-1,Sint-Truiden
+18/05/19,UEL,Sint-Truiden,2-1,Westerlo
+22/06/19,CLF,Herk,2-6,Sint-Truiden
+26/06/19,CLF,Thes Sport,1-3,Sint-Truiden
+27/06/19,CLF,Belisia Bilzen,0-4,Sint-Truiden
+02/07/19,CLF,Sint-Truiden,0-0,Maccabi Haifa
+05/07/19,CLF,VVV,3-3,Sint-Truiden
+10/07/19,CLF,Sint-Truiden,1-2,Lens
+13/07/19,CLF,Gent,2-4,Sint-Truiden
+17/07/19,CLF,Sint-Truiden,1-2,Lommel
+20/07/19,CLF,Sint-Truiden,0-4,PAOK
+27/07/19,FDA,Sint-Truiden,0-1,Excel Mouscron
+02/08/19,FDA,Club Brugge,6-0,Sint-Truiden
+11/08/19,FDA,Sint-Truiden,2-1,Standard Liège
+18/08/19,FDA,Antwerp,2-0,Sint-Truiden
+24/08/19,FDA,Sint-Truiden,0-0,Zulte Waregem
+31/08/19,FDA,AS Eupen,0-2,Sint-Truiden
+14/09/19,FDA,Sint-Truiden,1-1,SK Beveren
+21/09/19,FDA,Sporting Charleroi,0-3,Sint-Truiden
+25/09/19,CUP,Sint-Truiden,E2-0E,OH Leuven
+28/09/19,FDA,Sint-Truiden,3-3,Genk
+05/10/19,FDA,Kortrijk,4-0,Sint-Truiden
+20/10/19,FDA,Anderlecht,4-1,Sint-Truiden
+27/10/19,FDA,Sint-Truiden,0-0,Gent
+30/10/19,FDA,Mechelen,1-2,Sint-Truiden
+02/11/19,FDA,Sint-Truiden,1-0,KV Oostende
+09/11/19,FDA,Cercle Brugge,2-1,Sint-Truiden
+24/11/19,FDA,Sint-Truiden,1-3,Sporting Charleroi
+30/11/19,FDA,Genk,1-2,Sint-Truiden
+04/12/19,CUP,Zulte Waregem,3-0,Sint-Truiden
+07/12/19,FDA,Sint-Truiden,1-2,Club Brugge
+14/12/19,FDA,Zulte Waregem,5-1,Sint-Truiden
+22/12/19,FDA,Sint-Truiden,1-1,Antwerp
+26/12/19,FDA,SK Beveren,1-0,Sint-Truiden
+07/01/20,CLF,Schalke 04,0-1,Sint-Truiden
+18/01/20,FDA,Sint-Truiden,2-0,Kortrijk
+25/01/20,FDA,Excel Mouscron,1-3,Sint-Truiden
+01/02/20,FDA,KV Oostende,1-0,Sint-Truiden
+08/02/20,FDA,Sint-Truiden,5-2,AS Eupen
+18/04/18,UEL,Beerschot,1-3,Sint-Truiden
+21/04/18,UEL,Sint-Truiden,2-3,AS Eupen
+28/04/18,UEL,Sint-Truiden,4-1,KV Oostende
+05/05/18,UEL,AS Eupen,3-1,Sint-Truiden
+09/05/18,UEL,Sint-Truiden,3-2,Beerschot
+12/05/18,UEL,Antwerp,1-2,Sint-Truiden
+19/05/18,UEL,Sint-Truiden,1-1,Lokeren
+23/06/18,CLF,Wellen,0-6,Sint-Truiden
+26/06/18,CLF,Herk,0-6,Sint-Truiden
+27/06/18,CLF,Thes Sport,0-2,Sint-Truiden
+04/07/18,CLF,Ross County,0-2,Sint-Truiden
+06/07/18,CLF,OH Leuven,3-1,Sint-Truiden
+12/07/18,CLF,Belisia Bilzen,0-8,Sint-Truiden
+14/07/18,CLF,Lommel,0-1,Sint-Truiden
+18/07/18,CLF,Sint-Truiden,CANC,Union Saint-Gilloise
+18/07/18,CLF,Sint-Truiden,1-1,Olympiakos
+28/07/18,FDA,Sint-Truiden,0-0,Cercle Brugge
+05/08/18,FDA,Genk,1-1,Sint-Truiden
+11/08/18,FDA,Sint-Truiden,1-1,Lokeren
+18/08/18,FDA,SK Beveren,2-2,Sint-Truiden
+25/08/18,FDA,Standard Liège,3-2,Sint-Truiden
+01/09/18,FDA,Sint-Truiden,1-0,KV Oostende
+16/09/18,FDA,Gent,1-2,Sint-Truiden
+22/09/18,FDA,Sint-Truiden,2-0,Antwerp
+26/09/18,CUP,Sint-Truiden,3-0,KFC Duffel
+30/09/18,FDA,Anderlecht,0-0,Sint-Truiden
+06/10/18,FDA,Sint-Truiden,3-1,Excel Mouscron
+20/10/18,FDA,Kortrijk,3-1,Sint-Truiden
+27/10/18,FDA,Sint-Truiden,2-2,Club Brugge
+30/10/18,FDA,Sporting Charleroi,1-0,Sint-Truiden
+04/11/18,FDA,Sint-Truiden,2-1,Zulte Waregem
+10/11/18,FDA,AS Eupen,1-4,Sint-Truiden
+20/11/18,CLF,Lokeren,5-4,Sint-Truiden
+25/11/18,FDA,Sint-Truiden,4-2,Anderlecht
+27/11/18,CLF,Sint-Truiden,1-0,Westerlo
+01/12/18,FDA,Antwerp,1-3,Sint-Truiden
+05/12/18,CUP,Sint-Truiden,3-2,Mandel United
+08/12/18,FDA,Sint-Truiden,1-1,Standard Liège
+15/12/18,FDA,Lokeren,2-0,Sint-Truiden
+18/12/18,CUP,Sint-Truiden,1-3,Gent
+22/12/18,FDA,Sint-Truiden,0-0,Kortrijk
+26/12/18,FDA,KV Oostende,1-1,Sint-Truiden
+07/01/19,CLF,NAC Breda,2-1,Sint-Truiden
+11/01/19,CLF,Hoffenheim,5-2,Sint-Truiden
+18/01/19,FDA,Sint-Truiden,2-3,Genk
+26/01/19,FDA,Cercle Brugge,1-2,Sint-Truiden
+03/02/19,FDA,Sint-Truiden,4-1,AS Eupen
+09/02/19,FDA,Sint-Truiden,2-1,SK Beveren
+16/02/19,FDA,Zulte Waregem,1-1,Sint-Truiden
+24/02/19,FDA,Sint-Truiden,3-1,Sporting Charleroi
+26/04/17,UEL,Mechelen,1-0,Sint-Truiden
+29/04/17,UEL,SK Beveren,0-1,Sint-Truiden
+06/05/17,UEL,Sint-Truiden,1-0,Standard Liège
+13/05/17,UEL,Union Saint-Gilloise,1-4,Sint-Truiden
+16/05/17,UEL,Lierse,1-3,Sint-Truiden
+19/05/17,UEL,Sint-Truiden,7-0,Mechelen
+27/05/17,UEL,Genk,3-0,Sint-Truiden
+01/07/17,CLF,Belisia Bilzen,1-2,Sint-Truiden
+05/07/17,CLF,Sint-Truiden,CANC,Genk
+08/07/17,CLF,Geel,0-5,Sint-Truiden
+11/07/17,CLF,Sint-Truiden,4-1,Carl Zeiss Jena
+15/07/17,CLF,Sint-Truiden,2-0,Beerschot
+19/07/17,CLF,Sint-Truiden,0-0,Westerlo
+22/07/17,CLF,Sint-Truiden,1-1,Antwerp
+30/07/17,FDA,Sint-Truiden,3-2,Gent
+05/08/17,FDA,Zulte Waregem,2-0,Sint-Truiden
+13/08/17,FDA,Sint-Truiden,1-0,Standard Liège
+20/08/17,FDA,Anderlecht,2-3,Sint-Truiden
+26/08/17,FDA,Sint-Truiden,1-0,SK Beveren
+09/09/17,FDA,Antwerp,1-1,Sint-Truiden
+16/09/17,FDA,Sint-Truiden,2-1,Genk
+19/09/17,CUP,Sint-Truiden,E4-2E,OH Leuven
+23/09/17,FDA,Mechelen,2-0,Sint-Truiden
+29/09/17,FDA,Sint-Truiden,0-1,Sporting Charleroi
+14/10/17,FDA,Lokeren,1-1,Sint-Truiden
+21/10/17,FDA,Sint-Truiden,1-0,KV Oostende
+26/10/17,FDA,Sint-Truiden,1-0,Excel Mouscron
+29/10/17,FDA,Club Brugge,4-1,Sint-Truiden
+04/11/17,FDA,Sint-Truiden,4-4,AS Eupen
+18/11/17,FDA,Kortrijk,3-2,Sint-Truiden
+25/11/17,FDA,Sint-Truiden,0-0,Lokeren
+28/11/17,CUP,KV Oostende,2-0,Sint-Truiden
+02/12/17,FDA,Excel Mouscron,1-1,Sint-Truiden
+10/12/17,FDA,Sint-Truiden,1-1,Zulte Waregem
+16/12/17,FDA,AS Eupen,0-0,Sint-Truiden
+23/12/17,FDA,Standard Liège,1-1,Sint-Truiden
+27/12/17,FDA,Sint-Truiden,0-3,Antwerp
+12/01/18,CLF,Holstein Kiel,2-2,Sint-Truiden
+20/01/18,FDA,SK Beveren,3-1,Sint-Truiden
+23/01/18,FDA,Sint-Truiden,2-0,Mechelen
+27/01/18,FDA,Genk,1-1,Sint-Truiden
+03/02/18,FDA,Sint-Truiden,0-2,Kortrijk
+10/02/18,FDA,Gent,3-0,Sint-Truiden
+16/02/18,FDA,Sint-Truiden,1-0,Anderlecht
+24/02/18,FDA,KV Oostende,2-0,Sint-Truiden
+03/03/18,FDA,Sporting Charleroi,0-0,Sint-Truiden
+11/03/18,FDA,Sint-Truiden,0-1,Club Brugge
+31/03/18,UEL,Lokeren,1-0,Sint-Truiden
+07/04/18,UEL,Sint-Truiden,4-0,Antwerp
+15/04/18,UEL,KV Oostende,2-2,Sint-Truiden
+09/04/16,FDA,Sporting Charleroi,1-1,Sint-Truiden
+16/04/16,FDA,Lokeren,1-0,Sint-Truiden
+23/04/16,FDA,Sint-Truiden,2-2,Lokeren
+30/04/16,FDA,Mechelen,1-1,Sint-Truiden
+07/05/16,FDA,Sint-Truiden,0-3,Sporting Charleroi
+25/06/16,CLF,Wellen,0-6,Sint-Truiden
+02/07/16,CLF,Belisia Bilzen,1-4,Sint-Truiden
+06/07/16,CLF,Tienen,0-1,Sint-Truiden
+13/07/16,CLF,Sint-Truiden,0-0,Carl Zeiss Jena
+16/07/16,CLF,Sint-Truiden,4-1,OH Leuven
+19/07/16,CLF,Antwerp,1-4,Sint-Truiden
+23/07/16,CLF,Sint-Truiden,0-0,Mallorca
+30/07/16,FDA,Sint-Truiden,1-0,Lokeren
+06/08/16,FDA,Standard Liège,2-0,Sint-Truiden
+12/08/16,FDA,Sint-Truiden,0-0,Anderlecht
+20/08/16,FDA,Excel Mouscron,2-1,Sint-Truiden
+27/08/16,FDA,Sint-Truiden,1-2,Kortrijk
+10/09/16,FDA,Mechelen,2-0,Sint-Truiden
+17/09/16,FDA,Sint-Truiden,4-1,SK Beveren
+21/09/16,CUP,Harelbeke,1-6,Sint-Truiden
+24/09/16,FDA,Gent,2-1,Sint-Truiden
+30/09/16,FDA,KV Oostende,2-2,Sint-Truiden
+15/10/16,FDA,Sint-Truiden,2-2,Westerlo
+23/10/16,FDA,Genk,1-0,Sint-Truiden
+26/10/16,FDA,Sint-Truiden,0-2,Zulte Waregem
+29/10/16,FDA,Sint-Truiden,2-2,Sporting Charleroi
+05/11/16,FDA,AS Eupen,4-2,Sint-Truiden
+18/11/16,FDA,Sint-Truiden,0-1,Club Brugge
+26/11/16,FDA,Lokeren,1-0,Sint-Truiden
+29/11/16,CUP,Sint-Truiden,P2-2P,Mechelen
+03/12/16,FDA,Sint-Truiden,1-0,Excel Mouscron
+10/12/16,FDA,Kortrijk,0-1,Sint-Truiden
+14/12/16,CUP,Zulte Waregem,2-0,Sint-Truiden
+17/12/16,FDA,Sint-Truiden,3-1,Gent
+20/12/16,FDA,SK Beveren,3-1,Sint-Truiden
+27/12/16,FDA,Sint-Truiden,2-2,Standard Liège
+13/01/17,CLF,Sion,2-3,Sint-Truiden
+22/01/17,FDA,Anderlecht,3-1,Sint-Truiden
+25/01/17,FDA,Sint-Truiden,2-1,Mechelen
+28/01/17,FDA,Sint-Truiden,3-0,KV Oostende
+05/02/17,FDA,Westerlo,1-0,Sint-Truiden
+10/02/17,FDA,Sint-Truiden,0-3,Genk
+18/02/17,FDA,Zulte Waregem,4-1,Sint-Truiden
+25/02/17,FDA,Sporting Charleroi,1-0,Sint-Truiden
+04/03/17,FDA,Sint-Truiden,2-1,AS Eupen
+12/03/17,FDA,Club Brugge,2-2,Sint-Truiden
+01/04/17,UEL,Sint-Truiden,3-0,SK Beveren
+08/04/17,UEL,Standard Liège,2-2,Sint-Truiden
+15/04/17,UEL,Sint-Truiden,2-1,Lierse
+22/04/17,UEL,Sint-Truiden,0-1,Union Saint-Gilloise
+18/01/15,CPL,OH Leuven,2-3,Sint-Truiden
+24/01/15,CPL,Sint-Truiden,1-1,Eendracht Aalst
+01/02/15,CPL,Racing Mechelen,0-2,Sint-Truiden
+07/02/15,CPL,Sint-Truiden,0-0,Dessel Sport
+13/02/15,CPL,Antwerp,0-2,Sint-Truiden
+01/03/15,CPL,Sint-Truiden,1-0,AS Eupen
+07/03/15,CPL,Sint-Truiden,1-0,Woluwe-Zaventem
+13/03/15,CPL,White Star Bruxelles,1-1,Sint-Truiden
+21/03/15,CPL,Sint-Truiden,2-2,Patro Eisden
+03/04/15,CPL,Heist,3-1,Sint-Truiden
+11/04/15,CPL,Sint-Truiden,3-0,KSV Roeselare
+19/04/15,CPL,Geel,1-4,Sint-Truiden
+25/04/15,CPL,Sint-Truiden,2-1,Lommel
+28/06/15,CLF,Sint-Truiden,3-1,Geel
+04/07/15,CLF,Sint-Truiden,2-2,Újpest
+11/07/15,CLF,Sint-Truiden,1-1,Lokeren
+18/07/15,CLF,Sint-Truiden,4-0,Charlton Athletic
+24/07/15,FDA,Sint-Truiden,2-1,Club Brugge
+01/08/15,FDA,Excel Mouscron,0-2,Sint-Truiden
+08/08/15,FDA,Sint-Truiden,1-1,KV Oostende
+16/08/15,FDA,Gent,1-0,Sint-Truiden
+21/08/15,FDA,Sint-Truiden,3-1,Genk
+29/08/15,FDA,OH Leuven,1-0,Sint-Truiden
+13/09/15,FDA,Sint-Truiden,1-1,Sporting Charleroi
+19/09/15,FDA,Westerlo,0-3,Sint-Truiden
+23/09/15,CUP,Sint-Truiden,1-0,Bocholt
+27/09/15,FDA,Anderlecht,1-0,Sint-Truiden
+03/10/15,FDA,Sint-Truiden,1-3,SK Beveren
+17/10/15,FDA,Mechelen,3-0,Sint-Truiden
+25/10/15,FDA,Sint-Truiden,2-1,Kortrijk
+28/10/15,FDA,Zulte Waregem,4-0,Sint-Truiden
+01/11/15,FDA,Sint-Truiden,1-0,Standard Liège
+07/11/15,FDA,Lokeren,1-1,Sint-Truiden
+21/11/15,FDA,SK Beveren,2-1,Sint-Truiden
+28/11/15,FDA,Sint-Truiden,0-1,Excel Mouscron
+02/12/15,CUP,Standard Liège,2-0,Sint-Truiden
+05/12/15,FDA,KV Oostende,1-2,Sint-Truiden
+13/12/15,FDA,Sint-Truiden,0-2,Gent
+19/12/15,FDA,Genk,3-0,Sint-Truiden
+26/12/15,FDA,Sint-Truiden,2-2,OH Leuven
+16/01/16,FDA,Sporting Charleroi,0-0,Sint-Truiden
+23/01/16,FDA,Sint-Truiden,1-2,Westerlo
+29/01/16,FDA,Sint-Truiden,1-2,Anderlecht
+07/02/16,FDA,Standard Liège,1-2,Sint-Truiden
+14/02/16,FDA,Sint-Truiden,0-3,Mechelen
+20/02/16,FDA,Kortrijk,3-0,Sint-Truiden
+27/02/16,FDA,Sint-Truiden,1-2,Zulte Waregem
+05/03/16,FDA,Club Brugge,3-0,Sint-Truiden
+13/03/16,FDA,Sint-Truiden,1-1,Lokeren
+02/04/16,FDA,Sint-Truiden,0-1,Mechelen
+14/12/13,CPL,Sint-Truiden,3-0,Hoogstraten
+12/01/14,CPL,RWDM Brussels,1-0,Sint-Truiden
+19/01/14,CPL,Sint-Truiden,3-2,Westerlo
+24/01/14,CPL,Francs Borains,1-2,Sint-Truiden
+01/02/14,CPL,Sint-Truiden,1-1,KSV Roeselare
+09/02/14,CPL,White Star Bruxelles,0-1,Sint-Truiden
+15/02/14,CPL,Sint-Truiden,1-0,Dessel Sport
+01/03/14,CPL,Antwerp,0-5,Sint-Truiden
+08/03/14,CPL,Sint-Truiden,2-0,Eendracht Aalst
+15/03/14,CPL,Heist,0-2,Sint-Truiden
+29/03/14,CPL,Sint-Truiden,2-0,Geel
+05/04/14,CPL,Excel Mouscron,1-1,Sint-Truiden
+11/04/14,CPL,Sint-Truiden,0-3,AS Eupen
+20/04/14,CPL,Tubize,0-1,Sint-Truiden
+27/04/14,CPL,Sint-Truiden,1-2,Lommel
+04/05/14,PL1,Sint-Truiden,2-3,AS Eupen
+08/05/14,PL1,Excel Mouscron,2-1,Sint-Truiden
+11/05/14,PL1,OH Leuven,0-1,Sint-Truiden
+15/05/14,PL1,Sint-Truiden,2-1,OH Leuven
+18/05/14,PL1,AS Eupen,2-2,Sint-Truiden
+22/05/14,PL1,Sint-Truiden,2-4,Excel Mouscron
+06/07/14,CLF,Sint-Truiden,0-0,Charlton Athletic
+21/07/14,CLF,Tienen,3-3,Sint-Truiden
+27/07/14,CLF,Visé,0-3,Sint-Truiden
+02/08/14,CPL,Sint-Truiden,3-0,Excelsior Virton
+10/08/14,CPL,Mons,1-1,Sint-Truiden
+13/08/14,CPL,Sint-Truiden,1-2,RFC Seraing
+17/08/14,CUP,Sint-Truiden,3-2,Deinze
+23/08/14,CUP,Sint-Truiden,2-0,Géants Athois
+02/09/14,CPL,Sint-Truiden,3-2,OH Leuven
+07/09/14,CPL,Eendracht Aalst,1-2,Sint-Truiden
+13/09/14,CPL,Sint-Truiden,2-1,Racing Mechelen
+20/09/14,CPL,Dessel Sport,1-1,Sint-Truiden
+24/09/14,CUP,Lierse,4-0,Sint-Truiden
+28/09/14,CPL,Sint-Truiden,1-0,Antwerp
+05/10/14,CPL,AS Eupen,3-0,Sint-Truiden
+12/10/14,CPL,Woluwe-Zaventem,1-3,Sint-Truiden
+19/10/14,CPL,Sint-Truiden,6-0,White Star Bruxelles
+25/10/14,CPL,Patro Eisden,1-2,Sint-Truiden
+01/11/14,CPL,Sint-Truiden,3-1,Heist
+08/11/14,CPL,KSV Roeselare,0-1,Sint-Truiden
+12/11/14,CPL,Tubize,0-1,Sint-Truiden
+15/11/14,CPL,Sint-Truiden,2-1,Geel
+21/11/14,CPL,Lommel,0-1,Sint-Truiden
+29/11/14,CPL,Excelsior Virton,0-1,Sint-Truiden
+06/12/14,CPL,Sint-Truiden,1-0,Mons
+14/12/14,CPL,RFC Seraing,2-2,Sint-Truiden
+20/12/14,CPL,Sint-Truiden,2-0,Tubize
+07/01/15,CLF,Heerenveen,4-1,Sint-Truiden
+10/01/15,CLF,Cercle Brugge,3-1,Sint-Truiden

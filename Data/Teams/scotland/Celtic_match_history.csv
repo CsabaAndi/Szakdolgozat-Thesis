@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+20/08/23,LEC,Kilmarnock,1-0,Celtic
+26/08/23,PRE,Celtic,0-0,St. Johnstone
+03/09/23,PRE,Rangers,0-1,Celtic
+16/09/23,PRE,Celtic,3-0,Dundee
+19/09/23,UCL,Feyenoord,2-0,Celtic
+23/09/23,PRE,Livingston,0-3,Celtic
+30/09/23,PRE,Motherwell,1-2,Celtic
+04/10/23,UCL,Celtic,1-2,Lazio
+07/10/23,PRE,Celtic,3-1,Kilmarnock
+22/10/23,PRE,Hearts,1-4,Celtic
+25/10/23,UCL,Celtic,2-2,Atletico Madrid
+28/10/23,PRE,Hibernian,0-0,Celtic
+01/11/23,PRE,Celtic,2-1,St. Mirren
+04/11/23,PRE,Ross County,0-3,Celtic
+07/11/23,UCL,Atletico Madrid,6-0,Celtic
+12/11/23,PRE,Celtic,6-0,Aberdeen
+25/11/23,PRE,Celtic,1-1,Motherwell
+28/11/23,UCL,Lazio,2-0,Celtic
+03/12/23,PRE,St. Johnstone,1-3,Celtic
+06/12/23,PRE,Celtic,4-1,Hibernian
+10/12/23,PRE,Kilmarnock,2-1,Celtic
+13/12/23,UCL,Celtic,2-1,Feyenoord
+16/12/23,PRE,Celtic,0-2,Hearts
+23/12/23,PRE,Celtic,2-0,Livingston
+26/12/23,PRE,Dundee,0-3,Celtic
+30/12/23,PRE,Celtic,2-1,Rangers
+02/01/24,PRE,St. Mirren,0-3,Celtic
+21/01/24,FAC,Celtic,5-0,Buckie Thistle
+27/01/24,PRE,Celtic,1-0,Ross County
+03/02/24,PRE,Aberdeen,1-1,Celtic
+07/02/24,PRE,Hibernian,1-2,Celtic
+11/02/24,FAC,St. Mirren,0-2,Celtic
+17/02/24,PRE,Celtic,1-1,Kilmarnock
+25/02/24,PRE,Motherwell,1-3,Celtic
+28/02/24,PRE,Celtic,7-1,Dundee
+03/03/24,PRE,Hearts,2-0,Celtic
+10/03/24,FAC,Celtic,4-2,Livingston
+16/03/24,PRE,Celtic,3-1,St. Johnstone
+31/03/24,PRE,Livingston,0-3,Celtic
+07/04/24,PRE,Rangers,3-3,Celtic
+13/04/24,PRE,Celtic,3-0,St. Mirren
+20/04/24,FAC,Aberdeen,P3-3P,Celtic
+28/04/24,PRE,Dundee,1-2,Celtic
+04/05/24,PRE,Celtic,16:00,Hearts
+11/05/24,PRE,Celtic,13:30,Rangers
+15/05/24,PRE,Kilmarnock,20:30,Celtic
+18/05/24,PRE,Celtic,13:30,St. Mirren
+25/05/24,FAC,Celtic,16:00,Rangers
+23/07/24,CLF,Manchester City,-,Celtic
+27/07/24,CLF,Chelsea,-,Celtic
+19/10/22,LEC,Motherwell,0-4,Celtic
+22/10/22,PRE,Hearts,3-4,Celtic
+25/10/22,UCL,Celtic,1-1,Shakhtar Donetsk
+30/10/22,PRE,Livingston,0-3,Celtic
+02/11/22,UCL,Real Madrid,5-1,Celtic
+05/11/22,PRE,Celtic,4-2,Dundee United
+09/11/22,PRE,Motherwell,1-2,Celtic
+12/11/22,PRE,Celtic,2-1,Ross County
+17/11/22,SSC,Celtic,1-2,Sydney
+20/11/22,SSC,Everton,P0-0P,Celtic
+10/12/22,CLF,Rennes,4-3,Celtic
+17/12/22,PRE,Aberdeen,0-1,Celtic
+21/12/22,PRE,Celtic,2-1,Livingston
+24/12/22,PRE,Celtic,4-1,St. Johnstone
+28/12/22,PRE,Hibernian,0-4,Celtic
+02/01/23,PRE,Rangers,2-2,Celtic
+07/01/23,PRE,Celtic,2-0,Kilmarnock
+14/01/23,LEC,Celtic,2-0,Kilmarnock
+18/01/23,PRE,Celtic,4-0,St. Mirren
+21/01/23,FAC,Celtic,5-0,Greenock Morton
+29/01/23,PRE,Dundee United,0-2,Celtic
+01/02/23,PRE,Celtic,3-0,Livingston
+05/02/23,PRE,St. Johnstone,1-4,Celtic
+11/02/23,FAC,Celtic,5-1,St. Mirren
+18/02/23,PRE,Celtic,4-0,Aberdeen
+26/02/23,LEC,Rangers,1-2,Celtic
+05/03/23,PRE,St. Mirren,1-5,Celtic
+08/03/23,PRE,Celtic,3-1,Hearts
+11/03/23,FAC,Hearts,0-3,Celtic
+18/03/23,PRE,Celtic,3-1,Hibernian
+02/04/23,PRE,Ross County,0-2,Celtic
+08/04/23,PRE,Celtic,3-2,Rangers
+16/04/23,PRE,Kilmarnock,1-4,Celtic
+22/04/23,PRE,Celtic,1-1,Motherwell
+30/04/23,FAC,Rangers,0-1,Celtic
+07/05/23,PRE,Hearts,0-2,Celtic
+13/05/23,PRE,Rangers,3-0,Celtic
+20/05/23,PRE,Celtic,2-2,St. Mirren
+24/05/23,PRE,Hibernian,4-2,Celtic
+27/05/23,PRE,Celtic,5-0,Aberdeen
+03/06/23,FAC,Celtic,3-1,Inverness CT
+01/07/23,CLF,Fraserburgh,P0-0P,Celtic
+12/07/23,CLF,Portimonense,0-0,Celtic
+15/07/23,CLF,Portimonense,1-4,Celtic
+19/07/23,CLF,Yokohama F. Marinos,6-4,Celtic
+22/07/23,CLF,Gamba Osaka,0-1,Celtic
+29/07/23,CLF,Celtic,1-1,Wolverhampton Wanderers
+01/08/23,CLF,Celtic,3-2,Athletic Bilbao
+05/08/23,PRE,Celtic,4-2,Ross County
+13/08/23,PRE,Aberdeen,1-3,Celtic
+12/12/21,PRE,Celtic,1-0,Motherwell
+15/12/21,PRE,Ross County,1-2,Celtic
+19/12/21,LEC,Hibernian,1-2,Celtic
+22/12/21,PRE,St. Mirren,0-0,Celtic
+26/12/21,PRE,St. Johnstone,1-3,Celtic
+17/01/22,PRE,Celtic,2-0,Hibernian
+22/01/22,FAC,Alloa Athletic,1-2,Celtic
+26/01/22,PRE,Hearts,1-2,Celtic
+29/01/22,PRE,Celtic,1-0,Dundee United
+02/02/22,PRE,Celtic,3-0,Rangers
+06/02/22,PRE,Motherwell,0-4,Celtic
+09/02/22,PRE,Aberdeen,2-3,Celtic
+13/02/22,FAC,Celtic,4-0,Raith Rovers
+17/02/22,UEC,Celtic,1-3,Bodø / Glimt
+20/02/22,PRE,Celtic,3-2,Dundee
+24/02/22,UEC,Bodø / Glimt,2-0,Celtic
+27/02/22,PRE,Hibernian,0-0,Celtic
+02/03/22,PRE,Celtic,2-0,St. Mirren
+06/03/22,PRE,Livingston,1-3,Celtic
+14/03/22,FAC,Dundee United,0-3,Celtic
+19/03/22,PRE,Celtic,4-0,Ross County
+03/04/22,PRE,Rangers,1-2,Celtic
+09/04/22,PRE,Celtic,7-0,St. Johnstone
+17/04/22,FAC,Celtic,E1-2E,Rangers
+24/04/22,PRE,Ross County,0-2,Celtic
+01/05/22,PRE,Celtic,1-1,Rangers
+07/05/22,PRE,Celtic,4-1,Hearts
+11/05/22,PRE,Dundee United,1-1,Celtic
+14/05/22,PRE,Celtic,6-0,Motherwell
+06/07/22,CLF,Celtic,7-0,Wiener Viktoria
+09/07/22,CLF,Rapid Vienna,3-3,Celtic
+13/07/22,CLF,Baník Ostrava,2-4,Celtic
+16/07/22,CLF,Celtic,2-2,Blackburn Rovers
+20/07/22,CLF,Legia Warsaw,2-2,Celtic
+23/07/22,CLF,Celtic,2-0,Norwich City
+31/07/22,PRE,Celtic,2-0,Aberdeen
+06/08/22,PRE,Ross County,1-3,Celtic
+14/08/22,PRE,Kilmarnock,0-5,Celtic
+21/08/22,PRE,Celtic,2-0,Hearts
+28/08/22,PRE,Dundee United,0-9,Celtic
+31/08/22,LEC,Ross County,1-4,Celtic
+03/09/22,PRE,Celtic,4-0,Rangers
+06/09/22,UCL,Celtic,0-3,Real Madrid
+14/09/22,UCL,Shakhtar Donetsk,1-1,Celtic
+18/09/22,PRE,St. Mirren,2-0,Celtic
+01/10/22,PRE,Celtic,2-1,Motherwell
+05/10/22,UCL,RB Leipzig,3-1,Celtic
+08/10/22,PRE,St. Johnstone,1-2,Celtic
+11/10/22,UCL,Celtic,0-2,RB Leipzig
+15/10/22,PRE,Celtic,6-1,Hibernian
+10/02/21,PRE,St. Mirren,0-4,Celtic
+14/02/21,PRE,St. Johnstone,1-2,Celtic
+17/02/21,PRE,Celtic,1-0,Aberdeen
+21/02/21,PRE,Ross County,1-0,Celtic
+27/02/21,PRE,Celtic,1-0,Aberdeen
+07/03/21,PRE,Dundee United,0-0,Celtic
+21/03/21,PRE,Celtic,1-1,Rangers
+03/04/21,FAC,Celtic,3-0,Falkirk
+10/04/21,PRE,Celtic,6-0,Livingston
+18/04/21,FAC,Rangers,2-0,Celtic
+21/04/21,PRE,Aberdeen,1-1,Celtic
+02/05/21,PRE,Rangers,4-1,Celtic
+12/05/21,PRE,Celtic,4-0,St. Johnstone
+15/05/21,PRE,Hibernian,0-0,Celtic
+07/07/21,CLF,Sheffield Wednesday,1-3,Celtic
+10/07/21,CLF,Charlton Athletic,1-2,Celtic
+14/07/21,CLF,Bristol City,0-0,Celtic
+17/07/21,CLF,Celtic,0-1,Preston North End
+20/07/21,UCL,Celtic,1-1,Midtjylland
+24/07/21,CLF,Celtic,2-6,West Ham United
+28/07/21,UCL,Midtjylland,E2-1E,Celtic
+31/07/21,PRE,Hearts,2-1,Celtic
+05/08/21,UEL,Jablonec,2-4,Celtic
+08/08/21,PRE,Celtic,6-0,Dundee
+12/08/21,UEL,Celtic,3-0,Jablonec
+15/08/21,LEC,Celtic,3-2,Hearts
+18/08/21,UEL,Celtic,2-0,AZ
+21/08/21,PRE,Celtic,6-0,St. Mirren
+26/08/21,UEL,AZ,2-1,Celtic
+29/08/21,PRE,Rangers,1-0,Celtic
+11/09/21,PRE,Celtic,3-0,Ross County
+16/09/21,UEL,Real Betis,4-3,Celtic
+19/09/21,PRE,Livingston,1-0,Celtic
+23/09/21,LEC,Celtic,3-0,Raith Rovers
+26/09/21,PRE,Celtic,1-1,Dundee United
+30/09/21,UEL,Celtic,0-4,Bayer Leverkusen
+03/10/21,PRE,Aberdeen,1-2,Celtic
+16/10/21,PRE,Motherwell,0-2,Celtic
+19/10/21,UEL,Celtic,2-0,Ferencváros
+23/10/21,PRE,Celtic,2-0,St. Johnstone
+27/10/21,PRE,Hibernian,1-3,Celtic
+30/10/21,PRE,Celtic,0-0,Livingston
+04/11/21,UEL,Ferencváros,2-3,Celtic
+07/11/21,PRE,Dundee,2-4,Celtic
+20/11/21,LEC,Celtic,1-0,St. Johnstone
+25/11/21,UEL,Bayer Leverkusen,3-2,Celtic
+28/11/21,PRE,Celtic,2-1,Aberdeen
+02/12/21,PRE,Celtic,1-0,Hearts
+05/12/21,PRE,Dundee United,0-3,Celtic
+09/12/21,UEL,Celtic,3-2,Real Betis
+01/03/20,FAC,St. Johnstone,0-1,Celtic
+04/03/20,PRE,Livingston,2-2,Celtic
+07/03/20,PRE,Celtic,5-0,St. Mirren
+15/03/20,PRE,Rangers,CANC,Celtic
+21/03/20,PRE,Celtic,CANC,St. Johnstone
+05/04/20,PRE,Hibernian,CANC,Celtic
+16/07/20,CLF,Nice,1-1,Celtic
+18/07/20,CLF,Lyon,2-1,Celtic
+21/07/20,CLF,PSG,4-0,Celtic
+26/07/20,CLF,Celtic,2-0,Ross County
+27/07/20,CLF,Celtic,3-1,Hibernian
+02/08/20,PRE,Celtic,5-1,Hamilton Academical
+09/08/20,PRE,Kilmarnock,1-1,Celtic
+18/08/20,UCL,Celtic,6-0,KR
+22/08/20,PRE,Dundee United,0-1,Celtic
+26/08/20,UCL,Celtic,1-2,Ferencváros
+30/08/20,PRE,Celtic,3-0,Motherwell
+12/09/20,PRE,Ross County,0-5,Celtic
+16/09/20,PRE,St. Mirren,1-2,Celtic
+19/09/20,PRE,Celtic,3-2,Livingston
+24/09/20,UEL,Riga,0-1,Celtic
+27/09/20,PRE,Celtic,3-0,Hibernian
+01/10/20,UEL,Sarajevo,0-1,Celtic
+04/10/20,PRE,St. Johnstone,0-2,Celtic
+17/10/20,PRE,Celtic,0-2,Rangers
+22/10/20,UEL,Celtic,1-3,AC Milan
+25/10/20,PRE,Aberdeen,3-3,Celtic
+29/10/20,UEL,Lille,2-2,Celtic
+01/11/20,FAC,Celtic,2-0,Aberdeen
+05/11/20,UEL,Celtic,1-4,Sparta Prague
+08/11/20,PRE,Motherwell,1-4,Celtic
+21/11/20,PRE,Hibernian,2-2,Celtic
+26/11/20,UEL,Sparta Prague,4-1,Celtic
+29/11/20,LEC,Celtic,0-2,Ross County
+03/12/20,UEL,AC Milan,4-2,Celtic
+06/12/20,PRE,Celtic,1-1,St. Johnstone
+10/12/20,UEL,Celtic,3-2,Lille
+13/12/20,PRE,Celtic,2-0,Kilmarnock
+20/12/20,FAC,Celtic,P3-3P,Hearts
+23/12/20,PRE,Celtic,2-0,Ross County
+26/12/20,PRE,Hamilton Academical,0-3,Celtic
+30/12/20,PRE,Celtic,3-0,Dundee United
+02/01/21,PRE,Rangers,1-0,Celtic
+11/01/21,PRE,Celtic,1-1,Hibernian
+16/01/21,PRE,Celtic,0-0,Livingston
+20/01/21,PRE,Livingston,2-2,Celtic
+27/01/21,PRE,Celtic,2-0,Hamilton Academical
+30/01/21,PRE,Celtic,1-2,St. Mirren
+02/02/21,PRE,Kilmarnock,0-4,Celtic
+06/02/21,PRE,Celtic,2-1,Motherwell
+13/07/19,CLF,Celtic,0-0,Rennes
+17/07/19,UCL,Celtic,2-1,Sarajevo
+24/07/19,UCL,Celtic,5-0,Nõmme Kalju
+30/07/19,UCL,Nõmme Kalju,0-2,Celtic
+03/08/19,PRE,Celtic,7-0,St. Johnstone
+07/08/19,UCL,CFR Cluj,1-1,Celtic
+10/08/19,PRE,Motherwell,2-5,Celtic
+13/08/19,UCL,Celtic,3-4,CFR Cluj
+17/08/19,LEC,Celtic,E2-1E,Dunfermline Athletic
+22/08/19,UEL,Celtic,2-0,AIK
+25/08/19,PRE,Celtic,3-1,Hearts
+29/08/19,UEL,AIK,1-4,Celtic
+01/09/19,PRE,Rangers,0-2,Celtic
+14/09/19,PRE,Hamilton Academical,0-1,Celtic
+19/09/19,UEL,Rennes,1-1,Celtic
+22/09/19,PRE,Celtic,3-1,Kilmarnock
+25/09/19,LEC,Celtic,5-0,Partick Thistle
+28/09/19,PRE,Hibernian,1-1,Celtic
+03/10/19,UEL,Celtic,2-0,CFR Cluj
+06/10/19,PRE,Livingston,2-0,Celtic
+19/10/19,PRE,Celtic,6-0,Ross County
+24/10/19,UEL,Celtic,2-1,Lazio
+27/10/19,PRE,Aberdeen,0-4,Celtic
+30/10/19,PRE,Celtic,2-0,St. Mirren
+02/11/19,LEC,Hibernian,2-5,Celtic
+07/11/19,UEL,Lazio,1-2,Celtic
+10/11/19,PRE,Celtic,2-0,Motherwell
+23/11/19,PRE,Celtic,4-0,Livingston
+28/11/19,UEL,Celtic,3-1,Rennes
+01/12/19,PRE,Ross County,1-4,Celtic
+04/12/19,PRE,Celtic,2-1,Hamilton Academical
+08/12/19,LEC,Rangers,0-1,Celtic
+12/12/19,UEL,CFR Cluj,2-0,Celtic
+15/12/19,PRE,Celtic,2-0,Hibernian
+18/12/19,PRE,Hearts,0-2,Celtic
+21/12/19,PRE,Celtic,2-1,Aberdeen
+26/12/19,PRE,St. Mirren,1-2,Celtic
+29/12/19,PRE,Celtic,1-2,Rangers
+18/01/20,FAC,Partick Thistle,1-2,Celtic
+22/01/20,PRE,Kilmarnock,1-3,Celtic
+25/01/20,PRE,Celtic,3-0,Ross County
+29/01/20,PRE,St. Johnstone,0-3,Celtic
+02/02/20,PRE,Hamilton Academical,1-4,Celtic
+05/02/20,PRE,Motherwell,0-4,Celtic
+09/02/20,FAC,Clyde,0-3,Celtic
+12/02/20,PRE,Celtic,5-0,Hearts
+16/02/20,PRE,Aberdeen,1-2,Celtic
+20/02/20,UEL,FC Copenhagen,1-1,Celtic
+23/02/20,PRE,Celtic,3-1,Kilmarnock
+27/02/20,UEL,Celtic,1-3,FC Copenhagen
+04/10/18,UEL,Salzburg,3-1,Celtic
+07/10/18,PRE,St. Johnstone,0-6,Celtic
+20/10/18,PRE,Celtic,4-2,Hibernian
+25/10/18,UEL,RB Leipzig,2-0,Celtic
+28/10/18,LEC,Hearts,0-3,Celtic
+31/10/18,PRE,Dundee,0-5,Celtic
+03/11/18,PRE,Celtic,5-0,Hearts
+08/11/18,UEL,Celtic,2-1,RB Leipzig
+11/11/18,PRE,Livingston,0-0,Celtic
+24/11/18,PRE,Hamilton Academical,0-3,Celtic
+29/11/18,UEL,Rosenborg,0-1,Celtic
+02/12/18,LEC,Celtic,1-0,Aberdeen
+05/12/18,PRE,Motherwell,1-1,Celtic
+08/12/18,PRE,Celtic,5-1,Kilmarnock
+13/12/18,UEL,Celtic,1-2,Salzburg
+16/12/18,PRE,Hibernian,2-0,Celtic
+19/12/18,PRE,Celtic,3-0,Motherwell
+22/12/18,PRE,Celtic,3-0,Dundee
+26/12/18,PRE,Aberdeen,3-4,Celtic
+29/12/18,PRE,Rangers,1-0,Celtic
+19/01/19,CLF,Arbroath,4-3,Celtic
+19/01/19,FAC,Celtic,3-0,Airdrieonians
+23/01/19,PRE,Celtic,4-0,St. Mirren
+26/01/19,PRE,Celtic,3-0,Hamilton Academical
+30/01/19,PRE,Celtic,2-0,St. Johnstone
+03/02/19,PRE,St. Johnstone,0-2,Celtic
+06/02/19,PRE,Celtic,2-0,Hibernian
+10/02/19,FAC,Celtic,5-0,St. Johnstone
+14/02/19,UEL,Celtic,0-2,Valencia
+17/02/19,PRE,Kilmarnock,0-1,Celtic
+21/02/19,UEL,Valencia,1-0,Celtic
+24/02/19,PRE,Celtic,4-1,Motherwell
+27/02/19,PRE,Hearts,1-2,Celtic
+02/03/19,FAC,Hibernian,0-2,Celtic
+09/03/19,PRE,Celtic,0-0,Aberdeen
+17/03/19,PRE,Dundee,0-1,Celtic
+31/03/19,PRE,Celtic,2-1,Rangers
+03/04/19,PRE,St. Mirren,0-2,Celtic
+06/04/19,PRE,Celtic,0-0,Livingston
+14/04/19,FAC,Aberdeen,0-3,Celtic
+21/04/19,PRE,Hibernian,0-0,Celtic
+27/04/19,PRE,Celtic,1-0,Kilmarnock
+04/05/19,PRE,Aberdeen,0-3,Celtic
+12/05/19,PRE,Rangers,2-0,Celtic
+19/05/19,PRE,Celtic,2-1,Hearts
+25/05/19,FAC,Hearts,1-2,Celtic
+26/06/19,CLF,Pinkafeld,1-6,Celtic
+29/06/19,CLF,Wiener SC,1-2,Celtic
+02/07/19,CLF,St.Gallen,0-0,Celtic
+09/07/19,UCL,Sarajevo,1-3,Celtic
+20/12/17,PRE,Celtic,2-0,Partick Thistle
+23/12/17,PRE,Celtic,3-0,Aberdeen
+26/12/17,PRE,Dundee,0-2,Celtic
+30/12/17,PRE,Celtic,0-0,Rangers
+20/01/18,FAC,Celtic,5-0,Brechin City
+23/01/18,PRE,Partick Thistle,1-2,Celtic
+27/01/18,PRE,Celtic,1-0,Hibernian
+30/01/18,PRE,Celtic,3-1,Hearts
+03/02/18,PRE,Kilmarnock,1-0,Celtic
+10/02/18,FAC,Celtic,3-2,Partick Thistle
+15/02/18,UEL,Celtic,1-0,Zenit
+18/02/18,PRE,Celtic,0-0,St. Johnstone
+22/02/18,UEL,Zenit,3-0,Celtic
+25/02/18,PRE,Aberdeen,0-2,Celtic
+03/03/18,FAC,Celtic,3-0,Greenock Morton
+11/03/18,PRE,Rangers,2-3,Celtic
+18/03/18,PRE,Motherwell,0-0,Celtic
+31/03/18,PRE,Celtic,3-0,Ross County
+04/04/18,PRE,Celtic,0-0,Dundee
+08/04/18,PRE,Hamilton Academical,1-2,Celtic
+15/04/18,FAC,Celtic,4-0,Rangers
+21/04/18,PRE,Hibernian,2-1,Celtic
+29/04/18,PRE,Celtic,5-0,Rangers
+06/05/18,PRE,Hearts,1-3,Celtic
+09/05/18,PRE,Celtic,0-0,Kilmarnock
+13/05/18,PRE,Celtic,0-1,Aberdeen
+19/05/18,FAC,Celtic,2-0,Motherwell
+27/06/18,CLF,Vorwärts Steyr,0-1,Celtic
+30/06/18,CLF,Celtic,0-1,Bohemians 1905
+03/07/18,CLF,Celtic,1-0,Sparta Prague
+07/07/18,CLF,Shamrock Rovers,0-7,Celtic
+10/07/18,UCL,Alashkert,0-3,Celtic
+14/07/18,CLF,Celtic,4-1,Standard Liège
+18/07/18,UCL,Celtic,3-0,Alashkert
+25/07/18,UCL,Celtic,3-1,Rosenborg
+01/08/18,UCL,Rosenborg,0-0,Celtic
+04/08/18,PRE,Celtic,3-1,Livingston
+08/08/18,UCL,Celtic,1-1,AEK Athens
+11/08/18,PRE,Hearts,1-0,Celtic
+14/08/18,UCL,AEK Athens,2-1,Celtic
+18/08/18,LEC,Partick Thistle,1-3,Celtic
+23/08/18,UEL,Suduva,1-1,Celtic
+26/08/18,PRE,Celtic,1-0,Hamilton Academical
+30/08/18,UEL,Celtic,3-0,Suduva
+02/09/18,PRE,Celtic,1-0,Rangers
+14/09/18,PRE,St. Mirren,0-0,Celtic
+20/09/18,UEL,Celtic,1-0,Rosenborg
+23/09/18,PRE,Kilmarnock,2-1,Celtic
+26/09/18,LEC,St. Johnstone,0-1,Celtic
+29/09/18,PRE,Celtic,1-0,Aberdeen
+05/04/17,PRE,Celtic,1-1,Partick Thistle
+08/04/17,PRE,Celtic,3-1,Kilmarnock
+16/04/17,PRE,Ross County,2-2,Celtic
+23/04/17,FAC,Celtic,2-0,Rangers
+29/04/17,PRE,Rangers,1-5,Celtic
+06/05/17,PRE,Celtic,4-1,St. Johnstone
+12/05/17,PRE,Aberdeen,1-3,Celtic
+18/05/17,PRE,Partick Thistle,0-5,Celtic
+21/05/17,PRE,Celtic,2-0,Hearts
+27/05/17,FAC,Celtic,2-1,Aberdeen
+28/06/17,CLF,Blau-Weiß Linz,0-1,Celtic
+01/07/17,CLF,Rapid Vienna,1-1,Celtic
+04/07/17,CLF,Slavia Prague,0-0,Celtic
+08/07/17,CLF,Shamrock Rovers,0-9,Celtic
+14/07/17,UCL,Linfield,0-2,Celtic
+15/07/17,CLF,Celtic,0-4,Lyon
+19/07/17,UCL,Celtic,4-0,Linfield
+26/07/17,UCL,Celtic,0-0,Rosenborg
+29/07/17,CLF,Sunderland,0-5,Celtic
+02/08/17,UCL,Rosenborg,0-1,Celtic
+05/08/17,PRE,Celtic,4-1,Hearts
+08/08/17,LEC,Celtic,5-0,Kilmarnock
+11/08/17,PRE,Partick Thistle,0-1,Celtic
+16/08/17,UCL,Celtic,5-0,Astana
+19/08/17,PRE,Kilmarnock,0-2,Celtic
+22/08/17,UCL,Astana,4-3,Celtic
+26/08/17,PRE,Celtic,1-1,St. Johnstone
+08/09/17,PRE,Hamilton Academical,1-4,Celtic
+12/09/17,UCL,Celtic,0-5,PSG
+16/09/17,PRE,Celtic,4-0,Ross County
+20/09/17,LEC,Dundee,0-4,Celtic
+23/09/17,PRE,Rangers,0-2,Celtic
+27/09/17,UCL,Anderlecht,0-3,Celtic
+30/09/17,PRE,Celtic,2-2,Hibernian
+14/10/17,PRE,Celtic,1-0,Dundee
+18/10/17,UCL,Bayern Munich,3-0,Celtic
+21/10/17,LEC,Hibernian,2-4,Celtic
+25/10/17,PRE,Aberdeen,0-3,Celtic
+28/10/17,PRE,Celtic,1-1,Kilmarnock
+31/10/17,UCL,Celtic,1-2,Bayern Munich
+04/11/17,PRE,St. Johnstone,0-4,Celtic
+18/11/17,PRE,Ross County,0-1,Celtic
+22/11/17,UCL,PSG,7-1,Celtic
+26/11/17,LEC,Motherwell,0-2,Celtic
+29/11/17,PRE,Motherwell,1-1,Celtic
+02/12/17,PRE,Celtic,5-1,Motherwell
+05/12/17,UCL,Celtic,0-1,Anderlecht
+10/12/17,PRE,Hibernian,2-2,Celtic
+13/12/17,PRE,Celtic,3-1,Hamilton Academical
+17/12/17,PRE,Hearts,4-0,Celtic
+23/07/16,ICC,Celtic,P1-1P,Leicester City
+27/07/16,UCL,Astana,1-1,Celtic
+30/07/16,ICC,Barcelona,3-1,Celtic
+03/08/16,UCL,Celtic,2-1,Astana
+07/08/16,PRE,Hearts,1-2,Celtic
+10/08/16,LEC,Celtic,5-0,Motherwell
+13/08/16,ICC,Inter Milan,2-0,Celtic
+17/08/16,UCL,Celtic,5-2,Hapoel Be'er Sheva
+20/08/16,PRE,St. Johnstone,2-4,Celtic
+23/08/16,UCL,Hapoel Be'er Sheva,2-0,Celtic
+27/08/16,PRE,Celtic,4-1,Aberdeen
+10/09/16,PRE,Celtic,5-1,Rangers
+13/09/16,UCL,Barcelona,7-0,Celtic
+18/09/16,PRE,Inverness CT,2-2,Celtic
+21/09/16,LEC,Celtic,2-0,Alloa Athletic
+24/09/16,PRE,Celtic,6-1,Kilmarnock
+28/09/16,UCL,Celtic,3-3,Manchester City
+01/10/16,PRE,Dundee,0-1,Celtic
+15/10/16,PRE,Celtic,2-0,Motherwell
+19/10/16,UCL,Celtic,0-2,Borussia M'gladbach
+23/10/16,LEC,Rangers,0-1,Celtic
+26/10/16,PRE,Ross County,0-4,Celtic
+29/10/16,PRE,Aberdeen,0-1,Celtic
+01/11/16,UCL,Borussia M'gladbach,1-1,Celtic
+05/11/16,PRE,Celtic,3-0,Inverness CT
+18/11/16,PRE,Kilmarnock,0-1,Celtic
+23/11/16,UCL,Celtic,0-2,Barcelona
+27/11/16,LEC,Aberdeen,0-3,Celtic
+03/12/16,PRE,Motherwell,3-4,Celtic
+06/12/16,UCL,Manchester City,1-1,Celtic
+09/12/16,PRE,Partick Thistle,1-4,Celtic
+13/12/16,PRE,Celtic,1-0,Hamilton Academical
+17/12/16,PRE,Celtic,2-1,Dundee
+20/12/16,PRE,Celtic,1-0,Partick Thistle
+24/12/16,PRE,Hamilton Academical,0-3,Celtic
+28/12/16,PRE,Celtic,2-0,Ross County
+31/12/16,PRE,Rangers,1-2,Celtic
+22/01/17,FAC,Albion Rovers,0-3,Celtic
+25/01/17,PRE,Celtic,1-0,St. Johnstone
+29/01/17,PRE,Celtic,4-0,Hearts
+01/02/17,PRE,Celtic,1-0,Aberdeen
+05/02/17,PRE,St. Johnstone,2-5,Celtic
+11/02/17,FAC,Celtic,6-0,Inverness CT
+18/02/17,PRE,Celtic,2-0,Motherwell
+25/02/17,PRE,Celtic,2-0,Hamilton Academical
+01/03/17,PRE,Inverness CT,0-4,Celtic
+05/03/17,FAC,Celtic,4-1,St. Mirren
+12/03/17,PRE,Celtic,1-1,Rangers
+19/03/17,PRE,Dundee,1-2,Celtic
+02/04/17,PRE,Hearts,0-5,Celtic

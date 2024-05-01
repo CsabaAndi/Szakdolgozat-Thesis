@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+15/04/23,FDA,KV Oostende,0-4,OH Leuven
+23/04/23,FDA,OH Leuven,3-2,Standard Liège
+21/06/23,CLF,OH Leuven,9-0,Bertem-Leefdaal
+24/06/23,CLF,OH Leuven,3-0,Racing Mechelen
+28/06/23,CLF,OH Leuven,4-0,Tienen
+01/07/23,CLF,OH Leuven,1-0,Beerschot
+12/07/23,CLF,OH Leuven,5-1,SK Beveren
+29/07/23,FDA,Sporting Charleroi,1-1,OH Leuven
+05/08/23,FDA,OH Leuven,1-2,RWDM
+12/08/23,FDA,Union Saint-Gilloise,5-1,OH Leuven
+18/08/23,FDA,OH Leuven,1-1,Antwerp
+26/08/23,FDA,AS Eupen,3-1,OH Leuven
+01/09/23,FDA,OH Leuven,3-0,Kortrijk
+17/09/23,FDA,OH Leuven,1-1,Gent
+23/09/23,FDA,Mechelen,1-2,OH Leuven
+30/09/23,FDA,OH Leuven,1-2,Standard Liège
+07/10/23,FDA,Cercle Brugge,3-2,OH Leuven
+22/10/23,FDA,OH Leuven,4-0,Sint-Truiden
+28/10/23,FDA,Anderlecht,5-1,OH Leuven
+01/11/23,CUP,OH Leuven,5-0,Elene-Grotenberge
+04/11/23,FDA,OH Leuven,0-2,Westerlo
+12/11/23,FDA,Genk,3-1,OH Leuven
+26/11/23,FDA,OH Leuven,0-1,Club Brugge
+02/12/23,FDA,Antwerp,1-0,OH Leuven
+06/12/23,CUP,Knokke,P1-1P,OH Leuven
+09/12/23,FDA,Sint-Truiden,1-1,OH Leuven
+16/12/23,FDA,OH Leuven,1-2,Cercle Brugge
+21/12/23,FDA,Gent,4-0,OH Leuven
+26/12/23,FDA,OH Leuven,3-0,AS Eupen
+21/01/24,FDA,OH Leuven,1-1,Anderlecht
+24/01/24,CUP,OH Leuven,2-3,Antwerp
+27/01/24,FDA,Kortrijk,0-0,OH Leuven
+31/01/24,FDA,OH Leuven,2-1,Genk
+03/02/24,FDA,Westerlo,0-3,OH Leuven
+10/02/24,FDA,Standard Liège,1-0,OH Leuven
+17/02/24,FDA,OH Leuven,0-0,Sporting Charleroi
+24/02/24,FDA,RWDM,1-1,OH Leuven
+02/03/24,FDA,OH Leuven,0-2,Union Saint-Gilloise
+10/03/24,FDA,Club Brugge,3-1,OH Leuven
+17/03/24,FDA,OH Leuven,1-0,Mechelen
+30/03/24,FDA,OH Leuven,2-3,Mechelen
+06/04/24,FDA,Standard Liège,0-0,OH Leuven
+14/04/24,FDA,OH Leuven,2-1,Gent
+20/04/24,FDA,OH Leuven,1-0,Sint-Truiden
+23/04/24,FDA,Westerlo,1-1,OH Leuven
+27/04/24,FDA,Mechelen,3-0,OH Leuven
+05/05/24,FDA,OH Leuven,16:00,Standard Liège
+12/05/24,FDA,Gent,13:30,OH Leuven
+17/05/24,FDA,Sint-Truiden,20:45,OH Leuven
+25/05/24,FDA,OH Leuven,20:30,Westerlo
+05/02/22,FDA,KV Oostende,1-3,OH Leuven
+09/02/22,FDA,OH Leuven,2-1,Genk
+12/02/22,FDA,OH Leuven,3-2,Cercle Brugge
+20/02/22,FDA,Sint-Truiden,2-0,OH Leuven
+26/02/22,FDA,OH Leuven,0-0,Anderlecht
+06/03/22,FDA,AS Eupen,3-1,OH Leuven
+11/03/22,FDA,OH Leuven,1-4,Union Saint-Gilloise
+19/03/22,FDA,RFC Seraing,1-1,OH Leuven
+24/03/22,CLF,Union Saint-Gilloise,CANC,OH Leuven
+02/04/22,FDA,OH Leuven,0-1,Antwerp
+10/04/22,FDA,Gent,5-0,OH Leuven
+02/07/22,CLF,OH Leuven,3-1,Sporting Charleroi
+06/07/22,CLF,OH Leuven,2-1,Beerschot
+09/07/22,CLF,OH Leuven,1-1,Fortuna Sittard
+16/07/22,CLF,OH Leuven,3-3,Leicester City
+23/07/22,FDA,Kortrijk,0-2,OH Leuven
+30/07/22,FDA,OH Leuven,2-0,Westerlo
+07/08/22,FDA,Antwerp,4-2,OH Leuven
+14/08/22,FDA,OH Leuven,0-3,Club Brugge
+21/08/22,FDA,Standard Liège,1-3,OH Leuven
+27/08/22,FDA,OH Leuven,2-1,KV Oostende
+04/09/22,FDA,Anderlecht,2-2,OH Leuven
+10/09/22,FDA,OH Leuven,3-2,Sporting Charleroi
+17/09/22,FDA,Mechelen,0-0,OH Leuven
+01/10/22,FDA,OH Leuven,0-3,Union Saint-Gilloise
+08/10/22,FDA,Zulte Waregem,2-5,OH Leuven
+15/10/22,FDA,OH Leuven,0-1,Genk
+18/10/22,FDA,AS Eupen,4-2,OH Leuven
+22/10/22,FDA,Sint-Truiden,0-0,OH Leuven
+30/10/22,FDA,OH Leuven,1-1,Gent
+05/11/22,FDA,Cercle Brugge,2-1,OH Leuven
+08/11/22,CUP,Francs Borains,0-5,OH Leuven
+11/11/22,FDA,OH Leuven,5-0,RFC Seraing
+01/12/22,CLF,Lyon,5-3,OH Leuven
+20/12/22,CUP,OH Leuven,1-3,Kortrijk
+26/12/22,FDA,Club Brugge,1-1,OH Leuven
+08/01/23,FDA,OH Leuven,2-3,Kortrijk
+13/01/23,FDA,Westerlo,1-2,OH Leuven
+17/01/23,FDA,OH Leuven,1-1,AS Eupen
+21/01/23,FDA,Union Saint-Gilloise,1-0,OH Leuven
+28/01/23,FDA,OH Leuven,1-1,Sint-Truiden
+04/02/23,FDA,RFC Seraing,2-1,OH Leuven
+10/02/23,FDA,OH Leuven,0-0,Cercle Brugge
+19/02/23,FDA,Gent,2-0,OH Leuven
+26/02/23,FDA,OH Leuven,1-1,Antwerp
+04/03/23,FDA,OH Leuven,4-2,Zulte Waregem
+10/03/23,FDA,Sporting Charleroi,0-1,OH Leuven
+19/03/23,FDA,OH Leuven,0-2,Anderlecht
+02/04/23,FDA,Genk,2-1,OH Leuven
+08/04/23,FDA,OH Leuven,4-1,Mechelen
+24/01/21,FDA,OH Leuven,0-3,Gent
+27/01/21,FDA,Sporting Charleroi,1-1,OH Leuven
+30/01/21,FDA,OH Leuven,0-1,Beerschot
+03/02/21,CUP,OH Leuven,2-3,Cercle Brugge
+06/02/21,FDA,Standard Liège,1-1,OH Leuven
+08/02/21,CLF,OH Leuven,1-2,RWDM
+12/02/21,FDA,OH Leuven,3-1,Kortrijk
+15/02/21,CLF,OH Leuven,CANC,Anderlecht
+22/02/21,FDA,Club Brugge,3-0,OH Leuven
+01/03/21,FDA,OH Leuven,2-0,Antwerp
+06/03/21,FDA,AS Eupen,3-3,OH Leuven
+21/03/21,FDA,Mechelen,2-2,OH Leuven
+05/04/21,FDA,OH Leuven,2-3,Genk
+10/04/21,FDA,Cercle Brugge,3-0,OH Leuven
+18/04/21,FDA,OH Leuven,1-2,SK Beveren
+15/06/21,CLF,OH Leuven,7-1,Huldenberg
+18/06/21,CLF,OH Leuven,5-1,Olympia Wijgmaal
+23/06/21,CLF,OH Leuven,4-1,Rupel Boom
+10/07/21,CLF,OH Leuven,1-0,Valenciennes
+14/07/21,CLF,OH Leuven,CANC,Fortuna Sittard
+17/07/21,CLF,Fortuna Düsseldorf,3-0,OH Leuven
+24/07/21,FDA,OH Leuven,1-1,Zulte Waregem
+31/07/21,FDA,Cercle Brugge,1-1,OH Leuven
+08/08/21,FDA,OH Leuven,1-1,Sporting Charleroi
+14/08/21,FDA,Genk,4-0,OH Leuven
+21/08/21,FDA,OH Leuven,1-4,AS Eupen
+29/08/21,FDA,Antwerp,2-2,OH Leuven
+12/09/21,FDA,OH Leuven,2-1,Kortrijk
+18/09/21,FDA,Mechelen,2-0,OH Leuven
+24/09/21,FDA,Club Brugge,1-1,OH Leuven
+02/10/21,FDA,OH Leuven,0-0,Beerschot
+16/10/21,FDA,Standard Liège,2-2,OH Leuven
+24/10/21,FDA,OH Leuven,4-1,Sint-Truiden
+27/10/21,CUP,Lierse K,1-2,OH Leuven
+31/10/21,FDA,Anderlecht,2-2,OH Leuven
+05/11/21,FDA,OH Leuven,1-0,KV Oostende
+11/11/21,CLF,OH Leuven,0-2,Genk
+20/11/21,FDA,OH Leuven,1-3,RFC Seraing
+26/11/21,FDA,Union Saint-Gilloise,1-3,OH Leuven
+01/12/21,CUP,Westerlo,2-3,OH Leuven
+04/12/21,FDA,OH Leuven,0-1,Gent
+11/12/21,FDA,Kortrijk,2-1,OH Leuven
+15/12/21,FDA,OH Leuven,1-4,Club Brugge
+19/12/21,FDA,OH Leuven,2-1,Standard Liège
+23/12/21,CUP,Club Brugge,4-1,OH Leuven
+27/12/21,FDA,Sporting Charleroi,0-3,OH Leuven
+08/01/22,CLF,Heidenheim,3-1,OH Leuven
+15/01/22,FDA,OH Leuven,5-0,Mechelen
+22/01/22,FDA,Beerschot,3-1,OH Leuven
+26/01/22,FDA,Zulte Waregem,1-1,OH Leuven
+12/10/19,CPL,KSV Roeselare,3-1,OH Leuven
+20/10/19,CPL,Lommel,0-2,OH Leuven
+25/10/19,CPL,OH Leuven,2-1,Westerlo
+08/11/19,CPL,Excelsior Virton,0-1,OH Leuven
+15/11/19,CPL,OH Leuven,0-3,Beerschot
+22/11/19,CPL,Westerlo,1-2,OH Leuven
+29/11/19,CPL,OH Leuven,2-1,Lokeren
+06/12/19,CPL,Lommel,3-2,OH Leuven
+13/12/19,CPL,KSV Roeselare,2-2,OH Leuven
+21/12/19,CPL,OH Leuven,0-2,Excelsior Virton
+06/01/20,CLF,Union Berlin,2-1,OH Leuven
+11/01/20,CPL,Union Saint-Gilloise,2-3,OH Leuven
+19/01/20,CPL,OH Leuven,1-3,Westerlo
+24/01/20,CPL,Lokeren,1-1,OH Leuven
+01/02/20,CPL,OH Leuven,2-1,KSV Roeselare
+08/02/20,CPL,OH Leuven,3-0,Lommel
+11/02/20,CPL,OH Leuven,0-0,Union Saint-Gilloise
+14/02/20,CPL,Beerschot,2-1,OH Leuven
+21/02/20,CPL,OH Leuven,3-5,Union Saint-Gilloise
+28/02/20,CPL,Excelsior Virton,4-1,OH Leuven
+08/03/20,CPL,Beerschot,1-0,OH Leuven
+04/07/20,CLF,Club Brugge,4-1,OH Leuven
+18/07/20,CLF,OH Leuven,2-4,RWDM
+18/07/20,CLF,OH Leuven,2-0,Zulte Waregem
+18/07/20,CLF,Standard Liège,CANC,OH Leuven
+25/07/20,CLF,OH Leuven,3-0,Mechelen
+02/08/20,CPL,OH Leuven,1-4,Beerschot
+10/08/20,FDA,OH Leuven,1-1,AS Eupen
+15/08/20,FDA,Genk,1-1,OH Leuven
+22/08/20,FDA,OH Leuven,1-3,Sporting Charleroi
+29/08/20,FDA,SK Beveren,1-3,OH Leuven
+12/09/20,FDA,OH Leuven,1-0,Standard Liège
+19/09/20,FDA,KV Oostende,3-1,OH Leuven
+26/09/20,FDA,Gent,2-3,OH Leuven
+03/10/20,FDA,OH Leuven,2-1,Zulte Waregem
+11/10/20,CUP,Knokke,0-2,OH Leuven
+18/10/20,FDA,Anderlecht,2-2,OH Leuven
+24/10/20,FDA,OH Leuven,2-1,Club Brugge
+31/10/20,FDA,Beerschot,4-2,OH Leuven
+23/11/20,FDA,OH Leuven,2-2,Sint-Truiden
+30/11/20,FDA,Antwerp,3-2,OH Leuven
+05/12/20,FDA,OH Leuven,2-1,Cercle Brugge
+08/12/20,FDA,OH Leuven,2-0,Excel Mouscron
+12/12/20,FDA,Kortrijk,0-3,OH Leuven
+15/12/20,FDA,Excel Mouscron,2-2,OH Leuven
+20/12/20,FDA,OH Leuven,1-2,Mechelen
+26/12/20,FDA,OH Leuven,1-2,KV Oostende
+10/01/21,FDA,OH Leuven,1-0,Anderlecht
+17/01/21,FDA,Sint-Truiden,3-1,OH Leuven
+21/01/21,FDA,Zulte Waregem,2-3,OH Leuven
+01/09/18,CPL,OH Leuven,1-3,Westerlo
+08/09/18,CPL,Lommel,1-1,OH Leuven
+15/09/18,CPL,Tubize,3-1,OH Leuven
+22/09/18,CPL,OH Leuven,0-2,KSV Roeselare
+30/09/18,CPL,OH Leuven,1-3,Union Saint-Gilloise
+05/10/18,CPL,Mechelen,3-0,OH Leuven
+19/10/18,CPL,Westerlo,0-1,OH Leuven
+26/10/18,CPL,Beerschot,3-1,OH Leuven
+03/11/18,CPL,OH Leuven,4-1,Tubize
+09/11/18,CPL,KSV Roeselare,0-4,OH Leuven
+16/11/18,CPL,OH Leuven,1-2,Union Saint-Gilloise
+25/11/18,CPL,Beerschot,3-2,OH Leuven
+01/12/18,CPL,OH Leuven,3-1,Lommel
+04/12/18,CPL,OH Leuven,1-2,Lommel
+07/12/18,CPL,KSV Roeselare,3-1,OH Leuven
+14/12/18,CPL,OH Leuven,1-3,Mechelen
+21/12/18,CPL,Westerlo,0-0,OH Leuven
+06/01/19,CLF,Antwerp,1-0,OH Leuven
+13/01/19,CPL,OH Leuven,0-2,Tubize
+20/01/19,CPL,Union Saint-Gilloise,2-1,OH Leuven
+27/01/19,CPL,Lommel,2-3,OH Leuven
+01/02/19,CPL,OH Leuven,0-1,KSV Roeselare
+09/02/19,CPL,Mechelen,2-1,OH Leuven
+16/02/19,CPL,OH Leuven,3-0,Westerlo
+24/02/19,CPL,Tubize,1-3,OH Leuven
+03/03/19,CPL,OH Leuven,2-2,Beerschot
+22/03/19,CPL,Lommel,0-2,OH Leuven
+29/03/19,CPL,OH Leuven,0-1,Tubize
+07/04/19,CPL,KSV Roeselare,2-2,OH Leuven
+14/04/19,CPL,OH Leuven,3-0,KSV Roeselare
+19/04/19,CPL,Tubize,0-3,OH Leuven
+26/04/19,CPL,OH Leuven,1-0,Lommel
+29/06/19,CLF,OH Leuven,3-1,Zulte Waregem
+05/07/19,CLF,Kortrijk,2-0,OH Leuven
+06/07/19,CLF,OH Leuven,4-4,Mechelen
+10/07/19,CLF,OH Leuven,2-2,AS Eupen
+13/07/19,CLF,OH Leuven,0-2,SK Beveren
+20/07/19,CLF,Twente,0-0,OH Leuven
+26/07/19,CLF,ADO Den Haag,1-1,OH Leuven
+03/08/19,CPL,OH Leuven,1-0,Excelsior Virton
+09/08/19,CPL,Westerlo,1-0,OH Leuven
+16/08/19,CPL,OH Leuven,3-0,Beerschot
+23/08/19,CUP,OH Leuven,6-0,RFC Wetteren
+31/08/19,CPL,Lokeren,0-2,OH Leuven
+07/09/19,CPL,OH Leuven,4-0,KSV Roeselare
+14/09/19,CPL,Union Saint-Gilloise,1-1,OH Leuven
+22/09/19,CPL,OH Leuven,1-0,Lommel
+25/09/19,CUP,Sint-Truiden,E2-0E,OH Leuven
+28/09/19,CPL,Beerschot,1-2,OH Leuven
+05/10/19,CPL,OH Leuven,2-3,Lokeren
+29/07/17,CLF,OH Leuven,1-1,Dender
+05/08/17,CPL,OH Leuven,2-2,Lierse
+12/08/17,CPL,KSV Roeselare,3-1,OH Leuven
+19/08/17,CPL,OH Leuven,7-1,Cercle Brugge
+27/08/17,CUP,OH Leuven,8-0,KFC Turnhout
+02/09/17,CPL,Westerlo,2-2,OH Leuven
+08/09/17,CPL,OH Leuven,2-0,Tubize
+15/09/17,CPL,Union Saint-Gilloise,0-0,OH Leuven
+19/09/17,CUP,Sint-Truiden,E4-2E,OH Leuven
+24/09/17,CPL,OH Leuven,1-1,Beerschot
+30/09/17,CPL,OH Leuven,2-0,KSV Roeselare
+03/10/17,CPL,Cercle Brugge,0-3,OH Leuven
+08/10/17,CPL,OH Leuven,2-1,Westerlo
+13/10/17,CPL,Tubize,1-2,OH Leuven
+22/10/17,CPL,Beerschot,2-2,OH Leuven
+28/10/17,CPL,OH Leuven,1-0,Union Saint-Gilloise
+05/11/17,CPL,Lierse,2-1,OH Leuven
+12/11/17,CPL,OH Leuven,1-1,KSV Roeselare
+18/11/17,CPL,Beerschot,1-2,OH Leuven
+25/11/17,CPL,Union Saint-Gilloise,0-0,OH Leuven
+03/12/17,CPL,OH Leuven,1-1,Tubize
+09/12/17,CPL,Westerlo,1-0,OH Leuven
+15/12/17,CPL,OH Leuven,2-1,Lierse
+05/01/18,CPL,Cercle Brugge,1-0,OH Leuven
+14/01/18,CPL,OH Leuven,3-1,Union Saint-Gilloise
+21/01/18,CPL,Tubize,0-1,OH Leuven
+26/01/18,CPL,OH Leuven,0-1,Westerlo
+02/02/18,CPL,OH Leuven,2-2,Cercle Brugge
+11/02/18,CPL,Lierse,0-1,OH Leuven
+17/02/18,CPL,OH Leuven,1-1,Beerschot
+25/02/18,CPL,KSV Roeselare,1-1,OH Leuven
+01/04/18,UEL,Zulte Waregem,2-2,OH Leuven
+07/04/18,UEL,OH Leuven,1-2,Lierse
+14/04/18,UEL,SK Beveren,0-2,OH Leuven
+17/04/18,UEL,Kortrijk,2-1,OH Leuven
+21/04/18,UEL,OH Leuven,3-1,Excel Mouscron
+28/04/18,UEL,OH Leuven,0-0,SK Beveren
+05/05/18,UEL,Lierse,2-2,OH Leuven
+08/05/18,UEL,OH Leuven,0-2,Kortrijk
+11/05/18,UEL,OH Leuven,1-2,Zulte Waregem
+18/05/18,UEL,Excel Mouscron,5-0,OH Leuven
+06/07/18,CLF,OH Leuven,3-1,Sint-Truiden
+21/07/18,CLF,OH Leuven,0-2,Gent
+25/07/18,CLF,OH Leuven,2-0,Dender
+27/07/18,CLF,Eendracht Aalst,1-2,OH Leuven
+28/07/18,CLF,OH Leuven,0-1,Standard Liège
+04/08/18,CPL,OH Leuven,1-1,Mechelen
+12/08/18,CPL,Union Saint-Gilloise,1-2,OH Leuven
+19/08/18,CPL,OH Leuven,1-1,Beerschot
+24/08/18,CUP,Dessel Sport,3-1,OH Leuven
+13/03/16,FDA,OH Leuven,0-1,Club Brugge
+06/07/16,CLF,OH Leuven,1-4,Anderlecht
+09/07/16,CLF,Linden,0-7,OH Leuven
+13/07/16,CLF,Lokeren,4-0,OH Leuven
+16/07/16,CLF,Sint-Truiden,4-1,OH Leuven
+20/07/16,CLF,OH Leuven,1-1,Mechelen
+23/07/16,CLF,OH Leuven,2-2,Westerlo
+24/07/16,CLF,Olympia Wijgmaal,2-1,OH Leuven
+27/07/16,CLF,OH Leuven,CANC,Metz
+27/07/16,CLF,Racing Union Luxembourg,1-2,OH Leuven
+30/07/16,CLF,OH Leuven,1-1,Eendracht Aalst
+07/08/16,CPL,Lommel,2-2,OH Leuven
+12/08/16,CPL,OH Leuven,0-3,Union Saint-Gilloise
+20/08/16,CPL,KSV Roeselare,2-2,OH Leuven
+28/08/16,CUP,Rebecq,P1-1P,OH Leuven
+02/09/16,CPL,Lierse,2-2,OH Leuven
+11/09/16,CPL,OH Leuven,0-1,Tubize
+18/09/16,CPL,OH Leuven,1-1,Antwerp
+21/09/16,CUP,Anderlecht,1-0,OH Leuven
+25/09/16,CPL,Cercle Brugge,2-4,OH Leuven
+02/10/16,CPL,OH Leuven,2-2,Lommel
+05/10/16,CPL,Tubize,0-1,OH Leuven
+09/10/16,CPL,OH Leuven,1-1,KSV Roeselare
+16/10/16,CPL,Antwerp,2-1,OH Leuven
+22/10/16,CPL,OH Leuven,2-0,Cercle Brugge
+29/10/16,CPL,Union Saint-Gilloise,2-0,OH Leuven
+06/11/16,CPL,OH Leuven,0-1,Lierse
+12/11/16,CPL,Lommel,2-2,OH Leuven
+18/11/16,CPL,OH Leuven,0-0,Antwerp
+27/11/16,CPL,OH Leuven,1-0,Cercle Brugge
+03/12/16,CPL,Tubize,0-2,OH Leuven
+10/12/16,CPL,OH Leuven,1-2,KSV Roeselare
+18/12/16,CPL,Lierse,1-1,OH Leuven
+08/01/17,CPL,Union Saint-Gilloise,4-0,OH Leuven
+14/01/17,CPL,OH Leuven,1-3,Tubize
+21/01/17,CPL,Antwerp,2-0,OH Leuven
+27/01/17,CPL,OH Leuven,2-3,Lierse
+05/02/17,CPL,KSV Roeselare,2-1,OH Leuven
+11/02/17,CPL,OH Leuven,2-1,Lommel
+18/02/17,CPL,Cercle Brugge,1-0,OH Leuven
+26/02/17,CPL,OH Leuven,2-0,Union Saint-Gilloise
+24/03/17,CPL,OH Leuven,1-1,Tubize
+01/04/17,CPL,Lommel,2-1,OH Leuven
+07/04/17,CPL,OH Leuven,1-0,Cercle Brugge
+14/04/17,CPL,Cercle Brugge,0-0,OH Leuven
+22/04/17,CPL,Tubize,1-0,OH Leuven
+28/04/17,CPL,OH Leuven,1-0,Lommel
+04/07/17,CLF,OH Leuven,4-2,Mechelen
+15/07/17,CLF,KV Oostende,1-3,OH Leuven
+21/07/17,CLF,SK Beveren,2-1,OH Leuven
+14/02/15,CPL,OH Leuven,4-0,KSV Roeselare
+28/02/15,CPL,Geel,0-5,OH Leuven
+06/03/15,CPL,OH Leuven,0-3,Lommel
+14/03/15,CPL,Excelsior Virton,1-2,OH Leuven
+20/03/15,CPL,OH Leuven,0-0,Mons
+05/04/15,CPL,RFC Seraing,2-3,OH Leuven
+11/04/15,CPL,OH Leuven,1-2,Tubize
+19/04/15,CPL,OH Leuven,7-0,Woluwe-Zaventem
+25/04/15,CPL,Eendracht Aalst,2-3,OH Leuven
+07/05/15,PL1,Lommel,0-1,OH Leuven
+10/05/15,PL1,OH Leuven,1-1,AS Eupen
+14/05/15,PL1,Lierse,1-2,OH Leuven
+17/05/15,PL1,OH Leuven,0-0,Lierse
+20/05/15,PL1,OH Leuven,3-1,Lommel
+24/05/15,PL1,AS Eupen,0-1,OH Leuven
+28/06/15,CLF,Kortenberg,0-2,OH Leuven
+01/07/15,CLF,Stade Bierbeek,1-4,OH Leuven
+15/07/15,CLF,Thes Sport,1-1,OH Leuven
+19/07/15,CLF,Differdange 03,1-6,OH Leuven
+25/07/15,FDA,Genk,3-1,OH Leuven
+02/08/15,FDA,OH Leuven,0-2,Anderlecht
+08/08/15,FDA,Westerlo,3-2,OH Leuven
+16/08/15,FDA,OH Leuven,2-0,Sporting Charleroi
+22/08/15,FDA,Mechelen,2-1,OH Leuven
+29/08/15,FDA,OH Leuven,1-0,Sint-Truiden
+12/09/15,FDA,Kortrijk,0-0,OH Leuven
+19/09/15,FDA,OH Leuven,2-3,Zulte Waregem
+23/09/15,CUP,OH Leuven,3-2,Lommel
+26/09/15,FDA,Standard Liège,2-2,OH Leuven
+03/10/15,FDA,OH Leuven,1-1,Excel Mouscron
+17/10/15,FDA,Lokeren,1-2,OH Leuven
+24/10/15,FDA,OH Leuven,0-2,SK Beveren
+28/10/15,FDA,Club Brugge,2-0,OH Leuven
+31/10/15,FDA,OH Leuven,0-2,Gent
+07/11/15,FDA,KV Oostende,3-0,OH Leuven
+21/11/15,FDA,OH Leuven,1-3,Genk
+29/11/15,FDA,Anderlecht,3-2,OH Leuven
+02/12/15,CUP,Excel Mouscron,1-0,OH Leuven
+05/12/15,FDA,OH Leuven,5-1,Westerlo
+12/12/15,FDA,Sporting Charleroi,2-1,OH Leuven
+19/12/15,FDA,OH Leuven,3-1,Mechelen
+26/12/15,FDA,Sint-Truiden,2-2,OH Leuven
+16/01/16,FDA,OH Leuven,1-0,Kortrijk
+23/01/16,FDA,Zulte Waregem,2-2,OH Leuven
+30/01/16,FDA,OH Leuven,0-2,Standard Liège
+06/02/16,FDA,SK Beveren,2-2,OH Leuven
+13/02/16,FDA,OH Leuven,3-3,Lokeren
+20/02/16,FDA,Excel Mouscron,3-1,OH Leuven
+27/02/16,FDA,OH Leuven,4-1,KV Oostende
+04/03/16,FDA,Gent,1-1,OH Leuven
+18/01/14,FDA,Sporting Charleroi,2-0,OH Leuven
+25/01/14,FDA,OH Leuven,1-0,Zulte Waregem
+01/02/14,FDA,Gent,2-0,OH Leuven
+08/02/14,FDA,OH Leuven,0-0,Mechelen
+15/02/14,FDA,SK Beveren,1-0,OH Leuven
+23/02/14,FDA,OH Leuven,2-5,Club Brugge
+01/03/14,FDA,Lierse,0-0,OH Leuven
+08/03/14,FDA,OH Leuven,1-0,Anderlecht
+16/03/14,FDA,Mons,3-2,OH Leuven
+29/03/14,FDA,OH Leuven,2-0,Mons
+05/04/14,FDA,Mons,1-1,OH Leuven
+12/04/14,FDA,OH Leuven,2-0,Mons
+19/04/14,FDA,Mons,CANC,OH Leuven
+27/04/14,FDA,OH Leuven,CANC,Mons
+04/05/14,PL1,OH Leuven,0-0,Excel Mouscron
+08/05/14,PL1,AS Eupen,0-3,OH Leuven
+11/05/14,PL1,OH Leuven,0-1,Sint-Truiden
+15/05/14,PL1,Sint-Truiden,2-1,OH Leuven
+18/05/14,PL1,Excel Mouscron,1-0,OH Leuven
+22/05/14,PL1,OH Leuven,2-1,AS Eupen
+09/07/14,CLF,KV Oostende,0-0,OH Leuven
+26/07/14,CLF,OH Leuven,3-2,Valenciennes
+03/08/14,CPL,Racing Mechelen,0-1,OH Leuven
+09/08/14,CPL,OH Leuven,3-1,Dessel Sport
+13/08/14,CPL,Antwerp,1-2,OH Leuven
+17/08/14,CUP,OH Leuven,1-0,Bocholt
+24/08/14,CUP,Bornem,1-4,OH Leuven
+29/08/14,CPL,OH Leuven,2-0,AS Eupen
+02/09/14,CPL,Sint-Truiden,3-2,OH Leuven
+06/09/14,CPL,OH Leuven,4-2,White Star Bruxelles
+12/09/14,CPL,Patro Eisden,0-3,OH Leuven
+20/09/14,CPL,OH Leuven,0-2,Heist
+24/09/14,CUP,OH Leuven,1-3,Kortrijk
+28/09/14,CPL,KSV Roeselare,0-0,OH Leuven
+05/10/14,CPL,OH Leuven,2-1,Geel
+11/10/14,CPL,Lommel,3-1,OH Leuven
+17/10/14,CPL,OH Leuven,1-1,Excelsior Virton
+24/10/14,CPL,Mons,1-1,OH Leuven
+31/10/14,CPL,OH Leuven,0-3,RFC Seraing
+08/11/14,CPL,Tubize,0-1,OH Leuven
+15/11/14,CPL,Woluwe-Zaventem,0-3,OH Leuven
+22/11/14,CPL,OH Leuven,0-0,Eendracht Aalst
+29/11/14,CPL,OH Leuven,3-0,Racing Mechelen
+06/12/14,CPL,Dessel Sport,1-1,OH Leuven
+12/12/14,CPL,OH Leuven,2-2,Antwerp
+19/12/14,CPL,AS Eupen,1-1,OH Leuven
+18/01/15,CPL,OH Leuven,2-3,Sint-Truiden
+24/01/15,CPL,White Star Bruxelles,1-1,OH Leuven
+31/01/15,CPL,OH Leuven,3-1,Patro Eisden
+07/02/15,CPL,Heist,2-2,OH Leuven
+09/02/13,FDA,Club Brugge,3-1,OH Leuven
+16/02/13,FDA,OH Leuven,1-1,Beerschot
+23/02/13,FDA,Mechelen,1-2,OH Leuven
+09/03/13,FDA,OH Leuven,0-4,Standard Liège
+16/03/13,FDA,Kortrijk,0-0,OH Leuven
+30/03/13,FDA,OH Leuven,3-1,SK Beveren
+06/04/13,FDA,Sporting Charleroi,3-0,OH Leuven
+13/04/13,FDA,OH Leuven,0-3,Mechelen
+20/04/13,FDA,Mechelen,1-5,OH Leuven
+27/04/13,FDA,OH Leuven,0-0,Sporting Charleroi
+04/05/13,FDA,SK Beveren,0-1,OH Leuven
+11/05/13,FDA,OH Leuven,1-4,Gent
+18/05/13,FDA,Gent,4-1,OH Leuven
+26/06/13,CLF,Kampenhout,0-7,OH Leuven
+29/06/13,CLF,Diegem Sport,0-5,OH Leuven
+03/07/13,CLF,RKC Waalwijk,1-3,OH Leuven
+04/07/13,CLF,Anorthosis,2-2,OH Leuven
+07/07/13,CLF,Olympia Wijgmaal,0-3,OH Leuven
+10/07/13,CLF,Lierse,1-1,OH Leuven
+13/07/13,CLF,Antwerp,4-2,OH Leuven
+16/07/13,CLF,Heerenveen,2-1,OH Leuven
+19/07/13,CLF,Stade Bierbeek,0-9,OH Leuven
+20/07/13,CLF,Stade Bierbeek,0-9,OH Leuven
+20/07/13,CLF,OH Leuven,0-1,Troyes
+27/07/13,FDA,Kortrijk,1-0,OH Leuven
+28/07/13,CLF,Dender,0-1,OH Leuven
+03/08/13,FDA,OH Leuven,1-4,Genk
+10/08/13,FDA,KV Oostende,1-1,OH Leuven
+18/08/13,FDA,Standard Liège,1-0,OH Leuven
+24/08/13,FDA,OH Leuven,2-1,Lokeren
+31/08/13,FDA,Cercle Brugge,1-1,OH Leuven
+14/09/13,FDA,OH Leuven,0-0,Sporting Charleroi
+22/09/13,FDA,Zulte Waregem,4-2,OH Leuven
+25/09/13,CUP,Visé,0-2,OH Leuven
+28/09/13,FDA,OH Leuven,1-1,Gent
+05/10/13,FDA,Club Brugge,1-0,OH Leuven
+19/10/13,FDA,OH Leuven,4-2,SK Beveren
+26/10/13,FDA,Mechelen,4-2,OH Leuven
+30/10/13,FDA,OH Leuven,2-2,Mons
+02/11/13,FDA,Anderlecht,3-1,OH Leuven
+09/11/13,FDA,OH Leuven,2-0,Lierse
+23/11/13,FDA,OH Leuven,1-1,Kortrijk
+01/12/13,FDA,Genk,3-0,OH Leuven
+04/12/13,CUP,Gent,3-0,OH Leuven
+08/12/13,FDA,OH Leuven,0-0,Standard Liège
+14/12/13,FDA,OH Leuven,1-2,KV Oostende
+21/12/13,FDA,Lokeren,2-0,OH Leuven
+26/12/13,FDA,OH Leuven,3-0,Cercle Brugge
+09/01/14,CLF,Hoffenheim,2-0,OH Leuven
+10/01/14,CLF,Mechelen,1-1,OH Leuven

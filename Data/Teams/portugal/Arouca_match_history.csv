@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+08/05/23,PRL,Arouca,0-1,Porto
+15/05/23,PRL,Estoril,2-0,Arouca
+20/05/23,PRL,Arouca,1-0,Chaves
+27/05/23,PRL,Portimonense,0-2,Arouca
+18/07/23,CLF,Arouca,3-0,Boavista
+19/07/23,CLF,Arouca,0-0,Sporting Braga II
+21/07/23,CLF,Arouca,2-1,Trofense
+22/07/23,CLF,Arouca,2-1,Anadia
+30/07/23,TDL,Arouca,2-0,Rio Ave
+10/08/23,UEC,Arouca,2-1,Brann
+13/08/23,PRL,Arouca,4-3,Estoril
+17/08/23,UEC,Brann,3-1,Arouca
+20/08/23,PRL,Vizela,2-2,Arouca
+26/08/23,PRL,Arouca,1-1,Portimonense
+03/09/23,PRL,Porto,1-1,Arouca
+17/09/23,PRL,Arouca,0-1,Casa Pia
+22/09/23,PRL,Famalicão,1-0,Arouca
+26/09/23,TDL,AVS,1-2,Arouca
+01/10/23,PRL,Arouca,0-2,Chaves
+08/10/23,PRL,Sporting Lisbon,2-1,Arouca
+21/10/23,TDP,Felgueiras 1932,1-3,Arouca
+27/10/23,PRL,Arouca,0-1,Moreirense
+31/10/23,TDL,Arouca,0-2,Benfica
+06/11/23,PRL,Farense,2-0,Arouca
+12/11/23,PRL,Arouca,0-1,Sporting Braga
+26/11/23,TDP,Arouca,P2-2P,Boavista
+03/12/23,PRL,Boavista,0-4,Arouca
+10/12/23,PRL,Arouca,2-2,Rio Ave
+16/12/23,PRL,Arouca,3-0,Gil Vicente
+28/12/23,PRL,Estrela,1-4,Arouca
+06/01/24,PRL,Arouca,0-3,Benfica
+10/01/24,TDP,Vizela,1-0,Arouca
+15/01/24,PRL,Vitoria Guimaraes,2-1,Arouca
+20/01/24,PRL,Estoril,1-2,Arouca
+28/01/24,PRL,Arouca,5-0,Vizela
+03/02/24,PRL,Portimonense,1-2,Arouca
+12/02/24,PRL,Arouca,3-2,Porto
+18/02/24,PRL,Casa Pia,1-0,Arouca
+23/02/24,PRL,Arouca,3-2,Famalicão
+01/03/24,PRL,Chaves,1-5,Arouca
+10/03/24,PRL,Arouca,0-3,Sporting Lisbon
+17/03/24,PRL,Moreirense,1-0,Arouca
+30/03/24,PRL,Arouca,2-1,Farense
+06/04/24,PRL,Sporting Braga,0-3,Arouca
+14/04/24,PRL,Arouca,2-1,Boavista
+19/04/24,PRL,Rio Ave,1-1,Arouca
+26/04/24,PRL,Gil Vicente,2-2,Arouca
+05/05/24,PRL,Arouca,19:00,Estrela
+12/05/24,PRL,Benfica,19:00,Arouca
+19/05/24,PRL,Arouca,-,Vitoria Guimaraes
+19/03/22,PRL,Tondela,2-2,Arouca
+02/04/22,PRL,Arouca,2-1,Gil Vicente
+09/04/22,PRL,Boavista,1-0,Arouca
+15/04/22,PRL,Arouca,1-1,Santa Clara
+22/04/22,PRL,Vizela,2-1,Arouca
+30/04/22,PRL,Arouca,1-0,Portimonense
+08/05/22,PRL,Sporting Braga,1-0,Arouca
+14/05/22,PRL,Arouca,0-0,Belenenses
+12/07/22,CLF,Sporting Braga,3-2,Arouca
+20/07/22,CLF,Arouca,1-0,Feirense
+23/07/22,CLF,Arouca,0-0,Chaves
+05/08/22,PRL,Benfica,4-0,Arouca
+15/08/22,PRL,Arouca,1-0,Gil Vicente
+20/08/22,PRL,Santa Clara,1-2,Arouca
+28/08/22,PRL,Arouca,0-6,Sporting Braga
+04/09/22,PRL,Casa Pia,0-0,Arouca
+11/09/22,PRL,Arouca,1-2,Boavista
+18/09/22,PRL,Arouca,2-2,Vitoria Guimaraes
+02/10/22,PRL,Paços Ferreira,1-1,Arouca
+10/10/22,PRL,Arouca,4-1,Famalicão
+15/10/22,TDP,Fontinhas,0-2,Arouca
+23/10/22,PRL,Marítimo,1-1,Arouca
+29/10/22,PRL,Arouca,1-0,Sporting Lisbon
+05/11/22,PRL,Vizela,0-1,Arouca
+08/11/22,TDP,Gil Vicente,1-4,Arouca
+12/11/22,PRL,Arouca,0-1,Rio Ave
+18/11/22,TDL,Arouca,1-1,Feirense
+04/12/22,TDL,Arouca,1-1,Leixões
+10/12/22,TDL,Oliveirense,0-3,Arouca
+16/12/22,TDL,Santa Clara,1-2,Arouca
+22/12/22,TDL,Moreirense,1-2,Arouca
+28/12/22,PRL,Porto,5-1,Arouca
+07/01/23,PRL,Arouca,2-0,Estoril
+11/01/23,TDP,Porto,4-0,Arouca
+15/01/23,PRL,Chaves,1-1,Arouca
+20/01/23,PRL,Arouca,4-0,Portimonense
+24/01/23,TDL,Arouca,1-2,Sporting Lisbon
+31/01/23,PRL,Arouca,0-3,Benfica
+05/02/23,PRL,Gil Vicente,1-1,Arouca
+11/02/23,PRL,Arouca,1-0,Santa Clara
+19/02/23,PRL,Sporting Braga,2-0,Arouca
+25/02/23,PRL,Arouca,2-0,Casa Pia
+03/03/23,PRL,Boavista,0-0,Arouca
+11/03/23,PRL,Vitoria Guimaraes,0-2,Arouca
+18/03/23,PRL,Arouca,1-1,Paços Ferreira
+03/04/23,PRL,Famalicão,0-1,Arouca
+08/04/23,PRL,Arouca,1-0,Marítimo
+16/04/23,PRL,Sporting Lisbon,1-1,Arouca
+23/04/23,PRL,Arouca,1-0,Vizela
+28/04/23,PRL,Rio Ave,1-0,Arouca
+13/02/21,SEL,Arouca,0-0,Varzim
+21/02/21,SEL,Academico Viseu,0-4,Arouca
+27/02/21,SEL,Arouca,2-1,Cova Piedade
+08/03/21,SEL,Benfica II,3-1,Arouca
+15/03/21,SEL,Arouca,0-1,Penafiel
+21/03/21,SEL,Vizela,1-1,Arouca
+27/03/21,SEL,Arouca,1-0,Feirense
+03/04/21,SEL,Porto II,0-3,Arouca
+11/04/21,SEL,Arouca,3-0,Oliveirense
+19/04/21,SEL,Sporting Covilhã,1-2,Arouca
+25/04/21,SEL,Arouca,3-0,Vilafranquense
+03/05/21,SEL,Académica,0-1,Arouca
+09/05/21,SEL,Arouca,2-1,Casa Pia
+15/05/21,SEL,Mafra,0-1,Arouca
+22/05/21,SEL,Arouca,3-1,Chaves
+26/05/21,PL1,Arouca,3-0,Rio Ave
+30/05/21,PL1,Rio Ave,0-2,Arouca
+10/07/21,CLF,Tondela,CANC,Arouca
+14/07/21,CLF,Arouca,CANC,Paços Ferreira
+17/07/21,CLF,Arouca,CANC,Chaves
+20/07/21,CLF,Arouca,2-1,Paris 13 Atletico
+25/07/21,TDL,Vilafranquense,0-3,Arouca
+01/08/21,TDL,Arouca,0-1,Rio Ave
+07/08/21,PRL,Arouca,0-2,Estoril
+14/08/21,PRL,Benfica,2-0,Arouca
+20/08/21,PRL,Arouca,2-1,Famalicão
+28/08/21,PRL,Porto,3-0,Arouca
+13/09/21,PRL,Marítimo,2-2,Arouca
+18/09/21,PRL,Arouca,2-2,Vitoria Guimaraes
+25/09/21,PRL,Moreirense,2-1,Arouca
+02/10/21,PRL,Arouca,1-2,Sporting Lisbon
+17/10/21,TDP,Leça,P1-1P,Arouca
+24/10/21,PRL,Paços Ferreira,0-0,Arouca
+29/10/21,PRL,Arouca,2-0,Tondela
+05/11/21,PRL,Gil Vicente,1-1,Arouca
+27/11/21,PRL,Arouca,2-1,Boavista
+05/12/21,PRL,Santa Clara,2-1,Arouca
+13/12/21,PRL,Arouca,1-4,Vizela
+18/12/21,PRL,Portimonense,1-1,Arouca
+30/12/21,PRL,Arouca,0-6,Sporting Braga
+09/01/22,PRL,Belenenses,2-1,Arouca
+21/01/22,PRL,Arouca,0-2,Benfica
+27/01/22,PRL,Estoril,1-2,Arouca
+31/01/22,PRL,Famalicão,0-0,Arouca
+06/02/22,PRL,Arouca,0-2,Porto
+14/02/22,PRL,Arouca,0-3,Marítimo
+19/02/22,PRL,Vitoria Guimaraes,1-3,Arouca
+26/02/22,PRL,Arouca,1-1,Moreirense
+05/03/22,PRL,Sporting Lisbon,2-0,Arouca
+12/03/22,PRL,Arouca,0-1,Paços Ferreira
+20/10/19,TDP,Arouca,1-0,Merelinense
+27/10/19,CDP,Ginásio Figueirense,0-2,Arouca
+03/11/19,CDP,Arouca,3-0,Leça
+10/11/19,CDP,Castro Daire,2-0,Arouca
+17/11/19,CDP,Arouca,1-0,Vila Real
+23/11/19,TDP,Espinho,E3-2E,Arouca
+01/12/19,CDP,Sanjoanense,0-0,Arouca
+08/12/19,CDP,Arouca,4-1,Valadares Gaia
+15/12/19,CDP,Lusitano FCV,0-1,Arouca
+22/12/19,CDP,Arouca,2-0,Espinho
+05/01/20,CDP,Canelas 2010,0-0,Arouca
+12/01/20,CDP,Arouca,2-1,Coimbrões
+19/01/20,CDP,Arouca,3-1,Trofense
+26/01/20,CDP,Amarante,0-1,Arouca
+02/02/20,CDP,Arouca,1-0,Lusitânia Lourosa
+09/02/20,CDP,Felgueiras 1932,3-3,Arouca
+16/02/20,CDP,Paredes,0-2,Arouca
+23/02/20,CDP,Arouca,4-2,Pedras Rubras
+01/03/20,CDP,Gondomar,1-0,Arouca
+08/03/20,CDP,Arouca,9-0,Ginásio Figueirense
+15/03/20,CDP,Leça,CANC,Arouca
+22/03/20,CDP,Arouca,CANC,Castro Daire
+29/03/20,CDP,Vila Real,CANC,Arouca
+05/04/20,CDP,Arouca,CANC,Sanjoanense
+11/04/20,CDP,Valadares Gaia,CANC,Arouca
+19/04/20,CDP,Arouca,CANC,Lusitano FCV
+26/04/20,CDP,Espinho,CANC,Arouca
+03/05/20,CDP,Arouca,CANC,Canelas 2010
+10/05/20,CDP,Coimbrões,CANC,Arouca
+10/09/20,SEL,Estoril,1-0,Arouca
+19/09/20,SEL,Arouca,0-0,Leixões
+22/09/20,SEL,Varzim,0-0,Arouca
+27/09/20,SEL,Arouca,1-1,Academico Viseu
+03/10/20,SEL,Cova Piedade,0-2,Arouca
+11/10/20,TDP,Estudantes Africanos,0-5,Arouca
+17/10/20,SEL,Arouca,1-0,Benfica II
+23/10/20,SEL,Penafiel,2-2,Arouca
+01/11/20,SEL,Arouca,2-1,Vizela
+06/11/20,SEL,Feirense,0-1,Arouca
+21/11/20,TDP,Arouca,P0-0P,Vitoria Guimaraes
+29/11/20,SEL,Arouca,2-3,Porto II
+05/12/20,SEL,Oliveirense,1-2,Arouca
+20/12/20,SEL,Arouca,1-0,Sporting Covilhã
+28/12/20,SEL,Vilafranquense,2-0,Arouca
+05/01/21,SEL,Arouca,0-2,Académica
+10/01/21,SEL,Casa Pia,1-1,Arouca
+17/01/21,SEL,Arouca,0-0,Mafra
+24/01/21,SEL,Chaves,2-1,Arouca
+02/02/21,SEL,Arouca,1-0,Estoril
+06/02/21,SEL,Leixões,0-1,Arouca
+12/08/18,SEL,Penafiel,1-2,Arouca
+19/08/18,SEL,Arouca,1-2,Benfica II
+26/08/18,SEL,Academico Viseu,3-2,Arouca
+02/09/18,SEL,Famalicão,2-0,Arouca
+08/09/18,CLF,Feirense,1-0,Arouca
+22/09/18,SEL,Arouca,0-2,Sporting Braga II
+30/09/18,TDP,Caçadores das Taipas,0-1,Arouca
+07/10/18,SEL,Porto II,0-1,Arouca
+21/10/18,TDP,Farense,1-3,Arouca
+28/10/18,SEL,Arouca,2-2,Mafra
+03/11/18,SEL,Cova Piedade,1-0,Arouca
+11/11/18,SEL,Arouca,2-0,Leixões
+22/11/18,TDP,Benfica,2-1,Arouca
+01/12/18,SEL,Académica,2-0,Arouca
+09/12/18,SEL,Arouca,0-1,Varzim
+16/12/18,SEL,Sporting Covilhã,2-2,Arouca
+22/12/18,SEL,Arouca,2-2,Vitória Guimarães II
+02/01/19,SEL,Paços Ferreira,1-0,Arouca
+06/01/19,SEL,Arouca,3-3,Farense
+09/01/19,SEL,Estoril,1-1,Arouca
+13/01/19,SEL,Arouca,0-0,Oliveirense
+20/01/19,SEL,Arouca,2-0,Penafiel
+30/01/19,SEL,Benfica II,3-1,Arouca
+03/02/19,SEL,Arouca,2-0,Academico Viseu
+10/02/19,SEL,Arouca,2-1,Famalicão
+17/02/19,SEL,Sporting Braga II,0-2,Arouca
+24/02/19,SEL,Arouca,1-0,Porto II
+02/03/19,SEL,Mafra,1-1,Arouca
+10/03/19,SEL,Arouca,0-1,Cova Piedade
+16/03/19,SEL,Leixões,1-0,Arouca
+31/03/19,SEL,Arouca,2-1,Académica
+06/04/19,SEL,Varzim,1-0,Arouca
+14/04/19,SEL,Arouca,1-1,Sporting Covilhã
+20/04/19,SEL,Vitória Guimarães II,2-2,Arouca
+28/04/19,SEL,Arouca,1-3,Paços Ferreira
+05/05/19,SEL,Farense,2-2,Arouca
+11/05/19,SEL,Arouca,2-1,Estoril
+19/05/19,SEL,Oliveirense,2-1,Arouca
+06/07/19,CLF,Arouca,2-1,Vitoria Guimaraes
+17/07/19,CLF,Academico Viseu,CANC,Arouca
+17/07/19,CLF,Feirense,3-1,Arouca
+18/08/19,CDP,Trofense,1-2,Arouca
+25/08/19,CDP,Arouca,2-0,Amarante
+01/09/19,CDP,Lusitânia Lourosa,4-1,Arouca
+08/09/19,TDP,Arouca,5-0,Rebordosa
+15/09/19,CDP,Arouca,2-1,Felgueiras 1932
+22/09/19,CDP,Arouca,1-0,Paredes
+29/09/19,TDP,Eléctrico,1-6,Arouca
+05/10/19,CDP,Pedras Rubras,2-2,Arouca
+13/10/19,CDP,Arouca,1-0,Gondomar
+18/07/17,CLF,Marítimo,1-0,Arouca
+23/07/17,TDL,Académica,P0-0P,Arouca
+30/07/17,TDL,Arouca,1-2,Paços Ferreira
+06/08/17,SEL,Famalicão,2-0,Arouca
+13/08/17,SEL,Arouca,2-2,Porto II
+19/08/17,SEL,Cova Piedade,3-0,Arouca
+23/08/17,SEL,Arouca,0-0,Academico Viseu
+27/08/17,SEL,Real,0-1,Arouca
+10/09/17,SEL,Arouca,0-0,Sporting Braga II
+17/09/17,SEL,Varzim,0-0,Arouca
+20/09/17,SEL,Arouca,2-0,Sporting CP II
+24/09/17,TDP,Sacavenense,0-1,Arouca
+30/09/17,SEL,Sporting Covilhã,1-0,Arouca
+15/10/17,TDP,Arouca,3-0,Coruchense
+22/10/17,SEL,Arouca,1-0,Gil Vicente
+28/10/17,SEL,Académica,4-1,Arouca
+01/11/17,SEL,Arouca,1-0,União Madeira
+06/11/17,SEL,Vitória Guimarães II,1-2,Arouca
+19/11/17,TDP,Caldas,P1-1P,Arouca
+26/11/17,SEL,Arouca,2-0,Santa Clara
+01/12/17,SEL,Benfica II,1-0,Arouca
+10/12/17,SEL,Arouca,2-1,Leixões
+17/12/17,SEL,Penafiel,2-0,Arouca
+22/12/17,SEL,Nacional,2-2,Arouca
+07/01/18,SEL,Arouca,3-0,Oliveirense
+14/01/18,SEL,Arouca,1-0,Famalicão
+21/01/18,SEL,Porto II,1-1,Arouca
+29/01/18,SEL,Arouca,0-0,Cova Piedade
+04/02/18,SEL,Academico Viseu,1-3,Arouca
+11/02/18,SEL,Arouca,1-0,Real
+17/02/18,SEL,Sporting Braga II,1-3,Arouca
+25/02/18,SEL,Arouca,1-2,Varzim
+03/03/18,SEL,Sporting CP II,0-2,Arouca
+10/03/18,SEL,Arouca,2-2,Sporting Covilhã
+18/03/18,SEL,Arouca,1-0,Académica
+25/03/18,SEL,Gil Vicente,0-3,Arouca
+31/03/18,SEL,União Madeira,0-0,Arouca
+07/04/18,SEL,Arouca,0-1,Vitória Guimarães II
+11/04/18,SEL,Santa Clara,0-0,Arouca
+15/04/18,SEL,Arouca,1-0,Benfica II
+22/04/18,SEL,Leixões,2-2,Arouca
+29/04/18,SEL,Arouca,1-4,Penafiel
+06/05/18,SEL,Arouca,0-1,Nacional
+12/05/18,SEL,Oliveirense,3-1,Arouca
+04/07/18,CLF,Arouca,1-1,Espinho
+11/07/18,CLF,Desportivo Aves,0-1,Arouca
+14/07/18,CLF,Arouca,3-1,Oliveirense
+17/07/18,CLF,Arouca,1-2,Santa Clara
+22/07/18,TDL,Famalicão,P1-1P,Arouca
+29/07/18,TDL,Arouca,P0-0P,Chaves
+24/04/16,PRL,Marítimo,1-2,Arouca
+01/05/16,PRL,Arouca,3-0,Nacional
+09/05/16,PRL,Estoril,1-1,Arouca
+14/05/16,PRL,Arouca,2-2,Vitoria Guimaraes
+01/07/16,CLF,Arouca,9-0,Mealhada
+06/07/16,CLF,Famalicão,0-2,Arouca
+28/07/16,UEL,Heracles,1-1,Arouca
+04/08/16,UEL,Arouca,0-0,Heracles
+14/08/16,PRL,Boavista,2-0,Arouca
+18/08/16,UEL,Arouca,0-1,Olympiakos
+21/08/16,PRL,Arouca,2-0,Nacional
+25/08/16,UEL,Olympiakos,E2-1E,Arouca
+28/08/16,PRL,Vitória Setúbal,2-0,Arouca
+09/09/16,PRL,Arouca,1-2,Benfica
+18/09/16,PRL,Arouca,0-1,Chaves
+26/09/16,PRL,Belenenses,1-1,Arouca
+02/10/16,PRL,Arouca,1-1,Sporting Braga
+16/10/16,TDP,Real,1-0,Arouca
+22/10/16,PRL,Porto,3-0,Arouca
+26/10/16,TDL,Arouca,2-1,Cova Piedade
+30/10/16,PRL,Arouca,1-0,Marítimo
+06/11/16,PRL,Sporting Lisbon,3-0,Arouca
+27/11/16,PRL,Arouca,1-0,Paços Ferreira
+30/11/16,TDL,Sporting Lisbon,1-0,Arouca
+04/12/16,PRL,Feirense,0-2,Arouca
+12/12/16,PRL,Arouca,0-2,Rio Ave
+17/12/16,PRL,Moreirense,1-4,Arouca
+23/12/16,PRL,Arouca,0-1,Vitoria Guimaraes
+29/12/16,TDL,Vitória Setúbal,1-0,Arouca
+04/01/17,TDL,Arouca,3-0,Varzim
+08/01/17,PRL,Tondela,1-2,Arouca
+13/01/17,PRL,Arouca,2-1,Estoril
+21/01/17,PRL,Arouca,1-2,Boavista
+28/01/17,PRL,Nacional,1-1,Arouca
+05/02/17,PRL,Arouca,2-1,Vitória Setúbal
+10/02/17,PRL,Benfica,3-0,Arouca
+18/02/17,PRL,Chaves,2-0,Arouca
+27/02/17,PRL,Arouca,1-2,Belenenses
+04/03/17,PRL,Sporting Braga,3-1,Arouca
+10/03/17,PRL,Arouca,0-4,Porto
+19/03/17,PRL,Marítimo,3-1,Arouca
+02/04/17,PRL,Arouca,1-2,Sporting Lisbon
+08/04/17,PRL,Paços Ferreira,1-1,Arouca
+15/04/17,PRL,Arouca,2-0,Feirense
+21/04/17,PRL,Rio Ave,3-0,Arouca
+30/04/17,PRL,Arouca,2-2,Moreirense
+07/05/17,PRL,Vitoria Guimaraes,1-0,Arouca
+13/05/17,PRL,Arouca,1-2,Tondela
+21/05/17,PRL,Estoril,4-2,Arouca
+15/07/17,CLF,Arouca,2-2,Oliveirense
+03/05/15,PRL,Marítimo,1-1,Arouca
+10/05/15,PRL,Arouca,0-0,Boavista
+17/05/15,PRL,Vitória Setúbal,2-1,Arouca
+23/05/15,PRL,Arouca,1-2,Moreirense
+11/07/15,CLF,Arouca,1-0,Varzim
+15/07/15,CLF,Arouca,0-1,Vitoria Guimaraes
+18/07/15,CLF,Arouca,3-0,Oliveirense
+22/07/15,CLF,Académica,0-1,Arouca
+26/07/15,CLF,Arouca,0-1,Marítimo
+30/07/15,CLF,Arouca,CANC,União Madeira
+01/08/15,CLF,Arouca,1-2,RSB Berkane
+09/08/15,CLF,Sanjoanense,0-2,Arouca
+16/08/15,PRL,Moreirense,0-2,Arouca
+23/08/15,PRL,Arouca,1-0,Benfica
+30/08/15,PRL,Paços Ferreira,1-1,Arouca
+12/09/15,PRL,Arouca,1-3,Porto
+20/09/15,PRL,União Madeira,0-0,Arouca
+27/09/15,PRL,Arouca,2-2,Belenenses
+04/10/15,PRL,Sporting Braga,0-0,Arouca
+11/10/15,TDL,Varzim,P0-0P,Arouca
+18/10/15,TDP,Leixões,E1-2E,Arouca
+25/10/15,PRL,Arouca,1-1,Tondela
+01/11/15,PRL,Vitória Setúbal,0-0,Arouca
+08/11/15,PRL,Arouca,0-1,Sporting Lisbon
+21/11/15,TDP,Arouca,P0-0P,Chaves
+29/11/15,PRL,Académica,1-1,Arouca
+06/12/15,PRL,Arouca,3-2,Boavista
+12/12/15,PRL,Rio Ave,3-1,Arouca
+16/12/15,TDP,Amarante,1-2,Arouca
+19/12/15,PRL,Arouca,4-1,Marítimo
+28/12/15,TDL,Portimonense,4-1,Arouca
+02/01/16,PRL,Nacional,2-2,Arouca
+06/01/16,PRL,Arouca,1-0,Estoril
+09/01/16,PRL,Vitoria Guimaraes,2-2,Arouca
+13/01/16,TDP,Sporting Braga,2-0,Arouca
+17/01/16,PRL,Arouca,1-2,Moreirense
+20/01/16,TDL,Arouca,1-1,Paços Ferreira
+23/01/16,PRL,Benfica,3-1,Arouca
+26/01/16,TDL,Arouca,0-1,Sporting Lisbon
+31/01/16,PRL,Arouca,2-2,Paços Ferreira
+07/02/16,PRL,Porto,1-2,Arouca
+14/02/16,PRL,Arouca,3-0,União Madeira
+21/02/16,PRL,Belenenses,0-2,Arouca
+27/02/16,PRL,Arouca,0-0,Sporting Braga
+06/03/16,PRL,Tondela,0-1,Arouca
+13/03/16,PRL,Arouca,1-0,Vitória Setúbal
+19/03/16,PRL,Sporting Lisbon,5-1,Arouca
+02/04/16,PRL,Arouca,3-2,Académica
+08/04/16,PRL,Boavista,0-0,Arouca
+16/04/16,PRL,Arouca,0-0,Rio Ave
+03/03/14,PRL,Arouca,0-3,Académica
+09/03/14,PRL,Porto,4-1,Arouca
+16/03/14,PRL,Arouca,2-0,Olhanense
+23/03/14,PRL,Paços Ferreira,3-1,Arouca
+30/03/14,PRL,Arouca,1-0,Vitória Setúbal
+06/04/14,PRL,Marítimo,1-0,Arouca
+13/04/14,PRL,Arouca,0-2,Benfica
+17/04/14,PRL,Vitoria Guimaraes,2-3,Arouca
+04/05/14,PRL,Arouca,1-0,Gil Vicente
+10/05/14,PRL,Belenenses,1-0,Arouca
+19/07/14,CLF,Arouca,0-0,Tondela
+23/07/14,CLF,Arouca,1-2,Oliveirense
+26/07/14,CLF,Académica,0-0,Arouca
+06/08/14,CLF,Arouca,0-1,Penafiel
+18/08/14,PRL,Arouca,1-1,Estoril
+23/08/14,PRL,Sporting Lisbon,1-0,Arouca
+31/08/14,PRL,Nacional,2-0,Arouca
+13/09/14,PRL,Arouca,1-0,Sporting Braga
+21/09/14,PRL,Rio Ave,1-2,Arouca
+24/09/14,TDL,Tondela,1-1,Arouca
+28/09/14,PRL,Arouca,0-1,Académica
+05/10/14,PRL,Benfica,4-0,Arouca
+19/10/14,TDP,Vitória Setúbal,1-0,Arouca
+25/10/14,PRL,Arouca,0-5,Porto
+29/10/14,TDL,Arouca,1-0,Tondela
+02/11/14,PRL,Gil Vicente,1-1,Arouca
+07/11/14,PRL,Arouca,1-2,Vitoria Guimaraes
+29/11/14,PRL,Belenenses,0-0,Arouca
+07/12/14,PRL,Arouca,0-1,Penafiel
+13/12/14,PRL,Paços Ferreira,2-1,Arouca
+21/12/14,PRL,Arouca,1-0,Marítimo
+28/12/14,TDL,Moreirense,2-0,Arouca
+04/01/15,PRL,Boavista,3-1,Arouca
+11/01/15,PRL,Arouca,1-0,Vitória Setúbal
+14/01/15,TDL,Benfica,4-0,Arouca
+18/01/15,PRL,Moreirense,1-0,Arouca
+21/01/15,TDL,Arouca,1-0,Nacional
+25/01/15,PRL,Estoril,1-0,Arouca
+01/02/15,PRL,Arouca,1-3,Sporting Lisbon
+08/02/15,PRL,Arouca,3-3,Nacional
+15/02/15,PRL,Sporting Braga,2-0,Arouca
+22/02/15,PRL,Arouca,1-0,Rio Ave
+01/03/15,PRL,Académica,1-1,Arouca
+08/03/15,PRL,Arouca,1-3,Benfica
+15/03/15,PRL,Porto,1-0,Arouca
+22/03/15,PRL,Arouca,3-1,Gil Vicente
+03/04/15,PRL,Vitoria Guimaraes,1-0,Arouca
+10/04/15,PRL,Arouca,0-1,Belenenses
+19/04/15,PRL,Penafiel,0-2,Arouca
+26/04/15,PRL,Arouca,1-3,Paços Ferreira
+30/12/12,SEL,União Madeira,1-1,Arouca
+06/01/13,SEL,Arouca,3-1,Tondela
+12/01/13,SEL,Arouca,2-0,Portimonense
+17/01/13,TDP,Arouca,1-4,Belenenses
+20/01/13,SEL,Desportivo Aves,0-3,Arouca
+23/01/13,SEL,Arouca,0-0,Penafiel
+30/01/13,SEL,Oliveirense,3-2,Arouca
+03/02/13,SEL,Arouca,3-0,Vitória Guimarães II
+10/02/13,SEL,Sporting CP II,1-1,Arouca
+17/02/13,SEL,Arouca,3-0,Sporting Covilhã
+24/02/13,SEL,Atlético CP,1-1,Arouca
+03/03/13,SEL,Arouca,3-1,Marítimo II
+10/03/13,SEL,Leixões,1-0,Arouca
+17/03/13,SEL,Trofense,0-1,Arouca
+30/03/13,SEL,Arouca,3-2,Freamunde
+07/04/13,SEL,Porto II,2-0,Arouca
+13/04/13,SEL,Arouca,2-0,Santa Clara
+17/04/13,SEL,Sporting Braga II,3-1,Arouca
+21/04/13,SEL,Arouca,1-0,Feirense
+28/04/13,SEL,Benfica II,1-1,Arouca
+05/05/13,SEL,Arouca,1-1,Naval 1º de Maio
+08/05/13,SEL,Belenenses,1-2,Arouca
+12/05/13,SEL,Arouca,3-0,União Madeira
+18/05/13,SEL,Tondela,4-2,Arouca
+27/07/13,CLF,Vitoria Guimaraes,0-0,Arouca
+18/08/13,PRL,Sporting Lisbon,5-1,Arouca
+25/08/13,PRL,Arouca,1-2,Estoril
+01/09/13,PRL,Arouca,1-0,Rio Ave
+15/09/13,PRL,Nacional,0-1,Arouca
+20/09/13,PRL,Arouca,0-1,Sporting Braga
+25/09/13,TDL,Beira-Mar,0-1,Arouca
+28/09/13,PRL,Académica,0-0,Arouca
+06/10/13,PRL,Arouca,1-3,Porto
+13/10/13,TDL,Arouca,P1-2P,Beira-Mar
+20/10/13,TDP,Varzim,1-4,Arouca
+26/10/13,PRL,Olhanense,1-0,Arouca
+03/11/13,PRL,Arouca,0-0,Paços Ferreira
+09/11/13,TDP,Arouca,2-0,Chaves
+24/11/13,PRL,Vitória Setúbal,1-0,Arouca
+01/12/13,PRL,Arouca,1-2,Marítimo
+06/12/13,PRL,Benfica,2-2,Arouca
+15/12/13,PRL,Arouca,0-2,Vitoria Guimaraes
+22/12/13,PRL,Gil Vicente,0-3,Arouca
+05/01/14,TDP,Sporting Braga,2-0,Arouca
+12/01/14,PRL,Arouca,2-0,Belenenses
+18/01/14,PRL,Arouca,1-2,Sporting Lisbon
+31/01/14,PRL,Estoril,1-1,Arouca
+09/02/14,PRL,Rio Ave,1-1,Arouca
+16/02/14,PRL,Arouca,1-1,Nacional
+22/02/14,PRL,Sporting Braga,2-2,Arouca

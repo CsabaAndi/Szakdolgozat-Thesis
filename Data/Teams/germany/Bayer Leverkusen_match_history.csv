@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+07/09/23,CLF,Bayer Leverkusen,4-2,Alemannia Aachen
+15/09/23,BUN,Bayern Munich,2-2,Bayer Leverkusen
+21/09/23,UEL,Bayer Leverkusen,4-0,Häcken
+24/09/23,BUN,Bayer Leverkusen,4-1,Heidenheim
+30/09/23,BUN,Mainz,0-3,Bayer Leverkusen
+05/10/23,UEL,Molde,1-2,Bayer Leverkusen
+08/10/23,BUN,Bayer Leverkusen,3-0,FC Cologne
+21/10/23,BUN,Wolfsburg,1-2,Bayer Leverkusen
+26/10/23,UEL,Bayer Leverkusen,5-1,Qarabag
+29/10/23,BUN,Bayer Leverkusen,2-1,Freiburg
+01/11/23,DFP,Sandhausen,2-5,Bayer Leverkusen
+04/11/23,BUN,Hoffenheim,2-3,Bayer Leverkusen
+09/11/23,UEL,Qarabag,0-1,Bayer Leverkusen
+12/11/23,BUN,Bayer Leverkusen,4-0,Union Berlin
+25/11/23,BUN,Werder Bremen,0-3,Bayer Leverkusen
+30/11/23,UEL,Häcken,0-2,Bayer Leverkusen
+03/12/23,BUN,Bayer Leverkusen,1-1,Borussia Dortmund
+06/12/23,DFP,Bayer Leverkusen,3-1,Paderborn
+10/12/23,BUN,Stuttgart,1-1,Bayer Leverkusen
+14/12/23,UEL,Bayer Leverkusen,5-1,Molde
+17/12/23,BUN,Bayer Leverkusen,3-0,Eintracht Frankfurt
+20/12/23,BUN,Bayer Leverkusen,4-0,Bochum
+07/01/24,CLF,Bayer Leverkusen,4-1,Venezia
+13/01/24,BUN,Augsburg,0-1,Bayer Leverkusen
+20/01/24,BUN,RB Leipzig,2-3,Bayer Leverkusen
+27/01/24,BUN,Bayer Leverkusen,0-0,Borussia M'gladbach
+03/02/24,BUN,Darmstadt,0-2,Bayer Leverkusen
+06/02/24,DFP,Bayer Leverkusen,3-2,Stuttgart
+10/02/24,BUN,Bayer Leverkusen,3-0,Bayern Munich
+17/02/24,BUN,Heidenheim,1-2,Bayer Leverkusen
+23/02/24,BUN,Bayer Leverkusen,2-1,Mainz
+03/03/24,BUN,FC Cologne,0-2,Bayer Leverkusen
+07/03/24,UEL,Qarabag,2-2,Bayer Leverkusen
+10/03/24,BUN,Bayer Leverkusen,2-0,Wolfsburg
+14/03/24,UEL,Bayer Leverkusen,3-2,Qarabag
+17/03/24,BUN,Freiburg,2-3,Bayer Leverkusen
+30/03/24,BUN,Bayer Leverkusen,2-1,Hoffenheim
+03/04/24,DFP,Bayer Leverkusen,4-0,Fortuna Düsseldorf
+06/04/24,BUN,Union Berlin,0-1,Bayer Leverkusen
+11/04/24,UEL,Bayer Leverkusen,2-0,West Ham United
+14/04/24,BUN,Bayer Leverkusen,5-0,Werder Bremen
+18/04/24,UEL,West Ham United,1-1,Bayer Leverkusen
+21/04/24,BUN,Borussia Dortmund,1-1,Bayer Leverkusen
+27/04/24,BUN,Bayer Leverkusen,2-2,Stuttgart
+02/05/24,UEL,Roma,21:00,Bayer Leverkusen
+05/05/24,BUN,Eintracht Frankfurt,17:30,Bayer Leverkusen
+09/05/24,UEL,Bayer Leverkusen,21:00,Roma
+12/05/24,BUN,Bochum,19:30,Bayer Leverkusen
+18/05/24,BUN,Bayer Leverkusen,15:30,Augsburg
+25/05/24,DFP,Kaiserslautern,20:00,Bayer Leverkusen
+08/10/22,BUN,Bayer Leverkusen,4-0,Schalke 04
+12/10/22,UCL,Bayer Leverkusen,0-3,Porto
+15/10/22,BUN,Eintracht Frankfurt,5-1,Bayer Leverkusen
+22/10/22,BUN,Bayer Leverkusen,2-2,Wolfsburg
+26/10/22,UCL,Atletico Madrid,2-2,Bayer Leverkusen
+29/10/22,BUN,RB Leipzig,2-0,Bayer Leverkusen
+01/11/22,UCL,Bayer Leverkusen,0-0,Club Brugge
+06/11/22,BUN,Bayer Leverkusen,5-0,Union Berlin
+09/11/22,BUN,FC Cologne,1-2,Bayer Leverkusen
+12/11/22,BUN,Bayer Leverkusen,2-0,Stuttgart
+17/11/22,CLF,St. Louis City II,0-3,Bayer Leverkusen
+10/12/22,CLF,Rangers,3-0,Bayer Leverkusen
+17/12/22,CLF,Bayer Leverkusen,4-1,Zürich
+07/01/23,CLF,Bayer Leverkusen,2-1,Venezia
+15/01/23,CLF,Bayer Leverkusen,1-0,FC Copenhagen
+22/01/23,BUN,Borussia M'gladbach,2-3,Bayer Leverkusen
+25/01/23,BUN,Bayer Leverkusen,2-0,Bochum
+29/01/23,BUN,Bayer Leverkusen,0-2,Borussia Dortmund
+03/02/23,BUN,Augsburg,1-0,Bayer Leverkusen
+11/02/23,BUN,Hoffenheim,1-3,Bayer Leverkusen
+16/02/23,UEL,Bayer Leverkusen,2-3,Monaco
+19/02/23,BUN,Bayer Leverkusen,2-3,Mainz
+23/02/23,UEL,Monaco,P2-3P,Bayer Leverkusen
+26/02/23,BUN,Freiburg,1-1,Bayer Leverkusen
+05/03/23,BUN,Bayer Leverkusen,4-1,Hertha Berlin
+09/03/23,UEL,Bayer Leverkusen,2-0,Ferencváros
+12/03/23,BUN,Werder Bremen,2-3,Bayer Leverkusen
+16/03/23,UEL,Ferencváros,0-2,Bayer Leverkusen
+19/03/23,BUN,Bayer Leverkusen,2-1,Bayern Munich
+01/04/23,BUN,Schalke 04,0-3,Bayer Leverkusen
+08/04/23,BUN,Bayer Leverkusen,3-1,Eintracht Frankfurt
+13/04/23,UEL,Bayer Leverkusen,1-1,Union Saint-Gilloise
+16/04/23,BUN,Wolfsburg,0-0,Bayer Leverkusen
+20/04/23,UEL,Union Saint-Gilloise,1-4,Bayer Leverkusen
+23/04/23,BUN,Bayer Leverkusen,2-0,RB Leipzig
+29/04/23,BUN,Union Berlin,0-0,Bayer Leverkusen
+05/05/23,BUN,Bayer Leverkusen,1-2,FC Cologne
+11/05/23,UEL,Roma,1-0,Bayer Leverkusen
+14/05/23,BUN,Stuttgart,1-1,Bayer Leverkusen
+18/05/23,UEL,Bayer Leverkusen,0-0,Roma
+21/05/23,BUN,Bayer Leverkusen,2-2,Borussia M'gladbach
+27/05/23,BUN,Bochum,3-0,Bayer Leverkusen
+21/07/23,CLF,Bayer Leverkusen,1-2,Paderborn
+29/07/23,CLF,Real Sociedad,1-0,Bayer Leverkusen
+02/08/23,CLF,Marseille,1-2,Bayer Leverkusen
+05/08/23,CLF,Bayer Leverkusen,4-0,West Ham United
+12/08/23,DFP,Teutonia Ottensen,0-8,Bayer Leverkusen
+19/08/23,BUN,Bayer Leverkusen,3-2,RB Leipzig
+26/08/23,BUN,Borussia M'gladbach,0-3,Bayer Leverkusen
+02/09/23,BUN,Bayer Leverkusen,5-1,Darmstadt
+03/10/21,BUN,Arminia Bielefeld,0-4,Bayer Leverkusen
+17/10/21,BUN,Bayer Leverkusen,1-5,Bayern Munich
+21/10/21,UEL,Real Betis,1-1,Bayer Leverkusen
+24/10/21,BUN,FC Cologne,2-2,Bayer Leverkusen
+27/10/21,DFP,Bayer Leverkusen,1-2,Karlsruhe
+30/10/21,BUN,Bayer Leverkusen,0-2,Wolfsburg
+04/11/21,UEL,Bayer Leverkusen,4-0,Real Betis
+07/11/21,BUN,Hertha Berlin,1-1,Bayer Leverkusen
+20/11/21,BUN,Bayer Leverkusen,1-0,Bochum
+25/11/21,UEL,Bayer Leverkusen,3-2,Celtic
+28/11/21,BUN,RB Leipzig,1-3,Bayer Leverkusen
+04/12/21,BUN,Bayer Leverkusen,7-1,Greuther Fürth
+09/12/21,UEL,Ferencváros,1-0,Bayer Leverkusen
+12/12/21,BUN,Eintracht Frankfurt,5-2,Bayer Leverkusen
+15/12/21,BUN,Bayer Leverkusen,2-2,Hoffenheim
+19/12/21,BUN,Freiburg,2-1,Bayer Leverkusen
+08/01/22,BUN,Bayer Leverkusen,2-2,Union Berlin
+15/01/22,BUN,Borussia M'gladbach,1-2,Bayer Leverkusen
+22/01/22,BUN,Bayer Leverkusen,5-1,Augsburg
+06/02/22,BUN,Borussia Dortmund,2-5,Bayer Leverkusen
+12/02/22,BUN,Bayer Leverkusen,4-2,Stuttgart
+18/02/22,BUN,Mainz,3-2,Bayer Leverkusen
+26/02/22,BUN,Bayer Leverkusen,3-0,Arminia Bielefeld
+05/03/22,BUN,Bayern Munich,1-1,Bayer Leverkusen
+10/03/22,UEL,Atalanta,3-2,Bayer Leverkusen
+13/03/22,BUN,Bayer Leverkusen,0-1,FC Cologne
+17/03/22,UEL,Bayer Leverkusen,0-1,Atalanta
+20/03/22,BUN,Wolfsburg,0-2,Bayer Leverkusen
+02/04/22,BUN,Bayer Leverkusen,2-1,Hertha Berlin
+10/04/22,BUN,Bochum,0-0,Bayer Leverkusen
+17/04/22,BUN,Bayer Leverkusen,0-1,RB Leipzig
+23/04/22,BUN,Greuther Fürth,1-4,Bayer Leverkusen
+02/05/22,BUN,Bayer Leverkusen,2-0,Eintracht Frankfurt
+07/05/22,BUN,Hoffenheim,2-4,Bayer Leverkusen
+14/05/22,BUN,Bayer Leverkusen,2-1,Freiburg
+09/07/22,CLF,Bayer Leverkusen,6-1,MSV Duisburg
+17/07/22,CLF,Bayer Leverkusen,0-0,Panathinaikos
+21/07/22,CLF,Udinese,1-2,Bayer Leverkusen
+30/07/22,DFP,Elversberg,4-3,Bayer Leverkusen
+06/08/22,BUN,Borussia Dortmund,1-0,Bayer Leverkusen
+13/08/22,BUN,Bayer Leverkusen,1-2,Augsburg
+20/08/22,BUN,Bayer Leverkusen,0-3,Hoffenheim
+27/08/22,BUN,Mainz,0-3,Bayer Leverkusen
+03/09/22,BUN,Bayer Leverkusen,2-3,Freiburg
+07/09/22,UCL,Club Brugge,1-0,Bayer Leverkusen
+10/09/22,BUN,Hertha Berlin,2-2,Bayer Leverkusen
+13/09/22,UCL,Bayer Leverkusen,2-0,Atletico Madrid
+17/09/22,BUN,Bayer Leverkusen,1-1,Werder Bremen
+30/09/22,BUN,Bayern Munich,4-0,Bayer Leverkusen
+04/10/22,UCL,Porto,2-0,Bayer Leverkusen
+08/11/20,BUN,Bayer Leverkusen,4-3,Borussia M'gladbach
+21/11/20,BUN,Arminia Bielefeld,1-2,Bayer Leverkusen
+26/11/20,UEL,Bayer Leverkusen,4-1,Hapoel Be'er Sheva
+29/11/20,BUN,Bayer Leverkusen,0-0,Hertha Berlin
+03/12/20,UEL,Nice,2-3,Bayer Leverkusen
+06/12/20,BUN,Schalke 04,0-3,Bayer Leverkusen
+10/12/20,UEL,Bayer Leverkusen,4-0,Slavia Prague
+13/12/20,BUN,Bayer Leverkusen,4-1,Hoffenheim
+16/12/20,BUN,FC Cologne,0-4,Bayer Leverkusen
+19/12/20,BUN,Bayer Leverkusen,1-2,Bayern Munich
+02/01/21,BUN,Eintracht Frankfurt,2-1,Bayer Leverkusen
+09/01/21,BUN,Bayer Leverkusen,1-1,Werder Bremen
+12/01/21,DFP,Bayer Leverkusen,4-1,Eintracht Frankfurt
+15/01/21,BUN,Union Berlin,1-0,Bayer Leverkusen
+19/01/21,BUN,Bayer Leverkusen,2-1,Borussia Dortmund
+23/01/21,BUN,Bayer Leverkusen,0-1,Wolfsburg
+30/01/21,BUN,RB Leipzig,1-0,Bayer Leverkusen
+02/02/21,DFP,Rot-Weiss Essen,E2-1E,Bayer Leverkusen
+06/02/21,BUN,Bayer Leverkusen,5-2,Stuttgart
+13/02/21,BUN,Bayer Leverkusen,2-2,Mainz
+18/02/21,UEL,Young Boys,4-3,Bayer Leverkusen
+21/02/21,BUN,Augsburg,1-1,Bayer Leverkusen
+25/02/21,UEL,Bayer Leverkusen,0-2,Young Boys
+28/02/21,BUN,Bayer Leverkusen,1-2,Freiburg
+06/03/21,BUN,Borussia M'gladbach,0-1,Bayer Leverkusen
+14/03/21,BUN,Bayer Leverkusen,1-2,Arminia Bielefeld
+21/03/21,BUN,Hertha Berlin,3-0,Bayer Leverkusen
+03/04/21,BUN,Bayer Leverkusen,2-1,Schalke 04
+12/04/21,BUN,Hoffenheim,0-0,Bayer Leverkusen
+17/04/21,BUN,Bayer Leverkusen,3-0,FC Cologne
+20/04/21,BUN,Bayern Munich,2-0,Bayer Leverkusen
+24/04/21,BUN,Bayer Leverkusen,3-1,Eintracht Frankfurt
+08/05/21,BUN,Werder Bremen,0-0,Bayer Leverkusen
+15/05/21,BUN,Bayer Leverkusen,1-1,Union Berlin
+22/05/21,BUN,Borussia Dortmund,3-1,Bayer Leverkusen
+14/07/21,CLF,Bayer Leverkusen,CANC,Wehen Wiesbaden
+18/07/21,CLF,Bayer Leverkusen,CANC,Dinamo Moscow
+23/07/21,CLF,Bayer Leverkusen,0-0,Freiburg
+28/07/21,CLF,Bayer Leverkusen,1-5,Utrecht
+31/07/21,CLF,Bayer Leverkusen,3-1,Rot-Weiß Oberhausen
+31/07/21,CLF,Bayer Leverkusen,CANC,Celta Vigo
+07/08/21,DFP,Lokomotive Leipzig,0-3,Bayer Leverkusen
+14/08/21,BUN,Union Berlin,1-1,Bayer Leverkusen
+21/08/21,BUN,Bayer Leverkusen,4-0,Borussia M'gladbach
+28/08/21,BUN,Augsburg,1-4,Bayer Leverkusen
+11/09/21,BUN,Bayer Leverkusen,3-4,Borussia Dortmund
+16/09/21,UEL,Bayer Leverkusen,2-1,Ferencváros
+19/09/21,BUN,Stuttgart,1-3,Bayer Leverkusen
+25/09/21,BUN,Bayer Leverkusen,1-0,Mainz
+30/09/21,UEL,Celtic,0-4,Bayer Leverkusen
+02/11/19,BUN,Bayer Leverkusen,1-2,Borussia M'gladbach
+06/11/19,UCL,Bayer Leverkusen,2-1,Atletico Madrid
+10/11/19,BUN,Wolfsburg,0-2,Bayer Leverkusen
+23/11/19,BUN,Bayer Leverkusen,1-1,Freiburg
+26/11/19,UCL,Lokomotiv Moscow,0-2,Bayer Leverkusen
+30/11/19,BUN,Bayern Munich,1-2,Bayer Leverkusen
+07/12/19,BUN,Bayer Leverkusen,2-1,Schalke 04
+11/12/19,UCL,Bayer Leverkusen,0-2,Juventus
+14/12/19,BUN,FC Cologne,2-0,Bayer Leverkusen
+18/12/19,BUN,Bayer Leverkusen,0-1,Hertha Berlin
+21/12/19,BUN,Mainz,0-1,Bayer Leverkusen
+10/01/20,CLF,Utrecht,4-3,Bayer Leverkusen
+10/01/20,CLF,Bayer Leverkusen,3-2,St.Gallen
+19/01/20,BUN,Paderborn,1-4,Bayer Leverkusen
+26/01/20,BUN,Bayer Leverkusen,3-0,Fortuna Düsseldorf
+01/02/20,BUN,Hoffenheim,2-1,Bayer Leverkusen
+05/02/20,DFP,Bayer Leverkusen,2-1,Stuttgart
+08/02/20,BUN,Bayer Leverkusen,4-3,Borussia Dortmund
+15/02/20,BUN,Union Berlin,2-3,Bayer Leverkusen
+20/02/20,UEL,Bayer Leverkusen,2-1,Porto
+23/02/20,BUN,Bayer Leverkusen,2-0,Augsburg
+27/02/20,UEL,Porto,1-3,Bayer Leverkusen
+01/03/20,BUN,RB Leipzig,1-1,Bayer Leverkusen
+04/03/20,DFP,Bayer Leverkusen,3-1,Union Berlin
+07/03/20,BUN,Bayer Leverkusen,4-0,Eintracht Frankfurt
+12/03/20,UEL,Rangers,1-3,Bayer Leverkusen
+18/05/20,BUN,Werder Bremen,1-4,Bayer Leverkusen
+23/05/20,BUN,Borussia M'gladbach,1-3,Bayer Leverkusen
+26/05/20,BUN,Bayer Leverkusen,1-4,Wolfsburg
+29/05/20,BUN,Freiburg,0-1,Bayer Leverkusen
+06/06/20,BUN,Bayer Leverkusen,2-4,Bayern Munich
+09/06/20,DFP,Saarbrücken,0-3,Bayer Leverkusen
+14/06/20,BUN,Schalke 04,1-1,Bayer Leverkusen
+17/06/20,BUN,Bayer Leverkusen,3-1,FC Cologne
+20/06/20,BUN,Hertha Berlin,2-0,Bayer Leverkusen
+27/06/20,BUN,Bayer Leverkusen,1-0,Mainz
+04/07/20,DFP,Bayer Leverkusen,2-4,Bayern Munich
+06/08/20,UEL,Bayer Leverkusen,1-0,Rangers
+10/08/20,UEL,Inter Milan,2-1,Bayer Leverkusen
+04/09/20,CLF,Bayer Leverkusen,1-1,Anderlecht
+13/09/20,DFP,Eintracht Norderstedt,0-7,Bayer Leverkusen
+20/09/20,BUN,Wolfsburg,0-0,Bayer Leverkusen
+26/09/20,BUN,Bayer Leverkusen,1-1,RB Leipzig
+03/10/20,BUN,Stuttgart,1-1,Bayer Leverkusen
+17/10/20,BUN,Mainz,0-1,Bayer Leverkusen
+22/10/20,UEL,Bayer Leverkusen,6-2,Nice
+26/10/20,BUN,Bayer Leverkusen,3-1,Augsburg
+29/10/20,UEL,Slavia Prague,1-0,Bayer Leverkusen
+01/11/20,BUN,Freiburg,2-4,Bayer Leverkusen
+05/11/20,UEL,Hapoel Be'er Sheva,2-4,Bayer Leverkusen
+08/12/18,BUN,Bayer Leverkusen,1-0,Augsburg
+13/12/18,UEL,AEK Larnaca,1-5,Bayer Leverkusen
+16/12/18,BUN,Eintracht Frankfurt,2-1,Bayer Leverkusen
+19/12/18,BUN,Schalke 04,1-2,Bayer Leverkusen
+22/12/18,BUN,Bayer Leverkusen,3-1,Hertha Berlin
+08/01/19,CLF,Bayer Leverkusen,4-0,Twente
+11/01/19,CLF,Bayer Leverkusen,3-1,PEC Zwolle
+11/01/19,CLF,Bayer Leverkusen,4-2,Preußen Münster
+19/01/19,BUN,Bayer Leverkusen,0-1,Borussia M'gladbach
+26/01/19,BUN,Wolfsburg,0-3,Bayer Leverkusen
+02/02/19,BUN,Bayer Leverkusen,3-1,Bayern Munich
+05/02/19,DFP,Heidenheim,2-1,Bayer Leverkusen
+08/02/19,BUN,Mainz,1-5,Bayer Leverkusen
+14/02/19,UEL,Krasnodar,0-0,Bayer Leverkusen
+17/02/19,BUN,Bayer Leverkusen,2-0,Fortuna Düsseldorf
+21/02/19,UEL,Bayer Leverkusen,1-1,Krasnodar
+24/02/19,BUN,Borussia Dortmund,3-2,Bayer Leverkusen
+02/03/19,BUN,Bayer Leverkusen,2-0,Freiburg
+10/03/19,BUN,Hannover 96,2-3,Bayer Leverkusen
+17/03/19,BUN,Bayer Leverkusen,1-3,Werder Bremen
+29/03/19,BUN,Hoffenheim,4-1,Bayer Leverkusen
+06/04/19,BUN,Bayer Leverkusen,2-4,RB Leipzig
+13/04/19,BUN,Stuttgart,0-1,Bayer Leverkusen
+20/04/19,BUN,Bayer Leverkusen,2-0,Nürnberg
+26/04/19,BUN,Augsburg,1-4,Bayer Leverkusen
+05/05/19,BUN,Bayer Leverkusen,6-1,Eintracht Frankfurt
+11/05/19,BUN,Bayer Leverkusen,1-1,Schalke 04
+18/05/19,BUN,Hertha Berlin,1-5,Bayer Leverkusen
+06/07/19,CLF,Wuppertaler SV,0-4,Bayer Leverkusen
+13/07/19,CLF,Bayer Leverkusen,0-1,Fortuna Sittard
+13/07/19,CLF,Bayer Leverkusen,3-4,AS Eupen
+20/07/19,CLF,Bayer Leverkusen,1-2,Watford
+20/07/19,CLF,Bayer Leverkusen,2-2,Eibar
+28/07/19,CLF,Bayer Leverkusen,3-4,Heracles
+28/07/19,CLF,Bayer Leverkusen,1-1,Vitesse
+04/08/19,CLF,Bayer Leverkusen,1-2,Valencia
+10/08/19,DFP,Alemannia Aachen,1-4,Bayer Leverkusen
+17/08/19,BUN,Bayer Leverkusen,3-2,Paderborn
+24/08/19,BUN,Fortuna Düsseldorf,1-3,Bayer Leverkusen
+31/08/19,BUN,Bayer Leverkusen,0-0,Hoffenheim
+14/09/19,BUN,Borussia Dortmund,4-0,Bayer Leverkusen
+18/09/19,UCL,Bayer Leverkusen,1-2,Lokomotiv Moscow
+21/09/19,BUN,Bayer Leverkusen,2-0,Union Berlin
+28/09/19,BUN,Augsburg,0-3,Bayer Leverkusen
+01/10/19,UCL,Juventus,3-0,Bayer Leverkusen
+05/10/19,BUN,Bayer Leverkusen,1-1,RB Leipzig
+18/10/19,BUN,Eintracht Frankfurt,3-0,Bayer Leverkusen
+22/10/19,UCL,Atletico Madrid,1-0,Bayer Leverkusen
+26/10/19,BUN,Bayer Leverkusen,2-2,Werder Bremen
+29/10/19,DFP,Bayer Leverkusen,1-0,Paderborn
+05/01/18,CLF,Bayer Leverkusen,2-1,Greuther Fürth
+06/01/18,CLF,Bayer Leverkusen,2-2,Preußen Münster
+12/01/18,BUN,Bayer Leverkusen,1-3,Bayern Munich
+13/01/18,CLF,Bayer Leverkusen,1-1,Sportfreunde Lotte
+20/01/18,BUN,Hoffenheim,1-4,Bayer Leverkusen
+23/01/18,CLF,Bayer Leverkusen,3-1,Rot-Weiß Oberhausen
+28/01/18,BUN,Bayer Leverkusen,2-0,Mainz
+03/02/18,BUN,Freiburg,0-0,Bayer Leverkusen
+06/02/18,DFP,Bayer Leverkusen,E4-2E,Werder Bremen
+10/02/18,BUN,Bayer Leverkusen,0-2,Hertha Berlin
+17/02/18,BUN,Hamburg,1-2,Bayer Leverkusen
+25/02/18,BUN,Bayer Leverkusen,0-2,Schalke 04
+03/03/18,BUN,Wolfsburg,1-2,Bayer Leverkusen
+10/03/18,BUN,Bayer Leverkusen,2-0,Borussia M'gladbach
+18/03/18,BUN,FC Cologne,2-0,Bayer Leverkusen
+22/03/18,CLF,Bayer Leverkusen,5-2,Bochum
+31/03/18,BUN,Bayer Leverkusen,0-0,Augsburg
+09/04/18,BUN,RB Leipzig,1-4,Bayer Leverkusen
+14/04/18,BUN,Bayer Leverkusen,4-1,Eintracht Frankfurt
+17/04/18,DFP,Bayer Leverkusen,2-6,Bayern Munich
+21/04/18,BUN,Borussia Dortmund,4-0,Bayer Leverkusen
+28/04/18,BUN,Bayer Leverkusen,0-1,Stuttgart
+05/05/18,BUN,Werder Bremen,0-0,Bayer Leverkusen
+12/05/18,BUN,Bayer Leverkusen,3-2,Hannover 96
+21/07/18,CLF,Sportfreunde Siegen,0-3,Bayer Leverkusen
+24/07/18,CLF,Wuppertaler SV,0-2,Bayer Leverkusen
+28/07/18,CLF,Fortuna Sittard,0-2,Bayer Leverkusen
+02/08/18,CLF,Istanbul Basaksehir,1-1,Bayer Leverkusen
+05/08/18,CLF,Bayer Leverkusen,1-0,Al Wehda
+11/08/18,CLF,Valencia,3-0,Bayer Leverkusen
+18/08/18,DFP,CfR Pforzheim,0-1,Bayer Leverkusen
+25/08/18,BUN,Borussia M'gladbach,2-0,Bayer Leverkusen
+01/09/18,BUN,Bayer Leverkusen,1-3,Wolfsburg
+15/09/18,BUN,Bayern Munich,3-1,Bayer Leverkusen
+20/09/18,UEL,Ludogorets,2-3,Bayer Leverkusen
+23/09/18,BUN,Bayer Leverkusen,1-0,Mainz
+26/09/18,BUN,Fortuna Düsseldorf,1-2,Bayer Leverkusen
+29/09/18,BUN,Bayer Leverkusen,2-4,Borussia Dortmund
+04/10/18,UEL,Bayer Leverkusen,4-2,AEK Larnaca
+07/10/18,BUN,Freiburg,0-0,Bayer Leverkusen
+20/10/18,BUN,Bayer Leverkusen,2-2,Hannover 96
+25/10/18,UEL,Zürich,3-2,Bayer Leverkusen
+28/10/18,BUN,Werder Bremen,2-6,Bayer Leverkusen
+31/10/18,DFP,Borussia M'gladbach,0-5,Bayer Leverkusen
+03/11/18,BUN,Bayer Leverkusen,1-4,Hoffenheim
+08/11/18,UEL,Bayer Leverkusen,1-0,Zürich
+11/11/18,BUN,RB Leipzig,3-0,Bayer Leverkusen
+23/11/18,BUN,Bayer Leverkusen,2-0,Stuttgart
+29/11/18,UEL,Bayer Leverkusen,1-1,Ludogorets
+03/12/18,BUN,Nürnberg,1-1,Bayer Leverkusen
+22/01/17,BUN,Bayer Leverkusen,3-1,Hertha Berlin
+28/01/17,BUN,Bayer Leverkusen,2-3,Borussia M'gladbach
+03/02/17,BUN,Hamburg,1-0,Bayer Leverkusen
+11/02/17,BUN,Bayer Leverkusen,3-0,Eintracht Frankfurt
+17/02/17,BUN,Augsburg,1-3,Bayer Leverkusen
+21/02/17,UCL,Bayer Leverkusen,2-4,Atletico Madrid
+25/02/17,BUN,Bayer Leverkusen,0-2,Mainz
+04/03/17,BUN,Borussia Dortmund,6-2,Bayer Leverkusen
+10/03/17,BUN,Bayer Leverkusen,1-1,Werder Bremen
+15/03/17,UCL,Atletico Madrid,0-0,Bayer Leverkusen
+18/03/17,BUN,Hoffenheim,1-0,Bayer Leverkusen
+02/04/17,BUN,Bayer Leverkusen,3-3,Wolfsburg
+05/04/17,BUN,Darmstadt,0-2,Bayer Leverkusen
+08/04/17,BUN,RB Leipzig,1-0,Bayer Leverkusen
+15/04/17,BUN,Bayer Leverkusen,0-0,Bayern Munich
+23/04/17,BUN,Freiburg,2-1,Bayer Leverkusen
+28/04/17,BUN,Bayer Leverkusen,1-4,Schalke 04
+06/05/17,BUN,Ingolstadt,1-1,Bayer Leverkusen
+13/05/17,BUN,Bayer Leverkusen,2-2,FC Cologne
+20/05/17,BUN,Hertha Berlin,2-6,Bayer Leverkusen
+08/07/17,CLF,Bayer Leverkusen,6-0,Speldorf
+14/07/17,CLF,Würzburger Kickers,0-3,Bayer Leverkusen
+19/07/17,CLF,Bonner SC,2-2,Bayer Leverkusen
+23/07/17,CLF,Sandhausen,3-2,Bayer Leverkusen
+27/07/17,CLF,Bayer Leverkusen,1-1,Antalyaspor
+30/07/17,CLF,Bayer Leverkusen,1-3,Lazio
+05/08/17,CLF,Bayer Leverkusen,3-3,Celta Vigo
+11/08/17,DFP,Karlsruhe,E0-3E,Bayer Leverkusen
+18/08/17,BUN,Bayern Munich,3-1,Bayer Leverkusen
+26/08/17,BUN,Bayer Leverkusen,2-2,Hoffenheim
+31/08/17,CLF,Bayer Leverkusen,1-2,Bochum
+09/09/17,BUN,Mainz,3-1,Bayer Leverkusen
+17/09/17,BUN,Bayer Leverkusen,4-0,Freiburg
+20/09/17,BUN,Hertha Berlin,2-1,Bayer Leverkusen
+24/09/17,BUN,Bayer Leverkusen,3-0,Hamburg
+29/09/17,BUN,Schalke 04,1-1,Bayer Leverkusen
+05/10/17,CLF,Bayer Leverkusen,4-0,Fortuna Köln
+15/10/17,BUN,Bayer Leverkusen,2-2,Wolfsburg
+21/10/17,BUN,Borussia M'gladbach,1-5,Bayer Leverkusen
+24/10/17,DFP,Bayer Leverkusen,4-1,Union Berlin
+28/10/17,BUN,Bayer Leverkusen,2-1,FC Cologne
+04/11/17,BUN,Augsburg,1-1,Bayer Leverkusen
+09/11/17,CLF,Bayer Leverkusen,3-3,MSV Duisburg
+18/11/17,BUN,Bayer Leverkusen,2-2,RB Leipzig
+25/11/17,BUN,Eintracht Frankfurt,0-1,Bayer Leverkusen
+02/12/17,BUN,Bayer Leverkusen,1-1,Borussia Dortmund
+08/12/17,BUN,Stuttgart,0-2,Bayer Leverkusen
+13/12/17,BUN,Bayer Leverkusen,1-0,Werder Bremen
+17/12/17,BUN,Hannover 96,4-4,Bayer Leverkusen
+20/12/17,DFP,Borussia M'gladbach,0-1,Bayer Leverkusen
+25/02/16,UEL,Bayer Leverkusen,3-1,Sporting Lisbon
+28/02/16,BUN,Mainz,3-1,Bayer Leverkusen
+02/03/16,BUN,Bayer Leverkusen,1-4,Werder Bremen
+05/03/16,BUN,Augsburg,3-3,Bayer Leverkusen
+10/03/16,UEL,Villarreal,2-0,Bayer Leverkusen
+13/03/16,BUN,Bayer Leverkusen,1-0,Hamburg
+17/03/16,UEL,Bayer Leverkusen,0-0,Villarreal
+20/03/16,BUN,Stuttgart,0-2,Bayer Leverkusen
+01/04/16,BUN,Bayer Leverkusen,3-0,Wolfsburg
+10/04/16,BUN,FC Cologne,0-2,Bayer Leverkusen
+16/04/16,BUN,Bayer Leverkusen,3-0,Eintracht Frankfurt
+23/04/16,BUN,Schalke 04,2-3,Bayer Leverkusen
+30/04/16,BUN,Bayer Leverkusen,2-1,Hertha Berlin
+07/05/16,BUN,Borussia M'gladbach,2-1,Bayer Leverkusen
+14/05/16,BUN,Bayer Leverkusen,3-2,Ingolstadt
+15/07/16,CLF,Verl,1-1,Bayer Leverkusen
+17/07/16,CLF,Delbrücker SC,0-4,Bayer Leverkusen
+22/07/16,CLF,Koblenz,0-4,Bayer Leverkusen
+27/07/16,CLF,Bayer Leverkusen,1-1,Porto
+04/08/16,CLF,Bayer Leverkusen,3-1,Fiorentina
+09/08/16,CLF,Kickers Offenbach,1-2,Bayer Leverkusen
+13/08/16,CLF,Bayer Leverkusen,2-0,Real Sociedad
+21/08/16,DFP,Hauenstein,1-2,Bayer Leverkusen
+27/08/16,BUN,Borussia M'gladbach,2-1,Bayer Leverkusen
+10/09/16,BUN,Bayer Leverkusen,3-1,Hamburg
+14/09/16,UCL,Bayer Leverkusen,2-2,CSKA Moscow
+17/09/16,BUN,Eintracht Frankfurt,2-1,Bayer Leverkusen
+21/09/16,BUN,Bayer Leverkusen,0-0,Augsburg
+24/09/16,BUN,Mainz,2-3,Bayer Leverkusen
+27/09/16,UCL,Monaco,1-1,Bayer Leverkusen
+01/10/16,BUN,Bayer Leverkusen,2-0,Borussia Dortmund
+15/10/16,BUN,Werder Bremen,2-1,Bayer Leverkusen
+18/10/16,UCL,Bayer Leverkusen,0-0,Tottenham Hotspur
+22/10/16,BUN,Bayer Leverkusen,0-3,Hoffenheim
+25/10/16,DFP,Sportfreunde Lotte,P2-2P,Bayer Leverkusen
+29/10/16,BUN,Wolfsburg,1-2,Bayer Leverkusen
+02/11/16,UCL,Tottenham Hotspur,0-1,Bayer Leverkusen
+05/11/16,BUN,Bayer Leverkusen,3-2,Darmstadt
+10/11/16,CLF,Bayer Leverkusen,1-0,Fortuna Köln
+18/11/16,BUN,Bayer Leverkusen,2-3,RB Leipzig
+22/11/16,UCL,CSKA Moscow,1-1,Bayer Leverkusen
+26/11/16,BUN,Bayern Munich,2-1,Bayer Leverkusen
+03/12/16,BUN,Bayer Leverkusen,1-1,Freiburg
+07/12/16,UCL,Bayer Leverkusen,3-0,Monaco
+11/12/16,BUN,Schalke 04,0-1,Bayer Leverkusen
+18/12/16,BUN,Bayer Leverkusen,1-2,Ingolstadt
+21/12/16,BUN,FC Cologne,1-1,Bayer Leverkusen
+08/01/17,FLC,Estudiantes,P1-1P,Bayer Leverkusen
+12/01/17,FLC,Bayer Leverkusen,1-0,Atlético Mineiro
+17/01/17,CLF,Bayer Leverkusen,2-1,Bochum
+25/04/15,BUN,FC Cologne,1-1,Bayer Leverkusen
+02/05/15,BUN,Bayer Leverkusen,2-0,Bayern Munich
+09/05/15,BUN,Borussia M'gladbach,3-0,Bayer Leverkusen
+16/05/15,BUN,Bayer Leverkusen,2-0,Hoffenheim
+23/05/15,BUN,Eintracht Frankfurt,2-1,Bayer Leverkusen
+05/07/15,CLF,Sonnenhof Großaspach,1-0,Bayer Leverkusen
+11/07/15,CLF,Viktoria Köln,1-1,Bayer Leverkusen
+15/07/15,CLF,Basel,2-1,Bayer Leverkusen
+21/07/15,CLF,Salzburg,1-1,Bayer Leverkusen
+29/07/15,CLF,Bayer Leverkusen,4-0,Levante
+01/08/15,CLF,Bayer Leverkusen,3-1,Chievo
+08/08/15,DFP,Sportfreunde Lotte,0-3,Bayer Leverkusen
+15/08/15,BUN,Bayer Leverkusen,2-1,Hoffenheim
+18/08/15,UCL,Lazio,1-0,Bayer Leverkusen
+22/08/15,BUN,Hannover 96,0-1,Bayer Leverkusen
+26/08/15,UCL,Bayer Leverkusen,3-0,Lazio
+29/08/15,BUN,Bayern Munich,3-0,Bayer Leverkusen
+02/09/15,CLF,Paderborn,2-0,Bayer Leverkusen
+12/09/15,BUN,Bayer Leverkusen,0-1,Darmstadt
+16/09/15,UCL,Bayer Leverkusen,4-1,BATE
+20/09/15,BUN,Borussia Dortmund,3-0,Bayer Leverkusen
+23/09/15,BUN,Bayer Leverkusen,1-0,Mainz
+26/09/15,BUN,Werder Bremen,0-3,Bayer Leverkusen
+29/09/15,UCL,Barcelona,2-1,Bayer Leverkusen
+04/10/15,BUN,Bayer Leverkusen,1-1,Augsburg
+17/10/15,BUN,Hamburg,0-0,Bayer Leverkusen
+20/10/15,UCL,Bayer Leverkusen,4-4,Roma
+24/10/15,BUN,Bayer Leverkusen,4-3,Stuttgart
+28/10/15,DFP,Viktoria Köln,0-6,Bayer Leverkusen
+31/10/15,BUN,Wolfsburg,2-1,Bayer Leverkusen
+04/11/15,UCL,Roma,3-2,Bayer Leverkusen
+07/11/15,BUN,Bayer Leverkusen,1-2,FC Cologne
+21/11/15,BUN,Eintracht Frankfurt,1-3,Bayer Leverkusen
+24/11/15,UCL,BATE,1-1,Bayer Leverkusen
+29/11/15,BUN,Bayer Leverkusen,1-1,Schalke 04
+05/12/15,BUN,Hertha Berlin,2-1,Bayer Leverkusen
+09/12/15,UCL,Bayer Leverkusen,1-1,Barcelona
+12/12/15,BUN,Bayer Leverkusen,5-0,Borussia M'gladbach
+15/12/15,DFP,Unterhaching,1-3,Bayer Leverkusen
+19/12/15,BUN,Ingolstadt,0-1,Bayer Leverkusen
+10/01/16,CLF,Bayer Leverkusen,1-0,Independiente Santa Fe
+14/01/16,CLF,Internacional,3-3,Bayer Leverkusen
+19/01/16,CLF,Bayer Leverkusen,1-2,Bochum
+23/01/16,BUN,Hoffenheim,1-1,Bayer Leverkusen
+30/01/16,BUN,Bayer Leverkusen,3-0,Hannover 96
+06/02/16,BUN,Bayer Leverkusen,0-0,Bayern Munich
+09/02/16,DFP,Bayer Leverkusen,1-3,Werder Bremen
+13/02/16,BUN,Darmstadt,1-2,Bayer Leverkusen
+18/02/16,UEL,Sporting Lisbon,0-1,Bayer Leverkusen
+21/02/16,BUN,Bayer Leverkusen,0-1,Borussia Dortmund

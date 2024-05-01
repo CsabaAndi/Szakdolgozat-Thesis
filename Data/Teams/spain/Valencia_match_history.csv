@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+25/05/23,LAL,Mallorca,1-0,Valencia
+28/05/23,LAL,Valencia,2-2,Espanyol
+04/06/23,LAL,Real Betis,1-1,Valencia
+18/07/23,CLF,Valencia,1-0,Nottingham Forest
+22/07/23,CLF,Spartak Trnava,0-1,Valencia
+25/07/23,CLF,St.Gallen,1-3,Valencia
+29/07/23,CLF,Valencia,2-0,Alaves
+05/08/23,CLF,Valencia,1-2,Aston Villa
+11/08/23,LAL,Sevilla,1-2,Valencia
+18/08/23,LAL,Valencia,1-0,Las Palmas
+27/08/23,LAL,Valencia,1-2,Osasuna
+02/09/23,LAL,Alaves,1-0,Valencia
+16/09/23,LAL,Valencia,3-0,Atletico Madrid
+23/09/23,LAL,Almeria,2-2,Valencia
+27/09/23,LAL,Valencia,0-1,Real Sociedad
+01/10/23,LAL,Real Betis,3-0,Valencia
+07/10/23,LAL,Mallorca,1-1,Valencia
+23/10/23,LAL,Valencia,2-0,Cadiz
+29/10/23,LAL,Athletic Bilbao,2-2,Valencia
+02/11/23,CDR,UD Logroñés,0-2,Valencia
+05/11/23,LAL,Valencia,1-0,Granada
+11/11/23,LAL,Real Madrid,5-1,Valencia
+25/11/23,LAL,Valencia,0-0,Celta Vigo
+02/12/23,LAL,Girona,2-1,Valencia
+05/12/23,CDR,Arosa,0-1,Valencia
+08/12/23,LAL,Getafe,1-0,Valencia
+16/12/23,LAL,Valencia,1-1,Barcelona
+19/12/23,LAL,Rayo Vallecano,0-1,Valencia
+02/01/24,LAL,Valencia,3-1,Villarreal
+07/01/24,CDR,FC Cartagena,E1-2E,Valencia
+14/01/24,LAL,Cadiz,1-4,Valencia
+17/01/24,CDR,Valencia,1-3,Celta Vigo
+20/01/24,LAL,Valencia,1-0,Athletic Bilbao
+28/01/24,LAL,Atletico Madrid,2-0,Valencia
+03/02/24,LAL,Valencia,2-1,Almeria
+10/02/24,LAL,Las Palmas,2-0,Valencia
+17/02/24,LAL,Valencia,0-0,Sevilla
+02/03/24,LAL,Valencia,2-2,Real Madrid
+09/03/24,LAL,Valencia,1-0,Getafe
+17/03/24,LAL,Villarreal,1-0,Valencia
+30/03/24,LAL,Valencia,0-0,Mallorca
+04/04/24,LAL,Granada,0-1,Valencia
+15/04/24,LAL,Osasuna,0-1,Valencia
+20/04/24,LAL,Valencia,1-2,Real Betis
+29/04/24,LAL,Barcelona,4-2,Valencia
+05/05/24,LAL,Valencia,18:30,Alaves
+12/05/24,LAL,Valencia,18:30,Rayo Vallecano
+16/05/24,LAL,Real Sociedad,22:00,Valencia
+19/05/24,LAL,Valencia,-,Girona
+26/05/24,LAL,Celta Vigo,-,Valencia
+14/05/22,LAL,Espanyol,1-1,Valencia
+21/05/22,LAL,Valencia,2-0,Celta Vigo
+18/07/22,CLF,Borussia Dortmund,1-3,Valencia
+20/07/22,CLF,St.Gallen,0-2,Valencia
+23/07/22,CLF,Stuttgart,5-2,Valencia
+30/07/22,CLF,Nottingham Forest,1-1,Valencia
+03/08/22,CLF,Castellón,1-0,Valencia
+06/08/22,CLF,Valencia,2-1,Atalanta
+14/08/22,LAL,Valencia,1-0,Girona
+21/08/22,LAL,Athletic Bilbao,1-0,Valencia
+29/08/22,LAL,Valencia,0-1,Atletico Madrid
+04/09/22,LAL,Valencia,5-1,Getafe
+10/09/22,LAL,Rayo Vallecano,2-1,Valencia
+17/09/22,LAL,Valencia,3-0,Celta Vigo
+02/10/22,LAL,Espanyol,2-2,Valencia
+07/10/22,LAL,Osasuna,1-2,Valencia
+15/10/22,LAL,Valencia,2-2,Elche
+18/10/22,LAL,Sevilla,1-1,Valencia
+22/10/22,LAL,Valencia,1-2,Mallorca
+29/10/22,LAL,Valencia,0-1,Barcelona
+06/11/22,LAL,Real Sociedad,1-1,Valencia
+10/11/22,LAL,Valencia,3-0,Real Betis
+09/12/22,CLF,Valencia,4-2,Clermont
+16/12/22,CLF,Valencia,1-2,Nottingham Forest
+22/12/22,CLF,Valencia,1-3,AZ
+31/12/22,LAL,Villarreal,2-1,Valencia
+03/01/23,CDR,La Nucía,0-3,Valencia
+06/01/23,LAL,Valencia,0-1,Cadiz
+11/01/23,SUC,Real Madrid,P1-1P,Valencia
+18/01/23,CDR,Sporting Gijon,0-4,Valencia
+23/01/23,LAL,Valencia,2-2,Almeria
+26/01/23,CDR,Valencia,1-3,Athletic Bilbao
+29/01/23,LAL,Real Valladolid,1-0,Valencia
+02/02/23,LAL,Real Madrid,2-0,Valencia
+05/02/23,LAL,Girona,1-0,Valencia
+11/02/23,LAL,Valencia,1-2,Athletic Bilbao
+20/02/23,LAL,Getafe,1-0,Valencia
+25/02/23,LAL,Valencia,1-0,Real Sociedad
+05/03/23,LAL,Barcelona,1-0,Valencia
+11/03/23,LAL,Valencia,1-0,Osasuna
+18/03/23,LAL,Atletico Madrid,3-0,Valencia
+03/04/23,LAL,Valencia,1-1,Rayo Vallecano
+09/04/23,LAL,Almeria,2-1,Valencia
+16/04/23,LAL,Valencia,0-2,Sevilla
+23/04/23,LAL,Elche,0-2,Valencia
+27/04/23,LAL,Valencia,2-1,Real Valladolid
+30/04/23,LAL,Cadiz,2-1,Valencia
+03/05/23,LAL,Valencia,1-1,Villarreal
+14/05/23,LAL,Celta Vigo,1-2,Valencia
+21/05/23,LAL,Valencia,1-0,Real Madrid
+21/07/21,CLF,Valencia,3-0,Atromitos
+24/07/21,CLF,Valencia,3-2,FC Cartagena
+28/07/21,CLF,Valencia,0-2,Real Zaragoza
+30/07/21,CLF,Valencia,1-0,Levante
+04/08/21,CLF,Valencia,P0-0P,AC Milan
+07/08/21,CLF,Brentford,2-1,Valencia
+13/08/21,LAL,Valencia,1-0,Getafe
+21/08/21,LAL,Granada,1-1,Valencia
+27/08/21,LAL,Valencia,3-0,Alaves
+12/09/21,LAL,Osasuna,1-4,Valencia
+19/09/21,LAL,Valencia,1-2,Real Madrid
+22/09/21,LAL,Sevilla,3-1,Valencia
+25/09/21,LAL,Valencia,1-1,Athletic Bilbao
+02/10/21,LAL,Cadiz,0-0,Valencia
+17/10/21,LAL,Barcelona,3-1,Valencia
+23/10/21,LAL,Valencia,2-2,Mallorca
+27/10/21,LAL,Real Betis,4-1,Valencia
+30/10/21,LAL,Valencia,2-0,Villarreal
+07/11/21,LAL,Valencia,3-3,Atletico Madrid
+21/11/21,LAL,Real Sociedad,0-0,Valencia
+27/11/21,LAL,Valencia,1-1,Rayo Vallecano
+02/12/21,CDR,Utrillas,0-3,Valencia
+05/12/21,LAL,Celta Vigo,1-2,Valencia
+11/12/21,LAL,Valencia,2-1,Elche
+16/12/21,CDR,Arenteiro,E1-3E,Valencia
+20/12/21,LAL,Levante,3-4,Valencia
+31/12/21,LAL,Valencia,1-2,Espanyol
+05/01/22,CDR,FC Cartagena,1-2,Valencia
+08/01/22,LAL,Real Madrid,4-1,Valencia
+16/01/22,CDR,Atlético Baleares,0-1,Valencia
+19/01/22,LAL,Valencia,1-1,Sevilla
+22/01/22,LAL,Atletico Madrid,3-2,Valencia
+02/02/22,CDR,Valencia,2-1,Cadiz
+06/02/22,LAL,Valencia,0-0,Real Sociedad
+10/02/22,CDR,Athletic Bilbao,1-1,Valencia
+13/02/22,LAL,Alaves,2-1,Valencia
+20/02/22,LAL,Valencia,1-4,Barcelona
+26/02/22,LAL,Mallorca,0-1,Valencia
+02/03/22,CDR,Valencia,1-0,Athletic Bilbao
+05/03/22,LAL,Valencia,3-1,Granada
+12/03/22,LAL,Getafe,0-0,Valencia
+19/03/22,LAL,Elche,0-1,Valencia
+03/04/22,LAL,Valencia,0-0,Cadiz
+11/04/22,LAL,Rayo Vallecano,1-1,Valencia
+16/04/22,LAL,Valencia,1-2,Osasuna
+19/04/22,LAL,Villarreal,2-0,Valencia
+23/04/22,CDR,Real Betis,P1-1P,Valencia
+30/04/22,LAL,Valencia,1-1,Levante
+07/05/22,LAL,Athletic Bilbao,0-0,Valencia
+10/05/22,LAL,Valencia,0-3,Real Betis
+12/07/20,LAL,Leganes,1-0,Valencia
+16/07/20,LAL,Valencia,1-0,Espanyol
+19/07/20,LAL,Sevilla,1-0,Valencia
+22/08/20,CLF,Valencia,1-0,Castellón
+28/08/20,CLF,Valencia,2-1,Villarreal
+29/08/20,CLF,Levante,0-0,Valencia
+05/09/20,CLF,Valencia,3-1,FC Cartagena
+13/09/20,LAL,Valencia,4-2,Levante
+19/09/20,LAL,Celta Vigo,2-1,Valencia
+26/09/20,LAL,Valencia,1-1,Huesca
+29/09/20,LAL,Real Sociedad,0-1,Valencia
+03/10/20,LAL,Valencia,0-2,Real Betis
+18/10/20,LAL,Villarreal,2-1,Valencia
+23/10/20,LAL,Elche,2-1,Valencia
+01/11/20,LAL,Valencia,2-2,Getafe
+08/11/20,LAL,Valencia,4-1,Real Madrid
+22/11/20,LAL,Alaves,2-2,Valencia
+28/11/20,LAL,Valencia,0-1,Atletico Madrid
+07/12/20,LAL,Eibar,0-0,Valencia
+12/12/20,LAL,Valencia,2-2,Athletic Bilbao
+16/12/20,CDR,Terrassa,E2-4E,Valencia
+19/12/20,LAL,Barcelona,2-2,Valencia
+22/12/20,LAL,Valencia,0-1,Sevilla
+30/12/20,LAL,Granada,2-1,Valencia
+04/01/21,LAL,Valencia,1-1,Cadiz
+07/01/21,CDR,Yeclano,1-4,Valencia
+10/01/21,LAL,Real Valladolid,0-1,Valencia
+17/01/21,CDR,Alcorcon,0-2,Valencia
+21/01/21,LAL,Valencia,1-1,Osasuna
+24/01/21,LAL,Atletico Madrid,3-1,Valencia
+27/01/21,CDR,Sevilla,3-0,Valencia
+30/01/21,LAL,Valencia,1-0,Elche
+07/02/21,LAL,Athletic Bilbao,1-1,Valencia
+14/02/21,LAL,Real Madrid,2-0,Valencia
+20/02/21,LAL,Valencia,2-0,Celta Vigo
+27/02/21,LAL,Getafe,3-0,Valencia
+05/03/21,LAL,Valencia,2-1,Villarreal
+12/03/21,LAL,Levante,1-0,Valencia
+21/03/21,LAL,Valencia,2-1,Granada
+04/04/21,LAL,Cadiz,2-1,Valencia
+11/04/21,LAL,Valencia,2-2,Real Sociedad
+18/04/21,LAL,Real Betis,2-2,Valencia
+21/04/21,LAL,Osasuna,3-1,Valencia
+24/04/21,LAL,Valencia,1-1,Alaves
+02/05/21,LAL,Valencia,2-3,Barcelona
+09/05/21,LAL,Valencia,3-0,Real Valladolid
+12/05/21,LAL,Sevilla,1-0,Valencia
+16/05/21,LAL,Valencia,4-1,Eibar
+22/05/21,LAL,Huesca,0-0,Valencia
+16/07/21,CLF,Valencia,3-2,Villarreal
+02/08/19,CLF,Brighton & Hove Albion,2-1,Valencia
+04/08/19,CLF,Bayer Leverkusen,1-2,Valencia
+10/08/19,CLF,Valencia,P1-1P,Inter Milan
+17/08/19,LAL,Valencia,1-1,Real Sociedad
+24/08/19,LAL,Celta Vigo,1-0,Valencia
+01/09/19,LAL,Valencia,2-0,Mallorca
+14/09/19,LAL,Barcelona,5-2,Valencia
+17/09/19,UCL,Chelsea,0-1,Valencia
+22/09/19,LAL,Valencia,1-1,Leganes
+25/09/19,LAL,Valencia,3-3,Getafe
+28/09/19,LAL,Athletic Bilbao,0-1,Valencia
+02/10/19,UCL,Valencia,0-3,Ajax
+05/10/19,LAL,Valencia,2-1,Alaves
+19/10/19,LAL,Atletico Madrid,1-1,Valencia
+23/10/19,UCL,Lille,1-1,Valencia
+27/10/19,LAL,Osasuna,3-1,Valencia
+30/10/19,LAL,Valencia,1-1,Sevilla
+02/11/19,LAL,Espanyol,1-2,Valencia
+05/11/19,UCL,Valencia,4-1,Lille
+09/11/19,LAL,Valencia,2-0,Granada
+23/11/19,LAL,Real Betis,2-1,Valencia
+27/11/19,UCL,Valencia,2-2,Chelsea
+30/11/19,LAL,Valencia,2-1,Villarreal
+07/12/19,LAL,Levante,2-4,Valencia
+10/12/19,UCL,Ajax,0-1,Valencia
+15/12/19,LAL,Valencia,1-1,Real Madrid
+21/12/19,LAL,Real Valladolid,1-1,Valencia
+04/01/20,LAL,Valencia,1-0,Eibar
+08/01/20,SUC,Valencia,1-3,Real Madrid
+19/01/20,LAL,Mallorca,4-1,Valencia
+22/01/20,CDR,UD Logroñés,0-1,Valencia
+25/01/20,LAL,Valencia,2-0,Barcelona
+29/01/20,CDR,Cultural Leonesa,P0-0P,Valencia
+01/02/20,LAL,Valencia,1-0,Celta Vigo
+04/02/20,CDR,Granada,2-1,Valencia
+08/02/20,LAL,Getafe,3-0,Valencia
+14/02/20,LAL,Valencia,2-2,Atletico Madrid
+19/02/20,UCL,Atalanta,4-1,Valencia
+22/02/20,LAL,Real Sociedad,3-0,Valencia
+29/02/20,LAL,Valencia,2-1,Real Betis
+06/03/20,LAL,Alaves,1-1,Valencia
+10/03/20,UCL,Valencia,3-4,Atalanta
+12/06/20,LAL,Valencia,1-1,Levante
+18/06/20,LAL,Real Madrid,3-0,Valencia
+21/06/20,LAL,Valencia,2-0,Osasuna
+25/06/20,LAL,Eibar,1-0,Valencia
+28/06/20,LAL,Villarreal,2-0,Valencia
+01/07/20,LAL,Valencia,0-2,Athletic Bilbao
+04/07/20,LAL,Granada,2-2,Valencia
+07/07/20,LAL,Valencia,2-1,Real Valladolid
+03/11/18,LAL,Valencia,0-1,Girona
+07/11/18,UCL,Valencia,3-1,Young Boys
+10/11/18,LAL,Getafe,0-1,Valencia
+24/11/18,LAL,Valencia,3-0,Rayo Vallecano
+27/11/18,UCL,Juventus,1-0,Valencia
+01/12/18,LAL,Real Madrid,2-0,Valencia
+04/12/18,CDR,Valencia,1-0,Ebro
+08/12/18,LAL,Valencia,1-1,Sevilla
+12/12/18,UCL,Valencia,2-1,Manchester United
+15/12/18,LAL,Eibar,1-1,Valencia
+23/12/18,LAL,Valencia,2-1,Huesca
+05/01/19,LAL,Alaves,2-1,Valencia
+08/01/19,CDR,Sporting Gijon,2-1,Valencia
+12/01/19,LAL,Valencia,1-1,Real Valladolid
+15/01/19,CDR,Valencia,3-0,Sporting Gijon
+19/01/19,LAL,Celta Vigo,1-2,Valencia
+22/01/19,CDR,Getafe,1-0,Valencia
+26/01/19,LAL,Valencia,3-0,Villarreal
+29/01/19,CDR,Valencia,3-1,Getafe
+02/02/19,LAL,Barcelona,2-2,Valencia
+07/02/19,CDR,Real Betis,2-2,Valencia
+10/02/19,LAL,Valencia,0-0,Real Sociedad
+14/02/19,UEL,Celtic,0-2,Valencia
+17/02/19,LAL,Valencia,0-0,Espanyol
+21/02/19,UEL,Valencia,1-0,Celtic
+24/02/19,LAL,Leganes,1-1,Valencia
+28/02/19,CDR,Valencia,1-0,Real Betis
+03/03/19,LAL,Valencia,2-0,Athletic Bilbao
+07/03/19,UEL,Valencia,2-1,Krasnodar
+10/03/19,LAL,Girona,2-3,Valencia
+14/03/19,UEL,Krasnodar,1-1,Valencia
+17/03/19,LAL,Valencia,0-0,Getafe
+31/03/19,LAL,Sevilla,0-1,Valencia
+03/04/19,LAL,Valencia,2-1,Real Madrid
+06/04/19,LAL,Rayo Vallecano,2-0,Valencia
+11/04/19,UEL,Villarreal,1-3,Valencia
+14/04/19,LAL,Valencia,3-1,Levante
+18/04/19,UEL,Valencia,2-0,Villarreal
+21/04/19,LAL,Real Betis,1-2,Valencia
+24/04/19,LAL,Atletico Madrid,3-2,Valencia
+28/04/19,LAL,Valencia,0-1,Eibar
+02/05/19,UEL,Arsenal,3-1,Valencia
+05/05/19,LAL,Huesca,2-6,Valencia
+09/05/19,UEL,Valencia,2-4,Arsenal
+12/05/19,LAL,Valencia,3-1,Alaves
+18/05/19,LAL,Real Valladolid,0-2,Valencia
+25/05/19,CDR,Barcelona,1-2,Valencia
+20/07/19,CLF,Monaco,1-0,Valencia
+23/07/19,CLF,Sion,0-3,Valencia
+28/07/19,CLF,Sporting Lisbon,1-2,Valencia
+23/12/17,LAL,Valencia,0-1,Villarreal
+03/01/18,CDR,Las Palmas,1-1,Valencia
+06/01/18,LAL,Valencia,2-1,Girona
+09/01/18,CDR,Valencia,4-0,Las Palmas
+13/01/18,LAL,Deportivo La Coruña,1-2,Valencia
+17/01/18,CDR,Valencia,2-1,Alaves
+20/01/18,LAL,Las Palmas,2-1,Valencia
+24/01/18,CDR,Alaves,P2-1P,Valencia
+27/01/18,LAL,Valencia,1-4,Real Madrid
+01/02/18,CDR,Barcelona,1-0,Valencia
+04/02/18,LAL,Atletico Madrid,1-0,Valencia
+08/02/18,CDR,Valencia,0-2,Barcelona
+11/02/18,LAL,Valencia,3-1,Levante
+17/02/18,LAL,Malaga,1-2,Valencia
+25/02/18,LAL,Valencia,2-1,Real Sociedad
+28/02/18,LAL,Athletic Bilbao,1-1,Valencia
+04/03/18,LAL,Valencia,2-0,Real Betis
+10/03/18,LAL,Sevilla,0-2,Valencia
+17/03/18,LAL,Valencia,3-1,Alaves
+01/04/18,LAL,Leganes,0-1,Valencia
+08/04/18,LAL,Valencia,1-0,Espanyol
+14/04/18,LAL,Barcelona,2-1,Valencia
+18/04/18,LAL,Valencia,1-2,Getafe
+21/04/18,LAL,Celta Vigo,1-1,Valencia
+29/04/18,LAL,Valencia,0-0,Eibar
+05/05/18,LAL,Villarreal,1-0,Valencia
+09/05/18,CLF,Al Nassr,0-0,Valencia
+12/05/18,LAL,Girona,0-1,Valencia
+20/05/18,LAL,Valencia,2-1,Deportivo La Coruña
+21/07/18,CLF,Galatasaray,1-2,Valencia
+24/07/18,CLF,Lausanne-Sport,0-0,Valencia
+28/07/18,CLF,PSV,2-1,Valencia
+01/08/18,CLF,Leicester City,1-1,Valencia
+04/08/18,CLF,Everton,2-3,Valencia
+11/08/18,CLF,Valencia,3-0,Bayer Leverkusen
+20/08/18,LAL,Valencia,1-1,Atletico Madrid
+26/08/18,LAL,Espanyol,2-0,Valencia
+02/09/18,LAL,Levante,2-2,Valencia
+05/09/18,CLF,Alcoyano,0-3,Valencia
+15/09/18,LAL,Valencia,0-0,Real Betis
+19/09/18,UCL,Valencia,0-2,Juventus
+23/09/18,LAL,Villarreal,0-0,Valencia
+26/09/18,LAL,Valencia,1-1,Celta Vigo
+29/09/18,LAL,Real Sociedad,0-1,Valencia
+02/10/18,UCL,Manchester United,0-0,Valencia
+07/10/18,LAL,Valencia,1-1,Barcelona
+20/10/18,LAL,Valencia,1-1,Leganes
+23/10/18,UCL,Young Boys,1-1,Valencia
+27/10/18,LAL,Athletic Bilbao,0-0,Valencia
+30/10/18,CDR,Ebro,1-2,Valencia
+09/01/17,LAL,Osasuna,3-3,Valencia
+12/01/17,CDR,Celta Vigo,2-1,Valencia
+15/01/17,LAL,Valencia,2-1,Espanyol
+21/01/17,LAL,Villarreal,0-2,Valencia
+30/01/17,LAL,Las Palmas,3-1,Valencia
+04/02/17,LAL,Valencia,0-4,Eibar
+11/02/17,LAL,Real Betis,0-0,Valencia
+19/02/17,LAL,Valencia,2-0,Athletic Bilbao
+22/02/17,LAL,Valencia,2-1,Real Madrid
+25/02/17,LAL,Alaves,2-1,Valencia
+28/02/17,LAL,Valencia,1-0,Leganes
+05/03/17,LAL,Atletico Madrid,3-0,Valencia
+11/03/17,LAL,Valencia,1-1,Sporting Gijon
+19/03/17,LAL,Barcelona,4-2,Valencia
+02/04/17,LAL,Valencia,3-0,Deportivo La Coruña
+06/04/17,LAL,Valencia,3-2,Celta Vigo
+09/04/17,LAL,Granada,1-3,Valencia
+16/04/17,LAL,Valencia,0-0,Sevilla
+22/04/17,LAL,Malaga,2-0,Valencia
+26/04/17,LAL,Valencia,2-3,Real Sociedad
+29/04/17,LAL,Real Madrid,2-1,Valencia
+07/05/17,LAL,Valencia,4-1,Osasuna
+13/05/17,LAL,Espanyol,0-1,Valencia
+21/05/17,LAL,Valencia,1-3,Villarreal
+11/07/17,CLF,Lausanne-Sport,0-5,Valencia
+13/07/17,CLF,Sporting Lisbon,0-3,Valencia
+16/07/17,CLF,Etoile du Sahel,CANC,Valencia
+23/07/17,CLF,NY Cosmos,2-0,Valencia
+25/07/17,CLF,Cincinnati,0-2,Valencia
+30/07/17,CLF,AFC Bournemouth,0-1,Valencia
+05/08/17,CLF,Werder Bremen,1-2,Valencia
+11/08/17,CLF,Valencia,1-2,Atalanta
+18/08/17,LAL,Valencia,1-0,Las Palmas
+27/08/17,LAL,Real Madrid,2-2,Valencia
+09/09/17,LAL,Valencia,0-0,Atletico Madrid
+16/09/17,LAL,Levante,1-1,Valencia
+19/09/17,LAL,Valencia,5-0,Malaga
+24/09/17,LAL,Real Sociedad,2-3,Valencia
+01/10/17,LAL,Valencia,3-2,Athletic Bilbao
+15/10/17,LAL,Real Betis,3-6,Valencia
+21/10/17,LAL,Valencia,4-0,Sevilla
+24/10/17,CDR,Real Zaragoza,0-2,Valencia
+28/10/17,LAL,Alaves,1-2,Valencia
+04/11/17,LAL,Valencia,3-0,Leganes
+19/11/17,LAL,Espanyol,0-2,Valencia
+26/11/17,LAL,Valencia,1-1,Barcelona
+30/11/17,CDR,Valencia,4-1,Real Zaragoza
+03/12/17,LAL,Getafe,1-0,Valencia
+09/12/17,LAL,Valencia,2-1,Celta Vigo
+16/12/17,LAL,Eibar,2-1,Valencia
+28/01/16,CDR,Las Palmas,0-1,Valencia
+31/01/16,LAL,Valencia,0-1,Sporting Gijon
+03/02/16,CDR,Barcelona,7-0,Valencia
+07/02/16,LAL,Real Betis,1-0,Valencia
+10/02/16,CDR,Valencia,1-1,Barcelona
+13/02/16,LAL,Valencia,2-1,Espanyol
+18/02/16,UEL,Valencia,6-0,Rapid Vienna
+21/02/16,LAL,Granada,1-2,Valencia
+25/02/16,UEL,Rapid Vienna,0-4,Valencia
+28/02/16,LAL,Valencia,0-3,Athletic Bilbao
+02/03/16,LAL,Malaga,1-2,Valencia
+06/03/16,LAL,Valencia,1-3,Atletico Madrid
+10/03/16,UEL,Athletic Bilbao,1-0,Valencia
+13/03/16,LAL,Levante,1-0,Valencia
+17/03/16,UEL,Valencia,2-1,Athletic Bilbao
+20/03/16,LAL,Valencia,0-2,Celta Vigo
+02/04/16,LAL,Las Palmas,2-1,Valencia
+10/04/16,LAL,Valencia,2-1,Sevilla
+17/04/16,LAL,Barcelona,1-2,Valencia
+20/04/16,LAL,Valencia,4-0,Eibar
+24/04/16,LAL,Getafe,2-2,Valencia
+01/05/16,LAL,Valencia,0-2,Villarreal
+08/05/16,LAL,Real Madrid,3-2,Valencia
+13/05/16,LAL,Valencia,0-1,Real Sociedad
+16/07/16,CLF,Castellón,CANC,Valencia
+20/07/16,CLF,Preußen Münster,2-4,Valencia
+23/07/16,CLF,Feyenoord,2-1,Valencia
+30/07/16,CLF,Ilves,1-4,Valencia
+03/08/16,CLF,AFC Bournemouth,1-1,Valencia
+06/08/16,CLF,Crystal Palace,3-1,Valencia
+10/08/16,HYF,Valencia,2-1,NPFL All-Star
+13/08/16,CLF,Valencia,2-1,Fiorentina
+22/08/16,LAL,Valencia,2-4,Las Palmas
+27/08/16,LAL,Eibar,1-0,Valencia
+11/09/16,LAL,Valencia,2-3,Real Betis
+18/09/16,LAL,Athletic Bilbao,2-1,Valencia
+22/09/16,LAL,Valencia,2-1,Alaves
+25/09/16,LAL,Leganes,1-2,Valencia
+02/10/16,LAL,Valencia,0-2,Atletico Madrid
+16/10/16,LAL,Sporting Gijon,1-2,Valencia
+22/10/16,LAL,Valencia,2-3,Barcelona
+31/10/16,LAL,Deportivo La Coruña,1-1,Valencia
+06/11/16,LAL,Celta Vigo,2-1,Valencia
+20/11/16,LAL,Valencia,1-1,Granada
+26/11/16,LAL,Sevilla,2-1,Valencia
+29/11/16,CDR,Leganes,1-3,Valencia
+04/12/16,LAL,Valencia,2-2,Malaga
+10/12/16,LAL,Real Sociedad,3-2,Valencia
+21/12/16,CDR,Valencia,2-1,Leganes
+03/01/17,CDR,Valencia,1-4,Celta Vigo
+09/04/15,LAL,Athletic Bilbao,1-1,Valencia
+13/04/15,LAL,Valencia,3-0,Levante
+18/04/15,LAL,Barcelona,2-0,Valencia
+27/04/15,LAL,Valencia,4-0,Granada
+30/04/15,LAL,Rayo Vallecano,1-1,Valencia
+03/05/15,LAL,Valencia,3-1,Eibar
+09/05/15,LAL,Real Madrid,2-2,Valencia
+17/05/15,LAL,Valencia,1-1,Celta Vigo
+23/05/15,LAL,Almeria,2-3,Valencia
+08/07/15,CLF,Wiener SK,0-4,Valencia
+11/07/15,CLF,Valencia,1-0,Southampton
+11/07/15,CLF,Werder Bremen,P0-0P,Valencia
+18/07/15,CLF,Bayern Munich,4-1,Valencia
+01/08/15,CLF,Valencia,P0-0P,Porto
+02/08/15,CLF,FC Cologne,3-2,Valencia
+08/08/15,CLF,Valencia,1-3,Roma
+19/08/15,UCL,Valencia,3-1,Monaco
+22/08/15,LAL,Rayo Vallecano,0-0,Valencia
+25/08/15,UCL,Monaco,2-1,Valencia
+30/08/15,LAL,Valencia,1-1,Deportivo La Coruña
+12/09/15,LAL,Sporting Gijon,0-1,Valencia
+16/09/15,UCL,Valencia,2-3,Zenit
+19/09/15,LAL,Valencia,0-0,Real Betis
+22/09/15,LAL,Espanyol,1-0,Valencia
+25/09/15,LAL,Valencia,1-0,Granada
+29/09/15,UCL,Lyon,0-1,Valencia
+04/10/15,LAL,Athletic Bilbao,3-1,Valencia
+17/10/15,LAL,Valencia,3-0,Malaga
+20/10/15,UCL,Valencia,2-1,Gent
+25/10/15,LAL,Atletico Madrid,2-1,Valencia
+31/10/15,LAL,Valencia,3-0,Levante
+04/11/15,UCL,Gent,1-0,Valencia
+07/11/15,LAL,Celta Vigo,1-5,Valencia
+21/11/15,LAL,Valencia,1-1,Las Palmas
+24/11/15,UCL,Zenit,2-0,Valencia
+29/11/15,LAL,Sevilla,1-0,Valencia
+02/12/15,CDR,Barakaldo,1-3,Valencia
+05/12/15,LAL,Valencia,1-1,Barcelona
+09/12/15,UCL,Valencia,0-2,Lyon
+13/12/15,LAL,Eibar,1-1,Valencia
+16/12/15,CDR,Valencia,2-0,Barakaldo
+19/12/15,LAL,Valencia,2-2,Getafe
+31/12/15,LAL,Villarreal,1-0,Valencia
+03/01/16,LAL,Valencia,2-2,Real Madrid
+06/01/16,CDR,Valencia,4-0,Granada
+10/01/16,LAL,Real Sociedad,2-0,Valencia
+14/01/16,CDR,Granada,0-3,Valencia
+17/01/16,LAL,Valencia,2-2,Rayo Vallecano
+21/01/16,CDR,Valencia,1-1,Las Palmas
+24/01/16,LAL,Deportivo La Coruña,1-1,Valencia

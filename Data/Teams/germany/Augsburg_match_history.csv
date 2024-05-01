@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+29/04/23,BUN,Eintracht Frankfurt,1-1,Augsburg
+06/05/23,BUN,Augsburg,1-0,Union Berlin
+13/05/23,BUN,Bochum,3-2,Augsburg
+21/05/23,BUN,Augsburg,0-3,Borussia Dortmund
+27/05/23,BUN,Borussia M'gladbach,2-0,Augsburg
+11/07/23,CLF,Augsburg,6-0,Türkspor Augsburg
+15/07/23,CLF,Besiktas,1-1,Augsburg
+18/07/23,CLF,Kufstein,0-9,Augsburg
+29/07/23,CLF,Augsburg,3-2,Jahn Regensburg
+29/07/23,CLF,Augsburg,3-1,Ajax
+05/08/23,CLF,Salernitana,2-1,Augsburg
+06/08/23,CLF,Napoli,1-0,Augsburg
+13/08/23,DFP,Unterhaching,2-0,Augsburg
+19/08/23,BUN,Augsburg,4-4,Borussia M'gladbach
+27/08/23,BUN,Bayern Munich,3-1,Augsburg
+02/09/23,BUN,Augsburg,2-2,Bochum
+16/09/23,BUN,RB Leipzig,3-0,Augsburg
+23/09/23,BUN,Augsburg,2-1,Mainz
+01/10/23,BUN,Freiburg,2-0,Augsburg
+07/10/23,BUN,Augsburg,1-2,Darmstadt
+22/10/23,BUN,Heidenheim,2-5,Augsburg
+28/10/23,BUN,Augsburg,3-2,Wolfsburg
+04/11/23,BUN,FC Cologne,1-1,Augsburg
+11/11/23,BUN,Augsburg,1-1,Hoffenheim
+16/11/23,CLF,Augsburg,5-2,Jahn Regensburg
+25/11/23,BUN,Union Berlin,1-1,Augsburg
+03/12/23,BUN,Augsburg,2-1,Eintracht Frankfurt
+09/12/23,BUN,Werder Bremen,2-0,Augsburg
+16/12/23,BUN,Augsburg,1-1,Borussia Dortmund
+20/12/23,BUN,Stuttgart,3-0,Augsburg
+06/01/24,CLF,Augsburg,1-0,Hoffenheim
+13/01/24,BUN,Augsburg,0-1,Bayer Leverkusen
+21/01/24,BUN,Borussia M'gladbach,1-2,Augsburg
+27/01/24,BUN,Augsburg,2-3,Bayern Munich
+03/02/24,BUN,Bochum,1-1,Augsburg
+10/02/24,BUN,Augsburg,2-2,RB Leipzig
+17/02/24,BUN,Mainz,1-0,Augsburg
+25/02/24,BUN,Augsburg,2-1,Freiburg
+02/03/24,BUN,Darmstadt,0-6,Augsburg
+09/03/24,BUN,Augsburg,1-0,Heidenheim
+16/03/24,BUN,Wolfsburg,1-3,Augsburg
+21/03/24,CLF,Augsburg,4-1,Greuther Fürth
+31/03/24,BUN,Augsburg,1-1,FC Cologne
+07/04/24,BUN,Hoffenheim,3-1,Augsburg
+12/04/24,BUN,Augsburg,2-0,Union Berlin
+19/04/24,BUN,Eintracht Frankfurt,3-1,Augsburg
+27/04/24,BUN,Augsburg,0-3,Werder Bremen
+04/05/24,BUN,Borussia Dortmund,15:30,Augsburg
+10/05/24,BUN,Augsburg,20:30,Stuttgart
+18/05/24,BUN,Bayer Leverkusen,15:30,Augsburg
+30/04/22,BUN,Augsburg,1-4,FC Cologne
+08/05/22,BUN,RB Leipzig,4-0,Augsburg
+14/05/22,BUN,Augsburg,2-1,Greuther Fürth
+28/06/22,CLF,Augsburg,5-0,Schwaben Augsburg
+01/07/22,CLF,Augsburg,5-0,Eichstätt
+08/07/22,CLF,Augsburg,1-1,Sandhausen
+13/07/22,CLF,Augsburg,0-1,České Budějovice
+17/07/22,CLF,Augsburg,CANC,Al Duhail
+17/07/22,CLF,Augsburg,1-1,Schalke 04
+23/07/22,CLF,Augsburg,CANC,Rennes
+31/07/22,DFP,BW Lohne,0-4,Augsburg
+06/08/22,BUN,Augsburg,0-4,Freiburg
+13/08/22,BUN,Bayer Leverkusen,1-2,Augsburg
+20/08/22,BUN,Augsburg,1-2,Mainz
+27/08/22,BUN,Hoffenheim,1-0,Augsburg
+04/09/22,BUN,Augsburg,0-2,Hertha Berlin
+09/09/22,BUN,Werder Bremen,0-1,Augsburg
+17/09/22,BUN,Augsburg,1-0,Bayern Munich
+22/09/22,CLF,Augsburg,5-2,Austria Lustenau
+02/10/22,BUN,Schalke 04,2-3,Augsburg
+08/10/22,BUN,Augsburg,1-1,Wolfsburg
+16/10/22,BUN,FC Cologne,3-2,Augsburg
+19/10/22,DFP,Augsburg,2-5,Bayern Munich
+22/10/22,BUN,Augsburg,3-3,RB Leipzig
+29/10/22,BUN,Stuttgart,2-1,Augsburg
+05/11/22,BUN,Augsburg,1-2,Eintracht Frankfurt
+09/11/22,BUN,Union Berlin,2-2,Augsburg
+12/11/22,BUN,Augsburg,0-1,Bochum
+10/12/22,CLF,Augsburg,3-0,Grasshoppers
+16/12/22,CLF,Augsburg,2-0,Heidenheim
+07/01/23,CLF,Union Berlin,1-0,Augsburg
+07/01/23,CLF,Union Berlin,4-1,Augsburg
+11/01/23,CLF,Augsburg,0-2,Ferencváros
+14/01/23,CLF,Augsburg,0-4,Wolfsburg
+14/01/23,CLF,Augsburg,1-0,Wolfsburg
+22/01/23,BUN,Borussia Dortmund,4-3,Augsburg
+25/01/23,BUN,Augsburg,1-0,Borussia M'gladbach
+28/01/23,BUN,Freiburg,3-1,Augsburg
+03/02/23,BUN,Augsburg,1-0,Bayer Leverkusen
+11/02/23,BUN,Mainz,3-1,Augsburg
+17/02/23,BUN,Augsburg,1-0,Hoffenheim
+25/02/23,BUN,Hertha Berlin,2-0,Augsburg
+04/03/23,BUN,Augsburg,2-1,Werder Bremen
+11/03/23,BUN,Bayern Munich,5-3,Augsburg
+18/03/23,BUN,Augsburg,1-1,Schalke 04
+23/03/23,CLF,Augsburg,4-2,St.Gallen
+01/04/23,BUN,Wolfsburg,2-2,Augsburg
+08/04/23,BUN,Augsburg,1-3,FC Cologne
+15/04/23,BUN,RB Leipzig,3-2,Augsburg
+21/04/23,BUN,Augsburg,1-1,Stuttgart
+21/03/21,BUN,Freiburg,2-0,Augsburg
+26/03/21,CLF,Augsburg,3-1,Heidenheim
+03/04/21,BUN,Augsburg,2-1,Hoffenheim
+11/04/21,BUN,Schalke 04,1-0,Augsburg
+17/04/21,BUN,Augsburg,0-0,Arminia Bielefeld
+20/04/21,BUN,Eintracht Frankfurt,2-0,Augsburg
+23/04/21,BUN,Augsburg,2-3,FC Cologne
+07/05/21,BUN,Stuttgart,2-1,Augsburg
+15/05/21,BUN,Augsburg,2-0,Werder Bremen
+22/05/21,BUN,Bayern Munich,5-2,Augsburg
+07/07/21,CLF,Augsburg,2-2,Hamburg
+15/07/21,CLF,Qarabag,2-2,Augsburg
+16/07/21,CLF,Augsburg,CANC,Ingolstadt
+21/07/21,CLF,PSG,2-1,Augsburg
+31/07/21,CLF,Augsburg,3-1,Cagliari
+07/08/21,DFP,Greifswalder FC,2-4,Augsburg
+14/08/21,BUN,Augsburg,0-4,Hoffenheim
+21/08/21,BUN,Eintracht Frankfurt,0-0,Augsburg
+28/08/21,BUN,Augsburg,1-4,Bayer Leverkusen
+11/09/21,BUN,Union Berlin,0-0,Augsburg
+18/09/21,BUN,Augsburg,1-0,Borussia M'gladbach
+26/09/21,BUN,Freiburg,3-0,Augsburg
+02/10/21,BUN,Borussia Dortmund,2-1,Augsburg
+07/10/21,CLF,Augsburg,1-0,Jahn Regensburg
+17/10/21,BUN,Augsburg,1-1,Arminia Bielefeld
+22/10/21,BUN,Mainz,4-1,Augsburg
+27/10/21,DFP,Bochum,P2-2P,Augsburg
+31/10/21,BUN,Augsburg,4-1,Stuttgart
+06/11/21,BUN,Wolfsburg,1-0,Augsburg
+19/11/21,BUN,Augsburg,2-1,Bayern Munich
+27/11/21,BUN,Hertha Berlin,1-1,Augsburg
+04/12/21,BUN,Augsburg,2-3,Bochum
+10/12/21,BUN,FC Cologne,0-2,Augsburg
+15/12/21,BUN,Augsburg,1-1,RB Leipzig
+18/12/21,BUN,Greuther Fürth,0-0,Augsburg
+08/01/22,BUN,Hoffenheim,3-1,Augsburg
+16/01/22,BUN,Augsburg,1-1,Eintracht Frankfurt
+22/01/22,BUN,Bayer Leverkusen,5-1,Augsburg
+27/01/22,CLF,Augsburg,3-3,Jahn Regensburg
+05/02/22,BUN,Augsburg,2-0,Union Berlin
+12/02/22,BUN,Borussia M'gladbach,3-2,Augsburg
+19/02/22,BUN,Augsburg,1-2,Freiburg
+27/02/22,BUN,Augsburg,1-1,Borussia Dortmund
+04/03/22,BUN,Arminia Bielefeld,0-1,Augsburg
+19/03/22,BUN,Stuttgart,3-2,Augsburg
+03/04/22,BUN,Augsburg,3-0,Wolfsburg
+06/04/22,BUN,Augsburg,2-1,Mainz
+09/04/22,BUN,Bayern Munich,1-0,Augsburg
+16/04/22,BUN,Augsburg,0-1,Hertha Berlin
+24/04/22,BUN,Bochum,0-2,Augsburg
+01/02/20,BUN,Augsburg,2-1,Werder Bremen
+07/02/20,BUN,Eintracht Frankfurt,5-0,Augsburg
+15/02/20,BUN,Augsburg,1-1,Freiburg
+23/02/20,BUN,Bayer Leverkusen,2-0,Augsburg
+29/02/20,BUN,Augsburg,2-3,Borussia M'gladbach
+08/03/20,BUN,Bayern Munich,2-0,Augsburg
+16/05/20,BUN,Augsburg,1-2,Wolfsburg
+24/05/20,BUN,Schalke 04,0-3,Augsburg
+27/05/20,BUN,Augsburg,0-0,Paderborn
+30/05/20,BUN,Hertha Berlin,2-0,Augsburg
+07/06/20,BUN,Augsburg,1-1,FC Cologne
+14/06/20,BUN,Mainz,0-1,Augsburg
+17/06/20,BUN,Augsburg,1-3,Hoffenheim
+20/06/20,BUN,Fortuna Düsseldorf,1-1,Augsburg
+27/06/20,BUN,Augsburg,1-2,RB Leipzig
+08/08/20,CLF,Heimstetten,0-9,Augsburg
+15/08/20,CLF,Nürnberg,1-2,Augsburg
+20/08/20,CLF,Türkgücü München,1-4,Augsburg
+29/08/20,CLF,Augsburg,5-2,Rheindorf Altach
+29/08/20,CLF,Jahn Regensburg,1-1,Augsburg
+05/09/20,CLF,Ajax,1-0,Augsburg
+12/09/20,DFP,Eintracht Celle,0-7,Augsburg
+19/09/20,BUN,Union Berlin,1-3,Augsburg
+26/09/20,BUN,Augsburg,2-0,Borussia Dortmund
+04/10/20,BUN,Wolfsburg,0-0,Augsburg
+09/10/20,CLF,Heidenheim,1-1,Augsburg
+17/10/20,BUN,Augsburg,0-2,RB Leipzig
+26/10/20,BUN,Bayer Leverkusen,3-1,Augsburg
+31/10/20,BUN,Augsburg,3-1,Mainz
+07/11/20,BUN,Augsburg,0-3,Hertha Berlin
+21/11/20,BUN,Borussia M'gladbach,1-1,Augsburg
+28/11/20,BUN,Augsburg,1-1,Freiburg
+07/12/20,BUN,Hoffenheim,3-1,Augsburg
+13/12/20,BUN,Augsburg,2-2,Schalke 04
+16/12/20,BUN,Arminia Bielefeld,0-1,Augsburg
+19/12/20,BUN,Augsburg,0-2,Eintracht Frankfurt
+22/12/20,DFP,Augsburg,0-3,RB Leipzig
+02/01/21,BUN,FC Cologne,0-1,Augsburg
+10/01/21,BUN,Augsburg,1-4,Stuttgart
+16/01/21,BUN,Werder Bremen,2-0,Augsburg
+20/01/21,BUN,Augsburg,0-1,Bayern Munich
+23/01/21,BUN,Augsburg,2-1,Union Berlin
+30/01/21,BUN,Borussia Dortmund,3-1,Augsburg
+06/02/21,BUN,Augsburg,0-2,Wolfsburg
+12/02/21,BUN,RB Leipzig,2-1,Augsburg
+15/02/21,CLF,Augsburg,3-1,Würzburger Kickers
+21/02/21,BUN,Augsburg,1-1,Bayer Leverkusen
+28/02/21,BUN,Mainz,0-1,Augsburg
+06/03/21,BUN,Hertha Berlin,2-1,Augsburg
+12/03/21,BUN,Augsburg,3-1,Borussia M'gladbach
+23/12/18,BUN,Augsburg,2-3,Wolfsburg
+11/01/19,CLF,Antwerp,CANC,Augsburg
+19/01/19,BUN,Augsburg,1-2,Fortuna Düsseldorf
+26/01/19,BUN,Borussia M'gladbach,2-0,Augsburg
+03/02/19,BUN,Augsburg,3-0,Mainz
+06/02/19,DFP,Holstein Kiel,0-1,Augsburg
+10/02/19,BUN,Werder Bremen,4-0,Augsburg
+15/02/19,BUN,Augsburg,2-3,Bayern Munich
+23/02/19,BUN,Freiburg,5-1,Augsburg
+01/03/19,BUN,Augsburg,2-1,Borussia Dortmund
+09/03/19,BUN,RB Leipzig,0-0,Augsburg
+16/03/19,BUN,Augsburg,3-1,Hannover 96
+30/03/19,BUN,Nürnberg,3-0,Augsburg
+02/04/19,DFP,Augsburg,E1-2E,RB Leipzig
+07/04/19,BUN,Augsburg,0-4,Hoffenheim
+14/04/19,BUN,Eintracht Frankfurt,1-3,Augsburg
+20/04/19,BUN,Augsburg,6-0,Stuttgart
+26/04/19,BUN,Augsburg,1-4,Bayer Leverkusen
+05/05/19,BUN,Schalke 04,0-0,Augsburg
+11/05/19,BUN,Augsburg,3-4,Hertha Berlin
+18/05/19,BUN,Wolfsburg,8-1,Augsburg
+09/07/19,CLF,Augsburg,6-0,Gundelfingen
+13/07/19,CLF,Augsburg,1-0,Greuther Fürth
+25/07/19,CLF,Augsburg,4-1,Galatasaray
+26/07/19,CLF,Augsburg,2-6,Villarreal
+03/08/19,CLF,Augsburg,2-3,Bologna
+10/08/19,DFP,Verl,2-1,Augsburg
+17/08/19,BUN,Borussia Dortmund,5-1,Augsburg
+24/08/19,BUN,Augsburg,1-1,Union Berlin
+01/09/19,BUN,Werder Bremen,3-2,Augsburg
+14/09/19,BUN,Augsburg,2-1,Eintracht Frankfurt
+21/09/19,BUN,Freiburg,1-1,Augsburg
+28/09/19,BUN,Augsburg,0-3,Bayer Leverkusen
+06/10/19,BUN,Borussia M'gladbach,5-1,Augsburg
+11/10/19,CLF,Austria Lustenau,0-4,Augsburg
+19/10/19,BUN,Augsburg,2-2,Bayern Munich
+27/10/19,BUN,Wolfsburg,0-0,Augsburg
+03/11/19,BUN,Augsburg,2-3,Schalke 04
+09/11/19,BUN,Paderborn,0-1,Augsburg
+14/11/19,CLF,Bayern München II,1-4,Augsburg
+24/11/19,BUN,Augsburg,4-0,Hertha Berlin
+30/11/19,BUN,FC Cologne,1-1,Augsburg
+07/12/19,BUN,Augsburg,2-1,Mainz
+13/12/19,BUN,Hoffenheim,2-4,Augsburg
+17/12/19,BUN,Augsburg,3-0,Fortuna Düsseldorf
+21/12/19,BUN,RB Leipzig,3-1,Augsburg
+09/01/20,CLF,Hibernians,0-4,Augsburg
+10/01/20,CLF,Cercle Brugge,3-3,Augsburg
+18/01/20,BUN,Augsburg,3-5,Borussia Dortmund
+25/01/20,BUN,Union Berlin,2-0,Augsburg
+21/10/17,BUN,Augsburg,1-2,Hannover 96
+29/10/17,BUN,Werder Bremen,0-3,Augsburg
+04/11/17,BUN,Augsburg,1-1,Bayer Leverkusen
+18/11/17,BUN,Bayern Munich,3-0,Augsburg
+25/11/17,BUN,Augsburg,2-1,Wolfsburg
+02/12/17,BUN,Mainz,1-3,Augsburg
+10/12/17,BUN,Augsburg,1-1,Hertha Berlin
+13/12/17,BUN,Schalke 04,3-2,Augsburg
+16/12/17,BUN,Augsburg,3-3,Freiburg
+13/01/18,BUN,Augsburg,1-0,Hamburg
+20/01/18,BUN,Borussia M'gladbach,2-0,Augsburg
+27/01/18,BUN,FC Cologne,1-1,Augsburg
+04/02/18,BUN,Augsburg,3-0,Eintracht Frankfurt
+09/02/18,BUN,RB Leipzig,2-0,Augsburg
+18/02/18,BUN,Augsburg,0-1,Stuttgart
+26/02/18,BUN,Borussia Dortmund,1-1,Augsburg
+03/03/18,BUN,Augsburg,0-2,Hoffenheim
+10/03/18,BUN,Hannover 96,1-3,Augsburg
+17/03/18,BUN,Augsburg,1-3,Werder Bremen
+31/03/18,BUN,Bayer Leverkusen,0-0,Augsburg
+07/04/18,BUN,Augsburg,1-4,Bayern Munich
+13/04/18,BUN,Wolfsburg,0-0,Augsburg
+22/04/18,BUN,Augsburg,2-0,Mainz
+28/04/18,BUN,Hertha Berlin,2-2,Augsburg
+05/05/18,BUN,Augsburg,1-2,Schalke 04
+12/05/18,BUN,Freiburg,2-0,Augsburg
+08/07/18,CLF,Augsburg,1-1,Austria Lustenau
+14/07/18,CLF,Augsburg,2-0,Würzburger Kickers
+18/07/18,CLF,Augsburg,2-1,Middlesbrough
+26/07/18,CLF,Borussia M'gladbach,2-1,Augsburg
+04/08/18,CLF,Newcastle United,0-1,Augsburg
+12/08/18,CLF,Augsburg,0-1,Athletic Bilbao
+19/08/18,DFP,TSV Steinbach,1-2,Augsburg
+25/08/18,BUN,Fortuna Düsseldorf,1-2,Augsburg
+01/09/18,BUN,Augsburg,1-1,Borussia M'gladbach
+15/09/18,BUN,Mainz,2-1,Augsburg
+22/09/18,BUN,Augsburg,2-3,Werder Bremen
+25/09/18,BUN,Bayern Munich,1-1,Augsburg
+30/09/18,BUN,Augsburg,4-1,Freiburg
+06/10/18,BUN,Borussia Dortmund,4-3,Augsburg
+20/10/18,BUN,Augsburg,0-0,RB Leipzig
+27/10/18,BUN,Hannover 96,1-2,Augsburg
+30/10/18,DFP,Augsburg,E3-2E,Mainz
+03/11/18,BUN,Augsburg,2-2,Nürnberg
+10/11/18,BUN,Hoffenheim,2-1,Augsburg
+24/11/18,BUN,Augsburg,1-3,Eintracht Frankfurt
+01/12/18,BUN,Stuttgart,1-0,Augsburg
+08/12/18,BUN,Bayer Leverkusen,1-0,Augsburg
+15/12/18,BUN,Augsburg,1-1,Schalke 04
+18/12/18,BUN,Hertha Berlin,2-2,Augsburg
+24/09/16,BUN,Augsburg,1-0,Darmstadt
+30/09/16,BUN,RB Leipzig,2-1,Augsburg
+15/10/16,BUN,Augsburg,1-1,Schalke 04
+22/10/16,BUN,Freiburg,2-1,Augsburg
+26/10/16,DFP,Bayern Munich,3-1,Augsburg
+29/10/16,BUN,Augsburg,1-3,Bayern Munich
+05/11/16,BUN,Ingolstadt,0-2,Augsburg
+19/11/16,BUN,Augsburg,0-0,Hertha Berlin
+26/11/16,BUN,FC Cologne,0-0,Augsburg
+04/12/16,BUN,Augsburg,1-1,Eintracht Frankfurt
+10/12/16,BUN,Hamburg,1-0,Augsburg
+17/12/16,BUN,Augsburg,1-0,Borussia M'gladbach
+20/12/16,BUN,Borussia Dortmund,1-1,Augsburg
+07/01/17,CLF,Augsburg,1-1,AZ
+12/01/17,CLF,Augsburg,1-1,Hannover 96
+21/01/17,BUN,Augsburg,0-2,Hoffenheim
+28/01/17,BUN,Wolfsburg,1-2,Augsburg
+05/02/17,BUN,Augsburg,3-2,Werder Bremen
+10/02/17,BUN,Mainz,2-0,Augsburg
+17/02/17,BUN,Augsburg,1-3,Bayer Leverkusen
+25/02/17,BUN,Darmstadt,1-2,Augsburg
+03/03/17,BUN,Augsburg,2-2,RB Leipzig
+12/03/17,BUN,Schalke 04,3-0,Augsburg
+18/03/17,BUN,Augsburg,1-1,Freiburg
+01/04/17,BUN,Bayern Munich,6-0,Augsburg
+05/04/17,BUN,Augsburg,2-3,Ingolstadt
+09/04/17,BUN,Hertha Berlin,2-0,Augsburg
+15/04/17,BUN,Augsburg,2-1,FC Cologne
+22/04/17,BUN,Eintracht Frankfurt,3-1,Augsburg
+30/04/17,BUN,Augsburg,4-0,Hamburg
+06/05/17,BUN,Borussia M'gladbach,1-1,Augsburg
+13/05/17,BUN,Augsburg,1-1,Borussia Dortmund
+20/05/17,BUN,Hoffenheim,0-0,Augsburg
+05/07/17,CLF,Augsburg,0-1,Wacker Innsbruck
+12/07/17,CLF,Augsburg,2-0,Kaiserslautern
+18/07/17,CLF,Augsburg,2-1,Tokyo
+22/07/17,CLF,Jahn Regensburg,2-1,Augsburg
+22/07/17,CLF,Ulm,2-3,Augsburg
+29/07/17,CLF,Middlesbrough,2-1,Augsburg
+02/08/17,CLF,Southampton,0-4,Augsburg
+06/08/17,CLF,Augsburg,0-0,PSV
+13/08/17,DFP,Magdeburg,2-0,Augsburg
+19/08/17,BUN,Hamburg,1-0,Augsburg
+26/08/17,BUN,Augsburg,2-2,Borussia M'gladbach
+09/09/17,BUN,Augsburg,3-0,FC Cologne
+16/09/17,BUN,Eintracht Frankfurt,1-2,Augsburg
+19/09/17,BUN,Augsburg,1-0,RB Leipzig
+23/09/17,BUN,Stuttgart,0-0,Augsburg
+30/09/17,BUN,Augsburg,1-2,Borussia Dortmund
+14/10/17,BUN,Hoffenheim,2-2,Augsburg
+12/09/15,BUN,Bayern Munich,2-1,Augsburg
+17/09/15,UEL,Athletic Bilbao,3-1,Augsburg
+20/09/15,BUN,Augsburg,2-0,Hannover 96
+23/09/15,BUN,Borussia M'gladbach,4-2,Augsburg
+26/09/15,BUN,Augsburg,1-3,Hoffenheim
+01/10/15,UEL,Augsburg,1-3,Partizan
+04/10/15,BUN,Bayer Leverkusen,1-1,Augsburg
+17/10/15,BUN,Augsburg,0-2,Darmstadt
+22/10/15,UEL,AZ,0-1,Augsburg
+25/10/15,BUN,Borussia Dortmund,5-1,Augsburg
+28/10/15,DFP,Freiburg,0-3,Augsburg
+31/10/15,BUN,Augsburg,3-3,Mainz
+05/11/15,UEL,Augsburg,4-1,AZ
+08/11/15,BUN,Augsburg,1-2,Werder Bremen
+21/11/15,BUN,Stuttgart,0-4,Augsburg
+26/11/15,UEL,Augsburg,2-3,Athletic Bilbao
+29/11/15,BUN,Augsburg,0-0,Wolfsburg
+05/12/15,BUN,FC Cologne,0-1,Augsburg
+10/12/15,UEL,Partizan,1-3,Augsburg
+13/12/15,BUN,Augsburg,2-1,Schalke 04
+16/12/15,DFP,Augsburg,0-2,Borussia Dortmund
+19/12/15,BUN,Hamburg,0-1,Augsburg
+12/01/16,CLF,Augsburg,1-0,Dynamo Dresden
+16/01/16,CLF,Basel,0-2,Augsburg
+23/01/16,BUN,Hertha Berlin,0-0,Augsburg
+30/01/16,BUN,Augsburg,0-0,Eintracht Frankfurt
+06/02/16,BUN,Ingolstadt,2-1,Augsburg
+14/02/16,BUN,Augsburg,1-3,Bayern Munich
+18/02/16,UEL,Augsburg,0-0,Liverpool
+21/02/16,BUN,Hannover 96,0-1,Augsburg
+25/02/16,UEL,Liverpool,1-0,Augsburg
+28/02/16,BUN,Augsburg,2-2,Borussia M'gladbach
+02/03/16,BUN,Hoffenheim,2-1,Augsburg
+05/03/16,BUN,Augsburg,3-3,Bayer Leverkusen
+12/03/16,BUN,Darmstadt,2-2,Augsburg
+20/03/16,BUN,Augsburg,1-3,Borussia Dortmund
+02/04/16,BUN,Mainz,4-2,Augsburg
+09/04/16,BUN,Werder Bremen,1-2,Augsburg
+16/04/16,BUN,Augsburg,1-0,Stuttgart
+23/04/16,BUN,Wolfsburg,0-2,Augsburg
+29/04/16,BUN,Augsburg,0-0,FC Cologne
+07/05/16,BUN,Schalke 04,1-1,Augsburg
+14/05/16,BUN,Augsburg,1-3,Hamburg
+18/07/16,CLF,Sandhausen,2-0,Augsburg
+29/07/16,CLF,Nürnberg,2-1,Augsburg
+19/08/16,DFP,Ravensburg,0-2,Augsburg
+27/08/16,BUN,Augsburg,0-2,Wolfsburg
+11/09/16,BUN,Werder Bremen,1-2,Augsburg
+18/09/16,BUN,Augsburg,1-3,Mainz
+21/09/16,BUN,Bayer Leverkusen,0-0,Augsburg
+03/05/14,BUN,Eintracht Braunschweig,0-1,Augsburg
+10/05/14,BUN,Augsburg,2-1,Eintracht Frankfurt
+06/07/14,CLF,Augsburg,3-0,Memmingen
+12/07/14,CLF,Augsburg,2-4,Sandhausen
+13/07/14,CLF,Augsburg,8-1,Raisting
+25/07/14,CLF,Augsburg,2-1,Rennes
+17/08/14,DFP,Magdeburg,1-0,Augsburg
+23/08/14,BUN,Hoffenheim,2-0,Augsburg
+29/08/14,BUN,Augsburg,2-3,Borussia Dortmund
+14/09/14,BUN,Eintracht Frankfurt,0-1,Augsburg
+20/09/14,BUN,Augsburg,4-2,Werder Bremen
+24/09/14,BUN,Bayer Leverkusen,1-0,Augsburg
+28/09/14,BUN,Augsburg,1-0,Hertha Berlin
+05/10/14,BUN,Wolfsburg,1-0,Augsburg
+18/10/14,BUN,Mainz,2-1,Augsburg
+25/10/14,BUN,Augsburg,2-0,Freiburg
+31/10/14,BUN,Schalke 04,1-0,Augsburg
+08/11/14,BUN,Augsburg,3-0,Paderborn
+23/11/14,BUN,Stuttgart,0-1,Augsburg
+29/11/14,BUN,Augsburg,3-1,Hamburg
+06/12/14,BUN,FC Cologne,1-2,Augsburg
+13/12/14,BUN,Augsburg,0-4,Bayern Munich
+16/12/14,BUN,Hannover 96,2-0,Augsburg
+20/12/14,BUN,Augsburg,2-1,Borussia M'gladbach
+18/01/15,CLF,Augsburg,1-2,Kaiserslautern
+25/01/15,CLF,Greuther Fürth,1-2,Augsburg
+01/02/15,BUN,Augsburg,3-1,Hoffenheim
+04/02/15,BUN,Borussia Dortmund,0-1,Augsburg
+08/02/15,BUN,Augsburg,2-2,Eintracht Frankfurt
+14/02/15,BUN,Werder Bremen,3-2,Augsburg
+21/02/15,BUN,Augsburg,2-2,Bayer Leverkusen
+28/02/15,BUN,Hertha Berlin,1-0,Augsburg
+07/03/15,BUN,Augsburg,1-0,Wolfsburg
+14/03/15,BUN,Augsburg,0-2,Mainz
+21/03/15,BUN,Freiburg,2-0,Augsburg
+05/04/15,BUN,Augsburg,0-0,Schalke 04
+11/04/15,BUN,Paderborn,2-1,Augsburg
+18/04/15,BUN,Augsburg,2-1,Stuttgart
+25/04/15,BUN,Hamburg,3-2,Augsburg
+02/05/15,BUN,Augsburg,0-0,FC Cologne
+09/05/15,BUN,Bayern Munich,0-1,Augsburg
+16/05/15,BUN,Augsburg,1-2,Hannover 96
+23/05/15,BUN,Borussia M'gladbach,1-3,Augsburg
+10/07/15,CLF,Jahn Regensburg,1-3,Augsburg
+25/07/15,CLF,Augsburg,1-2,Norwich City
+01/08/15,CLF,Augsburg,5-0,Toulouse
+07/08/15,DFP,Elversberg,E1-3E,Augsburg
+15/08/15,BUN,Augsburg,0-1,Hertha Berlin
+22/08/15,BUN,Eintracht Frankfurt,1-1,Augsburg
+29/08/15,BUN,Augsburg,0-1,Ingolstadt
+30/03/13,BUN,Augsburg,0-2,Hannover 96
+06/04/13,BUN,Borussia Dortmund,4-2,Augsburg
+14/04/13,BUN,Augsburg,2-0,Eintracht Frankfurt
+19/04/13,BUN,Borussia M'gladbach,1-0,Augsburg
+27/04/13,BUN,Augsburg,3-0,Stuttgart
+05/05/13,BUN,Freiburg,2-0,Augsburg
+11/05/13,BUN,Bayern Munich,3-0,Augsburg
+18/05/13,BUN,Augsburg,3-1,Greuther Fürth
+05/07/13,CLF,Jahn Regensburg,0-2,Augsburg
+10/07/13,CLF,Heidenheim,1-1,Augsburg
+13/07/13,CLF,Greuther Fürth,2-1,Augsburg
+20/07/13,CLF,Augsburg,1-0,Monaco
+27/07/13,CLF,Augsburg,0-1,Malaga
+02/08/13,DFP,RB Leipzig,0-2,Augsburg
+10/08/13,BUN,Augsburg,0-4,Borussia Dortmund
+17/08/13,BUN,Werder Bremen,1-0,Augsburg
+25/08/13,BUN,Augsburg,2-1,Stuttgart
+31/08/13,BUN,Nürnberg,0-1,Augsburg
+14/09/13,BUN,Augsburg,2-1,Freiburg
+21/09/13,BUN,Hannover 96,2-1,Augsburg
+24/09/13,DFP,Preußen Münster,0-3,Augsburg
+27/09/13,BUN,Augsburg,2-2,Borussia M'gladbach
+05/10/13,BUN,Schalke 04,4-1,Augsburg
+20/10/13,BUN,Augsburg,1-2,Wolfsburg
+26/10/13,BUN,Bayer Leverkusen,2-1,Augsburg
+03/11/13,BUN,Augsburg,2-1,Mainz
+09/11/13,BUN,Bayern Munich,3-0,Augsburg
+23/11/13,BUN,Augsburg,2-0,Hoffenheim
+30/11/13,BUN,Hertha Berlin,0-0,Augsburg
+04/12/13,DFP,Augsburg,0-2,Bayern Munich
+07/12/13,BUN,Hamburg,0-1,Augsburg
+14/12/13,BUN,Augsburg,4-1,Eintracht Braunschweig
+20/12/13,BUN,Eintracht Frankfurt,1-1,Augsburg
+08/01/14,CLF,Shanghai Port,1-3,Augsburg
+18/01/14,CLF,Greuther Fürth,0-2,Augsburg
+25/01/14,BUN,Borussia Dortmund,2-2,Augsburg
+01/02/14,BUN,Augsburg,3-1,Werder Bremen
+09/02/14,BUN,Stuttgart,1-4,Augsburg
+16/02/14,BUN,Augsburg,0-1,Nürnberg
+22/02/14,BUN,Freiburg,2-4,Augsburg
+01/03/14,BUN,Augsburg,1-1,Hannover 96
+08/03/14,BUN,Borussia M'gladbach,1-2,Augsburg
+14/03/14,BUN,Augsburg,1-2,Schalke 04
+22/03/14,BUN,Wolfsburg,1-1,Augsburg
+26/03/14,BUN,Augsburg,1-3,Bayer Leverkusen
+29/03/14,BUN,Mainz,3-0,Augsburg
+05/04/14,BUN,Augsburg,1-0,Bayern Munich
+13/04/14,BUN,Hoffenheim,2-0,Augsburg
+19/04/14,BUN,Augsburg,0-0,Hertha Berlin
+27/04/14,BUN,Augsburg,3-1,Hamburg

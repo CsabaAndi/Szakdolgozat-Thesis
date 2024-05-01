@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+13/08/23,FDA,Cercle Brugge,0-1,Genk
+17/08/23,UEL,Genk,1-1,Olympiakos
+20/08/23,FDA,Genk,0-0,Sporting Charleroi
+24/08/23,UEC,Genk,2-1,Adana Demirspor
+31/08/23,UEC,Adana Demirspor,P1-0P,Genk
+03/09/23,FDA,Genk,1-1,Anderlecht
+16/09/23,FDA,Union Saint-Gilloise,0-2,Genk
+21/09/23,UEC,Genk,2-2,Fiorentina
+24/09/23,FDA,Genk,3-3,Sint-Truiden
+28/09/23,FDA,Club Brugge,1-1,Genk
+01/10/23,FDA,Genk,3-3,Westerlo
+05/10/23,UEC,Cukaricki,0-2,Genk
+08/10/23,FDA,Gent,1-1,Genk
+22/10/23,FDA,Genk,4-0,Mechelen
+26/10/23,UEC,Genk,0-0,Ferencváros
+29/10/23,FDA,Kortrijk,0-3,Genk
+01/11/23,CUP,URSL Visé,0-4,Genk
+04/11/23,FDA,Antwerp,3-2,Genk
+09/11/23,UEC,Ferencváros,1-1,Genk
+12/11/23,FDA,Genk,3-1,OH Leuven
+25/11/23,FDA,Standard Liège,1-0,Genk
+30/11/23,UEC,Fiorentina,2-1,Genk
+03/12/23,FDA,Genk,2-2,Gent
+06/12/23,CUP,KV Oostende,E3-1E,Genk
+10/12/23,FDA,AS Eupen,1-3,Genk
+14/12/23,UEC,Genk,2-0,Cukaricki
+17/12/23,FDA,Genk,4-0,Kortrijk
+23/12/23,FDA,Anderlecht,2-1,Genk
+26/12/23,FDA,Genk,3-0,Antwerp
+09/01/24,CLF,Lugano,0-4,Genk
+20/01/24,FDA,Genk,1-1,Cercle Brugge
+28/01/24,FDA,Sint-Truiden,1-1,Genk
+31/01/24,FDA,OH Leuven,2-1,Genk
+03/02/24,FDA,Genk,0-1,Union Saint-Gilloise
+11/02/24,FDA,Mechelen,1-1,Genk
+17/02/24,FDA,Genk,3-1,RWDM
+23/02/24,FDA,Sporting Charleroi,0-1,Genk
+03/03/24,FDA,Genk,0-3,Club Brugge
+10/03/24,FDA,Genk,1-0,Standard Liège
+17/03/24,FDA,Westerlo,1-1,Genk
+01/04/24,FDA,Genk,1-0,Union Saint-Gilloise
+06/04/24,FDA,Antwerp,0-1,Genk
+13/04/24,FDA,Genk,1-1,Cercle Brugge
+20/04/24,FDA,Genk,2-1,Anderlecht
+24/04/24,FDA,Club Brugge,4-0,Genk
+28/04/24,FDA,Genk,0-3,Club Brugge
+04/05/24,FDA,Cercle Brugge,20:45,Genk
+11/05/24,FDA,Anderlecht,20:45,Genk
+20/05/24,FDA,Genk,18:30,Antwerp
+26/05/24,FDA,Union Saint-Gilloise,18:30,Genk
+20/08/22,FDA,Genk,2-1,Cercle Brugge
+27/08/22,FDA,RFC Seraing,0-4,Genk
+03/09/22,FDA,Genk,0-0,Sint-Truiden
+11/09/22,FDA,Union Saint-Gilloise,1-2,Genk
+18/09/22,FDA,Genk,1-0,Gent
+01/10/22,FDA,KV Oostende,1-2,Genk
+08/10/22,FDA,Genk,2-1,Kortrijk
+15/10/22,FDA,OH Leuven,0-1,Genk
+18/10/22,FDA,Genk,6-1,Westerlo
+23/10/22,FDA,Antwerp,1-3,Genk
+28/10/22,FDA,Genk,3-1,Mechelen
+04/11/22,FDA,Genk,4-1,Sporting Charleroi
+09/11/22,CUP,Westerlo,0-1,Genk
+13/11/22,FDA,Anderlecht,0-2,Genk
+06/12/22,CLF,Genk,3-1,Heerenveen
+13/12/22,CLF,Genk,1-0,Metz
+21/12/22,CUP,Genk,E1-0E,Anderlecht
+26/12/22,FDA,Kortrijk,1-0,Genk
+08/01/23,FDA,Genk,3-1,Club Brugge
+11/01/23,CUP,Genk,0-3,Antwerp
+14/01/23,FDA,Genk,1-0,Zulte Waregem
+17/01/23,FDA,Westerlo,2-3,Genk
+29/01/23,FDA,Genk,4-0,RFC Seraing
+01/02/23,FDA,AS Eupen,1-1,Genk
+05/02/23,FDA,Gent,2-3,Genk
+12/02/23,FDA,Genk,0-1,Antwerp
+17/02/23,FDA,Mechelen,2-2,Genk
+25/02/23,FDA,Genk,3-0,KV Oostende
+05/03/23,FDA,Sint-Truiden,2-2,Genk
+12/03/23,FDA,Genk,1-2,Union Saint-Gilloise
+17/03/23,FDA,Cercle Brugge,1-1,Genk
+02/04/23,FDA,Genk,2-1,OH Leuven
+09/04/23,FDA,Standard Liège,2-0,Genk
+16/04/23,FDA,Genk,5-2,Anderlecht
+23/04/23,FDA,Sporting Charleroi,2-2,Genk
+30/04/23,FDA,Genk,3-1,Club Brugge
+07/05/23,FDA,Antwerp,2-1,Genk
+14/05/23,FDA,Union Saint-Gilloise,3-0,Genk
+21/05/23,FDA,Genk,1-1,Union Saint-Gilloise
+28/05/23,FDA,Club Brugge,1-3,Genk
+04/06/23,FDA,Genk,2-2,Antwerp
+01/07/23,CLF,Genk,3-0,Tienen
+12/07/23,CLF,PAOK,3-2,Genk
+19/07/23,CLF,Sporting Lisbon,1-1,Genk
+22/07/23,CLF,Genk,2-0,Burnley
+25/07/23,UCL,Servette,1-1,Genk
+29/07/23,FDA,RWDM,0-4,Genk
+02/08/23,UCL,Genk,P2-2P,Servette
+05/08/23,FDA,Genk,0-1,AS Eupen
+10/08/23,UEL,Olympiakos,1-0,Genk
+03/10/21,FDA,AS Eupen,3-2,Genk
+17/10/21,FDA,Sporting Charleroi,2-0,Genk
+21/10/21,UEL,West Ham United,3-0,Genk
+24/10/21,FDA,Genk,0-3,Gent
+27/10/21,CUP,Sint-Eloois-Winkel,0-6,Genk
+31/10/21,FDA,Zulte Waregem,2-6,Genk
+04/11/21,UEL,Genk,2-2,West Ham United
+07/11/21,FDA,Genk,1-1,Cercle Brugge
+11/11/21,CLF,OH Leuven,0-2,Genk
+21/11/21,FDA,Beerschot,2-0,Genk
+25/11/21,UEL,Dinamo Zagreb,1-1,Genk
+28/11/21,FDA,Genk,2-3,Club Brugge
+01/12/21,CUP,Genk,P3-3P,Club Brugge
+05/12/21,FDA,Mechelen,1-1,Genk
+09/12/21,UEL,Genk,0-1,Rapid Vienna
+12/12/21,FDA,Gent,1-0,Genk
+16/12/21,FDA,Genk,4-2,Sporting Charleroi
+19/12/21,FDA,Genk,1-1,Antwerp
+26/12/21,FDA,KV Oostende,0-4,Genk
+08/01/22,CLF,Genk,CANC,Lierse K
+08/01/22,CLF,St. Pauli,CANC,Genk
+16/01/22,FDA,Genk,4-1,Beerschot
+23/01/22,FDA,Union Saint-Gilloise,2-1,Genk
+06/02/22,FDA,Genk,2-0,Zulte Waregem
+09/02/22,FDA,OH Leuven,2-1,Genk
+13/02/22,FDA,Genk,2-0,Standard Liège
+16/02/22,FDA,Genk,4-1,Mechelen
+20/02/22,FDA,Anderlecht,2-0,Genk
+27/02/22,FDA,Genk,2-0,Kortrijk
+05/03/22,FDA,Cercle Brugge,2-2,Genk
+13/03/22,FDA,Genk,0-1,Sint-Truiden
+20/03/22,FDA,Club Brugge,3-1,Genk
+03/04/22,FDA,Genk,5-0,AS Eupen
+10/04/22,FDA,RFC Seraing,0-2,Genk
+24/04/22,FDA,Gent,0-1,Genk
+29/04/22,FDA,Genk,4-2,Mechelen
+06/05/22,FDA,Sporting Charleroi,2-2,Genk
+10/05/22,FDA,Genk,3-2,Sporting Charleroi
+15/05/22,FDA,Genk,0-2,Gent
+21/05/22,FDA,Mechelen,0-0,Genk
+25/06/22,CLF,Eendracht Termien,0-4,Genk
+02/07/22,CLF,Heist,1-8,Genk
+06/07/22,CLF,Utrecht,1-2,Genk
+09/07/22,CLF,Volendam,3-2,Genk
+16/07/22,CLF,Genk,0-2,AEK Athens
+17/07/22,CLF,Genk,4-0,RFC Seraing
+24/07/22,FDA,Club Brugge,3-2,Genk
+31/07/22,FDA,Genk,3-1,Standard Liège
+06/08/22,FDA,Genk,4-2,AS Eupen
+14/08/22,FDA,Zulte Waregem,1-4,Genk
+06/01/21,FDA,AS Eupen,1-4,Genk
+09/01/21,FDA,Kortrijk,2-1,Genk
+13/01/21,CLF,Union Saint-Gilloise,4-4,Genk
+16/01/21,FDA,Excel Mouscron,2-0,Genk
+21/01/21,FDA,Genk,1-1,Gent
+24/01/21,FDA,Club Brugge,3-2,Genk
+27/01/21,FDA,Genk,3-2,Zulte Waregem
+30/01/21,FDA,Mechelen,0-0,Genk
+02/02/21,CUP,Thes Sport,0-5,Genk
+07/02/21,FDA,Genk,1-2,Anderlecht
+10/02/21,CUP,Genk,1-0,Sint-Truiden
+17/02/21,FDA,KV Oostende,3-1,Genk
+21/02/21,FDA,Genk,1-2,Beerschot
+26/02/21,FDA,Sporting Charleroi,1-2,Genk
+04/03/21,CUP,Genk,4-1,Mechelen
+07/03/21,FDA,Genk,2-0,Cercle Brugge
+14/03/21,CUP,Anderlecht,1-2,Genk
+19/03/21,FDA,Genk,2-2,Standard Liège
+05/04/21,FDA,OH Leuven,2-3,Genk
+11/04/21,FDA,Genk,4-0,Sint-Truiden
+17/04/21,FDA,Antwerp,3-2,Genk
+25/04/21,CUP,Standard Liège,1-2,Genk
+30/04/21,FDA,Antwerp,2-3,Genk
+07/05/21,FDA,Genk,3-0,Club Brugge
+12/05/21,FDA,Genk,1-1,Anderlecht
+15/05/21,FDA,Anderlecht,1-2,Genk
+20/05/21,FDA,Genk,4-0,Antwerp
+23/05/21,FDA,Club Brugge,1-2,Genk
+03/07/21,CLF,Eendracht Termien,1-8,Genk
+07/07/21,CLF,Genk,2-0,AS Eupen
+10/07/21,CLF,Genk,1-1,Groningen
+14/07/21,CLF,Genk,1-1,AZ
+17/07/21,SUC,Club Brugge,3-2,Genk
+19/07/21,CLF,Genk,5-2,MVV
+23/07/21,FDA,Standard Liège,1-1,Genk
+27/07/21,CLF,Genk,1-3,RWDM
+30/07/21,CLF,Genk,CANC,Liège
+30/07/21,FDA,Genk,3-4,KV Oostende
+31/07/21,CLF,Genk,CANC,SK Beveren
+03/08/21,UCL,Genk,1-2,Shakhtar Donetsk
+07/08/21,FDA,Kortrijk,1-2,Genk
+10/08/21,UCL,Shakhtar Donetsk,2-1,Genk
+14/08/21,FDA,Genk,4-0,OH Leuven
+29/08/21,FDA,Genk,1-0,Anderlecht
+12/09/21,FDA,Genk,1-1,Union Saint-Gilloise
+16/09/21,UEL,Rapid Vienna,0-1,Genk
+19/09/21,FDA,Sint-Truiden,1-2,Genk
+22/09/21,FDA,Antwerp,4-2,Genk
+26/09/21,FDA,Genk,3-0,RFC Seraing
+30/09/21,UEL,Genk,0-3,Dinamo Zagreb
+05/11/19,UCL,Liverpool,2-1,Genk
+10/11/19,FDA,Genk,0-2,Gent
+23/11/19,FDA,Excel Mouscron,2-2,Genk
+27/11/19,UCL,Genk,1-4,Salzburg
+30/11/19,FDA,Genk,1-2,Sint-Truiden
+03/12/19,CUP,Antwerp,P3-3P,Genk
+07/12/19,FDA,Cercle Brugge,1-2,Genk
+10/12/19,UCL,Napoli,4-0,Genk
+14/12/19,FDA,Genk,4-1,SK Beveren
+22/12/19,FDA,Anderlecht,2-0,Genk
+26/12/19,FDA,Genk,2-1,AS Eupen
+10/01/20,CLF,FC Cologne,1-1,Genk
+10/01/20,CLF,Ferencváros,1-2,Genk
+19/01/20,FDA,Zulte Waregem,0-3,Genk
+25/01/20,FDA,Gent,4-1,Genk
+01/02/20,FDA,Genk,1-0,Sporting Charleroi
+13/02/20,FDA,Antwerp,1-1,Genk
+16/02/20,FDA,Genk,1-3,Standard Liège
+21/02/20,FDA,Kortrijk,0-1,Genk
+01/03/20,FDA,Genk,1-2,Club Brugge
+07/03/20,FDA,KV Oostende,2-4,Genk
+15/03/20,FDA,Genk,CANC,Mechelen
+09/07/20,CLF,Eendracht Termien,CANC,Genk
+15/07/20,CLF,Genk,3-1,Union Saint-Gilloise
+17/07/20,CLF,Genk,4-1,Excelsior
+25/07/20,CLF,AZ,0-1,Genk
+01/08/20,CLF,Genk,2-3,Lens
+01/08/20,CLF,Genk,2-3,Lens
+09/08/20,FDA,Zulte Waregem,1-2,Genk
+10/08/20,CLF,Genk,3-2,RWDM
+15/08/20,FDA,Genk,1-1,OH Leuven
+16/08/20,CLF,Genk,9-0,Differdange 03
+23/08/20,FDA,Standard Liège,0-0,Genk
+24/08/20,CLF,Genk,2-2,Westerlo
+30/08/20,FDA,Genk,1-2,Club Brugge
+04/09/20,CLF,Genk,CANC,Willem II
+14/09/20,FDA,Beerschot,5-2,Genk
+20/09/20,FDA,Genk,3-1,Mechelen
+28/09/20,FDA,Genk,2-2,KV Oostende
+03/10/20,FDA,SK Beveren,1-1,Genk
+18/10/20,FDA,Genk,2-1,Sporting Charleroi
+26/10/20,FDA,Gent,1-2,Genk
+30/10/20,FDA,Genk,4-0,AS Eupen
+07/11/20,FDA,Sint-Truiden,1-2,Genk
+22/11/20,FDA,Genk,4-1,Excel Mouscron
+28/11/20,FDA,Cercle Brugge,1-5,Genk
+06/12/20,FDA,Genk,4-2,Antwerp
+11/12/20,FDA,Anderlecht,1-0,Genk
+19/12/20,FDA,Genk,2-0,Kortrijk
+27/12/20,FDA,Genk,1-1,SK Beveren
+19/12/18,CUP,Union Saint-Gilloise,P2-2P,Genk
+23/12/18,FDA,AS Eupen,0-2,Genk
+26/12/18,FDA,Genk,3-1,Gent
+10/01/19,CLF,Fortuna Sittard,0-1,Genk
+11/01/19,CLF,Schalke 04,2-2,Genk
+18/01/19,FDA,Sint-Truiden,2-3,Genk
+26/01/19,FDA,Genk,1-2,Excel Mouscron
+02/02/19,FDA,SK Beveren,1-2,Genk
+08/02/19,FDA,Genk,2-0,Standard Liège
+14/02/19,UEL,Slavia Prague,0-0,Genk
+17/02/19,FDA,Club Brugge,3-1,Genk
+21/02/19,UEL,Genk,1-4,Slavia Prague
+24/02/19,FDA,Genk,0-0,Antwerp
+02/03/19,FDA,Sporting Charleroi,1-1,Genk
+10/03/19,FDA,Genk,1-0,Lokeren
+17/03/19,FDA,Zulte Waregem,3-3,Genk
+30/03/19,FDA,Genk,3-0,Anderlecht
+02/04/19,FDA,Antwerp,1-0,Genk
+06/04/19,FDA,Genk,2-1,Gent
+14/04/19,FDA,Genk,3-1,Club Brugge
+19/04/19,FDA,Standard Liège,1-3,Genk
+27/04/19,FDA,Gent,0-1,Genk
+03/05/19,FDA,Genk,4-0,Antwerp
+12/05/19,FDA,Club Brugge,3-2,Genk
+16/05/19,FDA,Anderlecht,1-1,Genk
+19/05/19,FDA,Genk,0-0,Standard Liège
+29/06/19,CLF,Eendracht Termien,2-5,Genk
+06/07/19,CLF,Beringen,0-12,Genk
+11/07/19,CLF,Genk,4-1,Maccabi Tel Aviv
+14/07/19,CLF,Genk,3-0,Lokomotiva Zagreb
+20/07/19,SUC,Genk,3-0,Mechelen
+21/07/19,CLF,Westerlo,2-1,Genk
+26/07/19,FDA,Genk,2-1,Kortrijk
+03/08/19,FDA,Mechelen,3-1,Genk
+10/08/19,FDA,Genk,0-2,Zulte Waregem
+17/08/19,FDA,SK Beveren,0-4,Genk
+23/08/19,FDA,Genk,1-0,Anderlecht
+01/09/19,FDA,Club Brugge,1-1,Genk
+13/09/19,FDA,Sporting Charleroi,2-1,Genk
+17/09/19,UCL,Salzburg,6-2,Genk
+21/09/19,FDA,Genk,3-1,KV Oostende
+24/09/19,CUP,Ronse,0-3,Genk
+28/09/19,FDA,Sint-Truiden,3-3,Genk
+02/10/19,UCL,Genk,0-0,Napoli
+06/10/19,FDA,Genk,2-1,Excel Mouscron
+19/10/19,FDA,Standard Liège,1-0,Genk
+23/10/19,UCL,Genk,1-4,Liverpool
+26/10/19,FDA,Genk,1-0,Cercle Brugge
+30/10/19,FDA,Genk,2-2,Antwerp
+02/11/19,FDA,AS Eupen,2-0,Genk
+07/04/18,FDA,Genk,1-0,Standard Liège
+13/04/18,FDA,Sporting Charleroi,2-2,Genk
+17/04/18,FDA,Gent,0-0,Genk
+21/04/18,FDA,Genk,2-1,Anderlecht
+27/04/18,FDA,Genk,1-1,Club Brugge
+06/05/18,FDA,Standard Liège,5-0,Genk
+10/05/18,FDA,Genk,1-1,Gent
+13/05/18,FDA,Genk,4-1,Sporting Charleroi
+20/05/18,FDA,Anderlecht,1-2,Genk
+27/05/18,UEL,Genk,2-0,Zulte Waregem
+27/06/18,CLF,Bregel Sport,0-10,Genk
+30/06/18,CLF,Thes Sport,0-5,Genk
+08/07/18,CLF,Genk,4-1,Valenciennes
+14/07/18,CLF,Genk,5-2,Excel Mouscron
+15/07/18,CLF,Genk,6-1,Belisia Bilzen
+21/07/18,CLF,Genk,4-0,Olympiakos
+22/07/18,CLF,Heist,1-3,Genk
+26/07/18,UEL,Genk,5-0,Fola Esch
+29/07/18,FDA,Lokeren,0-4,Genk
+01/08/18,UEL,Fola Esch,1-4,Genk
+05/08/18,FDA,Genk,1-1,Sint-Truiden
+09/08/18,UEL,Genk,2-0,Lech Poznań
+12/08/18,FDA,KV Oostende,0-2,Genk
+16/08/18,UEL,Lech Poznań,1-2,Genk
+19/08/18,FDA,Genk,3-1,Sporting Charleroi
+23/08/18,UEL,Genk,5-2,Brøndby
+26/08/18,FDA,Genk,3-2,SK Beveren
+30/08/18,UEL,Brøndby,2-4,Genk
+02/09/18,FDA,Kortrijk,3-3,Genk
+15/09/18,FDA,Genk,1-0,Anderlecht
+20/09/18,UEL,Genk,2-0,Malmö
+23/09/18,FDA,Cercle Brugge,2-5,Genk
+26/09/18,CUP,Genk,4-0,Lommel
+29/09/18,FDA,Genk,4-0,Zulte Waregem
+04/10/18,UEL,Sarpsborg 08,3-1,Genk
+07/10/18,FDA,Gent,1-5,Genk
+20/10/18,FDA,Genk,2-1,AS Eupen
+25/10/18,UEL,Besiktas,2-4,Genk
+28/10/18,FDA,Standard Liège,1-1,Genk
+31/10/18,FDA,Antwerp,2-4,Genk
+03/11/18,FDA,Genk,1-1,Club Brugge
+08/11/18,UEL,Genk,1-1,Besiktas
+11/11/18,FDA,Excel Mouscron,0-0,Genk
+24/11/18,FDA,Genk,1-2,Cercle Brugge
+29/11/18,UEL,Malmö,2-2,Genk
+02/12/18,FDA,Anderlecht,0-1,Genk
+05/12/18,CUP,Sporting Charleroi,1-3,Genk
+08/12/18,FDA,Genk,1-1,Kortrijk
+13/12/18,UEL,Genk,4-0,Sarpsborg 08
+16/12/18,FDA,Genk,2-0,KV Oostende
+14/05/17,UEL,Excel Mouscron,0-2,Genk
+17/05/17,UEL,Genk,3-1,KSV Roeselare
+20/05/17,UEL,Lokeren,1-1,Genk
+27/05/17,UEL,Genk,3-0,Sint-Truiden
+31/05/17,UEL,KV Oostende,3-1,Genk
+01/07/17,CLF,Eendracht Termien,1-2,Genk
+05/07/17,CLF,Sint-Truiden,CANC,Genk
+08/07/17,CLF,Genk,2-0,Lierse
+15/07/17,CLF,Ajax,3-3,Genk
+19/07/17,CLF,Bocholt,2-7,Genk
+22/07/17,CLF,Genk,1-1,Everton
+29/07/17,FDA,Genk,3-3,SK Beveren
+04/08/17,FDA,Standard Liège,2-1,Genk
+13/08/17,FDA,Antwerp,3-5,Genk
+19/08/17,FDA,Genk,0-1,Sporting Charleroi
+26/08/17,FDA,Genk,1-0,Mechelen
+10/09/17,FDA,Gent,1-1,Genk
+16/09/17,FDA,Sint-Truiden,2-1,Genk
+20/09/17,CUP,Cercle Brugge,0-1,Genk
+23/09/17,FDA,Genk,1-1,KV Oostende
+30/09/17,FDA,AS Eupen,3-3,Genk
+14/10/17,FDA,Genk,1-1,Excel Mouscron
+22/10/17,FDA,Anderlecht,0-1,Genk
+25/10/17,FDA,Genk,2-0,Club Brugge
+28/10/17,FDA,Kortrijk,0-0,Genk
+04/11/17,FDA,Genk,0-0,Lokeren
+19/11/17,FDA,Zulte Waregem,0-1,Genk
+26/11/17,FDA,Genk,0-2,Standard Liège
+29/11/17,CUP,Mechelen,P1-1P,Genk
+02/12/17,FDA,Mechelen,3-2,Genk
+09/12/17,FDA,Genk,1-1,AS Eupen
+13/12/17,CUP,Genk,P3-3P,SK Beveren
+17/12/17,FDA,Sporting Charleroi,1-1,Genk
+23/12/17,FDA,Genk,2-3,Kortrijk
+07/01/18,CLF,Schalke 04,2-1,Genk
+11/01/18,CLF,Arminia Bielefeld,2-0,Genk
+16/01/18,FDA,KV Oostende,1-2,Genk
+21/01/18,FDA,Genk,0-1,Anderlecht
+24/01/18,FDA,Lokeren,1-2,Genk
+27/01/18,FDA,Genk,1-1,Sint-Truiden
+30/01/18,CUP,Kortrijk,3-2,Genk
+03/02/18,FDA,Excel Mouscron,0-1,Genk
+06/02/18,CUP,Genk,1-0,Kortrijk
+09/02/18,FDA,Genk,3-1,Zulte Waregem
+17/02/18,FDA,Club Brugge,2-2,Genk
+23/02/18,FDA,Genk,4-0,Antwerp
+03/03/18,FDA,SK Beveren,0-1,Genk
+11/03/18,FDA,Genk,1-2,Gent
+17/03/18,CUP,Genk,E0-1E,Standard Liège
+02/04/18,FDA,Club Brugge,1-0,Genk
+11/09/16,FDA,Standard Liège,2-0,Genk
+15/09/16,UEL,Rapid Vienna,3-2,Genk
+18/09/16,FDA,Genk,0-2,Anderlecht
+21/09/16,CUP,Eendracht Aalst,0-4,Genk
+25/09/16,FDA,Kortrijk,4-1,Genk
+29/09/16,UEL,Genk,3-1,Sassuolo
+02/10/16,FDA,Genk,2-1,Mechelen
+15/10/16,FDA,Excel Mouscron,2-2,Genk
+20/10/16,UEL,Genk,2-0,Athletic Bilbao
+23/10/16,FDA,Genk,1-0,Sint-Truiden
+26/10/16,FDA,Sporting Charleroi,2-1,Genk
+29/10/16,FDA,Genk,2-1,Westerlo
+03/11/16,UEL,Athletic Bilbao,5-3,Genk
+06/11/16,FDA,Club Brugge,1-1,Genk
+19/11/16,FDA,Genk,2-0,AS Eupen
+24/11/16,UEL,Genk,1-0,Rapid Vienna
+27/11/16,FDA,KV Oostende,6-0,Genk
+30/11/16,CUP,SK Beveren,1-3,Genk
+04/12/16,FDA,Genk,1-2,Lokeren
+09/12/16,UEL,Sassuolo,0-2,Genk
+14/12/16,CUP,Sporting Charleroi,E1-3E,Genk
+18/12/16,FDA,Genk,2-2,Standard Liège
+21/12/16,FDA,Zulte Waregem,1-0,Genk
+27/12/16,FDA,Genk,2-0,Gent
+11/01/17,CLF,Darmstadt,0-1,Genk
+17/01/17,CUP,KV Oostende,1-1,Genk
+21/01/17,FDA,AS Eupen,0-1,Genk
+24/01/17,FDA,Genk,3-0,Kortrijk
+28/01/17,FDA,Mechelen,1-0,Genk
+31/01/17,CUP,Genk,0-1,KV Oostende
+04/02/17,FDA,Genk,1-0,Excel Mouscron
+07/02/17,FDA,SK Beveren,0-0,Genk
+10/02/17,FDA,Sint-Truiden,0-3,Genk
+16/02/17,UEL,Astra,2-2,Genk
+19/02/17,FDA,Genk,1-1,Sporting Charleroi
+23/02/17,UEL,Genk,1-0,Astra
+26/02/17,FDA,Anderlecht,2-0,Genk
+04/03/17,FDA,Genk,2-1,Club Brugge
+09/03/17,UEL,Gent,2-5,Genk
+12/03/17,FDA,Westerlo,0-4,Genk
+16/03/17,UEL,Genk,1-1,Gent
+01/04/17,UEL,Genk,4-0,Lokeren
+08/04/17,UEL,KSV Roeselare,0-1,Genk
+13/04/17,UEL,Celta Vigo,3-2,Genk
+16/04/17,UEL,Kortrijk,0-3,Genk
+20/04/17,UEL,Genk,1-1,Celta Vigo
+23/04/17,UEL,Genk,6-0,Excel Mouscron
+26/04/17,UEL,AS Eupen,1-1,Genk
+29/04/17,UEL,Genk,3-0,Kortrijk
+07/05/17,UEL,Genk,2-1,AS Eupen
+30/10/15,FDA,Genk,0-2,Lokeren
+08/11/15,FDA,Club Brugge,1-0,Genk
+21/11/15,FDA,OH Leuven,1-3,Genk
+28/11/15,FDA,Genk,0-1,Gent
+02/12/15,CUP,Genk,P1-1P,Sporting Charleroi
+06/12/15,FDA,Genk,0-0,Anderlecht
+11/12/15,FDA,Westerlo,0-0,Genk
+16/12/15,CUP,Genk,2-1,Excel Mouscron
+19/12/15,FDA,Genk,3-0,Sint-Truiden
+26/12/15,FDA,Sporting Charleroi,1-0,Genk
+15/01/16,FDA,Genk,2-1,Zulte Waregem
+20/01/16,CUP,Standard Liège,2-0,Genk
+23/01/16,FDA,Mechelen,1-1,Genk
+30/01/16,FDA,Genk,1-0,Kortrijk
+02/02/16,CUP,Genk,1-1,Standard Liège
+06/02/16,FDA,Excel Mouscron,0-1,Genk
+13/02/16,FDA,Genk,6-1,SK Beveren
+20/02/16,FDA,Lokeren,0-0,Genk
+28/02/16,FDA,Genk,3-2,Club Brugge
+05/03/16,FDA,Standard Liège,2-1,Genk
+13/03/16,FDA,Genk,4-1,KV Oostende
+03/04/16,FDA,Anderlecht,1-0,Genk
+08/04/16,FDA,Genk,4-0,KV Oostende
+16/04/16,FDA,Zulte Waregem,1-2,Genk
+20/04/16,FDA,Genk,4-2,Club Brugge
+24/04/16,FDA,Genk,1-2,Gent
+01/05/16,FDA,Club Brugge,3-1,Genk
+06/05/16,FDA,Genk,2-0,Zulte Waregem
+14/05/16,FDA,KV Oostende,2-1,Genk
+19/05/16,FDA,Genk,5-2,Anderlecht
+22/05/16,FDA,Gent,0-0,Genk
+26/05/16,FDA,Sporting Charleroi,2-0,Genk
+29/05/16,FDA,Genk,5-1,Sporting Charleroi
+25/06/16,CLF,Eendracht Termien,1-7,Genk
+01/07/16,CLF,Bocholt,0-5,Genk
+02/07/16,CLF,Leopoldsburg,0-3,Genk
+07/07/16,CLF,Lommel,0-4,Genk
+09/07/16,CLF,Lierse,0-0,Genk
+14/07/16,UEL,Genk,2-0,Buducnost
+17/07/16,CLF,Eindhoven,2-1,Genk
+21/07/16,UEL,Buducnost,P2-0P,Genk
+28/07/16,UEL,Genk,1-0,Cork City
+31/07/16,FDA,Genk,2-1,KV Oostende
+04/08/16,UEL,Cork City,1-2,Genk
+07/08/16,FDA,Gent,1-0,Genk
+13/08/16,FDA,Genk,2-2,SK Beveren
+18/08/16,UEL,Lokomotiva Zagreb,2-2,Genk
+21/08/16,FDA,Lokeren,0-3,Genk
+25/08/16,UEL,Genk,2-0,Lokomotiva Zagreb
+28/08/16,FDA,Genk,1-0,Zulte Waregem

@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+27/05/23,PRL,Porto,3-0,Vitoria Guimaraes
+08/07/23,CLF,Vitoria Guimaraes,0-1,Middlesbrough
+09/07/23,CLF,Vitoria Guimaraes,1-2,Wolverhampton Wanderers
+12/07/23,CLF,Fafe,0-2,Vitoria Guimaraes
+15/07/23,CLF,Rio Ave,1-1,Vitoria Guimaraes
+22/07/23,CLF,Vitoria Guimaraes,P1-1P,Tondela
+23/07/23,CLF,Varzim,P2-2P,Vitoria Guimaraes
+27/07/23,UEC,Celje,3-4,Vitoria Guimaraes
+03/08/23,UEC,Vitoria Guimaraes,P0-1P,Celje
+13/08/23,PRL,Estrela,0-1,Vitoria Guimaraes
+19/08/23,PRL,Vitoria Guimaraes,2-1,Gil Vicente
+27/08/23,PRL,Vitoria Guimaraes,2-0,Vizela
+02/09/23,PRL,Benfica,4-0,Vitoria Guimaraes
+09/09/23,TDL,Vitoria Guimaraes,0-1,Tondela
+17/09/23,PRL,Vitoria Guimaraes,1-2,Portimonense
+23/09/23,PRL,Casa Pia,0-0,Vitoria Guimaraes
+01/10/23,PRL,Vitoria Guimaraes,3-2,Estoril
+08/10/23,PRL,Famalicão,1-3,Vitoria Guimaraes
+22/10/23,TDP,Moncarapachense,1-3,Vitoria Guimaraes
+28/10/23,PRL,Vitoria Guimaraes,5-0,Chaves
+05/11/23,PRL,Moreirense,1-0,Vitoria Guimaraes
+11/11/23,PRL,Vitoria Guimaraes,1-2,Porto
+25/11/23,TDP,Vitoria Guimaraes,4-1,Vilaverdense
+02/12/23,PRL,Farense,1-2,Vitoria Guimaraes
+09/12/23,PRL,Vitoria Guimaraes,3-2,Sporting Lisbon
+16/12/23,PRL,Boavista,1-1,Vitoria Guimaraes
+23/12/23,PRL,Vitoria Guimaraes,1-0,Rio Ave
+06/01/24,PRL,Sporting Braga,1-1,Vitoria Guimaraes
+11/01/24,TDP,Vitoria Guimaraes,1-0,Penafiel
+15/01/24,PRL,Vitoria Guimaraes,2-1,Arouca
+21/01/24,PRL,Vitoria Guimaraes,3-0,Estrela
+28/01/24,PRL,Gil Vicente,1-0,Vitoria Guimaraes
+04/02/24,PRL,Vizela,0-1,Vitoria Guimaraes
+08/02/24,TDP,Vitoria Guimaraes,3-1,Gil Vicente
+11/02/24,PRL,Vitoria Guimaraes,2-2,Benfica
+17/02/24,PRL,Portimonense,1-1,Vitoria Guimaraes
+24/02/24,PRL,Vitoria Guimaraes,0-2,Casa Pia
+02/03/24,PRL,Estoril,1-3,Vitoria Guimaraes
+09/03/24,PRL,Vitoria Guimaraes,1-0,Famalicão
+17/03/24,PRL,Chaves,1-2,Vitoria Guimaraes
+30/03/24,PRL,Vitoria Guimaraes,1-0,Moreirense
+03/04/24,TDP,Vitoria Guimaraes,0-1,Porto
+07/04/24,PRL,Porto,1-2,Vitoria Guimaraes
+13/04/24,PRL,Vitoria Guimaraes,1-1,Farense
+17/04/24,TDP,Porto,3-1,Vitoria Guimaraes
+21/04/24,PRL,Sporting Lisbon,3-0,Vitoria Guimaraes
+27/04/24,PRL,Vitoria Guimaraes,1-0,Boavista
+04/05/24,PRL,Rio Ave,16:30,Vitoria Guimaraes
+11/05/24,PRL,Vitoria Guimaraes,21:30,Sporting Braga
+19/05/24,PRL,Arouca,-,Vitoria Guimaraes
+24/04/22,PRL,Tondela,1-1,Vitoria Guimaraes
+01/05/22,PRL,Vitoria Guimaraes,1-1,Santa Clara
+06/05/22,PRL,Boavista,1-1,Vitoria Guimaraes
+15/05/22,PRL,Vitoria Guimaraes,5-0,Gil Vicente
+13/07/22,CLF,Vitoria Guimaraes,CANC,Moreirense
+13/07/22,CLF,Vitoria Guimaraes,1-0,Torreense
+16/07/22,CLF,Porto,2-1,Vitoria Guimaraes
+21/07/22,UEC,Vitoria Guimaraes,3-0,Puskás
+28/07/22,UEC,Puskás,0-0,Vitoria Guimaraes
+04/08/22,UEC,Hajduk Split,3-1,Vitoria Guimaraes
+07/08/22,PRL,Chaves,0-1,Vitoria Guimaraes
+10/08/22,UEC,Vitoria Guimaraes,1-0,Hajduk Split
+14/08/22,PRL,Vitoria Guimaraes,1-0,Estoril
+21/08/22,PRL,Portimonense,2-1,Vitoria Guimaraes
+29/08/22,PRL,Vitoria Guimaraes,0-1,Casa Pia
+03/09/22,PRL,Sporting Braga,1-0,Vitoria Guimaraes
+09/09/22,PRL,Vitoria Guimaraes,1-0,Santa Clara
+18/09/22,PRL,Arouca,2-2,Vitoria Guimaraes
+01/10/22,PRL,Vitoria Guimaraes,0-0,Benfica
+08/10/22,PRL,Paços Ferreira,0-1,Vitoria Guimaraes
+15/10/22,TDP,Canelas 2010,1-3,Vitoria Guimaraes
+23/10/22,PRL,Vitoria Guimaraes,3-2,Boavista
+31/10/22,PRL,Vitoria Guimaraes,3-2,Famalicão
+05/11/22,PRL,Sporting Lisbon,3-0,Vitoria Guimaraes
+09/11/22,TDP,Vitoria Guimaraes,E2-1E,Vizela
+13/11/22,PRL,Vitoria Guimaraes,1-0,Marítimo
+19/11/22,TDL,Vilafranquense,0-0,Vitoria Guimaraes
+01/12/22,TDL,Vitoria Guimaraes,2-2,Belenenses
+12/12/22,TDL,Boavista,0-0,Vitoria Guimaraes
+30/12/22,PRL,Vizela,3-0,Vitoria Guimaraes
+07/01/23,PRL,Vitoria Guimaraes,0-0,Rio Ave
+11/01/23,TDP,Sporting Braga,3-2,Vitoria Guimaraes
+16/01/23,PRL,Gil Vicente,2-1,Vitoria Guimaraes
+21/01/23,PRL,Vitoria Guimaraes,0-1,Porto
+30/01/23,PRL,Vitoria Guimaraes,2-1,Chaves
+04/02/23,PRL,Estoril,0-1,Vitoria Guimaraes
+11/02/23,PRL,Vitoria Guimaraes,1-0,Portimonense
+19/02/23,PRL,Casa Pia,0-0,Vitoria Guimaraes
+27/02/23,PRL,Vitoria Guimaraes,2-1,Sporting Braga
+05/03/23,PRL,Santa Clara,1-3,Vitoria Guimaraes
+11/03/23,PRL,Vitoria Guimaraes,0-2,Arouca
+18/03/23,PRL,Benfica,5-1,Vitoria Guimaraes
+01/04/23,PRL,Vitoria Guimaraes,0-0,Paços Ferreira
+07/04/23,PRL,Boavista,2-1,Vitoria Guimaraes
+14/04/23,PRL,Famalicão,2-1,Vitoria Guimaraes
+24/04/23,PRL,Vitoria Guimaraes,0-2,Sporting Lisbon
+29/04/23,PRL,Marítimo,1-2,Vitoria Guimaraes
+07/05/23,PRL,Vitoria Guimaraes,3-0,Vizela
+14/05/23,PRL,Rio Ave,0-1,Vitoria Guimaraes
+21/05/23,PRL,Vitoria Guimaraes,1-0,Gil Vicente
+09/04/21,PRL,Portimonense,3-0,Vitoria Guimaraes
+17/04/21,PRL,Vitoria Guimaraes,1-0,Santa Clara
+22/04/21,PRL,Porto,1-0,Vitoria Guimaraes
+26/04/21,PRL,Nacional,1-0,Vitoria Guimaraes
+30/04/21,PRL,Vitoria Guimaraes,2-0,Moreirense
+06/05/21,PRL,Farense,2-2,Vitoria Guimaraes
+12/05/21,PRL,Vitoria Guimaraes,1-2,Famalicão
+16/05/21,PRL,Marítimo,0-0,Vitoria Guimaraes
+19/05/21,PRL,Vitoria Guimaraes,1-3,Benfica
+03/07/21,CLF,Vitoria Guimaraes,2-1,Feirense
+07/07/21,CLF,Vitoria Guimaraes,2-1,Sporting CP II
+10/07/21,CLF,Vitoria Guimaraes,2-1,Mafra
+14/07/21,CLF,Vitoria Guimaraes,CANC,Boavista
+17/07/21,CLF,Vitoria Guimaraes,CANC,Gil Vicente
+26/07/21,TDL,Vitoria Guimaraes,4-1,Leixões
+01/08/21,TDL,Casa Pia,0-1,Vitoria Guimaraes
+08/08/21,PRL,Vitoria Guimaraes,0-1,Portimonense
+13/08/21,PRL,Estoril,0-0,Vitoria Guimaraes
+22/08/21,PRL,Vitoria Guimaraes,4-0,Vizela
+29/08/21,PRL,Sporting Braga,0-0,Vitoria Guimaraes
+12/09/21,PRL,Vitoria Guimaraes,0-0,Belenenses
+18/09/21,PRL,Arouca,2-2,Vitoria Guimaraes
+21/09/21,TDL,Sporting Covilhã,0-2,Vitoria Guimaraes
+25/09/21,PRL,Vitoria Guimaraes,1-3,Benfica
+01/10/21,PRL,Famalicão,1-2,Vitoria Guimaraes
+16/10/21,TDP,Oliveira Hospital,0-1,Vitoria Guimaraes
+22/10/21,PRL,Vitoria Guimaraes,2-1,Marítimo
+27/10/21,TDL,Vitoria Guimaraes,3-3,Benfica
+30/10/21,PRL,Sporting Lisbon,1-0,Vitoria Guimaraes
+06/11/21,PRL,Vitoria Guimaraes,2-1,Moreirense
+21/11/21,TDP,Moreirense,3-2,Vitoria Guimaraes
+28/11/21,PRL,Porto,2-1,Vitoria Guimaraes
+04/12/21,PRL,Paços Ferreira,1-2,Vitoria Guimaraes
+11/12/21,PRL,Vitoria Guimaraes,5-2,Tondela
+17/12/21,PRL,Santa Clara,1-0,Vitoria Guimaraes
+29/12/21,PRL,Vitoria Guimaraes,1-1,Boavista
+10/01/22,PRL,Gil Vicente,3-2,Vitoria Guimaraes
+17/01/22,PRL,Portimonense,1-1,Vitoria Guimaraes
+23/01/22,PRL,Vitoria Guimaraes,3-1,Estoril
+30/01/22,PRL,Vizela,3-2,Vitoria Guimaraes
+05/02/22,PRL,Vitoria Guimaraes,2-1,Sporting Braga
+13/02/22,PRL,Belenenses,1-0,Vitoria Guimaraes
+19/02/22,PRL,Vitoria Guimaraes,1-3,Arouca
+27/02/22,PRL,Benfica,3-0,Vitoria Guimaraes
+06/03/22,PRL,Vitoria Guimaraes,2-1,Famalicão
+13/03/22,PRL,Marítimo,0-1,Vitoria Guimaraes
+19/03/22,PRL,Vitoria Guimaraes,1-3,Sporting Lisbon
+03/04/22,PRL,Moreirense,0-1,Vitoria Guimaraes
+10/04/22,PRL,Vitoria Guimaraes,0-1,Porto
+15/04/22,PRL,Vitoria Guimaraes,4-0,Paços Ferreira
+18/01/20,PRL,Vitoria Guimaraes,1-0,Santa Clara
+22/01/20,TDL,Vitoria Guimaraes,1-2,Porto
+27/01/20,PRL,Vitoria Guimaraes,1-2,Rio Ave
+02/02/20,PRL,Boavista,2-0,Vitoria Guimaraes
+08/02/20,PRL,Famalicão,0-7,Vitoria Guimaraes
+16/02/20,PRL,Vitoria Guimaraes,1-2,Porto
+21/02/20,PRL,Desportivo Aves,0-2,Vitoria Guimaraes
+01/03/20,PRL,Vitoria Guimaraes,2-0,Tondela
+08/03/20,PRL,Paços Ferreira,1-2,Vitoria Guimaraes
+04/06/20,PRL,Vitoria Guimaraes,2-2,Sporting Lisbon
+11/06/20,PRL,Belenenses,1-1,Vitoria Guimaraes
+19/06/20,PRL,Vitoria Guimaraes,1-1,Moreirense
+25/06/20,PRL,Sporting Braga,3-2,Vitoria Guimaraes
+30/06/20,PRL,Vitoria Guimaraes,2-0,Vitória Setúbal
+04/07/20,PRL,Portimonense,0-1,Vitoria Guimaraes
+10/07/20,PRL,Vitoria Guimaraes,1-2,Gil Vicente
+14/07/20,PRL,Benfica,2-0,Vitoria Guimaraes
+19/07/20,PRL,Vitoria Guimaraes,1-0,Marítimo
+24/07/20,PRL,Santa Clara,2-2,Vitoria Guimaraes
+04/09/20,CLF,Vitoria Guimaraes,1-0,Academico Viseu
+09/09/20,CLF,Vitoria Guimaraes,0-0,Moreirense
+12/09/20,CLF,Vitoria Guimaraes,CANC,Gil Vicente
+18/09/20,PRL,Vitoria Guimaraes,0-1,Belenenses
+27/09/20,PRL,Rio Ave,0-0,Vitoria Guimaraes
+02/10/20,PRL,Vitoria Guimaraes,1-0,Paços Ferreira
+19/10/20,PRL,Boavista,0-1,Vitoria Guimaraes
+25/10/20,PRL,Vitoria Guimaraes,0-1,Sporting Braga
+01/11/20,PRL,Gil Vicente,1-2,Vitoria Guimaraes
+07/11/20,PRL,Vitoria Guimaraes,0-4,Sporting Lisbon
+21/11/20,TDP,Arouca,P0-0P,Vitoria Guimaraes
+27/11/20,PRL,Tondela,0-2,Vitoria Guimaraes
+05/12/20,PRL,Vitoria Guimaraes,1-0,Portimonense
+13/12/20,TDP,Vitoria Guimaraes,0-1,Santa Clara
+16/12/20,TDL,Benfica,P1-1P,Vitoria Guimaraes
+21/12/20,PRL,Santa Clara,0-4,Vitoria Guimaraes
+29/12/20,PRL,Vitoria Guimaraes,2-3,Porto
+09/01/21,PRL,Moreirense,2-2,Vitoria Guimaraes
+21/01/21,PRL,Vitoria Guimaraes,3-1,Nacional
+24/01/21,PRL,Famalicão,0-1,Vitoria Guimaraes
+31/01/21,PRL,Vitoria Guimaraes,1-0,Marítimo
+05/02/21,PRL,Benfica,0-0,Vitoria Guimaraes
+08/02/21,PRL,Belenenses,1-1,Vitoria Guimaraes
+13/02/21,PRL,Vitoria Guimaraes,1-3,Rio Ave
+17/02/21,PRL,Vitoria Guimaraes,2-2,Farense
+21/02/21,PRL,Paços Ferreira,2-1,Vitoria Guimaraes
+26/02/21,PRL,Vitoria Guimaraes,2-1,Boavista
+09/03/21,PRL,Sporting Braga,3-0,Vitoria Guimaraes
+14/03/21,PRL,Vitoria Guimaraes,2-4,Gil Vicente
+20/03/21,PRL,Sporting Lisbon,1-0,Vitoria Guimaraes
+04/04/21,PRL,Vitoria Guimaraes,1-2,Tondela
+16/02/19,PRL,Vitoria Guimaraes,2-0,Portimonense
+23/02/19,PRL,Vitória Setúbal,1-1,Vitoria Guimaraes
+04/03/19,PRL,Vitoria Guimaraes,1-0,Marítimo
+09/03/19,PRL,Sporting Braga,1-0,Vitoria Guimaraes
+16/03/19,PRL,Vitoria Guimaraes,3-1,Boavista
+30/03/19,PRL,Santa Clara,1-0,Vitoria Guimaraes
+06/04/19,PRL,Vitoria Guimaraes,4-0,Chaves
+14/04/19,PRL,Rio Ave,2-1,Vitoria Guimaraes
+19/04/19,PRL,Vitoria Guimaraes,0-2,Desportivo Aves
+27/04/19,PRL,Sporting Lisbon,2-0,Vitoria Guimaraes
+05/05/19,PRL,Vitoria Guimaraes,2-2,Nacional
+12/05/19,PRL,Vitoria Guimaraes,5-1,Belenenses
+19/05/19,PRL,Moreirense,1-3,Vitoria Guimaraes
+06/07/19,CLF,Arouca,2-1,Vitoria Guimaraes
+10/07/19,CLF,Vitoria Guimaraes,1-0,Desportivo Aves
+14/07/19,CLF,Vitoria Guimaraes,5-2,Famalicão
+17/07/19,CLF,Rio Ave,0-1,Vitoria Guimaraes
+25/07/19,UEL,Jeunesse d'Esch,0-1,Vitoria Guimaraes
+01/08/19,UEL,Vitoria Guimaraes,4-0,Jeunesse d'Esch
+05/08/19,TDL,Feirense,0-1,Vitoria Guimaraes
+08/08/19,UEL,Ventspils,0-3,Vitoria Guimaraes
+14/08/19,UEL,Vitoria Guimaraes,6-0,Ventspils
+18/08/19,PRL,Vitoria Guimaraes,1-1,Boavista
+22/08/19,UEL,FCSB,0-0,Vitoria Guimaraes
+25/08/19,PRL,Vitoria Guimaraes,1-1,Famalicão
+29/08/19,UEL,Vitoria Guimaraes,1-0,FCSB
+01/09/19,PRL,Porto,3-0,Vitoria Guimaraes
+08/09/19,PRL,Rio Ave,1-1,Vitoria Guimaraes
+14/09/19,PRL,Vitoria Guimaraes,5-1,Desportivo Aves
+19/09/19,UEL,Standard Liège,2-0,Vitoria Guimaraes
+22/09/19,PRL,Tondela,1-3,Vitoria Guimaraes
+25/09/19,TDL,Benfica,0-0,Vitoria Guimaraes
+29/09/19,PRL,Vitoria Guimaraes,1-0,Paços Ferreira
+03/10/19,UEL,Vitoria Guimaraes,0-1,Eintracht Frankfurt
+19/10/19,TDP,Sintra,P1-1P,Vitoria Guimaraes
+24/10/19,UEL,Arsenal,3-2,Vitoria Guimaraes
+27/10/19,PRL,Sporting Lisbon,3-1,Vitoria Guimaraes
+30/10/19,PRL,Vitoria Guimaraes,5-0,Belenenses
+02/11/19,PRL,Moreirense,1-1,Vitoria Guimaraes
+06/11/19,UEL,Vitoria Guimaraes,1-1,Arsenal
+10/11/19,PRL,Vitoria Guimaraes,0-2,Sporting Braga
+28/11/19,UEL,Vitoria Guimaraes,1-1,Standard Liège
+01/12/19,PRL,Vitória Setúbal,1-1,Vitoria Guimaraes
+04/12/19,TDL,Vitória Setúbal,0-2,Vitoria Guimaraes
+08/12/19,PRL,Vitoria Guimaraes,2-0,Portimonense
+12/12/19,UEL,Eintracht Frankfurt,2-3,Vitoria Guimaraes
+15/12/19,PRL,Gil Vicente,2-2,Vitoria Guimaraes
+21/12/19,TDL,Vitoria Guimaraes,3-0,Sporting Covilhã
+04/01/20,PRL,Vitoria Guimaraes,0-1,Benfica
+12/01/20,PRL,Marítimo,0-0,Vitoria Guimaraes
+07/01/18,PRL,Porto,4-2,Vitoria Guimaraes
+12/01/18,PRL,Chaves,4-3,Vitoria Guimaraes
+21/01/18,PRL,Vitoria Guimaraes,3-1,Estoril
+31/01/18,PRL,Sporting Lisbon,1-0,Vitoria Guimaraes
+04/02/18,PRL,Vitoria Guimaraes,3-2,Paços Ferreira
+11/02/18,PRL,Boavista,1-0,Vitoria Guimaraes
+18/02/18,PRL,Vitoria Guimaraes,0-5,Sporting Braga
+24/02/18,PRL,Marítimo,3-2,Vitoria Guimaraes
+04/03/18,PRL,Vitoria Guimaraes,0-0,Belenenses
+11/03/18,PRL,Portimonense,2-1,Vitoria Guimaraes
+18/03/18,PRL,Vitoria Guimaraes,2-1,Desportivo Aves
+31/03/18,PRL,Benfica,2-0,Vitoria Guimaraes
+06/04/18,PRL,Vitoria Guimaraes,3-0,Rio Ave
+14/04/18,PRL,Vitoria Guimaraes,1-1,Vitória Setúbal
+21/04/18,PRL,Feirense,2-1,Vitoria Guimaraes
+27/04/18,PRL,Vitoria Guimaraes,1-0,Moreirense
+05/05/18,PRL,Tondela,1-4,Vitoria Guimaraes
+12/05/18,PRL,Vitoria Guimaraes,0-1,Porto
+07/07/18,CLF,Vitoria Guimaraes,3-1,Penafiel
+11/07/18,CLF,Vitoria Guimaraes,1-0,Oliveirense
+14/07/18,CLF,Vitoria Guimaraes,1-0,Tondela
+18/07/18,CLF,Desportivo Aves,2-2,Vitoria Guimaraes
+22/07/18,CLF,Vitoria Guimaraes,3-2,Santa Clara
+06/08/18,TDL,Vitoria Guimaraes,0-2,Tondela
+10/08/18,PRL,Benfica,3-2,Vitoria Guimaraes
+20/08/18,PRL,Vitoria Guimaraes,0-1,Feirense
+25/08/18,PRL,Porto,2-3,Vitoria Guimaraes
+31/08/18,PRL,Vitoria Guimaraes,1-0,Tondela
+08/09/18,CLF,Vitoria Guimaraes,1-1,Famalicão
+23/09/18,PRL,Portimonense,3-2,Vitoria Guimaraes
+30/09/18,PRL,Vitoria Guimaraes,1-1,Vitória Setúbal
+06/10/18,PRL,Marítimo,1-3,Vitoria Guimaraes
+20/10/18,TDP,Valenciano,0-7,Vitoria Guimaraes
+26/10/18,PRL,Vitoria Guimaraes,1-1,Sporting Braga
+03/11/18,PRL,Boavista,0-0,Vitoria Guimaraes
+11/11/18,PRL,Vitoria Guimaraes,2-0,Santa Clara
+25/11/18,TDP,União Madeira,0-2,Vitoria Guimaraes
+02/12/18,PRL,Chaves,0-1,Vitoria Guimaraes
+09/12/18,PRL,Vitoria Guimaraes,3-2,Rio Ave
+15/12/18,PRL,Desportivo Aves,1-1,Vitoria Guimaraes
+19/12/18,TDP,Boavista,0-1,Vitoria Guimaraes
+23/12/18,PRL,Vitoria Guimaraes,1-0,Sporting Lisbon
+02/01/19,PRL,Nacional,1-0,Vitoria Guimaraes
+06/01/19,PRL,Belenenses,1-0,Vitoria Guimaraes
+11/01/19,PRL,Vitoria Guimaraes,1-0,Moreirense
+15/01/19,TDP,Vitoria Guimaraes,0-1,Benfica
+18/01/19,PRL,Vitoria Guimaraes,0-1,Benfica
+28/01/19,PRL,Feirense,1-2,Vitoria Guimaraes
+03/02/19,PRL,Vitoria Guimaraes,0-0,Porto
+09/02/19,PRL,Tondela,1-0,Vitoria Guimaraes
+11/02/17,PRL,Vitoria Guimaraes,0-2,Porto
+19/02/17,PRL,Belenenses,1-1,Vitoria Guimaraes
+24/02/17,PRL,Vitoria Guimaraes,1-0,Moreirense
+01/03/17,TDP,Vitoria Guimaraes,2-0,Chaves
+05/03/17,PRL,Sporting Lisbon,1-1,Vitoria Guimaraes
+12/03/17,PRL,Vitoria Guimaraes,3-3,Estoril
+19/03/17,PRL,Vitoria Guimaraes,3-0,Rio Ave
+31/03/17,PRL,Nacional,1-2,Vitoria Guimaraes
+04/04/17,TDP,Chaves,3-1,Vitoria Guimaraes
+09/04/17,PRL,Vitoria Guimaraes,2-1,Tondela
+15/04/17,PRL,Chaves,2-3,Vitoria Guimaraes
+23/04/17,PRL,Vitoria Guimaraes,2-0,Boavista
+28/04/17,PRL,Vitória Setúbal,0-2,Vitoria Guimaraes
+07/05/17,PRL,Vitoria Guimaraes,1-0,Arouca
+13/05/17,PRL,Benfica,5-0,Vitoria Guimaraes
+20/05/17,PRL,Vitoria Guimaraes,0-1,Feirense
+28/05/17,TDP,Benfica,2-1,Vitoria Guimaraes
+15/07/17,CLF,Portimonense,P3-3P,Vitoria Guimaraes
+16/07/17,CLF,Vitoria Guimaraes,4-1,Belenenses
+23/07/17,CLF,Vitoria Guimaraes,0-2,Porto
+26/07/17,CLF,Sporting Lisbon,0-3,Vitoria Guimaraes
+05/08/17,SUC,Benfica,3-1,Vitoria Guimaraes
+10/08/17,PRL,Vitoria Guimaraes,3-2,Chaves
+14/08/17,PRL,Estoril,3-0,Vitoria Guimaraes
+19/08/17,PRL,Vitoria Guimaraes,0-5,Sporting Lisbon
+26/08/17,PRL,Paços Ferreira,0-0,Vitoria Guimaraes
+10/09/17,PRL,Vitoria Guimaraes,1-0,Boavista
+14/09/17,UEL,Vitoria Guimaraes,1-1,Salzburg
+17/09/17,PRL,Sporting Braga,2-1,Vitoria Guimaraes
+24/09/17,PRL,Vitoria Guimaraes,2-1,Marítimo
+28/09/17,UEL,Konyaspor,2-1,Vitoria Guimaraes
+01/10/17,PRL,Belenenses,1-0,Vitoria Guimaraes
+07/10/17,TDL,Vitoria Guimaraes,1-1,Feirense
+14/10/17,TDP,Vasco da Gama Vidigueira,1-6,Vitoria Guimaraes
+19/10/17,UEL,Marseille,2-1,Vitoria Guimaraes
+23/10/17,PRL,Vitoria Guimaraes,3-3,Portimonense
+29/10/17,PRL,Desportivo Aves,1-3,Vitoria Guimaraes
+02/11/17,UEL,Vitoria Guimaraes,1-0,Marseille
+05/11/17,PRL,Vitoria Guimaraes,1-3,Benfica
+11/11/17,TDL,Vitoria Guimaraes,1-4,Oliveirense
+19/11/17,TDP,Vitoria Guimaraes,2-1,Feirense
+23/11/17,UEL,Salzburg,3-0,Vitoria Guimaraes
+27/11/17,PRL,Rio Ave,0-1,Vitoria Guimaraes
+03/12/17,PRL,Vitória Setúbal,1-2,Vitoria Guimaraes
+07/12/17,UEL,Vitoria Guimaraes,1-1,Konyaspor
+11/12/17,PRL,Vitoria Guimaraes,1-0,Feirense
+14/12/17,TDP,Porto,4-0,Vitoria Guimaraes
+18/12/17,PRL,Moreirense,2-1,Vitoria Guimaraes
+23/12/17,PRL,Vitoria Guimaraes,0-1,Tondela
+30/12/17,TDL,Moreirense,3-3,Vitoria Guimaraes
+06/01/16,PRL,Moreirense,3-4,Vitoria Guimaraes
+09/01/16,PRL,Vitoria Guimaraes,2-2,Arouca
+17/01/16,PRL,Vitoria Guimaraes,1-0,Porto
+24/01/16,PRL,Belenenses,3-3,Vitoria Guimaraes
+29/01/16,PRL,Vitoria Guimaraes,3-1,União Madeira
+06/02/16,PRL,Tondela,1-1,Vitoria Guimaraes
+13/02/16,PRL,Vitoria Guimaraes,2-2,Vitória Setúbal
+21/02/16,PRL,Sporting Braga,3-3,Vitoria Guimaraes
+29/02/16,PRL,Vitoria Guimaraes,0-0,Sporting Lisbon
+06/03/16,PRL,Académica,2-0,Vitoria Guimaraes
+13/03/16,PRL,Vitoria Guimaraes,0-1,Paços Ferreira
+20/03/16,PRL,Nacional,3-2,Vitoria Guimaraes
+02/04/16,PRL,Vitoria Guimaraes,1-1,Boavista
+11/04/16,PRL,Rio Ave,2-0,Vitoria Guimaraes
+17/04/16,PRL,Marítimo,3-0,Vitoria Guimaraes
+24/04/16,PRL,Vitoria Guimaraes,1-1,Estoril
+29/04/16,PRL,Benfica,1-0,Vitoria Guimaraes
+08/05/16,PRL,Vitoria Guimaraes,4-1,Moreirense
+14/05/16,PRL,Arouca,2-2,Vitoria Guimaraes
+17/07/16,CLF,Vitoria Guimaraes,3-2,Rio Ave
+23/07/16,CLF,Boavista,P1-1P,Vitoria Guimaraes
+31/07/16,CLF,Vitoria Guimaraes,0-2,Porto
+06/08/16,CLF,Vitoria Guimaraes,6-2,Toulouse
+14/08/16,PRL,Vitoria Guimaraes,0-1,Sporting Braga
+20/08/16,PRL,Marítimo,0-2,Vitoria Guimaraes
+26/08/16,PRL,Vitoria Guimaraes,5-3,Paços Ferreira
+10/09/16,PRL,Porto,3-0,Vitoria Guimaraes
+17/09/16,PRL,Vitoria Guimaraes,1-1,Belenenses
+25/09/16,PRL,Moreirense,0-1,Vitoria Guimaraes
+01/10/16,PRL,Vitoria Guimaraes,3-3,Sporting Lisbon
+16/10/16,TDP,Santa Iria,1-2,Vitoria Guimaraes
+23/10/16,PRL,Estoril,0-2,Vitoria Guimaraes
+30/10/16,PRL,Rio Ave,0-3,Vitoria Guimaraes
+04/11/16,PRL,Vitoria Guimaraes,2-1,Nacional
+20/11/16,TDP,Boavista,E1-2E,Vitoria Guimaraes
+27/11/16,PRL,Tondela,2-1,Vitoria Guimaraes
+04/12/16,PRL,Vitoria Guimaraes,1-1,Chaves
+10/12/16,PRL,Boavista,1-2,Vitoria Guimaraes
+15/12/16,TDP,Vitoria Guimaraes,1-0,Vilafranquense
+18/12/16,PRL,Vitoria Guimaraes,3-1,Vitória Setúbal
+23/12/16,PRL,Arouca,0-1,Vitoria Guimaraes
+30/12/16,TDL,Vizela,1-2,Vitoria Guimaraes
+03/01/17,TDL,Vitoria Guimaraes,2-2,Paços Ferreira
+07/01/17,PRL,Vitoria Guimaraes,0-2,Benfica
+10/01/17,TDL,Vitoria Guimaraes,0-2,Benfica
+14/01/17,PRL,Feirense,0-0,Vitoria Guimaraes
+18/01/17,TDP,Sporting Covilhã,0-1,Vitoria Guimaraes
+22/01/17,PRL,Sporting Braga,1-2,Vitoria Guimaraes
+28/01/17,PRL,Vitoria Guimaraes,0-0,Marítimo
+03/02/17,PRL,Paços Ferreira,2-0,Vitoria Guimaraes
+23/11/14,TDP,Vitoria Guimaraes,1-2,Sporting Braga
+28/11/14,PRL,Vitoria Guimaraes,2-1,Moreirense
+07/12/14,PRL,Sporting Braga,0-0,Vitoria Guimaraes
+14/12/14,PRL,Vitoria Guimaraes,0-0,Rio Ave
+20/12/14,PRL,Estoril,1-0,Vitoria Guimaraes
+29/12/14,TDL,Vitoria Guimaraes,0-2,Sporting Lisbon
+04/01/15,PRL,Vitoria Guimaraes,4-0,Nacional
+10/01/15,PRL,Benfica,3-0,Vitoria Guimaraes
+17/01/15,PRL,Vitoria Guimaraes,4-0,Académica
+21/01/15,TDL,Vitória Setúbal,2-0,Vitoria Guimaraes
+24/01/15,PRL,Vitoria Guimaraes,2-2,Gil Vicente
+28/01/15,TDL,Boavista,2-2,Vitoria Guimaraes
+31/01/15,PRL,Penafiel,1-1,Vitoria Guimaraes
+04/02/15,TDL,Vitoria Guimaraes,2-0,Belenenses
+08/02/15,PRL,Vitoria Guimaraes,0-1,Belenenses
+13/02/15,PRL,Porto,1-0,Vitoria Guimaraes
+20/02/15,PRL,Paços Ferreira,2-2,Vitoria Guimaraes
+27/02/15,PRL,Vitoria Guimaraes,1-0,Marítimo
+08/03/15,PRL,Boavista,3-1,Vitoria Guimaraes
+14/03/15,PRL,Vitoria Guimaraes,0-1,Vitória Setúbal
+22/03/15,PRL,Sporting Lisbon,4-1,Vitoria Guimaraes
+03/04/15,PRL,Vitoria Guimaraes,1-0,Arouca
+11/04/15,PRL,Moreirense,2-1,Vitoria Guimaraes
+17/04/15,PRL,Vitoria Guimaraes,1-0,Sporting Braga
+25/04/15,PRL,Rio Ave,1-1,Vitoria Guimaraes
+01/05/15,PRL,Vitoria Guimaraes,2-0,Estoril
+11/05/15,PRL,Nacional,2-2,Vitoria Guimaraes
+17/05/15,PRL,Vitoria Guimaraes,0-0,Benfica
+23/05/15,PRL,Académica,2-4,Vitoria Guimaraes
+15/07/15,CLF,Arouca,0-1,Vitoria Guimaraes
+23/07/15,CLF,União Madeira,1-2,Vitoria Guimaraes
+30/07/15,UEL,Rheindorf Altach,2-1,Vitoria Guimaraes
+06/08/15,UEL,Vitoria Guimaraes,1-4,Rheindorf Altach
+15/08/15,PRL,Porto,3-0,Vitoria Guimaraes
+23/08/15,PRL,Vitoria Guimaraes,1-1,Belenenses
+31/08/15,PRL,União Madeira,0-0,Vitoria Guimaraes
+13/09/15,PRL,Vitoria Guimaraes,1-0,Tondela
+18/09/15,PRL,Vitória Setúbal,2-2,Vitoria Guimaraes
+27/09/15,PRL,Vitoria Guimaraes,0-1,Sporting Braga
+04/10/15,PRL,Sporting Lisbon,5-1,Vitoria Guimaraes
+10/10/15,TDL,Rio Ave,3-2,Vitoria Guimaraes
+18/10/15,TDP,Penafiel,2-0,Vitoria Guimaraes
+24/10/15,PRL,Vitoria Guimaraes,1-1,Académica
+02/11/15,PRL,Paços Ferreira,0-1,Vitoria Guimaraes
+07/11/15,PRL,Vitoria Guimaraes,0-1,Nacional
+28/11/15,PRL,Boavista,1-2,Vitoria Guimaraes
+07/12/15,PRL,Vitoria Guimaraes,3-1,Rio Ave
+12/12/15,PRL,Vitoria Guimaraes,3-4,Marítimo
+19/12/15,PRL,Estoril,0-1,Vitoria Guimaraes
+02/01/16,PRL,Vitoria Guimaraes,0-1,Benfica
+22/09/13,PRL,Vitoria Guimaraes,0-1,Benfica
+27/09/13,PRL,Porto,1-0,Vitoria Guimaraes
+03/10/13,UEL,Lyon,1-1,Vitoria Guimaraes
+07/10/13,PRL,Vitoria Guimaraes,1-0,Marítimo
+13/10/13,TDL,Leixões,2-1,Vitoria Guimaraes
+19/10/13,TDP,Fátima,0-3,Vitoria Guimaraes
+24/10/13,UEL,Real Betis,1-0,Vitoria Guimaraes
+28/10/13,PRL,Paços Ferreira,1-3,Vitoria Guimaraes
+03/11/13,PRL,Gil Vicente,1-0,Vitoria Guimaraes
+07/11/13,UEL,Vitoria Guimaraes,0-1,Real Betis
+10/11/13,TDP,Vitoria Guimaraes,0-2,Porto
+17/11/13,TDL,Vitoria Guimaraes,1-2,Leixões
+24/11/13,PRL,Vitoria Guimaraes,0-1,Sporting Lisbon
+28/11/13,UEL,Rijeka,0-0,Vitoria Guimaraes
+02/12/13,PRL,Estoril,0-2,Vitoria Guimaraes
+07/12/13,PRL,Vitoria Guimaraes,0-0,Belenenses
+12/12/13,UEL,Vitoria Guimaraes,1-2,Lyon
+15/12/13,PRL,Arouca,0-2,Vitoria Guimaraes
+21/12/13,PRL,Vitoria Guimaraes,3-0,Académica
+10/01/14,PRL,Sporting Braga,3-0,Vitoria Guimaraes
+17/01/14,PRL,Olhanense,0-1,Vitoria Guimaraes
+03/02/14,PRL,Vitoria Guimaraes,1-2,Nacional
+08/02/14,PRL,Vitória Setúbal,3-2,Vitoria Guimaraes
+16/02/14,PRL,Vitoria Guimaraes,1-0,Rio Ave
+24/02/14,PRL,Benfica,1-0,Vitoria Guimaraes
+02/03/14,PRL,Vitoria Guimaraes,2-2,Porto
+10/03/14,PRL,Marítimo,2-1,Vitoria Guimaraes
+15/03/14,PRL,Vitoria Guimaraes,1-2,Paços Ferreira
+22/03/14,PRL,Vitoria Guimaraes,0-0,Gil Vicente
+29/03/14,PRL,Sporting Lisbon,1-0,Vitoria Guimaraes
+04/04/14,PRL,Vitoria Guimaraes,1-3,Estoril
+12/04/14,PRL,Belenenses,3-1,Vitoria Guimaraes
+17/04/14,PRL,Vitoria Guimaraes,2-3,Arouca
+04/05/14,PRL,Académica,0-0,Vitoria Guimaraes
+10/05/14,PRL,Vitoria Guimaraes,1-0,Sporting Braga
+19/07/14,CLF,Vitoria Guimaraes,2-1,Penafiel
+26/07/14,CLF,Moreirense,0-1,Vitoria Guimaraes
+02/08/14,CLF,Varzim,0-3,Vitoria Guimaraes
+03/08/14,CLF,Vitoria Guimaraes,P2-2P,Moreirense
+16/08/14,PRL,Gil Vicente,1-3,Vitoria Guimaraes
+22/08/14,PRL,Vitoria Guimaraes,3-0,Penafiel
+30/08/14,PRL,Belenenses,0-3,Vitoria Guimaraes
+14/09/14,PRL,Vitoria Guimaraes,1-1,Porto
+19/09/14,PRL,Vitoria Guimaraes,1-1,Paços Ferreira
+28/09/14,PRL,Marítimo,4-0,Vitoria Guimaraes
+03/10/14,PRL,Vitoria Guimaraes,3-0,Boavista
+19/10/14,TDP,Moura,0-2,Vitoria Guimaraes
+24/10/14,PRL,Vitória Setúbal,0-1,Vitoria Guimaraes
+01/11/14,PRL,Vitoria Guimaraes,3-0,Sporting Lisbon
+07/11/14,PRL,Arouca,1-2,Vitoria Guimaraes

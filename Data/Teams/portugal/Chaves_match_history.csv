@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+10/04/23,PRL,Gil Vicente,0-0,Chaves
+15/04/23,PRL,Chaves,1-0,Benfica
+23/04/23,PRL,Santa Clara,1-1,Chaves
+29/04/23,PRL,Chaves,1-0,Casa Pia
+08/05/23,PRL,Famalicão,1-2,Chaves
+13/05/23,PRL,Chaves,2-0,Paços Ferreira
+20/05/23,PRL,Arouca,1-0,Chaves
+27/05/23,PRL,Chaves,1-4,Boavista
+08/07/23,CLF,Chaves,1-1,Fafe
+15/07/23,CLF,AVS,0-0,Chaves
+18/07/23,CLF,Penafiel,1-2,Chaves
+22/07/23,TDL,AVS,P1-1P,Chaves
+25/07/23,CLF,Santa Clara,2-0,Chaves
+01/08/23,CLF,Chaves,4-2,Feirense
+04/08/23,CLF,Chaves,0-1,Famalicão
+13/08/23,PRL,Rio Ave,2-0,Chaves
+19/08/23,PRL,Chaves,2-4,Sporting Braga
+26/08/23,PRL,Farense,5-0,Chaves
+03/09/23,PRL,Chaves,1-2,Moreirense
+18/09/23,PRL,Boavista,4-1,Chaves
+24/09/23,PRL,Chaves,2-2,Estrela
+01/10/23,PRL,Arouca,0-2,Chaves
+07/10/23,PRL,Chaves,4-2,Gil Vicente
+22/10/23,TDP,Canelas 2010,P0-0P,Chaves
+28/10/23,PRL,Vitoria Guimaraes,5-0,Chaves
+04/11/23,PRL,Chaves,0-2,Benfica
+11/11/23,PRL,Portimonense,2-1,Chaves
+01/12/23,PRL,Chaves,2-1,Vizela
+10/12/23,PRL,Estoril,4-0,Chaves
+17/12/23,PRL,Chaves,1-3,Casa Pia
+29/12/23,PRL,Porto,1-0,Chaves
+07/01/24,PRL,Famalicão,2-2,Chaves
+13/01/24,PRL,Chaves,0-3,Sporting Lisbon
+21/01/24,PRL,Chaves,0-0,Rio Ave
+31/01/24,PRL,Sporting Braga,1-1,Chaves
+04/02/24,PRL,Chaves,1-1,Farense
+10/02/24,PRL,Moreirense,1-0,Chaves
+17/02/24,PRL,Chaves,2-1,Boavista
+24/02/24,PRL,Estrela,1-1,Chaves
+01/03/24,PRL,Chaves,1-5,Arouca
+11/03/24,PRL,Gil Vicente,0-0,Chaves
+17/03/24,PRL,Chaves,1-2,Vitoria Guimaraes
+29/03/24,PRL,Benfica,1-0,Chaves
+07/04/24,PRL,Chaves,2-3,Portimonense
+15/04/24,PRL,Vizela,0-1,Chaves
+21/04/24,PRL,Chaves,2-2,Estoril
+27/04/24,PRL,Casa Pia,3-1,Chaves
+04/05/24,PRL,Chaves,21:30,Porto
+10/05/24,PRL,Chaves,21:15,Famalicão
+19/05/24,PRL,Sporting Lisbon,-,Chaves
+20/02/22,SEL,Porto II,0-0,Chaves
+25/02/22,SEL,Chaves,1-1,Benfica II
+06/03/22,SEL,Penafiel,2-1,Chaves
+13/03/22,SEL,Chaves,4-1,Casa Pia
+20/03/22,SEL,Trofense,1-1,Chaves
+03/04/22,SEL,Chaves,2-0,Nacional
+09/04/22,SEL,Mafra,0-1,Chaves
+15/04/22,SEL,Chaves,1-0,Sporting Covilhã
+23/04/22,SEL,Chaves,3-2,Académica
+30/04/22,SEL,Farense,1-2,Chaves
+08/05/22,SEL,Chaves,2-2,Estrela
+15/05/22,SEL,Rio Ave,3-0,Chaves
+21/05/22,PL1,Chaves,2-0,Moreirense
+29/05/22,PL1,Moreirense,1-0,Chaves
+13/07/22,CLF,Chaves,1-1,Academico Viseu
+16/07/22,CLF,Sporting Braga II,1-2,Chaves
+20/07/22,CLF,Chaves,3-1,Vitória Guimarães II
+23/07/22,CLF,Arouca,0-0,Chaves
+27/07/22,CLF,Montalegre,0-2,Chaves
+31/07/22,CLF,Chaves,P0-0P,Lugo
+07/08/22,PRL,Chaves,0-1,Vitoria Guimaraes
+15/08/22,PRL,Marítimo,1-2,Chaves
+20/08/22,PRL,Chaves,1-1,Vizela
+27/08/22,PRL,Sporting Lisbon,0-2,Chaves
+05/09/22,PRL,Chaves,1-1,Rio Ave
+10/09/22,PRL,Porto,3-0,Chaves
+16/09/22,PRL,Portimonense,1-0,Chaves
+01/10/22,PRL,Chaves,1-1,Estoril
+09/10/22,PRL,Sporting Braga,0-1,Chaves
+16/10/22,TDP,Valadares Gaia,E3-2E,Chaves
+23/10/22,PRL,Chaves,3-1,Gil Vicente
+29/10/22,PRL,Benfica,5-0,Chaves
+07/11/22,PRL,Chaves,0-0,Santa Clara
+13/11/22,PRL,Casa Pia,1-2,Chaves
+22/11/22,TDL,Vizela,2-2,Chaves
+08/12/22,TDL,Chaves,0-2,Porto
+16/12/22,TDL,Chaves,1-2,Mafra
+30/12/22,PRL,Chaves,0-2,Famalicão
+08/01/23,PRL,Paços Ferreira,1-1,Chaves
+15/01/23,PRL,Chaves,1-1,Arouca
+23/01/23,PRL,Boavista,1-1,Chaves
+30/01/23,PRL,Vitoria Guimaraes,2-1,Chaves
+05/02/23,PRL,Chaves,2-1,Marítimo
+10/02/23,PRL,Vizela,0-0,Chaves
+20/02/23,PRL,Chaves,2-3,Sporting Lisbon
+26/02/23,PRL,Rio Ave,1-0,Chaves
+04/03/23,PRL,Chaves,1-3,Porto
+11/03/23,PRL,Chaves,2-0,Portimonense
+18/03/23,PRL,Estoril,0-2,Chaves
+02/04/23,PRL,Chaves,1-2,Sporting Braga
+07/12/20,SEL,Sporting Covilhã,1-2,Chaves
+19/12/20,SEL,Academico Viseu,2-1,Chaves
+27/12/20,SEL,Chaves,2-1,Académica
+03/01/21,SEL,Mafra,1-2,Chaves
+09/01/21,SEL,Chaves,0-2,Estoril
+16/01/21,SEL,Leixões,1-0,Chaves
+24/01/21,SEL,Chaves,2-1,Arouca
+30/01/21,SEL,Chaves,0-1,Feirense
+06/02/21,SEL,Varzim,1-3,Chaves
+14/02/21,SEL,Chaves,0-0,Benfica II
+20/02/21,SEL,Cova Piedade,1-1,Chaves
+26/02/21,SEL,Chaves,2-2,Vizela
+07/03/21,SEL,Oliveirense,0-1,Chaves
+14/03/21,SEL,Chaves,1-1,Porto II
+23/03/21,SEL,Vilafranquense,0-1,Chaves
+29/03/21,SEL,Chaves,2-1,Penafiel
+06/04/21,SEL,Casa Pia,1-2,Chaves
+11/04/21,SEL,Chaves,2-0,Sporting Covilhã
+18/04/21,SEL,Chaves,2-1,Academico Viseu
+24/04/21,SEL,Académica,2-1,Chaves
+01/05/21,SEL,Chaves,1-1,Mafra
+08/05/21,SEL,Estoril,1-1,Chaves
+15/05/21,SEL,Chaves,3-1,Leixões
+22/05/21,SEL,Arouca,3-1,Chaves
+14/07/21,CLF,Gil Vicente,CANC,Chaves
+17/07/21,CLF,Arouca,CANC,Chaves
+24/07/21,TDL,Chaves,1-2,Farense
+07/08/21,SEL,Varzim,2-2,Chaves
+16/08/21,SEL,Chaves,1-1,Leixões
+22/08/21,SEL,Feirense,3-1,Chaves
+26/08/21,SEL,Chaves,3-0,Academico Viseu
+12/09/21,SEL,Vilafranquense,1-1,Chaves
+19/09/21,SEL,Chaves,4-2,Porto II
+25/09/21,TDP,Felgueiras 1932,2-0,Chaves
+03/10/21,SEL,Benfica II,3-1,Chaves
+10/10/21,SEL,Chaves,3-1,Penafiel
+23/10/21,SEL,Casa Pia,1-0,Chaves
+29/10/21,SEL,Chaves,0-0,Trofense
+08/11/21,SEL,Nacional,1-1,Chaves
+27/11/21,SEL,Chaves,0-1,Mafra
+05/12/21,SEL,Sporting Covilhã,0-2,Chaves
+12/12/21,SEL,Académica,1-2,Chaves
+18/12/21,SEL,Chaves,2-1,Farense
+27/12/21,SEL,Estrela,1-3,Chaves
+24/01/22,SEL,Leixões,1-1,Chaves
+30/01/22,SEL,Chaves,3-1,Feirense
+02/02/22,SEL,Chaves,1-0,Varzim
+05/02/22,SEL,Academico Viseu,0-2,Chaves
+10/02/22,SEL,Chaves,2-1,Rio Ave
+14/02/22,SEL,Chaves,1-0,Vilafranquense
+24/08/19,SEL,Académica,1-2,Chaves
+01/09/19,SEL,Chaves,2-1,Penafiel
+14/09/19,SEL,Feirense,1-0,Chaves
+21/09/19,SEL,Chaves,2-3,Sporting Covilhã
+29/09/19,TDP,Mirandela,1-2,Chaves
+04/10/19,TDL,Chaves,1-0,Santa Clara
+12/10/19,SEL,Chaves,2-0,Estoril
+20/10/19,TDP,Chaves,E2-1E,Boavista
+27/10/19,SEL,Varzim,2-1,Chaves
+03/11/19,SEL,Benfica II,1-3,Chaves
+10/11/19,SEL,Chaves,2-0,Casa Pia
+16/11/19,TDL,Casa Pia,0-1,Chaves
+24/11/19,TDP,Chaves,1-0,Belenenses
+30/11/19,SEL,Farense,1-0,Chaves
+07/12/19,SEL,Chaves,0-2,Oliveirense
+13/12/19,SEL,Porto II,1-1,Chaves
+17/12/19,TDP,Academico Viseu,1-0,Chaves
+22/12/19,TDL,Chaves,2-4,Porto
+29/12/19,SEL,Chaves,2-1,Vilafranquense
+04/01/20,SEL,Cova Piedade,0-2,Chaves
+11/01/20,SEL,Chaves,0-0,Leixões
+19/01/20,SEL,Academico Viseu,0-0,Chaves
+26/01/20,SEL,Chaves,0-2,Nacional
+01/02/20,SEL,Mafra,1-0,Chaves
+09/02/20,SEL,Chaves,1-2,Académica
+17/02/20,SEL,Penafiel,0-0,Chaves
+22/02/20,SEL,Chaves,1-2,Feirense
+01/03/20,SEL,Sporting Covilhã,0-2,Chaves
+08/03/20,SEL,Chaves,1-1,Varzim
+14/03/20,SEL,Estoril,CANC,Chaves
+22/03/20,SEL,Chaves,CANC,Benfica II
+05/04/20,SEL,Casa Pia,CANC,Chaves
+11/04/20,SEL,Chaves,CANC,Farense
+19/04/20,SEL,Oliveirense,CANC,Chaves
+22/04/20,SEL,Chaves,CANC,Porto II
+26/04/20,SEL,Vilafranquense,CANC,Chaves
+03/05/20,SEL,Chaves,CANC,Cova Piedade
+10/05/20,SEL,Leixões,CANC,Chaves
+17/05/20,SEL,Chaves,CANC,Academico Viseu
+18/09/20,SEL,Chaves,0-0,Varzim
+23/09/20,SEL,Benfica II,3-4,Chaves
+27/09/20,SEL,Chaves,1-0,Cova Piedade
+05/10/20,SEL,Vizela,1-1,Chaves
+11/10/20,TDP,Espinho,1-0,Chaves
+15/10/20,SEL,Feirense,0-4,Chaves
+20/10/20,SEL,Chaves,0-2,Oliveirense
+24/10/20,SEL,Porto II,1-2,Chaves
+31/10/20,SEL,Chaves,0-0,Vilafranquense
+09/11/20,SEL,Penafiel,1-0,Chaves
+01/12/20,SEL,Chaves,1-2,Casa Pia
+08/09/18,CLF,Chaves,2-2,Paços Ferreira
+09/09/18,TDP,Vinhais,1-6,Chaves
+14/09/18,TDL,Porto,1-1,Chaves
+21/09/18,PRL,Boavista,1-2,Chaves
+27/09/18,PRL,Chaves,2-2,Benfica
+30/09/18,TDP,Gil Vicente,0-1,Chaves
+05/10/18,PRL,Santa Clara,1-0,Chaves
+21/10/18,TDP,Juventude P Salgadas,1-4,Chaves
+27/10/18,PRL,Rio Ave,1-0,Chaves
+05/11/18,PRL,Chaves,1-2,Desportivo Aves
+11/11/18,PRL,Sporting Lisbon,2-1,Chaves
+18/11/18,TDL,Belenenses,0-1,Chaves
+25/11/18,TDP,Santa Clara,1-2,Chaves
+02/12/18,PRL,Chaves,0-1,Vitoria Guimaraes
+08/12/18,PRL,Belenenses,1-0,Chaves
+15/12/18,PRL,Chaves,1-2,Moreirense
+19/12/18,TDP,Desportivo Aves,2-0,Chaves
+23/12/18,PRL,Nacional,2-0,Chaves
+30/12/18,TDL,Chaves,3-1,Varzim
+03/01/19,PRL,Chaves,0-0,Feirense
+06/01/19,PRL,Vitória Setúbal,0-0,Chaves
+13/01/19,PRL,Chaves,2-1,Tondela
+18/01/19,PRL,Chaves,1-4,Porto
+29/01/19,PRL,Portimonense,0-1,Chaves
+02/02/19,PRL,Chaves,1-0,Marítimo
+10/02/19,PRL,Sporting Braga,2-1,Chaves
+17/02/19,PRL,Chaves,1-1,Boavista
+25/02/19,PRL,Benfica,4-0,Chaves
+03/03/19,PRL,Chaves,0-0,Santa Clara
+08/03/19,PRL,Chaves,1-1,Rio Ave
+17/03/19,PRL,Desportivo Aves,0-1,Chaves
+22/03/19,CLF,Chaves,1-1,Academico Viseu
+30/03/19,PRL,Chaves,1-3,Sporting Lisbon
+06/04/19,PRL,Vitoria Guimaraes,4-0,Chaves
+12/04/19,PRL,Chaves,2-2,Belenenses
+20/04/19,PRL,Moreirense,0-1,Chaves
+28/04/19,PRL,Chaves,4-1,Nacional
+04/05/19,PRL,Feirense,4-4,Chaves
+12/05/19,PRL,Chaves,1-2,Vitória Setúbal
+19/05/19,PRL,Tondela,5-2,Chaves
+06/07/19,CLF,Chaves,2-1,Desportivo Aves
+10/07/19,CLF,Chaves,0-2,Boavista
+13/07/19,CLF,Paços Ferreira,1-0,Chaves
+17/07/19,CLF,Chaves,2-0,Compostela
+20/07/19,CLF,Gil Vicente,0-1,Chaves
+24/07/19,CLF,Chaves,1-0,Rio Ave
+27/07/19,CLF,Chaves,0-0,Vizela
+03/08/19,TDL,Nacional,P2-2P,Chaves
+10/08/19,SEL,Nacional,3-0,Chaves
+17/08/19,SEL,Chaves,2-1,Mafra
+28/07/17,CLF,Chaves,1-0,Boavista
+02/08/17,CLF,Chaves,3-0,Porto II
+10/08/17,PRL,Vitoria Guimaraes,3-2,Chaves
+14/08/17,PRL,Chaves,0-1,Benfica
+20/08/17,PRL,Vitória Setúbal,1-1,Chaves
+26/08/17,PRL,Chaves,0-2,Feirense
+02/09/17,TDL,Portimonense,3-1,Chaves
+09/09/17,PRL,Porto,3-0,Chaves
+18/09/17,PRL,Chaves,3-0,Moreirense
+23/09/17,PRL,Estoril,0-2,Chaves
+29/09/17,PRL,Chaves,1-1,Tondela
+15/10/17,TDP,Fátima,0-3,Chaves
+22/10/17,PRL,Sporting Lisbon,5-1,Chaves
+29/10/17,PRL,Sporting Braga,1-0,Chaves
+05/11/17,PRL,Chaves,4-2,Paços Ferreira
+19/11/17,TDP,Santa Clara,2-0,Chaves
+24/11/17,PRL,Belenenses,0-1,Chaves
+02/12/17,PRL,Chaves,0-0,Boavista
+10/12/17,PRL,Portimonense,0-1,Chaves
+17/12/17,PRL,Chaves,1-1,Rio Ave
+03/01/18,PRL,Marítimo,1-2,Chaves
+07/01/18,PRL,Chaves,1-1,Desportivo Aves
+12/01/18,PRL,Chaves,4-3,Vitoria Guimaraes
+20/01/18,PRL,Benfica,3-0,Chaves
+31/01/18,PRL,Chaves,2-2,Vitória Setúbal
+04/02/18,PRL,Feirense,1-2,Chaves
+11/02/18,PRL,Chaves,0-4,Porto
+18/02/18,PRL,Moreirense,0-1,Chaves
+25/02/18,PRL,Chaves,2-0,Estoril
+04/03/18,PRL,Tondela,2-0,Chaves
+12/03/18,PRL,Chaves,1-2,Sporting Lisbon
+18/03/18,PRL,Chaves,1-4,Sporting Braga
+31/03/18,PRL,Paços Ferreira,2-0,Chaves
+08/04/18,PRL,Chaves,1-1,Belenenses
+14/04/18,PRL,Boavista,3-3,Chaves
+22/04/18,PRL,Chaves,2-1,Portimonense
+29/04/18,PRL,Rio Ave,2-1,Chaves
+06/05/18,PRL,Chaves,4-1,Marítimo
+11/05/18,PRL,Desportivo Aves,2-3,Chaves
+14/07/18,CLF,Rio Ave,2-1,Chaves
+18/07/18,CLF,Chaves,1-0,Tondela
+21/07/18,CLF,Chaves,0-0,Feirense
+26/07/18,CLF,Chaves,0-1,Sporting Braga
+29/07/18,TDL,Arouca,P0-0P,Chaves
+01/08/18,CLF,Chaves,0-2,Sporting Braga II
+04/08/18,CLF,Chaves,0-0,Sporting Gijon
+11/08/18,PRL,Porto,5-0,Chaves
+18/08/18,PRL,Chaves,2-0,Portimonense
+24/08/18,PRL,Marítimo,2-1,Chaves
+31/08/18,PRL,Chaves,0-1,Sporting Braga
+08/05/16,SEL,Portimonense,1-1,Chaves
+14/05/16,SEL,Chaves,1-1,Feirense
+13/07/16,CLF,Famalicão,1-0,Chaves
+17/07/16,CLF,Varzim,P2-2P,Chaves
+28/07/16,CLF,Marítimo,1-1,Chaves
+30/07/16,CLF,Montalegre,1-3,Chaves
+20/08/16,PRL,Chaves,1-1,Tondela
+28/08/16,PRL,Boavista,2-2,Chaves
+04/09/16,PRL,Nacional,0-1,Chaves
+11/09/16,PRL,Chaves,0-0,Vitória Setúbal
+18/09/16,PRL,Arouca,0-1,Chaves
+24/09/16,PRL,Chaves,0-2,Benfica
+01/10/16,PRL,Chaves,3-1,Belenenses
+16/10/16,TDP,União Madeira,0-1,Chaves
+24/10/16,PRL,Sporting Braga,1-0,Chaves
+27/10/16,TDL,Rio Ave,P1-1P,Chaves
+31/10/16,PRL,Chaves,1-1,Feirense
+05/11/16,PRL,Paços Ferreira,1-1,Chaves
+18/11/16,TDP,Chaves,P0-0P,Porto
+26/11/16,PRL,Chaves,0-0,Marítimo
+04/12/16,PRL,Vitoria Guimaraes,1-1,Chaves
+10/12/16,PRL,Chaves,2-1,Moreirense
+14/12/16,TDP,Torreense,2-3,Chaves
+19/12/16,PRL,Porto,2-1,Chaves
+22/12/16,PRL,Chaves,1-0,Estoril
+08/01/17,PRL,Rio Ave,2-2,Chaves
+14/01/17,PRL,Chaves,2-2,Sporting Lisbon
+17/01/17,TDP,Chaves,1-0,Sporting Lisbon
+23/01/17,PRL,Chaves,2-0,Nacional
+28/01/17,PRL,Tondela,2-0,Chaves
+04/02/17,PRL,Chaves,0-0,Boavista
+11/02/17,PRL,Vitória Setúbal,0-0,Chaves
+18/02/17,PRL,Chaves,2-0,Arouca
+24/02/17,PRL,Benfica,3-1,Chaves
+01/03/17,TDP,Vitoria Guimaraes,2-0,Chaves
+05/03/17,PRL,Belenenses,2-1,Chaves
+11/03/17,PRL,Chaves,0-0,Sporting Braga
+19/03/17,PRL,Feirense,3-2,Chaves
+31/03/17,PRL,Chaves,1-0,Paços Ferreira
+04/04/17,TDP,Chaves,3-1,Vitoria Guimaraes
+10/04/17,PRL,Marítimo,2-1,Chaves
+15/04/17,PRL,Chaves,2-3,Vitoria Guimaraes
+24/04/17,PRL,Moreirense,0-0,Chaves
+29/04/17,PRL,Chaves,0-2,Porto
+08/05/17,PRL,Estoril,2-1,Chaves
+14/05/17,PRL,Chaves,2-2,Rio Ave
+21/05/17,PRL,Sporting Lisbon,4-1,Chaves
+08/07/17,CLF,Chaves,3-0,Sporting Braga II
+12/07/17,CLF,Chaves,1-1,Moreirense
+22/07/17,CLF,Chaves,2-0,Desportivo Aves
+17/05/15,SEL,Tondela,2-2,Chaves
+24/05/15,SEL,Chaves,2-0,Oliveirense
+02/08/15,TDL,Chaves,0-2,Varzim
+08/08/15,SEL,Chaves,2-2,Sporting Braga II
+16/08/15,SEL,Sporting Covilhã,0-1,Chaves
+22/08/15,SEL,Chaves,0-0,Famalicão
+30/08/15,SEL,Chaves,3-0,Leixões
+06/09/15,SEL,Oriental Lisboa,1-2,Chaves
+12/09/15,SEL,Freamunde,2-1,Chaves
+16/09/15,SEL,Chaves,1-0,Santa Clara
+20/09/15,SEL,Penafiel,1-0,Chaves
+26/09/15,TDP,União de Leiria,P0-0P,Chaves
+30/09/15,SEL,Chaves,1-1,Benfica II
+03/10/15,SEL,Vitória Guimarães II,0-3,Chaves
+17/10/15,TDP,Louletano,0-5,Chaves
+21/10/15,SEL,Chaves,0-0,Olhanense
+25/10/15,SEL,Varzim,3-0,Chaves
+30/10/15,SEL,Chaves,2-2,Porto II
+04/11/15,SEL,Atlético CP,0-1,Chaves
+08/11/15,SEL,Chaves,1-1,Oliveirense
+21/11/15,TDP,Arouca,P0-0P,Chaves
+25/11/15,SEL,Chaves,1-0,Sporting CP II
+29/11/15,SEL,Academico Viseu,1-1,Chaves
+02/12/15,SEL,Chaves,2-1,Desportivo Aves
+06/12/15,SEL,Gil Vicente,1-1,Chaves
+09/12/15,SEL,Chaves,1-0,Mafra
+13/12/15,SEL,Farense,1-1,Chaves
+20/12/15,SEL,Chaves,2-2,Portimonense
+03/01/16,SEL,Feirense,0-1,Chaves
+09/01/16,SEL,Sporting Braga II,1-3,Chaves
+17/01/16,SEL,Chaves,1-0,Sporting Covilhã
+23/01/16,SEL,Famalicão,4-3,Chaves
+31/01/16,SEL,Chaves,1-1,Oriental Lisboa
+07/02/16,SEL,Leixões,1-2,Chaves
+13/02/16,SEL,Chaves,1-0,Freamunde
+17/02/16,SEL,Santa Clara,2-2,Chaves
+21/02/16,SEL,Chaves,1-1,Penafiel
+27/02/16,SEL,Benfica II,0-1,Chaves
+05/03/16,SEL,Chaves,1-1,Vitória Guimarães II
+09/03/16,SEL,Olhanense,1-0,Chaves
+13/03/16,SEL,Chaves,1-0,Varzim
+16/03/16,SEL,Porto II,0-0,Chaves
+20/03/16,SEL,Chaves,1-0,Atlético CP
+02/04/16,SEL,Oliveirense,0-3,Chaves
+06/04/16,SEL,Sporting CP II,2-0,Chaves
+10/04/16,SEL,Chaves,2-1,Academico Viseu
+13/04/16,SEL,Desportivo Aves,2-1,Chaves
+17/04/16,SEL,Chaves,4-0,Gil Vicente
+24/04/16,SEL,Mafra,0-1,Chaves
+30/04/16,SEL,Chaves,1-1,Farense
+09/08/14,SEL,Chaves,1-1,Academico Viseu
+17/08/14,SEL,Atlético CP,2-2,Chaves
+24/08/14,SEL,Chaves,2-1,Sporting Braga II
+27/08/14,SEL,Marítimo II,1-1,Chaves
+31/08/14,SEL,Chaves,1-0,Leixões
+14/09/14,SEL,Sporting Covilhã,0-3,Chaves
+17/09/14,SEL,Chaves,3-2,Sporting CP II
+21/09/14,SEL,Feirense,1-1,Chaves
+24/09/14,TDL,Chaves,1-1,Rio Ave
+28/09/14,TDP,Chaves,3-1,Louletano
+01/10/14,SEL,Chaves,0-3,União Madeira
+05/10/14,SEL,Oriental Lisboa,0-0,Chaves
+19/10/14,TDP,Chaves,7-0,Cova Piedade
+22/10/14,SEL,Chaves,3-1,Santa Clara
+26/10/14,SEL,Farense,0-1,Chaves
+02/11/14,SEL,Chaves,0-0,Porto II
+05/11/14,SEL,Vitória Guimarães II,3-0,Chaves
+09/11/14,SEL,Chaves,0-0,Benfica II
+16/11/14,TDL,Rio Ave,P0-0P,Chaves
+23/11/14,TDP,Feirense,0-2,Chaves
+29/11/14,SEL,Portimonense,2-1,Chaves
+03/12/14,SEL,Chaves,3-0,Beira-Mar
+07/12/14,SEL,Desportivo Aves,2-3,Chaves
+14/12/14,SEL,Chaves,1-1,Olhanense
+17/12/14,TDP,Rio Ave,2-0,Chaves
+21/12/14,SEL,Chaves,1-1,Freamunde
+04/01/15,SEL,Trofense,0-1,Chaves
+11/01/15,SEL,Chaves,1-1,Tondela
+18/01/15,SEL,Oliveirense,2-1,Chaves
+25/01/15,SEL,Academico Viseu,1-1,Chaves
+01/02/15,SEL,Chaves,1-0,Atlético CP
+08/02/15,SEL,Sporting Braga II,2-3,Chaves
+14/02/15,SEL,Chaves,2-0,Marítimo II
+18/02/15,SEL,Leixões,1-2,Chaves
+22/02/15,SEL,Chaves,1-0,Sporting Covilhã
+25/02/15,SEL,Sporting CP II,1-1,Chaves
+01/03/15,SEL,Chaves,2-0,Feirense
+08/03/15,SEL,União Madeira,1-1,Chaves
+11/03/15,SEL,Chaves,1-1,Oriental Lisboa
+15/03/15,SEL,Santa Clara,1-1,Chaves
+22/03/15,SEL,Porto II,2-2,Chaves
+29/03/15,SEL,Chaves,1-0,Farense
+04/04/15,SEL,Chaves,2-0,Vitória Guimarães II
+10/04/15,SEL,Benfica II,2-2,Chaves
+15/04/15,SEL,Chaves,1-2,Portimonense
+19/04/15,SEL,Beira-Mar,1-1,Chaves
+26/04/15,SEL,Chaves,2-0,Desportivo Aves
+02/05/15,SEL,Olhanense,3-0,Chaves
+06/05/15,SEL,Freamunde,1-1,Chaves
+10/05/15,SEL,Chaves,6-0,Trofense
+18/08/13,SEL,Chaves,2-0,Leixões
+21/08/13,SEL,Moreirense,7-0,Chaves
+25/08/13,SEL,Chaves,1-0,Marítimo II
+31/08/13,SEL,Sporting Braga II,3-2,Chaves
+08/09/13,SEL,Academico Viseu,1-2,Chaves
+15/09/13,SEL,Chaves,0-2,Sporting Covilhã
+22/09/13,TDP,Chaves,8-0,Avanca
+28/09/13,SEL,Chaves,1-2,Tondela
+06/10/13,SEL,Oliveirense,1-1,Chaves
+13/10/13,SEL,União Madeira,2-0,Chaves
+20/10/13,TDP,Benfica Castelo Branco,1-2,Chaves
+27/10/13,SEL,Porto II,1-2,Chaves
+03/11/13,SEL,Chaves,1-1,Farense
+06/11/13,SEL,Sporting CP II,4-0,Chaves
+09/11/13,TDP,Arouca,2-0,Chaves
+12/11/13,SEL,Chaves,3-1,Benfica II
+17/11/13,SEL,Chaves,1-1,Feirense
+23/11/13,SEL,Beira-Mar,1-0,Chaves
+27/11/13,SEL,Chaves,0-0,Atlético CP
+01/12/13,SEL,Desportivo Aves,0-2,Chaves
+08/12/13,SEL,Chaves,3-2,Penafiel
+11/12/13,SEL,Portimonense,4-2,Chaves
+15/12/13,SEL,Chaves,1-2,Trofense
+22/12/13,SEL,Chaves,1-0,Santa Clara
+29/12/13,SEL,Leixões,1-2,Chaves
+04/01/14,SEL,Chaves,1-1,Sporting Braga II
+12/01/14,SEL,Chaves,0-1,Moreirense
+19/01/14,SEL,Marítimo II,1-1,Chaves
+29/01/14,SEL,Sporting Covilhã,1-1,Chaves
+02/02/14,SEL,Chaves,1-2,Academico Viseu
+12/02/14,SEL,Tondela,0-1,Chaves
+16/02/14,SEL,Chaves,3-0,União Madeira
+22/02/14,SEL,Chaves,3-0,Oliveirense
+02/03/14,SEL,Feirense,1-1,Chaves
+09/03/14,SEL,Chaves,2-1,Porto II
+16/03/14,SEL,Farense,1-2,Chaves
+23/03/14,SEL,Chaves,2-3,Sporting CP II
+29/03/14,SEL,Benfica II,2-1,Chaves
+06/04/14,SEL,Chaves,1-1,Beira-Mar
+13/04/14,SEL,Atlético CP,1-3,Chaves
+19/04/14,SEL,Chaves,2-1,Desportivo Aves
+27/04/14,SEL,Penafiel,1-2,Chaves
+04/05/14,SEL,Chaves,3-2,Portimonense
+10/05/14,SEL,Trofense,0-0,Chaves
+09/07/14,CLF,Chaves,2-0,Leixões
+16/07/14,CLF,Chaves,1-2,Tondela
+23/07/14,CLF,Chaves,0-0,Paços Ferreira
+27/07/14,TDL,Farense,0-2,Chaves
+30/07/14,TDL,União Madeira,0-1,Chaves
+03/08/14,TDL,Chaves,2-2,Oliveirense

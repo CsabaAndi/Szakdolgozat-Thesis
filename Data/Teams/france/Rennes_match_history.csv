@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+29/07/23,CLF,Rennes,3-1,West Ham United
+02/08/23,CLF,Nottingham Forest,0-5,Rennes
+05/08/23,CLF,Wolverhampton Wanderers,3-1,Rennes
+13/08/23,LI1,Rennes,5-1,Metz
+20/08/23,LI1,Lens,1-1,Rennes
+27/08/23,LI1,Rennes,2-2,Le Havre
+02/09/23,LI1,Brest,0-0,Rennes
+16/09/23,LI1,Rennes,2-2,Lille
+21/09/23,UEL,Rennes,3-0,Maccabi Haifa
+24/09/23,LI1,Montpellier,0-0,Rennes
+01/10/23,LI1,Rennes,3-1,Nantes
+05/10/23,UEL,Villarreal,1-0,Rennes
+08/10/23,LI1,Rennes,1-3,PSG
+22/10/23,LI1,Lorient,2-1,Rennes
+26/10/23,UEL,Panathinaikos,1-2,Rennes
+29/10/23,LI1,Rennes,1-1,Strasbourg
+05/11/23,LI1,Nice,2-0,Rennes
+09/11/23,UEL,Rennes,3-1,Panathinaikos
+12/11/23,LI1,Rennes,0-1,Lyon
+26/11/23,LI1,Rennes,3-1,Reims
+30/11/23,UEL,Maccabi Haifa,0-3,Rennes
+03/12/23,LI1,Marseille,2-0,Rennes
+09/12/23,LI1,Rennes,1-2,Monaco
+14/12/23,UEL,Rennes,2-3,Villarreal
+17/12/23,LI1,Toulouse,0-0,Rennes
+20/12/23,LI1,Clermont,1-3,Rennes
+07/01/24,CDF,Guingamp,0-2,Rennes
+13/01/24,LI1,Rennes,2-0,Nice
+21/01/24,CDF,Rennes,P1-1P,Marseille
+26/01/24,LI1,Lyon,2-3,Rennes
+03/02/24,LI1,Rennes,2-1,Montpellier
+06/02/24,CDF,Sochaux,1-6,Rennes
+11/02/24,LI1,Le Havre,0-1,Rennes
+15/02/24,UEL,AC Milan,3-0,Rennes
+18/02/24,LI1,Rennes,3-1,Clermont
+22/02/24,UEL,Rennes,3-2,AC Milan
+25/02/24,LI1,PSG,1-1,Rennes
+29/02/24,CDF,Le Puy Foot,1-3,Rennes
+03/03/24,LI1,Rennes,1-2,Lorient
+10/03/24,LI1,Lille,2-2,Rennes
+17/03/24,LI1,Rennes,2-0,Marseille
+31/03/24,LI1,Strasbourg,2-0,Rennes
+03/04/24,CDF,PSG,1-0,Rennes
+07/04/24,LI1,Monaco,1-0,Rennes
+13/04/24,LI1,Rennes,1-2,Toulouse
+20/04/24,LI1,Nantes,0-3,Rennes
+28/04/24,LI1,Rennes,4-5,Brest
+04/05/24,LI1,Metz,19:00,Rennes
+12/05/24,LI1,Rennes,21:00,Lens
+19/05/24,LI1,Reims,21:00,Rennes
+31/08/22,LI1,Rennes,3-1,Brest
+04/09/22,LI1,Troyes,1-1,Rennes
+08/09/22,UEL,AEK Larnaca,1-2,Rennes
+11/09/22,LI1,Rennes,5-0,Auxerre
+15/09/22,UEL,Rennes,2-2,Fenerbahce
+18/09/22,LI1,Marseille,1-1,Rennes
+01/10/22,LI1,Strasbourg,1-3,Rennes
+06/10/22,UEL,Rennes,2-1,Dinamo Kiev
+09/10/22,LI1,Rennes,3-0,Nantes
+13/10/22,UEL,Dinamo Kiev,0-1,Rennes
+16/10/22,LI1,Rennes,3-2,Lyon
+23/10/22,LI1,Angers,1-2,Rennes
+27/10/22,UEL,Fenerbahce,3-3,Rennes
+30/10/22,LI1,Rennes,3-0,Montpellier
+03/11/22,UEL,Rennes,1-1,AEK Larnaca
+06/11/22,LI1,Lille,1-1,Rennes
+12/11/22,LI1,Rennes,2-1,Toulouse
+10/12/22,CLF,Rennes,4-3,Celtic
+16/12/22,CLF,Rennes,2-1,Feyenoord
+21/12/22,CLF,Rennes,CANC,Angers
+22/12/22,CLF,Rennes,3-1,Brest
+29/12/22,LI1,Reims,3-1,Rennes
+02/01/23,LI1,Rennes,2-1,Nice
+07/01/23,CDF,Bordeaux,1-2,Rennes
+11/01/23,LI1,Clermont,2-1,Rennes
+15/01/23,LI1,Rennes,1-0,PSG
+20/01/23,CDF,Marseille,1-0,Rennes
+27/01/23,LI1,Lorient,2-1,Rennes
+01/02/23,LI1,Rennes,3-0,Strasbourg
+04/02/23,LI1,Rennes,1-3,Lille
+12/02/23,LI1,Toulouse,3-1,Rennes
+16/02/23,UEL,Shakhtar Donetsk,2-1,Rennes
+19/02/23,LI1,Rennes,2-0,Clermont
+23/02/23,UEL,Rennes,P2-1P,Shakhtar Donetsk
+26/02/23,LI1,Nantes,0-1,Rennes
+05/03/23,LI1,Rennes,0-1,Marseille
+11/03/23,LI1,Auxerre,0-0,Rennes
+19/03/23,LI1,PSG,0-2,Rennes
+01/04/23,LI1,Rennes,0-1,Lens
+09/04/23,LI1,Lyon,3-1,Rennes
+15/04/23,LI1,Rennes,3-0,Reims
+23/04/23,LI1,Montpellier,1-0,Rennes
+30/04/23,LI1,Rennes,4-2,Angers
+06/05/23,LI1,Nice,2-1,Rennes
+14/05/23,LI1,Rennes,4-0,Troyes
+21/05/23,LI1,Ajaccio,0-5,Rennes
+27/05/23,LI1,Rennes,2-0,Monaco
+03/06/23,LI1,Brest,1-2,Rennes
+19/07/23,CLF,Rennes,1-1,Concarneau
+22/07/23,CLF,Saint-Malo,1-2,Rennes
+22/09/21,LI1,Rennes,6-0,Clermont
+26/09/21,LI1,Bordeaux,1-1,Rennes
+30/09/21,UEC,Vitesse,1-2,Rennes
+03/10/21,LI1,Rennes,2-0,PSG
+17/10/21,LI1,Metz,0-3,Rennes
+21/10/21,UEC,Mura,1-2,Rennes
+24/10/21,LI1,Rennes,1-0,Strasbourg
+31/10/21,LI1,Troyes,2-2,Rennes
+04/11/21,UEC,Rennes,1-0,Mura
+07/11/21,LI1,Rennes,4-1,Lyon
+20/11/21,LI1,Rennes,2-0,Montpellier
+25/11/21,UEC,Rennes,3-3,Vitesse
+28/11/21,LI1,Lorient,0-2,Rennes
+01/12/21,LI1,Rennes,1-2,Lille
+05/12/21,LI1,Saint-Etienne,0-5,Rennes
+09/12/21,UEC,Tottenham Hotspur,0-3,Rennes
+12/12/21,LI1,Rennes,1-2,Nice
+18/12/21,CDF,Rennes,1-0,Lorient
+22/12/21,LI1,Monaco,2-1,Rennes
+02/01/22,CDF,Nancy,P1-1P,Rennes
+08/01/22,LI1,Lens,1-0,Rennes
+16/01/22,LI1,Rennes,6-0,Bordeaux
+23/01/22,LI1,Clermont,2-1,Rennes
+06/02/22,LI1,Rennes,2-0,Brest
+11/02/22,LI1,PSG,1-0,Rennes
+20/02/22,LI1,Rennes,4-1,Troyes
+25/02/22,LI1,Montpellier,2-4,Rennes
+06/03/22,LI1,Rennes,2-0,Angers
+10/03/22,UEC,Leicester City,2-0,Rennes
+13/03/22,LI1,Lyon,2-4,Rennes
+17/03/22,UEC,Rennes,2-1,Leicester City
+20/03/22,LI1,Rennes,6-1,Metz
+02/04/22,LI1,Nice,1-1,Rennes
+09/04/22,LI1,Reims,2-3,Rennes
+15/04/22,LI1,Rennes,2-3,Monaco
+20/04/22,LI1,Strasbourg,2-1,Rennes
+24/04/22,LI1,Rennes,5-0,Lorient
+30/04/22,LI1,Rennes,2-0,Saint-Etienne
+11/05/22,LI1,Nantes,2-1,Rennes
+14/05/22,LI1,Rennes,2-0,Marseille
+21/05/22,LI1,Lille,2-2,Rennes
+16/07/22,CLF,Freiburg,1-0,Rennes
+20/07/22,CLF,Caen,1-2,Rennes
+23/07/22,CLF,Augsburg,CANC,Rennes
+27/07/22,CLF,Nantes,0-1,Rennes
+30/07/22,CLF,Rennes,1-2,Aston Villa
+07/08/22,LI1,Rennes,0-1,Lorient
+13/08/22,LI1,Monaco,1-1,Rennes
+21/08/22,LI1,Rennes,2-1,Ajaccio
+27/08/22,LI1,Lens,2-1,Rennes
+28/10/20,UCL,Sevilla,1-0,Rennes
+31/10/20,LI1,Rennes,2-1,Brest
+04/11/20,UCL,Chelsea,3-0,Rennes
+07/11/20,LI1,PSG,3-0,Rennes
+20/11/20,LI1,Rennes,0-1,Bordeaux
+24/11/20,UCL,Rennes,1-2,Chelsea
+27/11/20,LI1,Strasbourg,1-1,Rennes
+02/12/20,UCL,Krasnodar,1-0,Rennes
+05/12/20,LI1,Rennes,0-2,Lens
+08/12/20,UCL,Rennes,1-3,Sevilla
+13/12/20,LI1,Nice,0-1,Rennes
+16/12/20,LI1,Rennes,2-1,Marseille
+20/12/20,LI1,Lorient,0-3,Rennes
+23/12/20,LI1,Rennes,1-0,Metz
+06/01/21,LI1,Nantes,0-0,Rennes
+09/01/21,LI1,Rennes,2-2,Lyon
+17/01/21,LI1,Brest,1-2,Rennes
+24/01/21,LI1,Rennes,0-1,Lille
+03/02/21,LI1,Rennes,1-1,Lorient
+06/02/21,LI1,Lens,0-0,Rennes
+11/02/21,CDF,Angers,2-1,Rennes
+14/02/21,LI1,Rennes,0-2,Saint-Etienne
+21/02/21,LI1,Montpellier,2-1,Rennes
+26/02/21,LI1,Rennes,1-2,Nice
+03/03/21,LI1,Lyon,1-0,Rennes
+10/03/21,LI1,Marseille,1-0,Rennes
+14/03/21,LI1,Rennes,1-0,Strasbourg
+20/03/21,LI1,Metz,1-3,Rennes
+04/04/21,LI1,Reims,2-2,Rennes
+11/04/21,LI1,Rennes,1-0,Nantes
+17/04/21,LI1,Angers,0-3,Rennes
+25/04/21,LI1,Rennes,5-1,Dijon
+02/05/21,LI1,Bordeaux,1-0,Rennes
+09/05/21,LI1,Rennes,1-1,PSG
+16/05/21,LI1,Monaco,2-1,Rennes
+23/05/21,LI1,Rennes,2-0,Nîmes
+10/07/21,CLF,Rennes,2-2,Le Havre
+17/07/21,CLF,Standard Liège,3-3,Rennes
+21/07/21,CLF,Getafe,2-1,Rennes
+24/07/21,CLF,Rennes,1-3,Levante
+31/07/21,CLF,Rennes,1-0,Torino
+08/08/21,LI1,Rennes,1-1,Lens
+15/08/21,LI1,Brest,1-1,Rennes
+19/08/21,UEC,Rennes,2-0,Rosenborg
+22/08/21,LI1,Rennes,1-0,Nantes
+26/08/21,UEC,Rosenborg,1-3,Rennes
+29/08/21,LI1,Angers,2-0,Rennes
+12/09/21,LI1,Rennes,0-2,Reims
+16/09/21,UEC,Rennes,2-2,Tottenham Hotspur
+19/09/21,LI1,Marseille,2-0,Rennes
+28/11/19,UEL,Celtic,3-1,Rennes
+01/12/19,LI1,Rennes,2-1,Saint-Etienne
+04/12/19,LI1,Metz,0-1,Rennes
+07/12/19,LI1,Rennes,2-1,Angers
+12/12/19,UEL,Rennes,2-0,Lazio
+15/12/19,LI1,Lyon,0-1,Rennes
+18/12/19,CDL,Amiens SC,3-2,Rennes
+21/12/19,LI1,Rennes,1-0,Bordeaux
+04/01/20,CDF,Rennes,P0-0P,Amiens SC
+10/01/20,LI1,Rennes,0-1,Marseille
+15/01/20,LI1,Nîmes,0-1,Rennes
+19/01/20,CDF,Athlético Marseille,0-2,Rennes
+24/01/20,LI1,Nice,1-1,Rennes
+28/01/20,CDF,Angers,E4-5E,Rennes
+31/01/20,LI1,Rennes,3-2,Nantes
+04/02/20,LI1,Lille,1-0,Rennes
+08/02/20,LI1,Rennes,0-0,Brest
+11/02/20,CDF,Belfort,0-3,Rennes
+16/02/20,LI1,Reims,1-0,Rennes
+23/02/20,LI1,Rennes,2-1,Nîmes
+29/02/20,LI1,Toulouse,0-2,Rennes
+05/03/20,CDF,Saint-Etienne,2-1,Rennes
+08/03/20,LI1,Rennes,5-0,Montpellier
+15/03/20,LI1,Bordeaux,CANC,Rennes
+21/03/20,LI1,Rennes,CANC,Lyon
+05/04/20,LI1,Amiens SC,CANC,Rennes
+11/04/20,LI1,Saint-Etienne,CANC,Rennes
+18/04/20,LI1,Rennes,CANC,Metz
+26/04/20,LI1,Rennes,CANC,Strasbourg
+02/05/20,LI1,Angers,CANC,Rennes
+09/05/20,LI1,Rennes,CANC,Dijon
+16/05/20,LI1,PSG,CANC,Rennes
+23/05/20,LI1,Rennes,CANC,Monaco
+16/07/20,CLF,Rennes,3-0,Châteauroux
+01/08/20,CLF,Rennes,1-0,Angers
+04/08/20,CLF,Lorient,1-1,Rennes
+08/08/20,CLF,Rennes,2-1,Brest
+12/08/20,CLF,Rennes,3-0,Saint-Etienne
+15/08/20,CLF,Nice,3-2,Rennes
+22/08/20,LI1,Lille,1-1,Rennes
+29/08/20,LI1,Rennes,2-1,Montpellier
+05/09/20,CLF,Benfica,2-0,Rennes
+13/09/20,LI1,Nîmes,2-4,Rennes
+19/09/20,LI1,Rennes,2-1,Monaco
+26/09/20,LI1,Saint-Etienne,0-3,Rennes
+04/10/20,LI1,Rennes,2-2,Reims
+09/10/20,CLF,Rennes,2-0,Lorient
+16/10/20,LI1,Dijon,1-1,Rennes
+20/10/20,UCL,Rennes,1-1,Krasnodar
+23/10/20,LI1,Rennes,1-2,Angers
+13/01/19,LI1,Nantes,0-1,Rennes
+16/01/19,LI1,Guingamp,2-1,Rennes
+20/01/19,LI1,Rennes,0-0,Montpellier
+23/01/19,CDF,St-Pryvé St-Hilaire,0-2,Rennes
+27/01/19,LI1,PSG,4-1,Rennes
+02/02/19,LI1,Rennes,1-0,Amiens SC
+06/02/19,CDF,Rennes,2-1,Lille
+10/02/19,LI1,Rennes,3-0,Saint-Etienne
+14/02/19,UEL,Rennes,3-3,Real Betis
+17/02/19,LI1,Reims,2-0,Rennes
+21/02/19,UEL,Real Betis,1-3,Rennes
+24/02/19,LI1,Rennes,1-1,Marseille
+27/02/19,CDF,Rennes,2-0,Orléans
+07/03/19,UEL,Rennes,3-1,Arsenal
+10/03/19,LI1,Rennes,3-1,Caen
+14/03/19,UEL,Arsenal,3-0,Rennes
+17/03/19,LI1,Bordeaux,1-1,Rennes
+29/03/19,LI1,Rennes,0-1,Lyon
+02/04/19,CDF,Lyon,2-3,Rennes
+06/04/19,LI1,Angers,3-3,Rennes
+09/04/19,LI1,Nîmes,3-1,Rennes
+14/04/19,LI1,Rennes,0-0,Nice
+19/04/19,LI1,Dijon,3-2,Rennes
+27/04/19,CDF,Rennes,P2-2P,PSG
+01/05/19,LI1,Rennes,2-2,Monaco
+05/05/19,LI1,Toulouse,2-2,Rennes
+12/05/19,LI1,Rennes,1-1,Guingamp
+18/05/19,LI1,Strasbourg,0-2,Rennes
+24/05/19,LI1,Rennes,3-1,Lille
+13/07/19,CLF,Celtic,0-0,Rennes
+23/07/19,CLF,Brest,1-0,Rennes
+26/07/19,CLF,RB Leipzig,2-0,Rennes
+03/08/19,TDC,PSG,2-1,Rennes
+10/08/19,LI1,Montpellier,0-1,Rennes
+18/08/19,LI1,Rennes,2-1,PSG
+25/08/19,LI1,Strasbourg,0-2,Rennes
+01/09/19,LI1,Rennes,1-2,Nice
+14/09/19,LI1,Brest,0-0,Rennes
+19/09/19,UEL,Rennes,1-1,Celtic
+22/09/19,LI1,Rennes,1-1,Lille
+25/09/19,LI1,Nantes,1-0,Rennes
+29/09/19,LI1,Marseille,1-1,Rennes
+03/10/19,UEL,Lazio,2-1,Rennes
+06/10/19,LI1,Rennes,0-1,Reims
+20/10/19,LI1,Monaco,3-2,Rennes
+24/10/19,UEL,Rennes,0-1,CFR Cluj
+27/10/19,LI1,Rennes,3-2,Toulouse
+07/11/19,UEL,CFR Cluj,1-0,Rennes
+10/11/19,LI1,Rennes,3-1,Amiens SC
+23/11/19,LI1,Dijon,2-1,Rennes
+17/01/18,LI1,Lille,1-2,Rennes
+20/01/18,LI1,Rennes,1-0,Angers
+26/01/18,LI1,Dijon,2-1,Rennes
+30/01/18,CDL,Rennes,2-3,PSG
+04/02/18,LI1,Rennes,0-1,Guingamp
+11/02/18,LI1,Lyon,0-2,Rennes
+17/02/18,LI1,Caen,2-2,Rennes
+24/02/18,LI1,Rennes,2-0,Troyes
+03/03/18,LI1,Amiens SC,0-2,Rennes
+10/03/18,LI1,Rennes,1-1,Saint-Etienne
+17/03/18,LI1,Bordeaux,0-2,Rennes
+04/04/18,LI1,Rennes,1-1,Monaco
+08/04/18,LI1,Nice,1-1,Rennes
+14/04/18,LI1,Rennes,1-2,Metz
+20/04/18,LI1,Nantes,1-1,Rennes
+29/04/18,LI1,Rennes,2-1,Toulouse
+06/05/18,LI1,Rennes,2-1,Strasbourg
+12/05/18,LI1,PSG,0-2,Rennes
+19/05/18,LI1,Rennes,1-1,Montpellier
+14/07/18,CLF,Salzburg,3-0,Rennes
+21/07/18,CLF,Anderlecht,3-2,Rennes
+28/07/18,CLF,Rennes,4-1,Everton
+03/08/18,CLF,Borussia Dortmund,1-1,Rennes
+11/08/18,LI1,Lille,3-1,Rennes
+18/08/18,LI1,Rennes,1-0,Angers
+26/08/18,LI1,Marseille,2-2,Rennes
+02/09/18,LI1,Rennes,2-0,Bordeaux
+14/09/18,LI1,Nice,2-1,Rennes
+20/09/18,UEL,Rennes,2-1,Jablonec
+23/09/18,LI1,Rennes,1-3,PSG
+26/09/18,LI1,Amiens SC,2-1,Rennes
+30/09/18,LI1,Rennes,1-1,Toulouse
+04/10/18,UEL,Astana,2-0,Rennes
+07/10/18,LI1,Monaco,1-2,Rennes
+21/10/18,LI1,Saint-Etienne,1-1,Rennes
+25/10/18,UEL,Rennes,1-2,Dinamo Kiev
+28/10/18,LI1,Rennes,0-2,Reims
+03/11/18,LI1,Caen,1-2,Rennes
+08/11/18,UEL,Dinamo Kiev,3-1,Rennes
+11/11/18,LI1,Rennes,1-1,Nantes
+25/11/18,LI1,Montpellier,2-2,Rennes
+29/11/18,UEL,Jablonec,0-1,Rennes
+02/12/18,LI1,Rennes,1-4,Strasbourg
+05/12/18,LI1,Lyon,0-2,Rennes
+08/12/18,LI1,Rennes,2-0,Dijon
+13/12/18,UEL,Rennes,2-0,Astana
+19/12/18,CDL,Rennes,2-1,Nantes
+22/12/18,LI1,Rennes,4-0,Nîmes
+06/01/19,CDF,Rennes,P2-2P,Brest
+09/01/19,CDL,Monaco,P1-1P,Rennes
+21/12/16,LI1,Lille,1-1,Rennes
+08/01/17,CDF,Biarritz,0-6,Rennes
+14/01/17,LI1,Rennes,0-1,PSG
+21/01/17,LI1,Guingamp,1-1,Rennes
+28/01/17,LI1,Rennes,1-1,Nantes
+01/02/17,CDF,Rennes,0-4,PSG
+04/02/17,LI1,Bordeaux,1-1,Rennes
+08/02/17,LI1,Angers,0-0,Rennes
+12/02/17,LI1,Rennes,2-2,Nice
+18/02/17,LI1,Marseille,2-0,Rennes
+25/02/17,LI1,Rennes,1-0,Lorient
+04/03/17,LI1,Metz,1-1,Rennes
+11/03/17,LI1,Rennes,1-1,Dijon
+18/03/17,LI1,Toulouse,0-0,Rennes
+02/04/17,LI1,Rennes,1-1,Lyon
+08/04/17,LI1,Nancy,3-0,Rennes
+15/04/17,LI1,Rennes,2-0,Lille
+23/04/17,LI1,Saint-Etienne,1-1,Rennes
+29/04/17,LI1,Bastia,1-0,Rennes
+07/05/17,LI1,Rennes,1-0,Montpellier
+14/05/17,LI1,Caen,0-1,Rennes
+20/05/17,LI1,Rennes,2-3,Monaco
+08/07/17,CLF,Sion,1-0,Rennes
+15/07/17,CLF,Rennes,2-1,Brest
+22/07/17,CLF,Caen,1-2,Rennes
+29/07/17,CLF,Lille,4-2,Rennes
+05/08/17,LI1,Troyes,1-1,Rennes
+11/08/17,LI1,Rennes,1-2,Lyon
+19/08/17,LI1,Rennes,2-2,Dijon
+26/08/17,LI1,Toulouse,3-2,Rennes
+10/09/17,LI1,Marseille,1-3,Rennes
+17/09/17,LI1,Rennes,0-1,Nice
+24/09/17,LI1,Saint-Etienne,2-2,Rennes
+30/09/17,LI1,Rennes,0-1,Caen
+14/10/17,LI1,Guingamp,2-0,Rennes
+21/10/17,LI1,Rennes,1-0,Lille
+25/10/17,CDL,Dijon,1-2,Rennes
+28/10/17,LI1,Montpellier,0-1,Rennes
+03/11/17,LI1,Rennes,1-0,Bordeaux
+18/11/17,LI1,Strasbourg,2-1,Rennes
+25/11/17,LI1,Rennes,2-1,Nantes
+29/11/17,LI1,Angers,1-2,Rennes
+02/12/17,LI1,Rennes,2-0,Amiens SC
+09/12/17,LI1,Metz,1-1,Rennes
+13/12/17,CDL,Rennes,P2-2P,Marseille
+16/12/17,LI1,Rennes,1-4,PSG
+20/12/17,LI1,Monaco,2-1,Rennes
+07/01/18,CDF,Rennes,1-6,PSG
+10/01/18,CDL,Rennes,4-2,Toulouse
+13/01/18,LI1,Rennes,0-3,Marseille
+11/12/15,LI1,Rennes,1-1,Caen
+15/12/15,CDL,Rennes,1-3,Toulouse
+19/12/15,LI1,Guingamp,0-2,Rennes
+04/01/16,CDF,Nice,P2-2P,Rennes
+09/01/16,LI1,Rennes,2-2,Lorient
+16/01/16,LI1,Troyes,2-4,Rennes
+19/01/16,CDF,Rennes,1-3,Bourg-Péronnas
+22/01/16,LI1,Rennes,1-0,Gazélec Ajaccio
+31/01/16,LI1,Bordeaux,4-0,Rennes
+04/02/16,LI1,Rennes,0-1,Saint-Etienne
+07/02/16,LI1,Lille,1-1,Rennes
+12/02/16,LI1,Rennes,1-0,Angers
+21/02/16,LI1,Caen,1-0,Rennes
+27/02/16,LI1,Toulouse,1-2,Rennes
+06/03/16,LI1,Rennes,4-1,Nantes
+13/03/16,LI1,Rennes,2-2,Lyon
+18/03/16,LI1,Marseille,2-5,Rennes
+02/04/16,LI1,Rennes,3-1,Reims
+10/04/16,LI1,Nice,3-0,Rennes
+17/04/16,LI1,Rennes,0-3,Guingamp
+24/04/16,LI1,Rennes,1-1,Monaco
+29/04/16,LI1,PSG,4-0,Rennes
+07/05/16,LI1,Montpellier,2-0,Rennes
+14/05/16,LI1,Rennes,1-2,Bastia
+09/07/16,CLF,Laval,1-1,Rennes
+16/07/16,CLF,Rennes,1-0,USM Alger
+23/07/16,CLF,Rennes,2-0,Angers
+30/07/16,CLF,Rennes,1-2,Guingamp
+06/08/16,CLF,Swansea City,1-0,Rennes
+14/08/16,LI1,Nice,1-0,Rennes
+20/08/16,LI1,Rennes,2-0,Nancy
+27/08/16,LI1,Montpellier,1-1,Rennes
+11/09/16,LI1,Rennes,2-0,Caen
+17/09/16,LI1,Monaco,3-0,Rennes
+21/09/16,LI1,Rennes,3-2,Marseille
+24/09/16,LI1,Dijon,3-0,Rennes
+30/09/16,LI1,Rennes,1-0,Guingamp
+07/10/16,CLF,Brest,0-1,Rennes
+16/10/16,LI1,Rennes,1-1,Bordeaux
+22/10/16,LI1,Nantes,1-2,Rennes
+26/10/16,CDL,Rennes,3-2,Lorient
+30/10/16,LI1,Rennes,1-0,Metz
+06/11/16,LI1,PSG,4-0,Rennes
+19/11/16,LI1,Rennes,1-1,Angers
+25/11/16,LI1,Rennes,1-0,Toulouse
+29/11/16,LI1,Lorient,2-1,Rennes
+04/12/16,LI1,Rennes,2-0,Saint-Etienne
+11/12/16,LI1,Lyon,1-0,Rennes
+14/12/16,CDL,Monaco,7-0,Rennes
+17/12/16,LI1,Rennes,1-2,Bastia
+17/12/14,CDL,Rennes,1-0,Créteil-Lusitanos
+20/12/14,LI1,Rennes,1-3,Reims
+04/01/15,CDF,Dunkerque,1-2,Rennes
+10/01/15,LI1,Evian TG,1-1,Rennes
+13/01/15,CDL,Bastia,3-1,Rennes
+18/01/15,LI1,Rennes,0-0,Saint-Etienne
+22/01/15,CDF,Rennes,P1-1P,Reims
+25/01/15,LI1,Rennes,1-4,Caen
+30/01/15,LI1,PSG,1-0,Rennes
+07/02/15,LI1,Rennes,1-1,Marseille
+11/02/15,CDF,Monaco,3-1,Rennes
+14/02/15,LI1,Toulouse,2-1,Rennes
+21/02/15,LI1,Rennes,1-1,Bordeaux
+28/02/15,LI1,Lens,0-1,Rennes
+07/03/15,LI1,Rennes,1-0,Metz
+15/03/15,LI1,Lille,3-0,Rennes
+21/03/15,LI1,Rennes,0-0,Nantes
+04/04/15,LI1,Lorient,0-3,Rennes
+12/04/15,LI1,Rennes,1-0,Guingamp
+18/04/15,LI1,Monaco,1-1,Rennes
+25/04/15,LI1,Rennes,2-1,Nice
+02/05/15,LI1,Montpellier,0-0,Rennes
+09/05/15,LI1,Rennes,0-1,Bastia
+16/05/15,LI1,Reims,1-0,Rennes
+23/05/15,LI1,Rennes,0-1,Lyon
+04/07/15,CLF,Rennes,1-0,Laval
+08/07/15,CLF,Rennes,1-2,Le Havre
+11/07/15,CLF,Rennes,1-0,Brest
+18/07/15,CLF,Borussia M'gladbach,2-2,Rennes
+21/07/15,CLF,Ulm,3-3,Rennes
+25/07/15,CLF,Celtic,2-0,Rennes
+01/08/15,CLF,Rennes,1-0,Torino
+08/08/15,LI1,Bastia,2-1,Rennes
+15/08/15,LI1,Rennes,1-0,Montpellier
+22/08/15,LI1,Lyon,1-2,Rennes
+29/08/15,LI1,Rennes,3-1,Toulouse
+13/09/15,LI1,Nantes,0-2,Rennes
+18/09/15,LI1,Rennes,1-1,Lille
+23/09/15,LI1,Gazélec Ajaccio,1-1,Rennes
+26/09/15,LI1,Rennes,1-1,Troyes
+04/10/15,LI1,Monaco,1-1,Rennes
+18/10/15,LI1,Rennes,1-4,Nice
+24/10/15,LI1,Lorient,1-1,Rennes
+27/10/15,CDL,Bastia,0-1,Rennes
+30/10/15,LI1,Rennes,0-1,PSG
+06/11/15,LI1,Angers,0-2,Rennes
+22/11/15,LI1,Rennes,2-2,Bordeaux
+28/11/15,LI1,Reims,2-2,Rennes
+03/12/15,LI1,Rennes,0-1,Marseille
+06/12/15,LI1,Saint-Etienne,1-1,Rennes

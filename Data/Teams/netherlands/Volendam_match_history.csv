@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+02/04/23,ERE,Utrecht,0-0,Volendam
+08/04/23,ERE,Heerenveen,2-1,Volendam
+16/04/23,ERE,Volendam,2-3,PSV
+21/04/23,ERE,Volendam,2-0,Cambuur
+05/05/23,ERE,RKC Waalwijk,4-1,Volendam
+13/05/23,ERE,Volendam,2-1,Sparta Rotterdam
+21/05/23,ERE,Go Ahead Eagles,3-0,Volendam
+28/05/23,ERE,Volendam,3-2,Excelsior
+15/07/23,CLF,Volendam,1-2,Gent
+22/07/23,CLF,Kortrijk,2-1,Volendam
+29/07/23,CLF,Volendam,2-0,Lamia
+01/08/23,CLF,Volendam,1-1,Alanyaspor
+05/08/23,CLF,Heracles,1-3,Volendam
+11/08/23,ERE,Volendam,1-2,Vitesse
+19/08/23,ERE,Go Ahead Eagles,4-1,Volendam
+03/09/23,ERE,Volendam,0-2,Twente
+16/09/23,ERE,Fortuna Sittard,3-1,Volendam
+23/09/23,ERE,Volendam,2-2,Heracles
+30/09/23,ERE,PSV,3-1,Volendam
+06/10/23,ERE,Volendam,1-0,Utrecht
+21/10/23,ERE,RKC Waalwijk,2-1,Volendam
+29/10/23,ERE,Volendam,3-1,Excelsior
+02/11/23,ERE,Ajax,2-0,Volendam
+05/11/23,ERE,NEC,3-3,Volendam
+12/11/23,ERE,Volendam,1-4,Sparta Rotterdam
+16/11/23,KNB,Excelsior Maassluis,1-0,Volendam
+26/11/23,ERE,AZ,3-0,Volendam
+02/12/23,ERE,Volendam,0-5,PEC Zwolle
+07/12/23,ERE,Feyenoord,3-1,Volendam
+16/12/23,ERE,Heerenveen,1-2,Volendam
+05/01/24,CLF,Volendam,1-1,Partizani Tirana
+08/01/24,CLF,Volendam,2-0,Winterthur
+14/01/24,ERE,Volendam,0-1,Almere City
+20/01/24,ERE,Heracles,1-1,Volendam
+28/01/24,ERE,Volendam,0-1,Fortuna Sittard
+04/02/24,ERE,Utrecht,4-2,Volendam
+11/02/24,ERE,Volendam,1-5,PSV
+18/02/24,ERE,Vitesse,1-1,Volendam
+25/02/24,ERE,Volendam,0-4,Heerenveen
+01/03/24,ERE,Volendam,2-5,NEC
+10/03/24,ERE,PEC Zwolle,1-1,Volendam
+17/03/24,ERE,Volendam,0-4,AZ
+31/03/24,ERE,Almere City,1-1,Volendam
+04/04/24,ERE,Volendam,0-0,Feyenoord
+07/04/24,ERE,Volendam,3-2,RKC Waalwijk
+12/04/24,ERE,Excelsior,4-0,Volendam
+28/04/24,ERE,Sparta Rotterdam,1-0,Volendam
+05/05/24,ERE,Volendam,14:30,Ajax
+12/05/24,ERE,Twente,14:30,Volendam
+19/05/24,ERE,Volendam,14:30,Go Ahead Eagles
+11/02/22,EED,Volendam,2-1,AZ II
+25/02/22,EED,Volendam,4-1,Helmond Sport
+04/03/22,EED,VVV,0-0,Volendam
+11/03/22,EED,Volendam,2-5,Excelsior
+14/03/22,EED,Emmen,4-1,Volendam
+18/03/22,EED,ADO Den Haag,1-1,Volendam
+01/04/22,EED,Volendam,1-2,TOP Oss
+04/04/22,EED,PSV II,2-2,Volendam
+08/04/22,EED,Volendam,3-1,De Graafschap
+16/04/22,EED,Volendam,3-1,Ajax II
+22/04/22,EED,Den Bosch,1-2,Volendam
+29/04/22,EED,Dordrecht,3-2,Volendam
+06/05/22,EED,Volendam,2-2,Eindhoven
+09/07/22,CLF,Volendam,3-2,Genk
+15/07/22,CLF,NAC Breda,0-0,Volendam
+22/07/22,CLF,Volendam,1-2,AEK Athens
+28/07/22,CLF,Panathinaikos,2-1,Volendam
+29/07/22,CLF,ADO Den Haag,CANC,Volendam
+30/07/22,CLF,Heracles,CANC,Volendam
+07/08/22,ERE,Groningen,2-2,Volendam
+14/08/22,ERE,Volendam,1-4,NEC
+28/08/22,ERE,Volendam,1-0,Twente
+31/08/22,ERE,PSV,7-1,Volendam
+03/09/22,ERE,Sparta Rotterdam,4-0,Volendam
+09/09/22,ERE,Volendam,2-3,Go Ahead Eagles
+17/09/22,ERE,Vitesse,1-1,Volendam
+02/10/22,ERE,Fortuna Sittard,2-0,Volendam
+08/10/22,ERE,Volendam,2-4,Ajax
+14/10/22,ERE,Emmen,1-1,Volendam
+18/10/22,KNB,Harkemase Boys,1-5,Volendam
+23/10/22,ERE,Volendam,1-3,Heerenveen
+30/10/22,ERE,AZ,2-1,Volendam
+06/11/22,ERE,Volendam,0-2,Feyenoord
+12/11/22,ERE,Volendam,0-4,Utrecht
+07/12/22,CLF,Ajax,5-4,Volendam
+15/12/22,CLF,Sevilla,7-0,Volendam
+30/12/22,CLF,Volendam,4-1,NAC Breda
+08/01/23,ERE,Cambuur,0-3,Volendam
+11/01/23,KNB,Heerenveen,2-0,Volendam
+14/01/23,ERE,Volendam,2-1,RKC Waalwijk
+20/01/23,ERE,Excelsior,2-0,Volendam
+26/01/23,ERE,Ajax,1-1,Volendam
+29/01/23,ERE,Volendam,3-2,Groningen
+04/02/23,ERE,Volendam,1-1,AZ
+12/02/23,ERE,Twente,3-0,Volendam
+18/02/23,ERE,Volendam,2-0,Vitesse
+25/02/23,ERE,NEC,3-0,Volendam
+04/03/23,ERE,Volendam,3-1,Emmen
+12/03/23,ERE,Feyenoord,2-1,Volendam
+17/03/23,ERE,Volendam,2-1,Fortuna Sittard
+24/01/21,EED,Volendam,1-4,De Graafschap
+02/02/21,EED,Go Ahead Eagles,1-3,Volendam
+05/02/21,EED,Volendam,0-2,Excelsior
+23/02/21,EED,Volendam,3-2,Ajax II
+27/02/21,EED,Eindhoven,1-1,Volendam
+03/03/21,EED,Almere City,1-2,Volendam
+06/03/21,EED,Volendam,3-4,Roda JC
+12/03/21,EED,Den Bosch,1-5,Volendam
+15/03/21,EED,NEC,1-0,Volendam
+19/03/21,EED,Volendam,2-1,NAC Breda
+02/04/21,EED,Volendam,0-3,Cambuur
+05/04/21,EED,TOP Oss,2-0,Volendam
+09/04/21,EED,Volendam,5-1,Helmond Sport
+16/04/21,EED,Utrecht II,2-3,Volendam
+25/04/21,EED,Volendam,2-0,Telstar
+30/04/21,EED,MVV,2-2,Volendam
+07/05/21,EED,PSV II,0-1,Volendam
+12/05/21,EED,Volendam,2-1,AZ II
+15/05/21,PL1,NAC Breda,4-1,Volendam
+08/07/21,CLF,PEC Zwolle,0-2,Volendam
+16/07/21,CLF,Volendam,2-1,Heracles
+23/07/21,CLF,Groningen,CANC,Volendam
+24/07/21,CLF,AZ II,CANC,Volendam
+31/07/21,CLF,Volendam,4-2,Ajax II
+06/08/21,EED,Eindhoven,2-2,Volendam
+13/08/21,EED,Volendam,1-3,ADO Den Haag
+20/08/21,EED,Excelsior,1-1,Volendam
+27/08/21,EED,Volendam,5-0,MVV
+10/09/21,EED,De Graafschap,0-3,Volendam
+13/09/21,EED,Volendam,2-2,Roda JC
+17/09/21,EED,Volendam,2-1,VVV
+24/09/21,EED,TOP Oss,2-3,Volendam
+01/10/21,EED,Volendam,3-2,Almere City
+15/10/21,EED,Telstar,1-5,Volendam
+18/10/21,EED,Volendam,1-0,NAC Breda
+22/10/21,EED,AZ II,0-1,Volendam
+26/10/21,KNB,Volendam,0-3,Emmen
+29/10/21,EED,Volendam,4-2,Dordrecht
+05/11/21,EED,Volendam,2-2,Emmen
+19/11/21,EED,Ajax II,4-4,Volendam
+22/11/21,EED,Utrecht II,0-1,Volendam
+26/11/21,EED,Volendam,3-0,Den Bosch
+03/12/21,EED,Helmond Sport,1-1,Volendam
+10/12/21,EED,Volendam,3-2,PSV II
+17/12/21,EED,Almere City,2-3,Volendam
+09/01/22,EED,Volendam,2-1,Telstar
+14/01/22,EED,NAC Breda,0-0,Volendam
+21/01/22,EED,MVV,0-1,Volendam
+04/02/22,EED,Volendam,2-0,Utrecht II
+07/02/22,EED,Roda JC,1-1,Volendam
+22/11/19,EED,Excelsior,1-2,Volendam
+29/11/19,EED,Volendam,3-1,NEC
+06/12/19,EED,Eindhoven,1-4,Volendam
+13/12/19,EED,Volendam,4-1,MVV
+20/12/19,EED,Volendam,3-3,De Graafschap
+10/01/20,EED,Cambuur,1-2,Volendam
+17/01/20,EED,Volendam,4-2,PSV II
+24/01/20,EED,Roda JC,2-3,Volendam
+31/01/20,EED,Volendam,2-1,Helmond Sport
+10/02/20,EED,AZ II,1-1,Volendam
+14/02/20,EED,Volendam,1-1,Telstar
+24/02/20,EED,Utrecht II,2-1,Volendam
+28/02/20,EED,Volendam,2-2,Go Ahead Eagles
+06/03/20,EED,Volendam,4-0,Ajax II
+13/03/20,EED,NEC,CANC,Volendam
+20/03/20,EED,Volendam,CANC,Almere City
+29/03/20,EED,MVV,CANC,Volendam
+03/04/20,EED,Volendam,CANC,TOP Oss
+10/04/20,EED,Dordrecht,CANC,Volendam
+13/04/20,EED,Volendam,CANC,Excelsior
+18/04/20,EED,NAC Breda,CANC,Volendam
+24/04/20,EED,Volendam,CANC,Eindhoven
+01/05/20,EED,Den Bosch,CANC,Volendam
+26/07/20,CLF,Volendam,0-5,Vitesse
+05/08/20,CLF,Volendam,5-0,RKAV Volendam
+09/08/20,CLF,De Graafschap,1-2,Volendam
+14/08/20,CLF,Cambuur,0-4,Volendam
+21/08/20,CLF,Volendam,0-2,Groningen
+30/08/20,EED,Telstar,2-2,Volendam
+11/09/20,EED,Volendam,0-1,Utrecht II
+15/09/20,EED,Volendam,1-3,NEC
+18/09/20,EED,Helmond Sport,0-1,Volendam
+27/09/20,EED,Volendam,0-0,Go Ahead Eagles
+04/10/20,EED,Roda JC,1-1,Volendam
+16/10/20,EED,Volendam,5-1,PSV II
+19/10/20,EED,AZ II,2-6,Volendam
+23/10/20,EED,Volendam,7-1,Dordrecht
+01/11/20,EED,Volendam,2-0,Eindhoven
+07/11/20,EED,De Graafschap,2-5,Volendam
+20/11/20,EED,Volendam,1-1,TOP Oss
+23/11/20,EED,Ajax II,1-1,Volendam
+27/11/20,EED,Volendam,2-2,Almere City
+01/12/20,KNB,ODIN '59,CANC,Volendam
+07/12/20,EED,Excelsior,2-3,Volendam
+11/12/20,EED,Volendam,6-0,Den Bosch
+18/12/20,EED,NAC Breda,3-0,Volendam
+03/01/21,EED,Volendam,0-1,MVV
+08/01/21,EED,Cambuur,0-1,Volendam
+15/01/21,EED,Dordrecht,0-0,Volendam
+19/01/21,KNB,Volendam,0-2,PSV
+02/11/18,EED,Dordrecht,1-2,Volendam
+09/11/18,EED,Volendam,3-2,MVV
+17/11/18,EED,Cambuur,1-1,Volendam
+23/11/18,EED,Volendam,2-0,Utrecht II
+30/11/18,EED,NEC,5-1,Volendam
+07/12/18,EED,Volendam,1-2,Twente
+14/12/18,EED,Roda JC,2-1,Volendam
+21/12/18,EED,Volendam,1-0,Telstar
+04/01/19,CLF,Volendam,5-0,Kloetinge
+13/01/19,EED,Almere City,0-2,Volendam
+18/01/19,EED,Volendam,1-3,Eindhoven
+28/01/19,EED,Ajax II,1-3,Volendam
+01/02/19,EED,Volendam,2-2,Sparta Rotterdam
+08/02/19,EED,Den Bosch,1-1,Volendam
+15/02/19,EED,Volendam,1-0,Helmond Sport
+22/02/19,EED,RKC Waalwijk,3-3,Volendam
+04/03/19,EED,AZ II,1-1,Volendam
+08/03/19,EED,Volendam,0-1,Go Ahead Eagles
+15/03/19,EED,Twente,5-0,Volendam
+22/03/19,EED,Volendam,0-1,Cambuur
+29/03/19,EED,MVV,1-1,Volendam
+01/04/19,EED,Volendam,3-4,Dordrecht
+05/04/19,EED,TOP Oss,0-0,Volendam
+12/04/19,EED,Volendam,0-3,PSV II
+19/04/19,EED,Volendam,2-3,NEC
+22/04/19,EED,Utrecht II,3-1,Volendam
+26/04/19,EED,Telstar,1-1,Volendam
+03/05/19,EED,Volendam,1-1,Roda JC
+06/07/19,CLF,Purmersteijn,0-6,Volendam
+13/07/19,CLF,Heerenveen,1-4,Volendam
+20/07/19,CLF,Volendam,2-1,Heracles
+27/07/19,CLF,Noordwijk,0-2,Volendam
+31/07/19,CLF,Fortuna Wormerveer,CANC,Volendam
+02/08/19,CLF,Cambuur,2-4,Volendam
+09/08/19,EED,Helmond Sport,1-1,Volendam
+16/08/19,EED,Volendam,4-0,Roda JC
+23/08/19,EED,De Graafschap,3-0,Volendam
+30/08/19,EED,Volendam,2-1,NAC Breda
+08/09/19,EED,Almere City,1-0,Volendam
+13/09/19,EED,Volendam,1-1,Dordrecht
+20/09/19,EED,Telstar,1-2,Volendam
+27/09/19,EED,Volendam,0-4,Cambuur
+04/10/19,EED,PSV II,3-1,Volendam
+13/10/19,EED,Volendam,1-1,Den Bosch
+18/10/19,EED,Go Ahead Eagles,3-0,Volendam
+25/10/19,EED,Volendam,3-2,AZ II
+30/10/19,KNB,Sparta Rotterdam,1-0,Volendam
+04/11/19,EED,Ajax II,1-3,Volendam
+08/11/19,EED,Volendam,1-0,Utrecht II
+15/11/19,EED,TOP Oss,1-2,Volendam
+29/10/17,EED,MVV,2-1,Volendam
+03/11/17,EED,Volendam,1-0,PSV II
+08/11/17,CLF,Sparta Rotterdam,4-0,Volendam
+17/11/17,EED,Den Bosch,3-1,Volendam
+24/11/17,EED,Volendam,2-3,Emmen
+27/11/17,EED,AZ II,0-2,Volendam
+01/12/17,EED,Volendam,1-1,Almere City
+08/12/17,EED,Volendam,2-1,Utrecht II
+15/12/17,EED,RKC Waalwijk,1-3,Volendam
+22/12/17,EED,Ajax II,7-0,Volendam
+06/01/18,CLF,Ajax II,2-3,Volendam
+12/01/18,EED,Volendam,3-1,TOP Oss
+19/01/18,EED,Helmond Sport,1-4,Volendam
+28/01/18,EED,Volendam,4-3,Go Ahead Eagles
+02/02/18,EED,Volendam,2-0,Fortuna Sittard
+09/02/18,EED,De Graafschap,2-1,Volendam
+16/02/18,EED,Volendam,4-1,Dordrecht
+23/02/18,EED,Telstar,5-2,Volendam
+02/03/18,EED,Volendam,3-2,Eindhoven
+09/03/18,EED,NEC,3-0,Volendam
+12/03/18,EED,Volendam,2-2,MVV
+16/03/18,EED,PSV II,2-1,Volendam
+25/03/18,EED,Volendam,1-0,Den Bosch
+30/03/18,EED,Cambuur,2-2,Volendam
+02/04/18,EED,Volendam,4-1,AZ II
+06/04/18,EED,Emmen,2-3,Volendam
+09/04/18,EED,Utrecht II,2-1,Volendam
+13/04/18,EED,Volendam,0-1,RKC Waalwijk
+20/04/18,EED,Volendam,1-2,Ajax II
+28/04/18,EED,Almere City,2-0,Volendam
+11/07/18,CLF,Purmersteijn,2-2,Volendam
+20/07/18,CLF,Volendam,1-2,Almere City
+24/07/18,CLF,Heracles,5-2,Volendam
+28/07/18,CLF,Volendam,0-2,Dordrecht
+04/08/18,CLF,VVV,2-0,Volendam
+07/08/18,CLF,Lisse,0-1,Volendam
+10/08/18,CLF,Volendam,3-3,AZ II
+17/08/18,EED,Volendam,1-2,Den Bosch
+18/08/18,CLF,Katwijk,CANC,Volendam
+24/08/18,EED,Sparta Rotterdam,2-0,Volendam
+31/08/18,EED,Volendam,1-1,AZ II
+07/09/18,EED,Go Ahead Eagles,3-0,Volendam
+14/09/18,EED,Volendam,0-0,TOP Oss
+21/09/18,EED,PSV II,1-0,Volendam
+25/09/18,KNB,Volendam,1-2,Willem II
+28/09/18,EED,Helmond Sport,2-2,Volendam
+05/10/18,EED,Volendam,1-0,RKC Waalwijk
+12/10/18,EED,Volendam,2-2,Almere City
+19/10/18,EED,Eindhoven,1-1,Volendam
+26/10/18,EED,Volendam,3-1,Ajax II
+18/11/16,EED,Volendam,1-1,RKC Waalwijk
+25/11/16,EED,Volendam,1-0,PSV II
+28/11/16,EED,De Graafschap,1-1,Volendam
+02/12/16,EED,Volendam,3-0,Fortuna Sittard
+09/12/16,EED,Achilles '29,0-6,Volendam
+13/12/16,KNB,Volendam,4-1,VVSB
+16/12/16,EED,Volendam,3-1,TOP Oss
+07/01/17,CLF,Volendam,CANC,USV Hercules
+13/01/17,EED,Almere City,2-2,Volendam
+20/01/17,EED,Volendam,3-1,Eindhoven
+24/01/17,KNB,Volendam,P1-1P,Sparta Rotterdam
+27/01/17,EED,Telstar,0-1,Volendam
+03/02/17,EED,Emmen,3-1,Volendam
+06/02/17,EED,Volendam,2-1,Den Bosch
+13/02/17,EED,Utrecht II,2-4,Volendam
+17/02/17,EED,Volendam,0-1,VVV
+24/02/17,EED,NAC Breda,1-0,Volendam
+03/03/17,EED,Volendam,1-1,Dordrecht
+10/03/17,EED,Volendam,1-0,Helmond Sport
+13/03/17,EED,Ajax II,1-1,Volendam
+19/03/17,EED,Volendam,1-1,Cambuur
+31/03/17,EED,RKC Waalwijk,1-4,Volendam
+10/04/17,EED,PSV II,2-0,Volendam
+14/04/17,EED,Volendam,2-2,De Graafschap
+17/04/17,EED,Volendam,1-2,Achilles '29
+21/04/17,EED,TOP Oss,2-2,Volendam
+28/04/17,EED,Volendam,3-1,MVV
+05/05/17,EED,Fortuna Sittard,3-0,Volendam
+18/05/17,PL1,Volendam,2-2,NAC Breda
+21/05/17,PL1,NAC Breda,2-0,Volendam
+07/07/17,CLF,ACV,1-4,Volendam
+08/07/17,CLF,Spartans,2-5,Volendam
+15/07/17,CLF,NAC Breda,2-1,Volendam
+18/07/17,CLF,Heerenveen,3-1,Volendam
+22/07/17,CLF,SVW '27,0-8,Volendam
+28/07/17,CLF,Volendam,2-2,PEC Zwolle
+05/08/17,CLF,De Dijk,0-4,Volendam
+12/08/17,CLF,Telstar,CANC,Volendam
+18/08/17,EED,Volendam,2-2,Helmond Sport
+25/08/17,EED,TOP Oss,1-0,Volendam
+03/09/17,EED,Volendam,0-1,Cambuur
+08/09/17,EED,Go Ahead Eagles,1-1,Volendam
+15/09/17,EED,Fortuna Sittard,1-0,Volendam
+19/09/17,KNB,Quick Boys,1-3,Volendam
+22/09/17,EED,Volendam,0-0,De Graafschap
+29/09/17,EED,Dordrecht,2-2,Volendam
+06/10/17,EED,Volendam,3-4,Telstar
+13/10/17,EED,Eindhoven,1-0,Volendam
+20/10/17,EED,Volendam,0-2,NEC
+26/10/17,KNB,Volendam,E0-2E,PSV
+18/10/15,EED,MVV,3-1,Volendam
+23/10/15,EED,Volendam,0-2,Emmen
+30/10/15,EED,Volendam,1-2,Eindhoven
+06/11/15,EED,Telstar,1-1,Volendam
+20/11/15,EED,Volendam,3-0,RKC Waalwijk
+27/11/15,EED,Achilles '29,0-0,Volendam
+30/11/15,EED,Volendam,1-0,Go Ahead Eagles
+04/12/15,EED,Sparta Rotterdam,3-1,Volendam
+11/12/15,EED,Volendam,1-1,TOP Oss
+21/12/15,EED,Ajax II,2-0,Volendam
+09/01/16,CLF,Utrecht,5-1,Volendam
+15/01/16,EED,Volendam,1-2,NAC Breda
+18/01/16,EED,Den Bosch,0-0,Volendam
+22/01/16,EED,Volendam,2-2,Dordrecht
+29/01/16,EED,VVV,3-0,Volendam
+05/02/16,EED,Volendam,1-0,Fortuna Sittard
+12/02/16,EED,PSV II,2-2,Volendam
+15/02/16,EED,Volendam,2-1,Helmond Sport
+19/02/16,EED,Almere City,2-2,Volendam
+06/03/16,EED,Volendam,0-1,MVV
+11/03/16,EED,Eindhoven,1-0,Volendam
+14/03/16,EED,Volendam,3-0,Telstar
+18/03/16,EED,RKC Waalwijk,2-1,Volendam
+01/04/16,EED,Emmen,1-0,Volendam
+08/04/16,EED,Volendam,0-0,Achilles '29
+11/04/16,EED,Go Ahead Eagles,3-2,Volendam
+15/04/16,EED,Volendam,2-0,Sparta Rotterdam
+22/04/16,EED,Volendam,1-1,Ajax II
+29/04/16,EED,TOP Oss,1-2,Volendam
+02/05/16,PL1,MVV,2-1,Volendam
+06/05/16,PL1,Volendam,1-2,MVV
+09/07/16,CLF,AZ,8-1,Volendam
+15/07/16,CLF,Volendam,1-3,Sparta Rotterdam
+26/07/16,CLF,Spakenburg,0-1,Volendam
+05/08/16,EED,Volendam,1-1,Almere City
+12/08/16,EED,Eindhoven,0-1,Volendam
+19/08/16,EED,Volendam,3-0,Telstar
+22/08/16,EED,Den Bosch,2-5,Volendam
+26/08/16,EED,Volendam,0-1,Emmen
+09/09/16,EED,VVV,0-1,Volendam
+16/09/16,EED,Volendam,2-2,Utrecht II
+20/09/16,KNB,Volendam,P3-3P,MVV
+24/09/16,EED,Dordrecht,1-0,Volendam
+30/09/16,EED,Volendam,2-1,NAC Breda
+14/10/16,EED,Helmond Sport,2-0,Volendam
+21/10/16,EED,Volendam,1-1,Ajax II
+25/10/16,KNB,Volendam,E2-1E,Almere City
+28/10/16,EED,MVV,1-2,Volendam
+04/11/16,EED,Cambuur,2-1,Volendam
+09/11/16,CLF,Heerenveen,2-1,Volendam
+29/10/14,KNB,Volendam,3-0,Sportlust '46
+03/11/14,EED,Twente II,3-3,Volendam
+07/11/14,EED,Volendam,1-0,PSV II
+21/11/14,EED,VVV,4-2,Volendam
+28/11/14,EED,Volendam,2-3,Eindhoven
+01/12/14,EED,Achilles '29,2-4,Volendam
+07/12/14,EED,Volendam,1-0,Telstar
+12/12/14,EED,Emmen,4-1,Volendam
+17/12/14,KNB,Groningen,3-0,Volendam
+20/12/14,EED,Helmond Sport,3-4,Volendam
+17/01/15,EED,Volendam,2-2,TOP Oss
+23/01/15,EED,Den Bosch,0-5,Volendam
+30/01/15,EED,Volendam,1-1,Sparta Rotterdam
+06/02/15,EED,Volendam,3-4,Ajax II
+09/02/15,EED,Roda JC,3-2,Volendam
+13/02/15,EED,Volendam,2-0,RKC Waalwijk
+20/02/15,EED,Telstar,1-1,Volendam
+27/02/15,EED,Volendam,3-2,Emmen
+07/03/15,EED,Eindhoven,3-1,Volendam
+13/03/15,EED,Volendam,1-0,Achilles '29
+16/03/15,EED,NEC,7-0,Volendam
+20/03/15,EED,Volendam,4-1,Helmond Sport
+03/04/15,EED,Volendam,2-2,Twente II
+06/04/15,EED,De Graafschap,0-2,Volendam
+10/04/15,EED,MVV,6-2,Volendam
+17/04/15,EED,Volendam,2-4,Fortuna Sittard
+24/04/15,EED,Almere City,1-1,Volendam
+01/05/15,EED,Volendam,1-1,VVV
+08/05/15,EED,PSV II,2-0,Volendam
+22/05/15,PL1,Volendam,2-1,Eindhoven
+25/05/15,PL1,Eindhoven,1-1,Volendam
+28/05/15,PL1,De Graafschap,0-0,Volendam
+31/05/15,PL1,Volendam,0-1,De Graafschap
+05/07/15,CLF,vv K.G.B.,0-6,Volendam
+11/07/15,CLF,Heerenveen,4-1,Volendam
+14/07/15,CLF,Volendam,1-3,Istanbul Basaksehir
+17/07/15,CLF,Cambuur,2-1,Volendam
+21/07/15,CLF,Volendam,4-3,Altınordu
+24/07/15,CLF,Bruse Boys,0-7,Volendam
+28/07/15,CLF,SVW '27,1-15,Volendam
+31/07/15,CLF,Volendam,3-0,PSV II
+07/08/15,EED,NAC Breda,1-4,Volendam
+14/08/15,EED,Volendam,2-0,Den Bosch
+21/08/15,EED,Dordrecht,1-3,Volendam
+24/08/15,EED,Fortuna Sittard,0-6,Volendam
+28/08/15,EED,Volendam,1-1,VVV
+11/09/15,EED,Volendam,3-0,PSV II
+18/09/15,EED,Helmond Sport,0-2,Volendam
+22/09/15,KNB,Lienden,1-0,Volendam
+25/09/15,EED,Volendam,3-1,Almere City
+20/09/13,EED,Volendam,0-3,Helmond Sport
+25/09/13,KNB,Ajax,E4-2E,Volendam
+30/09/13,EED,Ajax II,2-3,Volendam
+04/10/13,EED,Volendam,3-1,TOP Oss
+14/10/13,EED,PSV II,3-0,Volendam
+20/10/13,EED,Volendam,4-2,Twente II
+27/10/13,EED,Volendam,0-1,De Graafschap
+02/11/13,EED,Achilles '29,0-2,Volendam
+10/11/13,EED,Volendam,1-1,VVV
+17/11/13,EED,MVV,1-2,Volendam
+22/11/13,EED,Volendam,1-5,Emmen
+01/12/13,EED,Volendam,2-2,Dordrecht
+06/12/13,EED,Eindhoven,3-3,Volendam
+13/12/13,EED,Volendam,0-2,Willem II
+22/12/13,EED,Volendam,2-1,Fortuna Sittard
+11/01/14,CLF,Volendam,9-2,HBOK
+13/01/14,CLF,Volendam,17-1,Marken
+17/01/14,EED,Telstar,2-1,Volendam
+26/01/14,EED,Sparta Rotterdam,1-2,Volendam
+02/02/14,EED,Volendam,3-1,Almere City
+10/02/14,EED,Twente II,2-4,Volendam
+14/02/14,EED,De Graafschap,2-2,Volendam
+21/02/14,EED,Volendam,0-1,MVV
+01/03/14,EED,Emmen,4-1,Volendam
+08/03/14,EED,Dordrecht,3-3,Volendam
+16/03/14,EED,Volendam,0-2,Den Bosch
+21/03/14,EED,Volendam,3-1,PSV II
+28/03/14,EED,Excelsior,2-1,Volendam
+04/04/14,EED,Helmond Sport,0-1,Volendam
+11/04/14,EED,Volendam,1-0,Ajax II
+18/04/14,EED,TOP Oss,2-2,Volendam
+21/04/14,EED,Volendam,5-1,Achilles '29
+25/04/14,EED,VVV,4-0,Volendam
+11/07/14,CLF,Roda JC,4-0,Volendam
+15/07/14,CLF,Volendam,0-1,Team VVCS
+18/07/14,CLF,Almere City,0-2,Volendam
+26/07/14,CLF,NAC Breda,2-0,Volendam
+29/07/14,CLF,Cambuur,2-1,Volendam
+08/08/14,EED,TOP Oss,0-4,Volendam
+15/08/14,EED,Volendam,0-2,NEC
+22/08/14,EED,Ajax II,0-5,Volendam
+25/08/14,EED,Volendam,3-0,Roda JC
+29/08/14,EED,Sparta Rotterdam,0-5,Volendam
+14/09/14,EED,Volendam,2-2,Den Bosch
+20/09/14,EED,RKC Waalwijk,1-3,Volendam
+23/09/14,KNB,Capelle,0-1,Volendam
+28/09/14,EED,Volendam,3-0,MVV
+03/10/14,EED,Fortuna Sittard,0-1,Volendam
+17/10/14,EED,Volendam,2-3,Almere City
+24/10/14,EED,Volendam,2-1,De Graafschap

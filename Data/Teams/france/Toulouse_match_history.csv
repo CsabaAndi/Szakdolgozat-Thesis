@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+15/07/23,CLF,Montpellier,3-1,Toulouse
+19/07/23,CLF,Toulouse,0-0,FC Andorra
+22/07/23,CLF,Werder Bremen,5-2,Toulouse
+29/07/23,CLF,Toulouse,2-1,Osasuna
+06/08/23,CLF,Toulouse,2-1,Roma
+13/08/23,LI1,Nantes,1-2,Toulouse
+19/08/23,LI1,Toulouse,1-1,PSG
+27/08/23,LI1,Strasbourg,2-0,Toulouse
+03/09/23,LI1,Toulouse,2-2,Clermont
+17/09/23,LI1,Marseille,0-0,Toulouse
+21/09/23,UEL,Union Saint-Gilloise,1-1,Toulouse
+24/09/23,LI1,Lens,2-1,Toulouse
+01/10/23,LI1,Toulouse,3-0,Metz
+05/10/23,UEL,Toulouse,1-0,LASK
+08/10/23,LI1,Brest,1-1,Toulouse
+22/10/23,LI1,Toulouse,1-1,Reims
+26/10/23,UEL,Liverpool,5-1,Toulouse
+29/10/23,LI1,Montpellier,3-0,Toulouse
+05/11/23,LI1,Toulouse,1-2,Le Havre
+09/11/23,UEL,Toulouse,3-2,Liverpool
+12/11/23,LI1,Lille,1-1,Toulouse
+26/11/23,LI1,Nice,1-0,Toulouse
+30/11/23,UEL,Toulouse,0-0,Union Saint-Gilloise
+03/12/23,LI1,Toulouse,1-1,Lorient
+10/12/23,LI1,Lyon,3-0,Toulouse
+14/12/23,UEL,LASK,1-2,Toulouse
+17/12/23,LI1,Toulouse,0-0,Rennes
+20/12/23,LI1,Toulouse,1-2,Monaco
+03/01/24,TDC,PSG,2-0,Toulouse
+07/01/24,CDF,Chambéry,0-3,Toulouse
+14/01/24,LI1,Metz,0-1,Toulouse
+21/01/24,CDF,Rouen,P3-3P,Toulouse
+28/01/24,LI1,Toulouse,0-2,Lens
+04/02/24,LI1,Reims,2-3,Toulouse
+11/02/24,LI1,Toulouse,1-2,Nantes
+15/02/24,UEL,Benfica,2-1,Toulouse
+18/02/24,LI1,Monaco,1-2,Toulouse
+22/02/24,UEL,Toulouse,0-0,Benfica
+25/02/24,LI1,Toulouse,3-1,Lille
+03/03/24,LI1,Toulouse,2-1,Nice
+10/03/24,LI1,Le Havre,1-0,Toulouse
+15/03/24,LI1,Toulouse,2-3,Lyon
+31/03/24,LI1,Clermont,0-3,Toulouse
+07/04/24,LI1,Toulouse,0-0,Strasbourg
+13/04/24,LI1,Rennes,1-2,Toulouse
+21/04/24,LI1,Toulouse,2-2,Marseille
+28/04/24,LI1,Lorient,1-2,Toulouse
+03/05/24,LI1,Toulouse,19:00,Montpellier
+12/05/24,LI1,PSG,21:00,Toulouse
+19/05/24,LI1,Toulouse,21:00,Brest
+23/07/22,CLF,Montpellier,4-5,Toulouse
+30/07/22,CLF,Toulouse,0-1,Clermont
+07/08/22,LI1,Toulouse,1-1,Nice
+14/08/22,LI1,Troyes,0-3,Toulouse
+21/08/22,LI1,Toulouse,2-2,Lorient
+28/08/22,LI1,Nantes,3-1,Toulouse
+31/08/22,LI1,Toulouse,0-3,PSG
+04/09/22,LI1,Clermont,2-0,Toulouse
+11/09/22,LI1,Toulouse,1-0,Reims
+17/09/22,LI1,Lille,2-1,Toulouse
+02/10/22,LI1,Toulouse,4-2,Montpellier
+07/10/22,LI1,Lyon,1-1,Toulouse
+16/10/22,LI1,Toulouse,3-2,Angers
+23/10/22,LI1,Toulouse,2-2,Strasbourg
+28/10/22,LI1,Lens,3-0,Toulouse
+06/11/22,LI1,Toulouse,0-2,Monaco
+12/11/22,LI1,Rennes,2-1,Toulouse
+13/12/22,CLF,Istanbul Basaksehir,2-2,Toulouse
+16/12/22,CLF,Galatasaray,2-1,Toulouse
+20/12/22,CLF,Montpellier,CANC,Toulouse
+29/12/22,LI1,Marseille,6-1,Toulouse
+01/01/23,LI1,Toulouse,2-0,Ajaccio
+08/01/23,CDF,Lannion,1-7,Toulouse
+11/01/23,LI1,Auxerre,0-5,Toulouse
+15/01/23,LI1,Toulouse,1-1,Brest
+21/01/23,CDF,Toulouse,2-0,Ajaccio
+29/01/23,LI1,Strasbourg,1-2,Toulouse
+01/02/23,LI1,Toulouse,4-1,Troyes
+04/02/23,LI1,PSG,2-1,Toulouse
+08/02/23,CDF,Toulouse,3-1,Reims
+12/02/23,LI1,Toulouse,3-1,Rennes
+19/02/23,LI1,Toulouse,2-3,Marseille
+26/02/23,LI1,Reims,3-0,Toulouse
+01/03/23,CDF,Toulouse,6-1,Rodez
+05/03/23,LI1,Toulouse,0-1,Clermont
+12/03/23,LI1,Angers,0-2,Toulouse
+18/03/23,LI1,Toulouse,0-2,Lille
+24/03/23,CLF,Toulouse,4-0,Rodez
+02/04/23,LI1,Brest,3-1,Toulouse
+06/04/23,CDF,Annecy,1-2,Toulouse
+09/04/23,LI1,Montpellier,1-2,Toulouse
+14/04/23,LI1,Toulouse,1-2,Lyon
+23/04/23,LI1,Lorient,0-1,Toulouse
+29/04/23,CDF,Nantes,1-5,Toulouse
+02/05/23,LI1,Toulouse,0-1,Lens
+07/05/23,LI1,Ajaccio,0-0,Toulouse
+14/05/23,LI1,Toulouse,0-0,Nantes
+21/05/23,LI1,Nice,0-0,Toulouse
+27/05/23,LI1,Toulouse,1-1,Auxerre
+03/06/23,LI1,Monaco,1-2,Toulouse
+17/07/21,CLF,Toulouse,2-0,Rodez
+24/07/21,LI2,Toulouse,2-2,Ajaccio
+31/07/21,LI2,Nancy,0-4,Toulouse
+07/08/21,LI2,Pau,0-1,Toulouse
+14/08/21,LI2,Toulouse,1-0,Bastia
+21/08/21,LI2,Dijon,2-4,Toulouse
+28/08/21,LI2,Toulouse,1-0,Valenciennes
+03/09/21,CLF,Toulouse,3-2,Pau
+13/09/21,LI2,Le Havre,1-1,Toulouse
+18/09/21,LI2,Toulouse,4-1,Grenoble Foot 38
+21/09/21,LI2,Dunkerque,0-2,Toulouse
+27/09/21,LI2,Toulouse,2-3,Caen
+02/10/21,LI2,Amiens SC,0-0,Toulouse
+16/10/21,LI2,Toulouse,6-0,Auxerre
+23/10/21,LI2,Paris FC,2-2,Toulouse
+30/10/21,LI2,Toulouse,2-2,Guingamp
+06/11/21,LI2,Quevilly-Rouen Métropole,0-0,Toulouse
+13/11/21,CDF,Libourne,P0-0P,Toulouse
+20/11/21,LI2,Toulouse,4-1,Sochaux
+28/11/21,CDF,Trélissac,1-3,Toulouse
+06/12/21,LI2,Niort,2-1,Toulouse
+13/12/21,LI2,Toulouse,1-1,Rodez
+18/12/21,CDF,Toulouse,4-1,Nîmes
+21/12/21,LI2,Nîmes,1-2,Toulouse
+02/01/22,CDF,Cannes,0-1,Toulouse
+15/01/22,LI2,Toulouse,1-1,Pau
+19/01/22,LI2,Toulouse,4-0,Nancy
+22/01/22,LI2,Bastia,0-0,Toulouse
+29/01/22,CDF,Toulouse,0-1,Versailles
+05/02/22,LI2,Toulouse,4-1,Dijon
+12/02/22,LI2,Valenciennes,1-3,Toulouse
+21/02/22,LI2,Toulouse,4-0,Le Havre
+28/02/22,LI2,Grenoble Foot 38,0-2,Toulouse
+07/03/22,LI2,Toulouse,2-0,Dunkerque
+12/03/22,LI2,Caen,4-1,Toulouse
+15/03/22,LI2,Toulouse,6-0,Amiens SC
+19/03/22,LI2,Auxerre,1-2,Toulouse
+02/04/22,LI2,Toulouse,2-1,Paris FC
+09/04/22,LI2,Guingamp,2-4,Toulouse
+16/04/22,LI2,Toulouse,2-0,Quevilly-Rouen Métropole
+19/04/22,LI2,Sochaux,1-1,Toulouse
+25/04/22,LI2,Toulouse,2-0,Niort
+02/05/22,LI2,Rodez,1-0,Toulouse
+07/05/22,LI2,Toulouse,2-1,Nîmes
+14/05/22,LI2,Ajaccio,1-0,Toulouse
+02/07/22,CLF,Toulouse,2-0,Nîmes
+09/07/22,CLF,Toulouse,6-1,Troyes
+12/07/22,CLF,Toulouse,CANC,Pau
+16/07/22,CLF,Real Sociedad,0-1,Toulouse
+19/07/22,CLF,Osasuna,3-3,Toulouse
+31/07/20,CLF,Toulouse,2-2,Pau
+04/08/20,CLF,Bordeaux,0-0,Toulouse
+08/08/20,CLF,Toulouse,CANC,Rodez
+15/08/20,CLF,Toulouse,1-2,Niort
+22/08/20,LI2,Toulouse,0-1,Dunkerque
+29/08/20,LI2,Grenoble Foot 38,5-3,Toulouse
+14/09/20,LI2,Toulouse,0-0,Sochaux
+19/09/20,LI2,Clermont,1-1,Toulouse
+26/09/20,LI2,Toulouse,3-1,Auxerre
+03/10/20,LI2,Toulouse,0-0,Troyes
+17/10/20,LI2,Ajaccio,0-1,Toulouse
+24/10/20,LI2,Toulouse,3-0,Rodez
+02/11/20,LI2,Amiens SC,0-1,Toulouse
+07/11/20,LI2,Toulouse,4-5,Valenciennes
+21/11/20,LI2,Chambly-Oise,1-1,Toulouse
+28/11/20,LI2,Toulouse,2-1,Niort
+01/12/20,LI2,Nancy,1-3,Toulouse
+05/12/20,LI2,Toulouse,2-2,Guingamp
+12/12/20,LI2,Châteauroux,0-3,Toulouse
+19/12/20,LI2,Toulouse,4-3,Le Havre
+22/12/20,LI2,Pau,0-3,Toulouse
+05/01/21,LI2,Toulouse,1-0,Paris FC
+11/01/21,LI2,Caen,2-2,Toulouse
+16/01/21,LI2,Toulouse,2-0,Grenoble Foot 38
+20/01/21,CDF,Toulouse,1-0,Niort
+25/01/21,LI2,Sochaux,0-1,Toulouse
+30/01/21,LI2,Toulouse,3-2,Clermont
+02/02/21,LI2,Auxerre,3-1,Toulouse
+06/02/21,LI2,Troyes,1-1,Toulouse
+10/02/21,CDF,Bordeaux,0-2,Toulouse
+15/02/21,LI2,Toulouse,3-0,Ajaccio
+20/02/21,LI2,Rodez,1-0,Toulouse
+27/02/21,LI2,Toulouse,3-0,Amiens SC
+02/03/21,LI2,Valenciennes,1-0,Toulouse
+05/03/21,CDF,Aubagne,0-2,Toulouse
+13/03/21,LI2,Toulouse,4-0,Chambly-Oise
+20/03/21,LI2,Niort,1-0,Toulouse
+03/04/21,LI2,Toulouse,4-1,Nancy
+07/04/21,CDF,Saumur,1-2,Toulouse
+12/04/21,LI2,Guingamp,1-1,Toulouse
+17/04/21,LI2,Toulouse,1-0,Châteauroux
+20/04/21,CDF,Rumilly Vallières,2-0,Toulouse
+01/05/21,LI2,Paris FC,3-1,Toulouse
+04/05/21,LI2,Le Havre,0-1,Toulouse
+08/05/21,LI2,Toulouse,3-0,Caen
+12/05/21,LI2,Toulouse,2-2,Pau
+15/05/21,LI2,Dunkerque,3-3,Toulouse
+21/05/21,LI2,Toulouse,3-0,Grenoble Foot 38
+27/05/21,PL1,Toulouse,1-2,Nantes
+30/05/21,PL1,Nantes,0-1,Toulouse
+24/05/19,LI1,Dijon,2-1,Toulouse
+09/07/19,CLF,Béziers,0-0,Toulouse
+13/07/19,CLF,Toulouse,1-0,Ajaccio
+19/07/19,CLF,Strasbourg,3-1,Toulouse
+24/07/19,CLF,Toulouse,3-2,Al Arabi
+03/08/19,CLF,Norwich City,1-0,Toulouse
+10/08/19,LI1,Brest,1-1,Toulouse
+17/08/19,LI1,Toulouse,1-0,Dijon
+25/08/19,LI1,PSG,4-0,Toulouse
+31/08/19,LI1,Toulouse,2-0,Amiens SC
+05/09/19,CLF,Athletic Bilbao,2-1,Toulouse
+15/09/19,LI1,Saint-Etienne,2-2,Toulouse
+21/09/19,LI1,Nîmes,1-0,Toulouse
+25/09/19,LI1,Toulouse,0-2,Angers
+28/09/19,LI1,Metz,2-2,Toulouse
+05/10/19,LI1,Toulouse,1-3,Bordeaux
+10/10/19,CLF,Toulouse,2-0,Eibar
+19/10/19,LI1,Toulouse,2-1,Lille
+27/10/19,LI1,Rennes,3-2,Toulouse
+30/10/19,CDL,Niort,1-2,Toulouse
+02/11/19,LI1,Toulouse,2-3,Lyon
+10/11/19,LI1,Montpellier,3-0,Toulouse
+24/11/19,LI1,Toulouse,0-2,Marseille
+01/12/19,LI1,Nantes,2-1,Toulouse
+04/12/19,LI1,Toulouse,1-2,Monaco
+07/12/19,LI1,Strasbourg,4-2,Toulouse
+14/12/19,LI1,Toulouse,0-1,Reims
+18/12/19,CDL,Lyon,4-1,Toulouse
+21/12/19,LI1,Nice,3-0,Toulouse
+04/01/20,CDF,St-Pryvé St-Hilaire,1-0,Toulouse
+11/01/20,LI1,Toulouse,2-5,Brest
+26/01/20,LI1,Lyon,3-0,Toulouse
+01/02/20,LI1,Amiens SC,0-0,Toulouse
+05/02/20,LI1,Toulouse,0-1,Strasbourg
+08/02/20,LI1,Marseille,1-0,Toulouse
+15/02/20,LI1,Toulouse,0-2,Nice
+22/02/20,LI1,Lille,3-0,Toulouse
+29/02/20,LI1,Toulouse,0-2,Rennes
+07/03/20,LI1,Dijon,2-1,Toulouse
+14/03/20,LI1,Toulouse,CANC,Metz
+21/03/20,LI1,Angers,CANC,Toulouse
+04/04/20,LI1,Toulouse,CANC,Saint-Etienne
+11/04/20,LI1,Reims,CANC,Toulouse
+18/04/20,LI1,Toulouse,CANC,Nantes
+26/04/20,LI1,Bordeaux,CANC,Toulouse
+02/05/20,LI1,Toulouse,CANC,Nîmes
+09/05/20,LI1,Toulouse,CANC,PSG
+16/05/20,LI1,Monaco,CANC,Toulouse
+23/05/20,LI1,Toulouse,CANC,Montpellier
+21/07/20,CLF,Toulouse,3-3,Sète
+12/05/18,LI1,Bordeaux,4-2,Toulouse
+19/05/18,LI1,Toulouse,2-1,Guingamp
+23/05/18,PL1,Ajaccio,0-3,Toulouse
+27/05/18,PL1,Toulouse,1-0,Ajaccio
+10/07/18,CLF,Toulouse,5-2,Villefranche
+14/07/18,CLF,Toulouse,1-0,Ajaccio
+28/07/18,CLF,Nîmes,0-0,Toulouse
+04/08/18,CLF,Crystal Palace,4-1,Toulouse
+10/08/18,LI1,Marseille,4-0,Toulouse
+19/08/18,LI1,Toulouse,2-1,Bordeaux
+25/08/18,LI1,Toulouse,1-0,Nîmes
+01/09/18,LI1,Guingamp,1-2,Toulouse
+15/09/18,LI1,Toulouse,1-1,Monaco
+22/09/18,LI1,Angers,0-0,Toulouse
+25/09/18,LI1,Toulouse,2-3,Saint-Etienne
+30/09/18,LI1,Rennes,1-1,Toulouse
+05/10/18,LI1,Toulouse,1-1,Nice
+11/10/18,CLF,Girona,0-1,Toulouse
+20/10/18,LI1,Nantes,4-0,Toulouse
+27/10/18,LI1,Toulouse,0-3,Montpellier
+31/10/18,CDL,Toulouse,0-1,Lorient
+03/11/18,LI1,Strasbourg,1-1,Toulouse
+10/11/18,LI1,Toulouse,0-1,Amiens SC
+24/11/18,LI1,PSG,1-0,Toulouse
+02/12/18,LI1,Toulouse,2-2,Dijon
+05/12/18,LI1,Reims,0-1,Toulouse
+18/12/18,LI1,Caen,2-1,Toulouse
+22/12/18,LI1,Lille,1-2,Toulouse
+06/01/19,CDF,Toulouse,4-1,Nice
+13/01/19,LI1,Toulouse,1-2,Strasbourg
+16/01/19,LI1,Toulouse,2-2,Lyon
+19/01/19,LI1,Nîmes,0-1,Toulouse
+22/01/19,CDF,Toulouse,P4-4P,Reims
+27/01/19,LI1,Toulouse,0-0,Angers
+02/02/19,LI1,Monaco,2-1,Toulouse
+05/02/19,CDF,Nantes,2-0,Toulouse
+10/02/19,LI1,Toulouse,1-1,Reims
+17/02/19,LI1,Bordeaux,2-1,Toulouse
+24/02/19,LI1,Toulouse,1-1,Caen
+03/03/19,LI1,Lyon,5-1,Toulouse
+10/03/19,LI1,Toulouse,1-0,Guingamp
+15/03/19,LI1,Nice,1-1,Toulouse
+31/03/19,LI1,Toulouse,0-1,PSG
+07/04/19,LI1,Toulouse,1-0,Nantes
+14/04/19,LI1,Montpellier,2-1,Toulouse
+21/04/19,LI1,Toulouse,0-0,Lille
+28/04/19,LI1,Saint-Etienne,2-0,Toulouse
+05/05/19,LI1,Toulouse,2-2,Rennes
+11/05/19,LI1,Amiens SC,0-0,Toulouse
+18/05/19,LI1,Toulouse,2-5,Marseille
+29/04/17,LI1,Monaco,3-1,Toulouse
+06/05/17,LI1,Toulouse,0-1,Caen
+14/05/17,LI1,Metz,1-1,Toulouse
+20/05/17,LI1,Toulouse,0-0,Dijon
+07/07/17,CLF,Toulouse,0-1,Rodez
+13/07/17,CLF,Toulouse,1-1,Nîmes
+19/07/17,CLF,Toulouse,0-0,Alaves
+22/07/17,CLF,Toulouse,1-1,Montpellier
+28/07/17,CLF,Toulouse,1-0,Osasuna
+04/08/17,LI1,Monaco,3-2,Toulouse
+12/08/17,LI1,Toulouse,1-0,Montpellier
+20/08/17,LI1,PSG,6-2,Toulouse
+26/08/17,LI1,Toulouse,3-2,Rennes
+09/09/17,LI1,Troyes,0-0,Toulouse
+15/09/17,LI1,Toulouse,0-1,Bordeaux
+24/09/17,LI1,Marseille,2-0,Toulouse
+30/09/17,LI1,Guingamp,1-1,Toulouse
+14/10/17,LI1,Toulouse,1-0,Amiens SC
+21/10/17,LI1,Angers,0-1,Toulouse
+25/10/17,CDL,Toulouse,4-2,Clermont
+29/10/17,LI1,Toulouse,0-0,Saint-Etienne
+04/11/17,LI1,Nantes,2-1,Toulouse
+18/11/17,LI1,Toulouse,0-0,Metz
+25/11/17,LI1,Dijon,3-1,Toulouse
+29/11/17,LI1,Toulouse,1-2,Nice
+02/12/17,LI1,Lille,1-0,Toulouse
+09/12/17,LI1,Toulouse,2-0,Caen
+12/12/17,CDL,Toulouse,2-0,Bordeaux
+16/12/17,LI1,Strasbourg,2-1,Toulouse
+20/12/17,LI1,Toulouse,1-2,Lyon
+06/01/18,CDF,Toulouse,1-0,Nice
+10/01/18,CDL,Rennes,4-2,Toulouse
+14/01/18,LI1,Saint-Etienne,2-0,Toulouse
+17/01/18,LI1,Toulouse,1-1,Nantes
+20/01/18,LI1,Montpellier,2-1,Toulouse
+23/01/18,CDF,Bourg-Péronnas,2-0,Toulouse
+27/01/18,LI1,Toulouse,1-0,Troyes
+03/02/18,LI1,Nice,0-1,Toulouse
+10/02/18,LI1,Toulouse,0-1,PSG
+17/02/18,LI1,Amiens SC,0-0,Toulouse
+24/02/18,LI1,Toulouse,3-3,Monaco
+03/03/18,LI1,Metz,1-1,Toulouse
+11/03/18,LI1,Toulouse,1-2,Marseille
+17/03/18,LI1,Toulouse,2-2,Strasbourg
+01/04/18,LI1,Lyon,2-0,Toulouse
+07/04/18,LI1,Toulouse,0-1,Dijon
+21/04/18,LI1,Toulouse,2-0,Angers
+25/04/18,LI1,Caen,0-0,Toulouse
+29/04/18,LI1,Rennes,2-1,Toulouse
+06/05/18,LI1,Toulouse,2-3,Lille
+19/03/16,LI1,Lille,1-0,Toulouse
+02/04/16,LI1,Toulouse,2-0,Caen
+09/04/16,LI1,Toulouse,4-0,Bastia
+16/04/16,LI1,Lorient,1-1,Toulouse
+23/04/16,LI1,Toulouse,2-3,Lyon
+30/04/16,LI1,Saint-Etienne,0-0,Toulouse
+07/05/16,LI1,Toulouse,1-0,Troyes
+14/05/16,LI1,Angers,2-3,Toulouse
+15/07/16,CLF,Béziers,0-0,Toulouse
+22/07/16,CLF,Osasuna,0-2,Toulouse
+27/07/16,CLF,Montpellier,0-3,Toulouse
+29/07/16,CLF,Nice,1-2,Toulouse
+06/08/16,CLF,Vitoria Guimaraes,6-2,Toulouse
+14/08/16,LI1,Marseille,0-0,Toulouse
+20/08/16,LI1,Toulouse,4-1,Bordeaux
+28/08/16,LI1,Saint-Etienne,0-0,Toulouse
+10/09/16,LI1,Bastia,2-1,Toulouse
+17/09/16,LI1,Toulouse,2-1,Guingamp
+20/09/16,LI1,Lille,1-2,Toulouse
+23/09/16,LI1,Toulouse,2-0,PSG
+01/10/16,LI1,Caen,1-0,Toulouse
+14/10/16,LI1,Toulouse,3-1,Monaco
+22/10/16,LI1,Angers,0-0,Toulouse
+26/10/16,CDL,Toulouse,1-0,Auxerre
+29/10/16,LI1,Toulouse,1-2,Lyon
+05/11/16,LI1,Nantes,1-1,Toulouse
+19/11/16,LI1,Toulouse,1-2,Metz
+25/11/16,LI1,Rennes,1-0,Toulouse
+30/11/16,LI1,Toulouse,1-0,Montpellier
+04/12/16,LI1,Nice,3-0,Toulouse
+10/12/16,LI1,Toulouse,3-2,Lorient
+14/12/16,CDL,Metz,P1-1P,Toulouse
+17/12/16,LI1,Toulouse,1-1,Nancy
+21/12/16,LI1,Dijon,2-0,Toulouse
+08/01/17,CDF,Toulouse,E1-2E,Marseille
+14/01/17,LI1,Toulouse,0-1,Nantes
+21/01/17,LI1,Bordeaux,1-0,Toulouse
+29/01/17,LI1,Toulouse,0-3,Saint-Etienne
+05/02/17,LI1,Toulouse,4-0,Angers
+08/02/17,LI1,Lorient,1-1,Toulouse
+11/02/17,LI1,Toulouse,4-1,Bastia
+19/02/17,LI1,PSG,0-0,Toulouse
+25/02/17,LI1,Nancy,0-0,Toulouse
+05/03/17,LI1,Toulouse,1-1,Lille
+12/03/17,LI1,Lyon,4-0,Toulouse
+18/03/17,LI1,Toulouse,0-0,Rennes
+02/04/17,LI1,Montpellier,0-1,Toulouse
+09/04/17,LI1,Toulouse,0-0,Marseille
+15/04/17,LI1,Guingamp,2-1,Toulouse
+23/04/17,LI1,Toulouse,1-1,Nice
+21/03/15,LI1,Toulouse,2-1,Bordeaux
+04/04/15,LI1,Metz,3-2,Toulouse
+12/04/15,LI1,Toulouse,1-0,Montpellier
+18/04/15,LI1,Lorient,0-1,Toulouse
+25/04/15,LI1,Toulouse,1-1,Nantes
+03/05/15,LI1,Monaco,4-1,Toulouse
+09/05/15,LI1,Toulouse,3-2,Lille
+16/05/15,LI1,Guingamp,2-1,Toulouse
+23/05/15,LI1,Toulouse,2-3,Nice
+11/07/15,CLF,Toulouse,2-0,Nîmes
+17/07/15,CLF,Toulouse,2-0,Ajaccio
+25/07/15,CLF,Toulouse,1-1,Real Sociedad
+28/07/15,CLF,Toulouse,2-1,Alaves
+01/08/15,CLF,Augsburg,5-0,Toulouse
+09/08/15,LI1,Toulouse,2-1,Saint-Etienne
+15/08/15,LI1,Caen,1-0,Toulouse
+22/08/15,LI1,Toulouse,1-1,Monaco
+29/08/15,LI1,Rennes,3-1,Toulouse
+12/09/15,LI1,Toulouse,2-2,Reims
+20/09/15,LI1,Bordeaux,1-1,Toulouse
+23/09/15,LI1,Toulouse,1-1,Marseille
+26/09/15,LI1,Bastia,3-0,Toulouse
+03/10/15,LI1,Gazélec Ajaccio,2-2,Toulouse
+17/10/15,LI1,Toulouse,1-2,Angers
+23/10/15,LI1,Lyon,3-0,Toulouse
+28/10/15,CDL,Toulouse,P3-3P,Auxerre
+31/10/15,LI1,Toulouse,1-1,Montpellier
+07/11/15,LI1,PSG,5-0,Toulouse
+21/11/15,LI1,Guingamp,2-0,Toulouse
+28/11/15,LI1,Toulouse,2-0,Nice
+02/12/15,LI1,Troyes,0-3,Toulouse
+05/12/15,LI1,Toulouse,2-3,Lorient
+12/12/15,LI1,Nantes,1-1,Toulouse
+15/12/15,CDL,Rennes,1-3,Toulouse
+19/12/15,LI1,Toulouse,1-1,Lille
+02/01/16,CDF,Entente SSG,0-5,Toulouse
+09/01/16,LI1,Reims,1-3,Toulouse
+13/01/16,CDL,Toulouse,E2-1E,Marseille
+16/01/16,LI1,Toulouse,0-1,PSG
+19/01/16,CDF,PSG,2-1,Toulouse
+24/01/16,LI1,Monaco,4-0,Toulouse
+27/01/16,CDL,PSG,2-0,Toulouse
+30/01/16,LI1,Toulouse,1-2,Guingamp
+03/02/16,LI1,Nice,1-0,Toulouse
+06/02/16,LI1,Toulouse,0-0,Nantes
+13/02/16,LI1,Montpellier,2-0,Toulouse
+20/02/16,LI1,Toulouse,1-1,Gazélec Ajaccio
+27/02/16,LI1,Toulouse,1-2,Rennes
+06/03/16,LI1,Marseille,1-1,Toulouse
+12/03/16,LI1,Toulouse,4-0,Bordeaux
+23/02/14,LI1,Toulouse,2-4,PSG
+01/03/14,LI1,Nice,0-2,Toulouse
+08/03/14,LI1,Toulouse,3-2,Reims
+15/03/14,LI1,Rennes,2-3,Toulouse
+22/03/14,LI1,Toulouse,1-1,Evian TG
+29/03/14,LI1,Ajaccio,2-2,Toulouse
+05/04/14,LI1,Toulouse,1-2,Lille
+12/04/14,LI1,Sochaux,2-0,Toulouse
+23/04/14,LI1,Toulouse,0-0,Lyon
+26/04/14,LI1,Montpellier,2-1,Toulouse
+04/05/14,LI1,Toulouse,1-1,Nantes
+10/05/14,LI1,Guingamp,2-0,Toulouse
+17/05/14,LI1,Toulouse,3-1,Valenciennes
+09/07/14,CLF,Toulouse,1-2,Nîmes
+12/07/14,CLF,Toulouse,1-1,Luzenac
+16/07/14,CLF,Toulouse,1-0,Ajaccio
+19/07/14,CLF,Toulouse,2-2,Montpellier
+23/07/14,CLF,Toulouse,2-0,Sète
+02/08/14,CLF,Toulouse,2-0,Athletic Bilbao
+09/08/14,LI1,Nice,3-2,Toulouse
+16/08/14,LI1,Toulouse,2-1,Lyon
+23/08/14,LI1,Bastia,1-0,Toulouse
+30/08/14,LI1,Toulouse,1-0,Evian TG
+13/09/14,LI1,Reims,2-0,Toulouse
+20/09/14,LI1,Toulouse,3-3,Caen
+23/09/14,LI1,Rennes,0-3,Toulouse
+27/09/14,LI1,Toulouse,1-1,PSG
+05/10/14,LI1,Saint-Etienne,0-1,Toulouse
+19/10/14,LI1,Marseille,2-0,Toulouse
+24/10/14,LI1,Toulouse,0-2,Lens
+28/10/14,CDL,Toulouse,1-3,Bordeaux
+02/11/14,LI1,Bordeaux,2-1,Toulouse
+08/11/14,LI1,Toulouse,3-0,Metz
+23/11/14,LI1,Montpellier,2-0,Toulouse
+29/11/14,LI1,Toulouse,2-3,Lorient
+02/12/14,LI1,Nantes,1-2,Toulouse
+05/12/14,LI1,Toulouse,0-2,Monaco
+14/12/14,LI1,Lille,3-0,Toulouse
+20/12/14,LI1,Toulouse,1-1,Guingamp
+04/01/15,CDF,Bordeaux,2-1,Toulouse
+11/01/15,LI1,Lyon,3-0,Toulouse
+17/01/15,LI1,Toulouse,1-1,Bastia
+25/01/15,LI1,Evian TG,1-0,Toulouse
+31/01/15,LI1,Toulouse,1-0,Reims
+07/02/15,LI1,Caen,2-0,Toulouse
+14/02/15,LI1,Toulouse,2-1,Rennes
+21/02/15,LI1,PSG,3-1,Toulouse
+28/02/15,LI1,Toulouse,1-1,Saint-Etienne
+06/03/15,LI1,Toulouse,1-6,Marseille
+14/03/15,LI1,Lens,1-0,Toulouse

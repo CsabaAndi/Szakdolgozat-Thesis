@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+23/08/23,UCL,Molde,2-3,Galatasaray
+29/08/23,UCL,Galatasaray,2-1,Molde
+02/09/23,SÜL,Gaziantep FK,0-3,Galatasaray
+16/09/23,SÜL,Galatasaray,4-2,Samsunspor
+20/09/23,UCL,Galatasaray,2-2,FC Copenhagen
+23/09/23,SÜL,Istanbul Basaksehir,1-2,Galatasaray
+26/09/23,SÜL,İstanbulspor,0-1,Galatasaray
+30/09/23,SÜL,Galatasaray,2-1,Ankaragücü
+03/10/23,UCL,Manchester United,2-3,Galatasaray
+07/10/23,SÜL,Antalyaspor,0-2,Galatasaray
+21/10/23,SÜL,Galatasaray,2-1,Besiktas
+24/10/23,UCL,Galatasaray,1-3,Bayern Munich
+28/10/23,SÜL,Rizespor,0-1,Galatasaray
+03/11/23,SÜL,Galatasaray,2-1,Kasımpaşa
+08/11/23,UCL,Bayern Munich,2-1,Galatasaray
+11/11/23,SÜL,Hatayspor,2-1,Galatasaray
+25/11/23,SÜL,Galatasaray,4-0,Alanyaspor
+29/11/23,UCL,Galatasaray,3-3,Manchester United
+02/12/23,SÜL,Pendikspor,0-2,Galatasaray
+08/12/23,SÜL,Galatasaray,3-1,Adana Demirspor
+12/12/23,UCL,FC Copenhagen,1-0,Galatasaray
+20/12/23,SÜL,Galatasaray,1-0,Fatih Karagümrük
+24/12/23,SÜL,Fenerbahce,0-0,Galatasaray
+07/01/24,SÜL,Galatasaray,3-0,Konyaspor
+11/01/24,SÜL,Sivasspor,1-1,Galatasaray
+15/01/24,SÜL,Galatasaray,2-1,Kayserispor
+18/01/24,CUP,Galatasaray,4-1,Ümraniyespor
+21/01/24,SÜL,Trabzonspor,1-5,Galatasaray
+25/01/24,SÜL,Galatasaray,3-1,İstanbulspor
+29/01/24,SÜL,Galatasaray,2-1,Gaziantep FK
+02/02/24,SÜL,Samsunspor,0-2,Galatasaray
+06/02/24,CUP,Galatasaray,4-2,Bandırmaspor
+10/02/24,SÜL,Galatasaray,2-0,Istanbul Basaksehir
+15/02/24,UEL,Galatasaray,3-2,Sparta Prague
+18/02/24,SÜL,Ankaragücü,0-3,Galatasaray
+22/02/24,UEL,Sparta Prague,4-1,Galatasaray
+26/02/24,SÜL,Galatasaray,2-1,Antalyaspor
+29/02/24,CUP,Galatasaray,0-2,Fatih Karagümrük
+03/03/24,SÜL,Besiktas,0-1,Galatasaray
+08/03/24,SÜL,Galatasaray,6-2,Rizespor
+17/03/24,SÜL,Kasımpaşa,3-4,Galatasaray
+02/04/24,SÜL,Galatasaray,1-0,Hatayspor
+07/04/24,SUC,Galatasaray,3-0,Fenerbahce
+15/04/24,SÜL,Alanyaspor,0-4,Galatasaray
+21/04/24,SÜL,Galatasaray,4-1,Pendikspor
+26/04/24,SÜL,Adana Demirspor,0-3,Galatasaray
+05/05/24,SÜL,Galatasaray,18:00,Sivasspor
+12/05/24,SÜL,Fatih Karagümrük,18:00,Galatasaray
+19/05/24,SÜL,Galatasaray,-,Fenerbahce
+26/05/24,SÜL,Konyaspor,-,Galatasaray
+28/10/22,SÜL,Fatih Karagümrük,0-2,Galatasaray
+05/11/22,SÜL,Galatasaray,2-1,Besiktas
+08/11/22,CUP,Galatasaray,2-1,Ofspor
+12/11/22,SÜL,Istanbul Basaksehir,0-7,Galatasaray
+03/12/22,CLF,Galatasaray,0-1,Rayo Vallecano
+06/12/22,CLF,Galatasaray,3-4,Villarreal
+10/12/22,CLF,Galatasaray,2-2,Adana Demirspor
+13/12/22,CLF,Galatasaray,1-2,Lazio
+16/12/22,CLF,Galatasaray,2-1,Toulouse
+22/12/22,CUP,Galatasaray,1-0,Ankara Keçiörengücü
+25/12/22,SÜL,Galatasaray,2-1,İstanbulspor
+29/12/22,SÜL,Sivasspor,1-2,Galatasaray
+04/01/23,SÜL,Galatasaray,2-1,Ankaragücü
+08/01/23,SÜL,Fenerbahce,0-3,Galatasaray
+13/01/23,SÜL,Galatasaray,4-0,Hatayspor
+17/01/23,CUP,Alanyaspor,1-2,Galatasaray
+21/01/23,SÜL,Galatasaray,2-1,Antalyaspor
+28/01/23,SÜL,Giresunspor,0-4,Galatasaray
+01/02/23,SÜL,Galatasaray,3-2,Ümraniyespor
+05/02/23,SÜL,Galatasaray,2-1,Trabzonspor
+22/02/23,CLF,Galatasaray,2-2,Gençlerbirliği
+22/02/23,CLF,Galatasaray,3-1,Pendikspor
+26/02/23,CLF,Alanyaspor,2-4,Galatasaray
+04/03/23,CLF,İstanbulspor,0-6,Galatasaray
+05/03/23,SÜL,Gaziantep FK,0-3,Galatasaray
+11/03/23,SÜL,Galatasaray,1-0,Kasımpaşa
+17/03/23,SÜL,Konyaspor,2-1,Galatasaray
+26/03/23,CLF,Qarabag,1-2,Galatasaray
+01/04/23,SÜL,Galatasaray,2-0,Adana Demirspor
+05/04/23,CUP,Galatasaray,2-3,Istanbul Basaksehir
+14/04/23,SÜL,Galatasaray,6-0,Kayserispor
+18/04/23,SÜL,Alanyaspor,1-4,Galatasaray
+23/04/23,SÜL,Galatasaray,3-3,Fatih Karagümrük
+30/04/23,SÜL,Besiktas,3-1,Galatasaray
+08/05/23,SÜL,Galatasaray,1-0,Istanbul Basaksehir
+16/05/23,SÜL,İstanbulspor,0-2,Galatasaray
+20/05/23,SÜL,Galatasaray,2-0,Sivasspor
+30/05/23,SÜL,Ankaragücü,1-4,Galatasaray
+04/06/23,SÜL,Galatasaray,3-0,Fenerbahce
+07/06/23,SÜL,Hatayspor,0-3,Galatasaray
+05/07/23,CLF,Galatasaray,3-4,Hull City
+10/07/23,CLF,Galatasaray,2-0,Kisvárda
+14/07/23,CLF,Austria Vienna,1-1,Galatasaray
+18/07/23,CLF,Sturm Graz,2-0,Galatasaray
+25/07/23,UCL,Zalgiris,2-2,Galatasaray
+02/08/23,UCL,Galatasaray,1-0,Zalgiris
+08/08/23,UCL,Olimpija,0-3,Galatasaray
+12/08/23,SÜL,Kayserispor,0-0,Galatasaray
+15/08/23,UCL,Galatasaray,1-0,Olimpija
+19/08/23,SÜL,Galatasaray,2-0,Trabzonspor
+28/11/21,SÜL,Yeni Malatyaspor,0-0,Galatasaray
+04/12/21,SÜL,Galatasaray,2-2,Altay
+09/12/21,UEL,Lazio,0-0,Galatasaray
+13/12/21,SÜL,Sivasspor,1-0,Galatasaray
+18/12/21,SÜL,Galatasaray,1-1,Istanbul Basaksehir
+21/12/21,SÜL,Adana Demirspor,2-0,Galatasaray
+25/12/21,SÜL,Galatasaray,2-0,Antalyaspor
+28/12/21,CUP,Galatasaray,P3-3P,Denizlispor
+08/01/22,SÜL,Galatasaray,0-1,Giresunspor
+16/01/22,SÜL,Hatayspor,4-2,Galatasaray
+20/01/22,SÜL,Galatasaray,1-3,Kasımpaşa
+23/01/22,SÜL,Galatasaray,1-2,Trabzonspor
+28/01/22,CLF,Galatasaray,2-6,Tuzlaspor
+06/02/22,SÜL,Alanyaspor,1-1,Galatasaray
+12/02/22,SÜL,Galatasaray,1-1,Kayserispor
+21/02/22,SÜL,Göztepe,2-3,Galatasaray
+27/02/22,SÜL,Galatasaray,4-2,Rizespor
+05/03/22,SÜL,Konyaspor,2-0,Galatasaray
+10/03/22,UEL,Barcelona,0-0,Galatasaray
+14/03/22,SÜL,Galatasaray,2-1,Besiktas
+17/03/22,UEL,Galatasaray,1-2,Barcelona
+20/03/22,SÜL,Gaziantep FK,3-1,Galatasaray
+02/04/22,SÜL,Galatasaray,2-0,Fatih Karagümrük
+10/04/22,SÜL,Fenerbahce,2-0,Galatasaray
+14/04/22,CLF,Galatasaray,1-3,Dinamo Kiev
+18/04/22,SÜL,Galatasaray,2-0,Yeni Malatyaspor
+24/04/22,SÜL,Altay,0-1,Galatasaray
+01/05/22,SÜL,Galatasaray,2-3,Sivasspor
+07/05/22,SÜL,Istanbul Basaksehir,0-0,Galatasaray
+16/05/22,SÜL,Galatasaray,3-2,Adana Demirspor
+20/05/22,SÜL,Antalyaspor,1-1,Galatasaray
+09/07/22,CLF,Sturm Graz,2-1,Galatasaray
+13/07/22,CLF,Fehérvár,1-0,Galatasaray
+16/07/22,CLF,Galatasaray,2-0,Sigma Olomouc
+19/07/22,CLF,Galatasaray,0-0,Pardubice
+24/07/22,CLF,Galatasaray,2-1,Kasımpaşa
+27/07/22,CLF,Salernitana,1-1,Galatasaray
+31/07/22,CLF,Galatasaray,2-1,Fiorentina
+07/08/22,SÜL,Antalyaspor,0-1,Galatasaray
+13/08/22,SÜL,Galatasaray,0-1,Giresunspor
+19/08/22,SÜL,Ümraniyespor,0-1,Galatasaray
+28/08/22,SÜL,Trabzonspor,0-0,Galatasaray
+05/09/22,SÜL,Galatasaray,2-1,Gaziantep FK
+11/09/22,SÜL,Kasımpaşa,2-3,Galatasaray
+16/09/22,SÜL,Galatasaray,2-1,Konyaspor
+24/09/22,CLF,Galatasaray,2-1,İstanbulspor
+01/10/22,SÜL,Adana Demirspor,0-0,Galatasaray
+15/10/22,SÜL,Kayserispor,2-1,Galatasaray
+19/10/22,CUP,Galatasaray,7-0,Kastamonuspor
+23/10/22,SÜL,Galatasaray,2-2,Alanyaspor
+02/02/21,SÜL,Galatasaray,3-0,Istanbul Basaksehir
+06/02/21,SÜL,Fenerbahce,0-1,Galatasaray
+10/02/21,CUP,Galatasaray,2-3,Alanyaspor
+14/02/21,SÜL,Galatasaray,2-1,Kasımpaşa
+20/02/21,SÜL,Alanyaspor,0-1,Galatasaray
+27/02/21,SÜL,Galatasaray,2-0,Erzurumspor FK
+03/03/21,SÜL,Ankaragücü,2-1,Galatasaray
+07/03/21,SÜL,Galatasaray,2-2,Sivasspor
+13/03/21,SÜL,Kayserispor,0-3,Galatasaray
+19/03/21,SÜL,Galatasaray,3-4,Rizespor
+03/04/21,SÜL,Hatayspor,3-0,Galatasaray
+10/04/21,SÜL,Galatasaray,1-1,Fatih Karagümrük
+17/04/21,SÜL,Göztepe,1-3,Galatasaray
+21/04/21,SÜL,Galatasaray,1-1,Trabzonspor
+24/04/21,SÜL,Antalyaspor,0-1,Galatasaray
+28/04/21,SÜL,Galatasaray,1-0,Konyaspor
+02/05/21,SÜL,Gençlerbirliği,0-2,Galatasaray
+08/05/21,SÜL,Galatasaray,3-1,Besiktas
+11/05/21,SÜL,Denizlispor,1-4,Galatasaray
+15/05/21,SÜL,Galatasaray,3-1,Yeni Malatyaspor
+27/06/21,CLF,Galatasaray,2-1,Dinamo Bucureşti
+10/07/21,CLF,Galatasaray,4-2,Kasımpaşa
+21/07/21,UCL,PSV,5-1,Galatasaray
+28/07/21,UCL,Galatasaray,1-2,PSV
+05/08/21,UEL,Galatasaray,1-1,St. Johnstone
+12/08/21,UEL,St. Johnstone,2-4,Galatasaray
+16/08/21,SÜL,Giresunspor,0-2,Galatasaray
+19/08/21,UEL,Randers,1-1,Galatasaray
+23/08/21,SÜL,Galatasaray,2-1,Hatayspor
+26/08/21,UEL,Galatasaray,2-1,Randers
+29/08/21,SÜL,Kasımpaşa,2-2,Galatasaray
+05/09/21,CLF,Galatasaray,1-3,FCV Farul Constanţa
+12/09/21,SÜL,Trabzonspor,2-2,Galatasaray
+16/09/21,UEL,Galatasaray,1-0,Lazio
+19/09/21,SÜL,Galatasaray,0-1,Alanyaspor
+22/09/21,SÜL,Kayserispor,3-0,Galatasaray
+26/09/21,SÜL,Galatasaray,2-1,Göztepe
+30/09/21,UEL,Marseille,0-0,Galatasaray
+03/10/21,SÜL,Rizespor,2-3,Galatasaray
+09/10/21,CLF,Galatasaray,4-3,Tuzlaspor
+12/10/21,CLF,Galatasaray,3-3,İstanbulspor
+17/10/21,SÜL,Galatasaray,1-0,Konyaspor
+21/10/21,UEL,Lokomotiv Moscow,0-1,Galatasaray
+25/10/21,SÜL,Besiktas,2-1,Galatasaray
+31/10/21,SÜL,Galatasaray,2-0,Gaziantep FK
+04/11/21,UEL,Galatasaray,1-1,Lokomotiv Moscow
+07/11/21,SÜL,Fatih Karagümrük,1-1,Galatasaray
+13/11/21,CLF,Galatasaray,5-2,Bursaspor
+21/11/21,SÜL,Galatasaray,1-2,Fenerbahce
+25/11/21,UEL,Galatasaray,4-2,Marseille
+23/01/20,CUP,Galatasaray,2-1,Rizespor
+26/01/20,SÜL,Konyaspor,0-3,Galatasaray
+02/02/20,SÜL,Galatasaray,4-1,Kayserispor
+05/02/20,CUP,Alanyaspor,2-0,Galatasaray
+09/02/20,SÜL,Kasımpaşa,0-3,Galatasaray
+12/02/20,CUP,Galatasaray,3-1,Alanyaspor
+16/02/20,SÜL,Galatasaray,1-0,Yeni Malatyaspor
+23/02/20,SÜL,Fenerbahce,1-3,Galatasaray
+01/03/20,SÜL,Galatasaray,3-0,Gençlerbirliği
+08/03/20,SÜL,Sivasspor,2-2,Galatasaray
+15/03/20,SÜL,Galatasaray,0-0,Besiktas
+14/06/20,SÜL,Rizespor,2-0,Galatasaray
+21/06/20,SÜL,Galatasaray,3-3,Gaziantep FK
+28/06/20,SÜL,Istanbul Basaksehir,1-1,Galatasaray
+05/07/20,SÜL,Galatasaray,1-3,Trabzonspor
+08/07/20,SÜL,Alanyaspor,4-1,Galatasaray
+12/07/20,SÜL,Ankaragücü,1-0,Galatasaray
+18/07/20,SÜL,Galatasaray,3-1,Göztepe
+24/07/20,SÜL,Antalyaspor,2-2,Galatasaray
+24/08/20,CLF,Galatasaray,CANC,Eyüpspor
+28/08/20,CLF,Galatasaray,1-0,İstanbulspor
+31/08/20,CLF,Galatasaray,2-0,Ümraniyespor
+03/09/20,CLF,Galatasaray,1-1,Hatayspor
+05/09/20,CLF,Galatasaray,CANC,Kasımpaşa
+12/09/20,SÜL,Galatasaray,3-1,Gaziantep FK
+17/09/20,UEL,Neftchi Baku,1-3,Galatasaray
+20/09/20,SÜL,Istanbul Basaksehir,0-2,Galatasaray
+24/09/20,UEL,Galatasaray,2-0,Hajduk Split
+27/09/20,SÜL,Galatasaray,0-0,Fenerbahce
+01/10/20,UEL,Rangers,2-1,Galatasaray
+04/10/20,SÜL,Kasımpaşa,1-0,Galatasaray
+19/10/20,SÜL,Galatasaray,1-2,Alanyaspor
+24/10/20,SÜL,Erzurumspor FK,1-2,Galatasaray
+31/10/20,SÜL,Galatasaray,1-0,Ankaragücü
+08/11/20,SÜL,Sivasspor,1-2,Galatasaray
+23/11/20,SÜL,Galatasaray,1-1,Kayserispor
+28/11/20,SÜL,Rizespor,0-4,Galatasaray
+05/12/20,SÜL,Galatasaray,3-0,Hatayspor
+15/12/20,CUP,Galatasaray,1-0,Darıca Gençlerbirliği
+18/12/20,SÜL,Fatih Karagümrük,2-1,Galatasaray
+22/12/20,SÜL,Galatasaray,3-1,Göztepe
+26/12/20,SÜL,Trabzonspor,0-2,Galatasaray
+02/01/21,SÜL,Galatasaray,0-0,Antalyaspor
+05/01/21,SÜL,Konyaspor,4-3,Galatasaray
+09/01/21,SÜL,Galatasaray,6-0,Gençlerbirliği
+12/01/21,CUP,Yeni Malatyaspor,P1-1P,Galatasaray
+17/01/21,SÜL,Besiktas,2-0,Galatasaray
+20/01/21,SÜL,Galatasaray,6-1,Denizlispor
+24/01/21,SÜL,Yeni Malatyaspor,0-1,Galatasaray
+29/01/21,SÜL,Gaziantep FK,1-2,Galatasaray
+17/03/19,SÜL,Bursaspor,2-3,Galatasaray
+24/03/19,CLF,Galatasaray,3-2,Ümraniyespor
+02/04/19,CUP,Galatasaray,0-0,Yeni Malatyaspor
+06/04/19,SÜL,Galatasaray,3-0,Yeni Malatyaspor
+14/04/19,SÜL,Fenerbahce,1-1,Galatasaray
+20/04/19,SÜL,Galatasaray,3-1,Kayserispor
+25/04/19,CUP,Yeni Malatyaspor,2-5,Galatasaray
+29/04/19,SÜL,Konyaspor,0-0,Galatasaray
+05/05/19,SÜL,Galatasaray,2-0,Besiktas
+11/05/19,SÜL,Rizespor,2-3,Galatasaray
+15/05/19,CUP,Akhisarspor,1-3,Galatasaray
+19/05/19,SÜL,Galatasaray,2-1,Istanbul Basaksehir
+24/05/19,SÜL,Sivasspor,4-3,Galatasaray
+19/07/19,CLF,RB Leipzig,3-2,Galatasaray
+25/07/19,CLF,Augsburg,4-1,Galatasaray
+28/07/19,CLF,Bordeaux,1-3,Galatasaray
+03/08/19,CLF,Galatasaray,2-1,Panathinaikos
+07/08/19,SUC,Akhisarspor,0-1,Galatasaray
+11/08/19,CLF,Fiorentina,4-1,Galatasaray
+16/08/19,SÜL,Denizlispor,2-0,Galatasaray
+25/08/19,SÜL,Galatasaray,1-1,Konyaspor
+30/08/19,SÜL,Kayserispor,2-3,Galatasaray
+13/09/19,SÜL,Galatasaray,1-0,Kasımpaşa
+18/09/19,UCL,Club Brugge,0-0,Galatasaray
+22/09/19,SÜL,Yeni Malatyaspor,1-1,Galatasaray
+28/09/19,SÜL,Galatasaray,0-0,Fenerbahce
+01/10/19,UCL,Galatasaray,0-1,PSG
+05/10/19,SÜL,Gençlerbirliği,0-0,Galatasaray
+12/10/19,CLF,Galatasaray,3-2,İstanbulspor
+18/10/19,SÜL,Galatasaray,3-2,Sivasspor
+22/10/19,UCL,Galatasaray,0-1,Real Madrid
+27/10/19,SÜL,Besiktas,1-0,Galatasaray
+01/11/19,SÜL,Galatasaray,2-0,Rizespor
+06/11/19,UCL,Real Madrid,6-0,Galatasaray
+09/11/19,SÜL,Gaziantep FK,0-2,Galatasaray
+16/11/19,CLF,Galatasaray,4-0,Ümraniyespor
+22/11/19,SÜL,Galatasaray,0-1,Istanbul Basaksehir
+26/11/19,UCL,Galatasaray,1-1,Club Brugge
+01/12/19,SÜL,Trabzonspor,1-1,Galatasaray
+04/12/19,CUP,Galatasaray,0-2,Tuzlaspor
+07/12/19,SÜL,Galatasaray,1-0,Alanyaspor
+11/12/19,UCL,PSG,5-0,Galatasaray
+14/12/19,SÜL,Galatasaray,2-2,Ankaragücü
+17/12/19,CUP,Tuzlaspor,0-4,Galatasaray
+21/12/19,SÜL,Göztepe,2-1,Galatasaray
+28/12/19,SÜL,Galatasaray,5-0,Antalyaspor
+10/01/20,CLF,Galatasaray,3-1,Altay
+11/01/20,CLF,Galatasaray,1-0,Adana Demirspor
+15/01/20,CUP,Rizespor,1-1,Galatasaray
+19/01/20,SÜL,Galatasaray,2-1,Denizlispor
+12/05/18,SÜL,Galatasaray,2-0,Yeni Malatyaspor
+19/05/18,SÜL,Göztepe,0-1,Galatasaray
+13/07/18,CLF,Wil,0-1,Galatasaray
+18/07/18,CLF,Galatasaray,1-3,PSV
+21/07/18,CLF,Galatasaray,1-2,Valencia
+25/07/18,CLF,Sakaryaspor,0-3,Galatasaray
+28/07/18,CLF,Club Africain,0-1,Galatasaray
+31/07/18,CLF,AEK Athens,3-2,Galatasaray
+05/08/18,SUC,Galatasaray,P1-1P,Akhisarspor
+10/08/18,SÜL,Ankaragücü,1-3,Galatasaray
+19/08/18,SÜL,Galatasaray,1-0,Göztepe
+27/08/18,SÜL,Galatasaray,6-0,Alanyaspor
+01/09/18,SÜL,Trabzonspor,4-0,Galatasaray
+14/09/18,SÜL,Galatasaray,4-1,Kasımpaşa
+18/09/18,UCL,Galatasaray,3-0,Lokomotiv Moscow
+23/09/18,SÜL,Akhisarspor,3-0,Galatasaray
+28/09/18,SÜL,Galatasaray,1-0,Erzurumspor FK
+03/10/18,UCL,Porto,1-0,Galatasaray
+06/10/18,SÜL,Antalyaspor,0-1,Galatasaray
+19/10/18,SÜL,Galatasaray,1-1,Bursaspor
+24/10/18,UCL,Galatasaray,0-0,Schalke 04
+28/10/18,SÜL,Yeni Malatyaspor,2-0,Galatasaray
+02/11/18,SÜL,Galatasaray,2-2,Fenerbahce
+06/11/18,UCL,Schalke 04,2-0,Galatasaray
+10/11/18,SÜL,Kayserispor,0-3,Galatasaray
+23/11/18,SÜL,Galatasaray,1-1,Konyaspor
+28/11/18,UCL,Lokomotiv Moscow,2-0,Galatasaray
+02/12/18,SÜL,Besiktas,1-0,Galatasaray
+05/12/18,CUP,Ankara Keçiörengücü,1-2,Galatasaray
+08/12/18,SÜL,Galatasaray,2-2,Rizespor
+11/12/18,UCL,Galatasaray,2-3,Porto
+15/12/18,SÜL,Istanbul Basaksehir,1-1,Galatasaray
+18/12/18,CUP,Galatasaray,1-1,Ankara Keçiörengücü
+23/12/18,SÜL,Galatasaray,4-2,Sivasspor
+08/01/19,CLF,Galatasaray,3-3,Eskişehirspor
+12/01/19,CLF,RB Leipzig,1-1,Galatasaray
+19/01/19,SÜL,Galatasaray,6-0,Ankaragücü
+22/01/19,CUP,Boluspor,0-1,Galatasaray
+26/01/19,SÜL,Göztepe,0-1,Galatasaray
+29/01/19,CUP,Galatasaray,4-1,Boluspor
+02/02/19,SÜL,Alanyaspor,1-1,Galatasaray
+06/02/19,CUP,Galatasaray,2-0,Hatayspor
+10/02/19,SÜL,Galatasaray,3-1,Trabzonspor
+14/02/19,UEL,Galatasaray,1-2,Benfica
+17/02/19,SÜL,Kasımpaşa,1-4,Galatasaray
+21/02/19,UEL,Benfica,0-0,Galatasaray
+24/02/19,SÜL,Galatasaray,1-0,Akhisarspor
+27/02/19,CUP,Hatayspor,4-2,Galatasaray
+03/03/19,SÜL,Erzurumspor FK,1-1,Galatasaray
+11/03/19,SÜL,Galatasaray,5-0,Antalyaspor
+14/05/17,SÜL,Gaziantepspor,1-2,Galatasaray
+19/05/17,SÜL,Galatasaray,2-0,Ankaraspor
+29/05/17,SÜL,Alanyaspor,2-3,Galatasaray
+03/06/17,SÜL,Galatasaray,2-1,Konyaspor
+02/07/17,CLF,Galatasaray,1-0,Gyirmót
+08/07/17,CLF,Galatasaray,2-0,Diósgyőr
+13/07/17,UEL,Östersunds FK,2-0,Galatasaray
+20/07/17,UEL,Galatasaray,1-1,Östersunds FK
+14/08/17,SÜL,Galatasaray,4-1,Kayserispor
+19/08/17,SÜL,Ankaraspor,1-3,Galatasaray
+25/08/17,SÜL,Galatasaray,3-0,Sivasspor
+10/09/17,SÜL,Antalyaspor,1-1,Galatasaray
+16/09/17,SÜL,Galatasaray,2-0,Kasımpaşa
+24/09/17,SÜL,Bursaspor,1-2,Galatasaray
+30/09/17,SÜL,Galatasaray,3-2,Kardemir Karabükspor
+14/10/17,SÜL,Konyaspor,0-2,Galatasaray
+22/10/17,SÜL,Galatasaray,0-0,Fenerbahce
+29/10/17,SÜL,Trabzonspor,2-1,Galatasaray
+03/11/17,SÜL,Galatasaray,5-1,Gençlerbirliği
+18/11/17,SÜL,Istanbul Basaksehir,5-1,Galatasaray
+25/11/17,SÜL,Galatasaray,2-0,Alanyaspor
+28/11/17,CUP,Galatasaray,5-1,Sivas Dört Eylül
+02/12/17,SÜL,Besiktas,3-0,Galatasaray
+09/12/17,SÜL,Galatasaray,4-2,Akhisarspor
+12/12/17,CUP,Sivas Dört Eylül,2-1,Galatasaray
+17/12/17,SÜL,Yeni Malatyaspor,2-1,Galatasaray
+24/12/17,SÜL,Galatasaray,3-1,Göztepe
+26/12/17,CUP,Galatasaray,3-0,Bucaspor
+14/01/18,CLF,Galatasaray,2-0,Viitorul
+15/01/18,CLF,Galatasaray,5-0,Tuzlaspor
+18/01/18,CUP,Bucaspor,0-3,Galatasaray
+22/01/18,SÜL,Kayserispor,1-3,Galatasaray
+27/01/18,SÜL,Galatasaray,2-0,Ankaraspor
+01/02/18,CUP,Konyaspor,2-2,Galatasaray
+04/02/18,SÜL,Sivasspor,2-1,Galatasaray
+08/02/18,CUP,Galatasaray,4-1,Konyaspor
+12/02/18,SÜL,Galatasaray,3-0,Antalyaspor
+18/02/18,SÜL,Kasımpaşa,2-1,Galatasaray
+23/02/18,SÜL,Galatasaray,5-0,Bursaspor
+27/02/18,CUP,Akhisarspor,1-2,Galatasaray
+03/03/18,SÜL,Kardemir Karabükspor,0-7,Galatasaray
+11/03/18,SÜL,Galatasaray,2-1,Konyaspor
+17/03/18,SÜL,Fenerbahce,0-0,Galatasaray
+01/04/18,SÜL,Galatasaray,2-1,Trabzonspor
+09/04/18,SÜL,Gençlerbirliği,1-0,Galatasaray
+15/04/18,SÜL,Galatasaray,2-0,Istanbul Basaksehir
+18/04/18,CUP,Galatasaray,0-2,Akhisarspor
+21/04/18,SÜL,Alanyaspor,2-3,Galatasaray
+29/04/18,SÜL,Galatasaray,2-0,Besiktas
+06/05/18,SÜL,Akhisarspor,1-2,Galatasaray
+04/05/16,CUP,Galatasaray,0-0,Rizespor
+08/05/16,SÜL,Galatasaray,0-1,Besiktas
+15/05/16,SÜL,Akhisarspor,1-2,Galatasaray
+19/05/16,SÜL,Galatasaray,6-0,Kayserispor
+26/05/16,CUP,Galatasaray,1-0,Fenerbahce
+17/07/16,CLF,Galatasaray,3-0,Zürich
+19/07/16,CLF,Young Boys,1-1,Galatasaray
+26/07/16,CLF,AGF,1-3,Galatasaray
+30/07/16,CLF,Manchester United,5-2,Galatasaray
+06/08/16,CLF,Galatasaray,CANC,Atletico Madrid
+13/08/16,SUC,Besiktas,P1-1P,Galatasaray
+22/08/16,SÜL,Galatasaray,1-0,Kardemir Karabükspor
+27/08/16,SÜL,Akhisarspor,1-3,Galatasaray
+10/09/16,SÜL,Kayserispor,1-1,Galatasaray
+17/09/16,SÜL,Galatasaray,2-0,Rizespor
+24/09/16,SÜL,Besiktas,2-2,Galatasaray
+02/10/16,SÜL,Galatasaray,3-1,Antalyaspor
+08/10/16,CLF,Levski Sofia,0-2,Galatasaray
+15/10/16,SÜL,Gençlerbirliği,0-1,Galatasaray
+22/10/16,SÜL,Galatasaray,0-1,Trabzonspor
+25/10/16,CUP,Galatasaray,5-1,Dersimspor
+29/10/16,SÜL,Adanaspor,0-1,Galatasaray
+04/11/16,SÜL,Galatasaray,1-2,Istanbul Basaksehir
+20/11/16,SÜL,Fenerbahce,2-0,Galatasaray
+25/11/16,SÜL,Galatasaray,3-1,Bursaspor
+30/11/16,CUP,Galatasaray,1-1,Elazığspor
+04/12/16,SÜL,Kasımpaşa,1-2,Galatasaray
+11/12/16,SÜL,Galatasaray,3-1,Gaziantepspor
+14/12/16,CUP,24 Erzincanspor,1-1,Galatasaray
+18/12/16,SÜL,Ankaraspor,2-2,Galatasaray
+21/12/16,CUP,Galatasaray,2-1,Tuzlaspor
+25/12/16,SÜL,Galatasaray,5-1,Alanyaspor
+28/12/16,CUP,Tuzlaspor,3-2,Galatasaray
+14/01/17,SÜL,Konyaspor,0-1,Galatasaray
+17/01/17,CUP,Elazığspor,1-4,Galatasaray
+21/01/17,SÜL,Kardemir Karabükspor,2-1,Galatasaray
+24/01/17,CUP,Galatasaray,6-2,24 Erzincanspor
+28/01/17,SÜL,Galatasaray,6-0,Akhisarspor
+04/02/17,CUP,Istanbul Basaksehir,2-1,Galatasaray
+12/02/17,SÜL,Galatasaray,1-2,Kayserispor
+18/02/17,SÜL,Rizespor,1-1,Galatasaray
+27/02/17,SÜL,Galatasaray,0-1,Besiktas
+06/03/17,SÜL,Antalyaspor,2-3,Galatasaray
+11/03/17,SÜL,Galatasaray,3-2,Gençlerbirliği
+18/03/17,SÜL,Trabzonspor,2-0,Galatasaray
+03/04/17,SÜL,Galatasaray,4-0,Adanaspor
+10/04/17,SÜL,Istanbul Basaksehir,4-0,Galatasaray
+23/04/17,SÜL,Galatasaray,0-1,Fenerbahce
+01/05/17,SÜL,Bursaspor,0-5,Galatasaray
+06/05/17,SÜL,Galatasaray,1-3,Kasımpaşa
+15/08/15,SÜL,Sivasspor,2-2,Galatasaray
+18/08/15,CLF,Real Madrid,2-1,Galatasaray
+24/08/15,SÜL,Galatasaray,1-2,Ankaraspor
+29/08/15,SÜL,Konyaspor,1-4,Galatasaray
+12/09/15,SÜL,Galatasaray,1-1,Mersin İdman Yurdu
+15/09/15,UCL,Galatasaray,0-2,Atletico Madrid
+19/09/15,SÜL,Trabzonspor,0-1,Galatasaray
+26/09/15,SÜL,Galatasaray,2-1,Gaziantepspor
+30/09/15,UCL,Astana,2-2,Galatasaray
+03/10/15,SÜL,Istanbul Basaksehir,0-2,Galatasaray
+17/10/15,SÜL,Galatasaray,4-1,Gençlerbirliği
+21/10/15,UCL,Galatasaray,2-1,Benfica
+25/10/15,SÜL,Fenerbahce,1-1,Galatasaray
+29/10/15,SÜL,Galatasaray,4-0,Eskişehirspor
+03/11/15,UCL,Benfica,2-1,Galatasaray
+07/11/15,SÜL,Rizespor,4-3,Galatasaray
+21/11/15,SÜL,Galatasaray,3-3,Antalyaspor
+25/11/15,UCL,Atletico Madrid,2-0,Galatasaray
+29/11/15,SÜL,Kasımpaşa,2-2,Galatasaray
+04/12/15,SÜL,Galatasaray,3-0,Bursaspor
+08/12/15,UCL,Galatasaray,1-1,Astana
+14/12/15,SÜL,Besiktas,2-1,Galatasaray
+17/12/15,CUP,Galatasaray,2-1,Akhisarspor
+20/12/15,SÜL,Galatasaray,3-2,Akhisarspor
+23/12/15,CUP,Kastamonuspor,1-2,Galatasaray
+27/12/15,SÜL,Kayserispor,1-1,Galatasaray
+09/01/16,CUP,Galatasaray,3-1,Karşıyaka
+12/01/16,CUP,Karşıyaka,1-3,Galatasaray
+16/01/16,SÜL,Galatasaray,3-1,Sivasspor
+19/01/16,CUP,Akhisarspor,1-1,Galatasaray
+23/01/16,SÜL,Ankaraspor,3-2,Galatasaray
+26/01/16,CUP,Galatasaray,4-1,Kastamonuspor
+31/01/16,CUP,Galatasaray,3-1,Gaziantepspor
+06/02/16,SÜL,Galatasaray,0-0,Konyaspor
+10/02/16,CUP,Akhisarspor,1-2,Galatasaray
+13/02/16,SÜL,Mersin İdman Yurdu,2-1,Galatasaray
+18/02/16,UEL,Galatasaray,1-1,Lazio
+21/02/16,SÜL,Galatasaray,2-1,Trabzonspor
+25/02/16,UEL,Lazio,3-1,Galatasaray
+28/02/16,SÜL,Gaziantepspor,2-0,Galatasaray
+02/03/16,CUP,Galatasaray,1-1,Akhisarspor
+06/03/16,SÜL,Galatasaray,3-3,Istanbul Basaksehir
+13/03/16,SÜL,Gençlerbirliği,1-1,Galatasaray
+02/04/16,SÜL,Eskişehirspor,4-3,Galatasaray
+09/04/16,SÜL,Galatasaray,1-1,Rizespor
+13/04/16,SÜL,Galatasaray,0-0,Fenerbahce
+16/04/16,SÜL,Antalyaspor,4-2,Galatasaray
+20/04/16,CUP,Rizespor,1-3,Galatasaray
+24/04/16,SÜL,Galatasaray,4-1,Kasımpaşa
+29/04/16,SÜL,Bursaspor,1-1,Galatasaray

@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+15/04/23,LI1,Rennes,3-0,Reims
+23/04/23,LI1,Reims,0-2,Strasbourg
+30/04/23,LI1,Clermont,1-0,Reims
+06/05/23,LI1,Reims,1-0,Lille
+12/05/23,LI1,Lens,2-1,Reims
+21/05/23,LI1,Reims,2-2,Angers
+27/05/23,LI1,Lyon,3-0,Reims
+03/06/23,LI1,Reims,1-3,Montpellier
+15/07/23,CLF,Reims,2-3,AS Eupen
+19/07/23,CLF,Reims,3-1,Sporting Charleroi
+22/07/23,CLF,Reims,3-2,Amiens SC
+26/07/23,CLF,Getafe,0-1,Reims
+29/07/23,CLF,Real Zaragoza,1-2,Reims
+06/08/23,CLF,Reims,2-1,Torino
+12/08/23,LI1,Marseille,2-1,Reims
+20/08/23,LI1,Reims,2-0,Clermont
+27/08/23,LI1,Montpellier,1-3,Reims
+03/09/23,LI1,Metz,2-2,Reims
+17/09/23,LI1,Reims,1-2,Brest
+26/09/23,LI1,Lille,1-2,Reims
+01/10/23,LI1,Reims,2-0,Lyon
+07/10/23,LI1,Reims,1-3,Monaco
+22/10/23,LI1,Toulouse,1-1,Reims
+28/10/23,LI1,Reims,1-0,Lorient
+05/11/23,LI1,Nantes,0-1,Reims
+11/11/23,LI1,Reims,0-3,PSG
+26/11/23,LI1,Rennes,3-1,Reims
+01/12/23,LI1,Reims,2-1,Strasbourg
+10/12/23,LI1,Nice,2-1,Reims
+16/12/23,LI1,Lens,2-0,Reims
+20/12/23,LI1,Reims,1-0,Le Havre
+07/01/24,CDF,Dinan Léhon,0-3,Reims
+13/01/24,LI1,Monaco,1-3,Reims
+21/01/24,CDF,Sochaux,P2-2P,Reims
+28/01/24,LI1,Reims,0-0,Nantes
+04/02/24,LI1,Reims,2-3,Toulouse
+11/02/24,LI1,Lorient,2-0,Reims
+18/02/24,LI1,Reims,1-1,Lens
+25/02/24,LI1,Le Havre,1-2,Reims
+02/03/24,LI1,Reims,0-1,Lille
+10/03/24,LI1,PSG,2-2,Reims
+17/03/24,LI1,Reims,2-1,Metz
+30/03/24,LI1,Lyon,1-1,Reims
+07/04/24,LI1,Reims,0-0,Nice
+13/04/24,LI1,Strasbourg,3-1,Reims
+21/04/24,LI1,Reims,1-2,Montpellier
+28/04/24,LI1,Clermont,4-1,Reims
+10/05/24,LI1,Brest,21:00,Reims
+15/05/24,LI1,Reims,21:00,Marseille
+19/05/24,LI1,Reims,21:00,Rennes
+09/04/22,LI1,Reims,2-3,Rennes
+17/04/22,LI1,Montpellier,0-0,Reims
+20/04/22,LI1,Reims,2-1,Lille
+24/04/22,LI1,Reims,0-1,Marseille
+01/05/22,LI1,Lorient,1-2,Reims
+08/05/22,LI1,Reims,1-2,Lens
+14/05/22,LI1,Saint-Etienne,1-2,Reims
+21/05/22,LI1,Reims,2-3,Nice
+09/07/22,CLF,Reims,1-2,Paris 13 Atletico
+13/07/22,CLF,Lommel,1-2,Reims
+16/07/22,CLF,Auxerre,0-2,Reims
+20/07/22,CLF,Reims,1-0,Metz
+24/07/22,CLF,Reims,0-1,Villarreal
+31/07/22,CLF,Reims,2-2,Sassuolo
+07/08/22,LI1,Marseille,4-1,Reims
+14/08/22,LI1,Reims,2-4,Clermont
+21/08/22,LI1,Strasbourg,1-1,Reims
+28/08/22,LI1,Reims,1-1,Lyon
+31/08/22,LI1,Angers,2-4,Reims
+04/09/22,LI1,Reims,1-1,Lens
+11/09/22,LI1,Toulouse,1-0,Reims
+18/09/22,LI1,Reims,0-3,Monaco
+02/10/22,LI1,Troyes,2-2,Reims
+08/10/22,LI1,Reims,0-0,PSG
+15/10/22,LI1,Lorient,0-0,Reims
+23/10/22,LI1,Reims,2-1,Auxerre
+30/10/22,LI1,Brest,0-0,Reims
+06/11/22,LI1,Reims,1-0,Nantes
+13/11/22,LI1,Montpellier,1-1,Reims
+08/12/22,CLF,Reims,3-0,Sochaux
+16/12/22,CLF,Reims,3-0,Sporting Charleroi
+21/12/22,CLF,Reims,1-2,Lens
+29/12/22,LI1,Reims,3-1,Rennes
+02/01/23,LI1,Lille,1-1,Reims
+08/01/23,CDF,Loon-Plage,0-7,Reims
+11/01/23,LI1,Ajaccio,0-1,Reims
+15/01/23,LI1,Reims,0-0,Nice
+21/01/23,CDF,Les Herbiers,0-3,Reims
+29/01/23,LI1,PSG,1-1,Reims
+01/02/23,LI1,Reims,4-2,Lorient
+05/02/23,LI1,Auxerre,0-0,Reims
+08/02/23,CDF,Toulouse,3-1,Reims
+12/02/23,LI1,Reims,4-0,Troyes
+18/02/23,LI1,Nice,0-0,Reims
+26/02/23,LI1,Reims,3-0,Toulouse
+05/03/23,LI1,Reims,1-0,Ajaccio
+12/03/23,LI1,Monaco,0-1,Reims
+19/03/23,LI1,Reims,1-2,Marseille
+02/04/23,LI1,Nantes,0-3,Reims
+09/04/23,LI1,Reims,1-1,Brest
+03/03/21,LI1,Nantes,1-2,Reims
+12/03/21,LI1,Reims,1-1,Lyon
+21/03/21,LI1,Dijon,0-1,Reims
+04/04/21,LI1,Reims,2-2,Rennes
+11/04/21,LI1,Nice,0-0,Reims
+18/04/21,LI1,Reims,0-0,Metz
+23/04/21,LI1,Reims,1-3,Marseille
+02/05/21,LI1,Nîmes,2-2,Reims
+09/05/21,LI1,Reims,0-1,Monaco
+16/05/21,LI1,PSG,4-0,Reims
+23/05/21,LI1,Reims,1-2,Bordeaux
+10/07/21,CLF,Reims,4-1,Auxerre
+14/07/21,CLF,Reims,1-0,Paris FC
+17/07/21,CLF,Valenciennes,0-1,Reims
+21/07/21,CLF,Chambly-Oise,0-2,Reims
+24/07/21,CLF,Reims,1-2,Lens
+31/07/21,CLF,Hoffenheim,3-1,Reims
+08/08/21,LI1,Nice,0-0,Reims
+15/08/21,LI1,Reims,3-3,Montpellier
+22/08/21,LI1,Metz,1-1,Reims
+29/08/21,LI1,Reims,0-2,PSG
+12/09/21,LI1,Rennes,0-2,Reims
+19/09/21,LI1,Reims,0-0,Lorient
+22/09/21,LI1,Lille,2-1,Reims
+26/09/21,LI1,Reims,3-1,Nantes
+01/10/21,LI1,Lens,2-0,Reims
+17/10/21,LI1,Brest,1-1,Reims
+24/10/21,LI1,Reims,1-2,Troyes
+31/10/21,LI1,Bordeaux,3-2,Reims
+07/11/21,LI1,Reims,0-0,Monaco
+21/11/21,LI1,Strasbourg,1-1,Reims
+28/11/21,LI1,Reims,1-0,Clermont
+01/12/21,LI1,Lyon,1-2,Reims
+05/12/21,LI1,Reims,1-2,Angers
+11/12/21,LI1,Reims,2-0,Saint-Etienne
+19/12/21,CDF,Reims Sainte-Anne,0-1,Reims
+22/12/21,LI1,Marseille,1-1,Reims
+02/01/22,CDF,Thaon,0-1,Reims
+09/01/22,LI1,Clermont,0-0,Reims
+16/01/22,LI1,Reims,0-1,Metz
+23/01/22,LI1,PSG,4-0,Reims
+29/01/22,CDF,Reims,P1-1P,Bastia
+06/02/22,LI1,Reims,5-0,Bordeaux
+13/02/22,LI1,Nantes,1-0,Reims
+20/02/22,LI1,Reims,1-1,Brest
+27/02/22,LI1,Monaco,1-2,Reims
+06/03/22,LI1,Reims,1-1,Strasbourg
+13/03/22,LI1,Angers,0-1,Reims
+20/03/22,LI1,Reims,0-0,Lyon
+03/04/22,LI1,Troyes,1-0,Reims
+13/03/20,LI1,Lyon,CANC,Reims
+22/03/20,LI1,Reims,CANC,Nantes
+05/04/20,LI1,Bordeaux,CANC,Reims
+11/04/20,LI1,Reims,CANC,Toulouse
+18/04/20,LI1,Montpellier,CANC,Reims
+26/04/20,LI1,Reims,CANC,PSG
+02/05/20,LI1,Lille,CANC,Reims
+09/05/20,LI1,Reims,CANC,Amiens SC
+16/05/20,LI1,Dijon,CANC,Reims
+23/05/20,LI1,Reims,CANC,Marseille
+09/07/20,CLF,Reims,3-1,Troyes
+15/07/20,CLF,Reims,CANC,Excel Mouscron
+18/07/20,CLF,Reims,2-2,Dunkerque
+22/07/20,CLF,Reims,3-0,Le Havre
+01/08/20,CLF,Olympique Marcquois,CANC,Reims
+01/08/20,CLF,Standard Liège,1-0,Reims
+01/08/20,CLF,Standard Liège,3-0,Reims
+05/08/20,CLF,Reims,2-0,Maribor
+08/08/20,CLF,Reims,CANC,Strasbourg
+15/08/20,CLF,Reims,3-1,Midtjylland
+23/08/20,LI1,Monaco,2-2,Reims
+30/08/20,LI1,Reims,0-1,Lille
+13/09/20,LI1,Angers,1-0,Reims
+17/09/20,UEL,Servette,0-1,Reims
+20/09/20,LI1,Metz,2-1,Reims
+24/09/20,UEL,Fehérvár,P0-0P,Reims
+27/09/20,LI1,Reims,0-2,PSG
+04/10/20,LI1,Rennes,2-2,Reims
+17/10/20,LI1,Reims,1-3,Lorient
+25/10/20,LI1,Montpellier,0-4,Reims
+01/11/20,LI1,Reims,2-1,Strasbourg
+08/11/20,LI1,Lens,4-4,Reims
+22/11/20,LI1,Reims,0-1,Nîmes
+29/11/20,LI1,Lyon,3-0,Reims
+06/12/20,LI1,Reims,0-0,Nice
+13/12/20,LI1,Brest,2-1,Reims
+16/12/20,LI1,Reims,3-2,Nantes
+19/12/20,LI1,Marseille,1-1,Reims
+23/12/20,LI1,Bordeaux,1-3,Reims
+06/01/21,LI1,Reims,0-0,Dijon
+09/01/21,LI1,Reims,3-1,Saint-Etienne
+17/01/21,LI1,Lille,2-1,Reims
+24/01/21,LI1,Reims,1-0,Brest
+31/01/21,LI1,Strasbourg,0-1,Reims
+03/02/21,LI1,Reims,0-0,Angers
+06/02/21,LI1,Lorient,1-0,Reims
+09/02/21,CDF,Reims,3-4,Valenciennes
+13/02/21,LI1,Reims,1-1,Lens
+20/02/21,LI1,Saint-Etienne,1-1,Reims
+28/02/21,LI1,Reims,0-0,Montpellier
+02/03/19,LI1,Reims,2-2,Amiens SC
+09/03/19,LI1,Dijon,1-1,Reims
+17/03/19,LI1,Reims,1-0,Nantes
+03/04/19,LI1,Strasbourg,4-0,Reims
+07/04/19,LI1,Reims,1-1,Lille
+13/04/19,LI1,Monaco,0-0,Reims
+21/04/19,LI1,Reims,0-2,Saint-Etienne
+28/04/19,LI1,Angers,1-1,Reims
+04/05/19,LI1,Reims,0-3,Nîmes
+11/05/19,LI1,Caen,3-2,Reims
+18/05/19,LI1,Bordeaux,0-1,Reims
+24/05/19,LI1,Reims,3-1,PSG
+13/07/19,CLF,Lille,1-1,Reims
+20/07/19,CLF,Reims,1-1,Gent
+24/07/19,CLF,Reims,2-0,Metz
+27/07/19,CLF,Dijon,1-3,Reims
+03/08/19,CLF,Reims,3-1,Sheffield United
+10/08/19,LI1,Marseille,0-2,Reims
+18/08/19,LI1,Reims,0-0,Strasbourg
+24/08/19,LI1,Brest,1-0,Reims
+01/09/19,LI1,Reims,2-0,Lille
+15/09/19,LI1,Nantes,1-0,Reims
+21/09/19,LI1,Reims,0-0,Monaco
+25/09/19,LI1,PSG,0-2,Reims
+28/09/19,LI1,Reims,1-2,Dijon
+06/10/19,LI1,Rennes,0-1,Reims
+19/10/19,LI1,Reims,1-0,Montpellier
+26/10/19,LI1,Reims,0-0,Nîmes
+30/10/19,CDL,Reims,2-1,Bourg-Péronnas
+03/11/19,LI1,Nice,2-0,Reims
+09/11/19,LI1,Reims,0-0,Angers
+23/11/19,LI1,Metz,1-1,Reims
+30/11/19,LI1,Reims,1-1,Bordeaux
+08/12/19,LI1,Reims,3-1,Saint-Etienne
+14/12/19,LI1,Toulouse,0-1,Reims
+17/12/19,CDL,Reims,1-0,Montpellier
+21/12/19,LI1,Reims,1-1,Lyon
+04/01/20,CDF,Monaco,2-1,Reims
+07/01/20,CDL,Reims,P0-0P,Strasbourg
+11/01/20,LI1,Nîmes,2-0,Reims
+15/01/20,LI1,Amiens SC,1-1,Reims
+22/01/20,CDL,Reims,0-3,PSG
+25/01/20,LI1,Reims,0-1,Metz
+01/02/20,LI1,Angers,1-4,Reims
+05/02/20,LI1,Reims,1-1,Nice
+09/02/20,LI1,Strasbourg,3-0,Reims
+16/02/20,LI1,Reims,1-0,Rennes
+23/02/20,LI1,Saint-Etienne,1-1,Reims
+29/02/20,LI1,Monaco,1-1,Reims
+07/03/20,LI1,Reims,1-0,Brest
+09/02/18,LI2,Reims,3-0,Sochaux
+16/02/18,LI2,Gazélec Ajaccio,1-2,Reims
+23/02/18,LI2,Reims,2-1,Quevilly-Rouen Métropole
+02/03/18,LI2,Clermont,2-1,Reims
+09/03/18,LI2,Reims,4-0,Châteauroux
+17/03/18,LI2,Reims,3-1,Lens
+31/03/18,LI2,Nancy,0-2,Reims
+14/04/18,LI2,Paris FC,0-3,Reims
+20/04/18,LI2,Reims,1-0,Ajaccio
+24/04/18,LI2,Auxerre,1-4,Reims
+27/04/18,LI2,Reims,3-1,Niort
+30/04/18,LI2,Reims,0-1,Le Havre
+04/05/18,LI2,Valenciennes,1-3,Reims
+11/05/18,LI2,Reims,2-2,Nîmes
+14/07/18,CLF,Lille,2-4,Reims
+18/07/18,CLF,Reims,1-2,Red Star
+21/07/18,CLF,Reims,2-1,Cercle Brugge
+25/07/18,CLF,Reims,2-2,St Maur Lusitanos
+28/07/18,CLF,Strasbourg,3-3,Reims
+31/07/18,CLF,Reims,1-4,Guingamp
+04/08/18,CLF,Reims,2-1,Dijon
+11/08/18,LI1,Nice,0-1,Reims
+17/08/18,LI1,Reims,1-0,Lyon
+25/08/18,LI1,Amiens SC,4-1,Reims
+01/09/18,LI1,Reims,0-1,Montpellier
+16/09/18,LI1,Nantes,0-0,Reims
+22/09/18,LI1,Reims,0-0,Dijon
+26/09/18,LI1,PSG,4-1,Reims
+29/09/18,LI1,Reims,0-0,Bordeaux
+06/10/18,LI1,Nîmes,0-0,Reims
+20/10/18,LI1,Reims,1-1,Angers
+28/10/18,LI1,Rennes,0-2,Reims
+31/10/18,CDL,Reims,P1-1P,Orléans
+03/11/18,LI1,Reims,1-0,Monaco
+10/11/18,LI1,Saint-Etienne,2-0,Reims
+24/11/18,LI1,Reims,2-1,Guingamp
+02/12/18,LI1,Marseille,0-0,Reims
+05/12/18,LI1,Reims,0-1,Toulouse
+09/12/18,LI1,Lille,1-1,Reims
+15/12/18,LI1,Reims,2-1,Strasbourg
+22/12/18,LI1,Reims,2-2,Caen
+06/01/19,CDF,Reims,2-0,Lens
+11/01/19,LI1,Lyon,1-1,Reims
+19/01/19,LI1,Reims,1-1,Nice
+22/01/19,CDF,Toulouse,P4-4P,Reims
+26/01/19,LI1,Guingamp,0-1,Reims
+02/02/19,LI1,Reims,2-1,Marseille
+10/02/19,LI1,Toulouse,1-1,Reims
+17/02/19,LI1,Reims,2-0,Rennes
+24/02/19,LI1,Montpellier,2-4,Reims
+03/02/17,LI2,Reims,1-1,Tours
+07/02/17,LI2,Gazélec Ajaccio,1-1,Reims
+11/02/17,LI2,Reims,0-1,Sochaux
+17/02/17,LI2,Clermont,0-1,Reims
+27/02/17,LI2,Reims,1-1,Brest
+03/03/17,LI2,Auxerre,1-2,Reims
+10/03/17,LI2,Reims,3-0,Ajaccio
+18/03/17,LI2,Reims,0-2,Lens
+31/03/17,LI2,Le Havre,1-1,Reims
+08/04/17,LI2,Reims,1-1,Strasbourg
+14/04/17,LI2,Laval,5-2,Reims
+21/04/17,LI2,Reims,1-1,Nîmes
+28/04/17,LI2,Niort,0-3,Reims
+05/05/17,LI2,Reims,0-2,Orléans
+12/05/17,LI2,Troyes,2-0,Reims
+19/05/17,LI2,Reims,1-2,Amiens SC
+07/07/17,CLF,Reims,1-2,Auxerre
+12/07/17,CLF,Reims,5-0,Boulogne
+15/07/17,CLF,Reims,0-2,Lille
+18/07/17,CLF,Reims,1-1,Red Star
+19/07/17,CLF,Reims,0-3,Sporting Charleroi
+21/07/17,CLF,Reims,0-0,Valenciennes
+28/07/17,LI2,Nîmes,0-1,Reims
+05/08/17,LI2,Reims,2-0,Orléans
+08/08/17,CDL,Bourg-Péronnas,0-1,Reims
+11/08/17,LI2,Tours,0-1,Reims
+18/08/17,LI2,Reims,3-0,Bourg-Péronnas
+22/08/17,CDL,Valenciennes,3-0,Reims
+26/08/17,LI2,Lorient,2-1,Reims
+11/09/17,LI2,Reims,0-1,Brest
+16/09/17,LI2,Sochaux,2-4,Reims
+19/09/17,LI2,Reims,5-0,Gazélec Ajaccio
+22/09/17,LI2,Quevilly-Rouen Métropole,1-2,Reims
+30/09/17,LI2,Reims,1-0,Clermont
+13/10/17,LI2,Châteauroux,3-1,Reims
+21/10/17,LI2,Lens,0-1,Reims
+28/10/17,LI2,Reims,3-0,Nancy
+06/11/17,LI2,Le Havre,0-0,Reims
+12/11/17,CDF,Geispolsheim,0-2,Reims
+17/11/17,LI2,Reims,1-1,Paris FC
+24/11/17,LI2,Ajaccio,0-1,Reims
+27/11/17,LI2,Reims,2-0,Auxerre
+03/12/17,CDF,Lens,E3-2E,Reims
+08/12/17,LI2,Niort,1-2,Reims
+16/12/17,LI2,Reims,5-1,Valenciennes
+12/01/18,LI2,Orléans,0-2,Reims
+16/01/18,LI2,Reims,1-0,Tours
+19/01/18,LI2,Bourg-Péronnas,0-2,Reims
+29/01/18,LI2,Reims,0-1,Lorient
+05/02/18,LI2,Brest,0-0,Reims
+12/12/15,LI1,Reims,1-1,Nice
+19/12/15,LI1,Bastia,2-0,Reims
+02/01/16,CDF,Chambly-Oise,4-1,Reims
+09/01/16,LI1,Reims,1-3,Toulouse
+16/01/16,LI1,Gazélec Ajaccio,2-2,Reims
+24/01/16,LI1,Reims,1-1,Saint-Etienne
+30/01/16,LI1,Lorient,2-0,Reims
+03/02/16,LI1,Reims,2-1,Angers
+06/02/16,LI1,Caen,0-2,Reims
+13/02/16,LI1,Reims,0-1,Bastia
+20/02/16,LI1,PSG,4-1,Reims
+27/02/16,LI1,Reims,4-1,Bordeaux
+05/03/16,LI1,Lille,2-0,Reims
+11/03/16,LI1,Monaco,2-2,Reims
+19/03/16,LI1,Reims,0-1,Guingamp
+02/04/16,LI1,Rennes,3-1,Reims
+09/04/16,LI1,Reims,2-1,Nantes
+16/04/16,LI1,Troyes,2-1,Reims
+22/04/16,LI1,Nice,2-0,Reims
+30/04/16,LI1,Reims,2-3,Montpellier
+07/05/16,LI1,Marseille,1-0,Reims
+14/05/16,LI1,Reims,4-1,Lyon
+16/07/16,CLF,Reims,1-1,Nancy
+01/08/16,LI2,Amiens SC,1-1,Reims
+05/08/16,LI2,Reims,1-0,Bourg-Péronnas
+09/08/16,CDL,Reims,2-5,Le Havre
+13/08/16,LI2,Valenciennes,0-0,Reims
+16/08/16,CLF,Real Madrid,5-3,Reims
+22/08/16,LI2,Reims,2-1,Red Star
+26/08/16,LI2,Tours,1-1,Reims
+09/09/16,LI2,Reims,2-0,Gazélec Ajaccio
+16/09/16,LI2,Sochaux,1-1,Reims
+20/09/16,LI2,Reims,2-1,Clermont
+26/09/16,LI2,Brest,2-1,Reims
+30/09/16,LI2,Reims,3-0,Auxerre
+14/10/16,LI2,Ajaccio,1-0,Reims
+22/10/16,LI2,Lens,1-1,Reims
+28/10/16,LI2,Reims,1-0,Le Havre
+05/11/16,LI2,Strasbourg,1-2,Reims
+13/11/16,CDF,Saint-Maximin,0-3,Reims
+18/11/16,LI2,Reims,0-2,Laval
+25/11/16,LI2,Nîmes,3-0,Reims
+28/11/16,LI2,Reims,1-0,Niort
+03/12/16,CDF,Villeneuve-d'Ascq,0-7,Reims
+12/12/16,LI2,Orléans,2-2,Reims
+19/12/16,LI2,Reims,2-0,Troyes
+07/01/17,CDF,Sarreguemines,2-1,Reims
+13/01/17,LI2,Bourg-Péronnas,1-0,Reims
+20/01/17,LI2,Reims,0-0,Valenciennes
+30/01/17,LI2,Red Star,0-1,Reims
+31/10/14,LI1,Monaco,1-1,Reims
+09/11/14,LI1,Reims,2-0,Lille
+22/11/14,LI1,Nice,0-0,Reims
+29/11/14,LI1,Reims,2-1,Bastia
+04/12/14,LI1,Lyon,2-1,Reims
+07/12/14,LI1,Reims,2-3,Guingamp
+13/12/14,LI1,Reims,3-2,Evian TG
+20/12/14,LI1,Rennes,1-3,Reims
+03/01/15,CDF,St Maur Lusitanos,1-3,Reims
+10/01/15,LI1,Reims,1-2,Saint-Etienne
+17/01/15,LI1,Caen,4-1,Reims
+22/01/15,CDF,Rennes,P1-1P,Reims
+25/01/15,LI1,Reims,0-0,Lens
+31/01/15,LI1,Toulouse,1-0,Reims
+07/02/15,LI1,Reims,1-3,Lorient
+13/02/15,LI1,Marseille,2-2,Reims
+22/02/15,LI1,Reims,0-0,Metz
+28/02/15,LI1,Bordeaux,1-1,Reims
+07/03/15,LI1,Reims,3-1,Nantes
+14/03/15,LI1,Montpellier,3-1,Reims
+22/03/15,LI1,Reims,1-3,Monaco
+04/04/15,LI1,Lille,3-1,Reims
+12/04/15,LI1,Reims,0-1,Nice
+18/04/15,LI1,Bastia,1-2,Reims
+26/04/15,LI1,Reims,2-4,Lyon
+02/05/15,LI1,Guingamp,2-0,Reims
+09/05/15,LI1,Evian TG,2-3,Reims
+16/05/15,LI1,Reims,1-0,Rennes
+23/05/15,LI1,PSG,3-2,Reims
+18/07/15,CLF,Lorient,0-0,Reims
+26/07/15,CLF,Reims,1-2,Sevilla
+01/08/15,CLF,Reims,2-0,Guingamp
+09/08/15,LI1,Bordeaux,1-2,Reims
+16/08/15,LI1,Reims,1-0,Marseille
+22/08/15,LI1,Nantes,1-0,Reims
+29/08/15,LI1,Reims,4-1,Lorient
+12/09/15,LI1,Toulouse,2-2,Reims
+19/09/15,LI1,Reims,1-1,PSG
+22/09/15,LI1,Angers,0-0,Reims
+25/09/15,LI1,Reims,1-0,Lille
+03/10/15,LI1,Lyon,1-0,Reims
+17/10/15,LI1,Reims,0-1,Caen
+25/10/15,LI1,Reims,0-1,Monaco
+28/10/15,CDL,Dijon,2-1,Reims
+31/10/15,LI1,Saint-Etienne,3-0,Reims
+07/11/15,LI1,Reims,1-2,Gazélec Ajaccio
+21/11/15,LI1,Montpellier,3-1,Reims
+28/11/15,LI1,Reims,2-2,Rennes
+02/12/15,LI1,Guingamp,1-2,Reims
+05/12/15,LI1,Reims,1-1,Troyes
+14/09/13,LI1,Montpellier,0-0,Reims
+21/09/13,LI1,Reims,1-1,Guingamp
+25/09/13,LI1,Bordeaux,0-0,Reims
+29/09/13,LI1,Reims,1-1,Monaco
+05/10/13,LI1,Valenciennes,1-1,Reims
+18/10/13,LI1,Reims,1-2,Toulouse
+26/10/13,LI1,Marseille,2-3,Reims
+30/10/13,CDL,Reims,1-0,Monaco
+02/11/13,LI1,Reims,4-2,Bastia
+09/11/13,LI1,Lorient,0-0,Reims
+23/11/13,LI1,Reims,0-3,PSG
+30/11/13,LI1,Saint-Etienne,4-0,Reims
+04/12/13,LI1,Sochaux,0-2,Reims
+07/12/13,LI1,Reims,1-0,Nice
+14/12/13,LI1,Evian TG,1-1,Reims
+18/12/13,CDL,Lyon,3-2,Reims
+21/12/13,LI1,Reims,4-1,Ajaccio
+05/01/14,CDF,Marseille,E2-0E,Reims
+12/01/14,LI1,Lille,1-2,Reims
+19/01/14,LI1,Reims,0-2,Lyon
+25/01/14,LI1,Nantes,0-0,Reims
+01/02/14,LI1,Reims,2-4,Montpellier
+08/02/14,LI1,Guingamp,1-2,Reims
+15/02/14,LI1,Reims,1-0,Bordeaux
+21/02/14,LI1,Monaco,3-2,Reims
+01/03/14,LI1,Reims,3-1,Valenciennes
+08/03/14,LI1,Toulouse,3-2,Reims
+14/03/14,LI1,Reims,1-1,Marseille
+22/03/14,LI1,Bastia,2-0,Reims
+29/03/14,LI1,Reims,1-1,Lorient
+05/04/14,LI1,PSG,3-0,Reims
+13/04/14,LI1,Reims,2-2,Saint-Etienne
+20/04/14,LI1,Reims,0-1,Sochaux
+26/04/14,LI1,Nice,1-0,Reims
+04/05/14,LI1,Reims,1-0,Evian TG
+10/05/14,LI1,Ajaccio,2-1,Reims
+17/05/14,LI1,Reims,1-3,Rennes
+30/07/14,CLF,Metz,1-1,Reims
+08/08/14,LI1,Reims,2-2,PSG
+17/08/14,LI1,Saint-Etienne,3-1,Reims
+23/08/14,LI1,Reims,0-2,Caen
+30/08/14,LI1,Lens,4-2,Reims
+13/09/14,LI1,Reims,2-0,Toulouse
+20/09/14,LI1,Lorient,0-1,Reims
+23/09/14,LI1,Reims,0-5,Marseille
+27/09/14,LI1,Metz,3-0,Reims
+03/10/14,LI1,Reims,1-0,Bordeaux
+18/10/14,LI1,Nantes,1-1,Reims
+25/10/14,LI1,Reims,1-0,Montpellier
+28/10/14,CDL,Reims,E2-3E,Arles-Avignon

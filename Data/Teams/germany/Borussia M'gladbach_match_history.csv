@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+13/05/23,BUN,Borussia Dortmund,5-2,Borussia M'gladbach
+21/05/23,BUN,Bayer Leverkusen,2-2,Borussia M'gladbach
+27/05/23,BUN,Borussia M'gladbach,2-0,Augsburg
+29/05/23,CLF,Oberneuland,0-7,Borussia M'gladbach
+31/05/23,CLF,Hallescher FC,0-3,Borussia M'gladbach
+15/07/23,CLF,Wegberg-Beeck,1-1,Borussia M'gladbach
+22/07/23,CLF,Saarbrücken,1-2,Borussia M'gladbach
+26/07/23,CLF,Borussia M'gladbach,2-1,Ingolstadt
+05/08/23,CLF,Borussia M'gladbach,2-2,Montpellier
+11/08/23,DFP,Bersenbrück,0-7,Borussia M'gladbach
+19/08/23,BUN,Augsburg,4-4,Borussia M'gladbach
+26/08/23,BUN,Borussia M'gladbach,0-3,Bayer Leverkusen
+02/09/23,BUN,Borussia M'gladbach,1-2,Bayern Munich
+07/09/23,CLF,Borussia M'gladbach,0-1,Werder Bremen
+17/09/23,BUN,Darmstadt,3-3,Borussia M'gladbach
+23/09/23,BUN,Borussia M'gladbach,0-1,RB Leipzig
+30/09/23,BUN,Bochum,1-3,Borussia M'gladbach
+06/10/23,BUN,Borussia M'gladbach,2-2,Mainz
+12/10/23,CLF,Borussia M'gladbach,4-1,Sint-Truiden
+22/10/23,BUN,FC Cologne,3-1,Borussia M'gladbach
+28/10/23,BUN,Borussia M'gladbach,2-1,Heidenheim
+31/10/23,DFP,Borussia M'gladbach,3-1,Heidenheim
+04/11/23,BUN,Freiburg,3-3,Borussia M'gladbach
+10/11/23,BUN,Borussia M'gladbach,4-0,Wolfsburg
+25/11/23,BUN,Borussia Dortmund,4-2,Borussia M'gladbach
+02/12/23,BUN,Borussia M'gladbach,2-1,Hoffenheim
+05/12/23,DFP,Borussia M'gladbach,E1-0E,Wolfsburg
+09/12/23,BUN,Union Berlin,3-1,Borussia M'gladbach
+15/12/23,BUN,Borussia M'gladbach,2-2,Werder Bremen
+20/12/23,BUN,Eintracht Frankfurt,2-1,Borussia M'gladbach
+14/01/24,BUN,Borussia M'gladbach,3-1,Stuttgart
+21/01/24,BUN,Borussia M'gladbach,1-2,Augsburg
+27/01/24,BUN,Bayer Leverkusen,0-0,Borussia M'gladbach
+03/02/24,BUN,Bayern Munich,3-1,Borussia M'gladbach
+10/02/24,BUN,Borussia M'gladbach,0-0,Darmstadt
+17/02/24,BUN,RB Leipzig,2-0,Borussia M'gladbach
+24/02/24,BUN,Borussia M'gladbach,5-2,Bochum
+02/03/24,BUN,Mainz,1-1,Borussia M'gladbach
+09/03/24,BUN,Borussia M'gladbach,3-3,FC Cologne
+12/03/24,DFP,Saarbrücken,2-1,Borussia M'gladbach
+16/03/24,BUN,Heidenheim,1-1,Borussia M'gladbach
+21/03/24,CLF,Borussia M'gladbach,2-0,AS Eupen
+30/03/24,BUN,Borussia M'gladbach,0-3,Freiburg
+07/04/24,BUN,Wolfsburg,1-3,Borussia M'gladbach
+13/04/24,BUN,Borussia M'gladbach,1-2,Borussia Dortmund
+20/04/24,BUN,Hoffenheim,4-3,Borussia M'gladbach
+28/04/24,BUN,Borussia M'gladbach,0-0,Union Berlin
+04/05/24,BUN,Werder Bremen,15:30,Borussia M'gladbach
+11/05/24,BUN,Borussia M'gladbach,15:30,Eintracht Frankfurt
+18/05/24,BUN,Stuttgart,15:30,Borussia M'gladbach
+03/04/22,BUN,Borussia M'gladbach,1-1,Mainz
+09/04/22,BUN,Greuther Fürth,0-2,Borussia M'gladbach
+16/04/22,BUN,Borussia M'gladbach,1-3,FC Cologne
+23/04/22,BUN,Freiburg,3-3,Borussia M'gladbach
+02/05/22,BUN,Borussia M'gladbach,3-1,RB Leipzig
+08/05/22,BUN,Eintracht Frankfurt,1-1,Borussia M'gladbach
+11/05/22,HYF,Borussia M'gladbach,1-2,Ukraine
+14/05/22,BUN,Borussia M'gladbach,5-1,Hoffenheim
+01/07/22,CLF,Rot-Weiss Essen,2-4,Borussia M'gladbach
+10/07/22,CLF,1860 München,0-6,Borussia M'gladbach
+13/07/22,CLF,Borussia M'gladbach,5-2,Viktoria Köln
+16/07/22,CLF,Standard Liège,1-1,Borussia M'gladbach
+20/07/22,CLF,Borussia M'gladbach,1-1,RKC Waalwijk
+23/07/22,CLF,Borussia M'gladbach,1-1,Real Sociedad
+31/07/22,DFP,Oberachern,1-9,Borussia M'gladbach
+06/08/22,BUN,Borussia M'gladbach,3-1,Hoffenheim
+13/08/22,BUN,Schalke 04,2-2,Borussia M'gladbach
+19/08/22,BUN,Borussia M'gladbach,1-0,Hertha Berlin
+27/08/22,BUN,Bayern Munich,1-1,Borussia M'gladbach
+04/09/22,BUN,Borussia M'gladbach,0-1,Mainz
+11/09/22,BUN,Freiburg,0-0,Borussia M'gladbach
+17/09/22,BUN,Borussia M'gladbach,3-0,RB Leipzig
+01/10/22,BUN,Werder Bremen,5-1,Borussia M'gladbach
+09/10/22,BUN,Borussia M'gladbach,5-2,FC Cologne
+15/10/22,BUN,Wolfsburg,2-2,Borussia M'gladbach
+18/10/22,DFP,Darmstadt,2-1,Borussia M'gladbach
+22/10/22,BUN,Borussia M'gladbach,1-3,Eintracht Frankfurt
+30/10/22,BUN,Union Berlin,2-1,Borussia M'gladbach
+04/11/22,BUN,Borussia M'gladbach,3-1,Stuttgart
+08/11/22,BUN,Bochum,2-1,Borussia M'gladbach
+11/11/22,BUN,Borussia M'gladbach,4-2,Borussia Dortmund
+07/01/23,CLF,Borussia M'gladbach,2-0,VfB Oldenburg
+11/01/23,CLF,Borussia M'gladbach,4-0,Arminia Bielefeld
+14/01/23,CLF,Borussia M'gladbach,0-1,St. Pauli
+22/01/23,BUN,Borussia M'gladbach,2-3,Bayer Leverkusen
+25/01/23,BUN,Augsburg,1-0,Borussia M'gladbach
+28/01/23,BUN,Hoffenheim,1-4,Borussia M'gladbach
+04/02/23,BUN,Borussia M'gladbach,0-0,Schalke 04
+12/02/23,BUN,Hertha Berlin,4-1,Borussia M'gladbach
+18/02/23,BUN,Borussia M'gladbach,3-2,Bayern Munich
+24/02/23,BUN,Mainz,4-0,Borussia M'gladbach
+04/03/23,BUN,Borussia M'gladbach,0-0,Freiburg
+11/03/23,BUN,RB Leipzig,3-0,Borussia M'gladbach
+17/03/23,BUN,Borussia M'gladbach,2-2,Werder Bremen
+02/04/23,BUN,FC Cologne,0-0,Borussia M'gladbach
+09/04/23,BUN,Borussia M'gladbach,2-0,Wolfsburg
+15/04/23,BUN,Eintracht Frankfurt,1-1,Borussia M'gladbach
+23/04/23,BUN,Borussia M'gladbach,0-1,Union Berlin
+29/04/23,BUN,Stuttgart,2-1,Borussia M'gladbach
+06/05/23,BUN,Borussia M'gladbach,2-0,Bochum
+27/02/21,BUN,RB Leipzig,3-2,Borussia M'gladbach
+02/03/21,DFP,Borussia M'gladbach,0-1,Borussia Dortmund
+06/03/21,BUN,Borussia M'gladbach,0-1,Bayer Leverkusen
+12/03/21,BUN,Augsburg,3-1,Borussia M'gladbach
+16/03/21,UCL,Manchester City,2-0,Borussia M'gladbach
+20/03/21,BUN,Schalke 04,0-3,Borussia M'gladbach
+03/04/21,BUN,Borussia M'gladbach,2-1,Freiburg
+10/04/21,BUN,Hertha Berlin,2-2,Borussia M'gladbach
+17/04/21,BUN,Borussia M'gladbach,4-0,Eintracht Frankfurt
+21/04/21,BUN,Hoffenheim,3-2,Borussia M'gladbach
+25/04/21,BUN,Borussia M'gladbach,5-0,Arminia Bielefeld
+08/05/21,BUN,Bayern Munich,6-0,Borussia M'gladbach
+15/05/21,BUN,Borussia M'gladbach,1-2,Stuttgart
+22/05/21,BUN,Werder Bremen,2-4,Borussia M'gladbach
+10/07/21,CLF,Borussia M'gladbach,2-2,Viktoria Köln
+17/07/21,CLF,Paderborn,3-1,Borussia M'gladbach
+24/07/21,CLF,Borussia M'gladbach,1-0,Metz
+28/07/21,CLF,Bayern Munich,0-2,Borussia M'gladbach
+31/07/21,CLF,Borussia M'gladbach,2-1,Groningen
+09/08/21,DFP,Kaiserslautern,0-1,Borussia M'gladbach
+13/08/21,BUN,Borussia M'gladbach,1-1,Bayern Munich
+21/08/21,BUN,Bayer Leverkusen,4-0,Borussia M'gladbach
+29/08/21,BUN,Union Berlin,2-1,Borussia M'gladbach
+12/09/21,BUN,Borussia M'gladbach,3-1,Arminia Bielefeld
+18/09/21,BUN,Augsburg,1-0,Borussia M'gladbach
+25/09/21,BUN,Borussia M'gladbach,1-0,Borussia Dortmund
+02/10/21,BUN,Wolfsburg,1-3,Borussia M'gladbach
+16/10/21,BUN,Borussia M'gladbach,1-1,Stuttgart
+23/10/21,BUN,Hertha Berlin,1-0,Borussia M'gladbach
+27/10/21,DFP,Borussia M'gladbach,5-0,Bayern Munich
+31/10/21,BUN,Borussia M'gladbach,2-1,Bochum
+05/11/21,BUN,Mainz,1-1,Borussia M'gladbach
+20/11/21,BUN,Borussia M'gladbach,4-0,Greuther Fürth
+27/11/21,BUN,FC Cologne,4-1,Borussia M'gladbach
+05/12/21,BUN,Borussia M'gladbach,0-6,Freiburg
+11/12/21,BUN,RB Leipzig,4-1,Borussia M'gladbach
+15/12/21,BUN,Borussia M'gladbach,2-3,Eintracht Frankfurt
+18/12/21,BUN,Hoffenheim,1-1,Borussia M'gladbach
+07/01/22,BUN,Bayern Munich,1-2,Borussia M'gladbach
+08/01/22,CLF,Borussia M'gladbach,2-3,Viktoria Köln
+15/01/22,BUN,Borussia M'gladbach,1-2,Bayer Leverkusen
+19/01/22,DFP,Hannover 96,3-0,Borussia M'gladbach
+22/01/22,BUN,Borussia M'gladbach,1-2,Union Berlin
+05/02/22,BUN,Arminia Bielefeld,1-1,Borussia M'gladbach
+12/02/22,BUN,Borussia M'gladbach,3-2,Augsburg
+20/02/22,BUN,Borussia Dortmund,6-0,Borussia M'gladbach
+26/02/22,BUN,Borussia M'gladbach,2-2,Wolfsburg
+05/03/22,BUN,Stuttgart,3-2,Borussia M'gladbach
+12/03/22,BUN,Borussia M'gladbach,2-0,Hertha Berlin
+18/03/22,BUN,Bochum,0-2,Borussia M'gladbach
+22/02/20,BUN,Borussia M'gladbach,1-1,Hoffenheim
+29/02/20,BUN,Augsburg,2-3,Borussia M'gladbach
+07/03/20,BUN,Borussia M'gladbach,1-2,Borussia Dortmund
+11/03/20,BUN,Borussia M'gladbach,2-1,FC Cologne
+16/05/20,BUN,Eintracht Frankfurt,1-3,Borussia M'gladbach
+23/05/20,BUN,Borussia M'gladbach,1-3,Bayer Leverkusen
+26/05/20,BUN,Werder Bremen,0-0,Borussia M'gladbach
+31/05/20,BUN,Borussia M'gladbach,4-1,Union Berlin
+05/06/20,BUN,Freiburg,1-0,Borussia M'gladbach
+13/06/20,BUN,Bayern Munich,2-1,Borussia M'gladbach
+16/06/20,BUN,Borussia M'gladbach,3-0,Wolfsburg
+20/06/20,BUN,Paderborn,1-3,Borussia M'gladbach
+27/06/20,BUN,Borussia M'gladbach,2-1,Hertha Berlin
+12/08/20,CLF,Borussia M'gladbach,4-0,Verl
+15/08/20,CLF,Borussia M'gladbach,4-0,MSV Duisburg
+22/08/20,CLF,Borussia M'gladbach,2-0,Paderborn
+27/08/20,CLF,Borussia M'gladbach,0-2,Greuther Fürth
+04/09/20,CLF,VVV,0-4,Borussia M'gladbach
+12/09/20,DFP,Oberneuland,0-8,Borussia M'gladbach
+19/09/20,BUN,Borussia Dortmund,3-0,Borussia M'gladbach
+26/09/20,BUN,Borussia M'gladbach,1-1,Union Berlin
+03/10/20,BUN,FC Cologne,1-3,Borussia M'gladbach
+17/10/20,BUN,Borussia M'gladbach,1-1,Wolfsburg
+21/10/20,UCL,Inter Milan,2-2,Borussia M'gladbach
+24/10/20,BUN,Mainz,2-3,Borussia M'gladbach
+27/10/20,UCL,Borussia M'gladbach,2-2,Real Madrid
+31/10/20,BUN,Borussia M'gladbach,1-0,RB Leipzig
+03/11/20,UCL,Shakhtar Donetsk,0-6,Borussia M'gladbach
+08/11/20,BUN,Bayer Leverkusen,4-3,Borussia M'gladbach
+21/11/20,BUN,Borussia M'gladbach,1-1,Augsburg
+25/11/20,UCL,Borussia M'gladbach,4-0,Shakhtar Donetsk
+28/11/20,BUN,Borussia M'gladbach,4-1,Schalke 04
+01/12/20,UCL,Borussia M'gladbach,2-3,Inter Milan
+05/12/20,BUN,Freiburg,2-2,Borussia M'gladbach
+09/12/20,UCL,Real Madrid,2-0,Borussia M'gladbach
+12/12/20,BUN,Borussia M'gladbach,1-1,Hertha Berlin
+15/12/20,BUN,Eintracht Frankfurt,3-3,Borussia M'gladbach
+19/12/20,BUN,Borussia M'gladbach,1-2,Hoffenheim
+22/12/20,DFP,Elversberg,0-5,Borussia M'gladbach
+02/01/21,BUN,Arminia Bielefeld,0-1,Borussia M'gladbach
+08/01/21,BUN,Borussia M'gladbach,3-2,Bayern Munich
+16/01/21,BUN,Stuttgart,2-2,Borussia M'gladbach
+19/01/21,BUN,Borussia M'gladbach,1-0,Werder Bremen
+22/01/21,BUN,Borussia M'gladbach,4-2,Borussia Dortmund
+30/01/21,BUN,Union Berlin,1-1,Borussia M'gladbach
+03/02/21,DFP,Stuttgart,1-2,Borussia M'gladbach
+06/02/21,BUN,Borussia M'gladbach,1-2,FC Cologne
+14/02/21,BUN,Wolfsburg,0-0,Borussia M'gladbach
+20/02/21,BUN,Borussia M'gladbach,1-2,Mainz
+24/02/21,UCL,Borussia M'gladbach,0-2,Manchester City
+15/03/19,BUN,Borussia M'gladbach,1-1,Freiburg
+21/03/19,CLF,Zwickau,1-3,Borussia M'gladbach
+30/03/19,BUN,Fortuna Düsseldorf,3-1,Borussia M'gladbach
+07/04/19,BUN,Borussia M'gladbach,1-1,Werder Bremen
+13/04/19,BUN,Hannover 96,0-1,Borussia M'gladbach
+20/04/19,BUN,Borussia M'gladbach,1-2,RB Leipzig
+27/04/19,BUN,Stuttgart,1-0,Borussia M'gladbach
+04/05/19,BUN,Borussia M'gladbach,2-2,Hoffenheim
+11/05/19,BUN,Nürnberg,0-4,Borussia M'gladbach
+18/05/19,BUN,Borussia M'gladbach,0-2,Borussia Dortmund
+22/05/19,CLF,Guangzhou City,0-4,Borussia M'gladbach
+10/07/19,CLF,Borussia M'gladbach,8-0,1. FC M'gladbach
+17/07/19,CLF,Borussia M'gladbach,5-1,Istanbul Basaksehir
+20/07/19,CLF,Borussia M'gladbach,2-1,Rayo Vallecano
+27/07/19,CLF,Angers,1-2,Borussia M'gladbach
+28/07/19,CLF,Borussia M'gladbach,0-2,Athletic Bilbao
+03/08/19,CLF,Borussia M'gladbach,2-2,Chelsea
+09/08/19,DFP,Sandhausen,0-1,Borussia M'gladbach
+17/08/19,BUN,Borussia M'gladbach,0-0,Schalke 04
+24/08/19,BUN,Mainz,1-3,Borussia M'gladbach
+30/08/19,BUN,Borussia M'gladbach,1-3,RB Leipzig
+05/09/19,CLF,Wehen Wiesbaden,1-1,Borussia M'gladbach
+14/09/19,BUN,FC Cologne,0-1,Borussia M'gladbach
+19/09/19,UEL,Borussia M'gladbach,0-4,Wolfsberger AC
+22/09/19,BUN,Borussia M'gladbach,2-1,Fortuna Düsseldorf
+28/09/19,BUN,Hoffenheim,0-3,Borussia M'gladbach
+03/10/19,UEL,Istanbul Basaksehir,1-1,Borussia M'gladbach
+06/10/19,BUN,Borussia M'gladbach,5-1,Augsburg
+19/10/19,BUN,Borussia Dortmund,1-0,Borussia M'gladbach
+24/10/19,UEL,Roma,1-1,Borussia M'gladbach
+27/10/19,BUN,Borussia M'gladbach,4-2,Eintracht Frankfurt
+30/10/19,DFP,Borussia Dortmund,2-1,Borussia M'gladbach
+02/11/19,BUN,Bayer Leverkusen,1-2,Borussia M'gladbach
+07/11/19,UEL,Borussia M'gladbach,2-1,Roma
+10/11/19,BUN,Borussia M'gladbach,3-1,Werder Bremen
+23/11/19,BUN,Union Berlin,2-0,Borussia M'gladbach
+28/11/19,UEL,Wolfsberger AC,0-1,Borussia M'gladbach
+01/12/19,BUN,Borussia M'gladbach,4-2,Freiburg
+07/12/19,BUN,Borussia M'gladbach,2-1,Bayern Munich
+12/12/19,UEL,Borussia M'gladbach,1-2,Istanbul Basaksehir
+15/12/19,BUN,Wolfsburg,2-1,Borussia M'gladbach
+18/12/19,BUN,Borussia M'gladbach,2-0,Paderborn
+21/12/19,BUN,Hertha Berlin,0-0,Borussia M'gladbach
+07/01/20,CLF,Borussia M'gladbach,1-3,Heracles
+10/01/20,CLF,Freiburg,1-2,Borussia M'gladbach
+10/01/20,CLF,Borussia M'gladbach,2-1,Freiburg
+17/01/20,BUN,Schalke 04,2-0,Borussia M'gladbach
+25/01/20,BUN,Borussia M'gladbach,3-1,Mainz
+01/02/20,BUN,RB Leipzig,2-2,Borussia M'gladbach
+15/02/20,BUN,Fortuna Düsseldorf,1-4,Borussia M'gladbach
+24/02/18,BUN,Hannover 96,0-1,Borussia M'gladbach
+02/03/18,BUN,Borussia M'gladbach,2-2,Werder Bremen
+10/03/18,BUN,Bayer Leverkusen,2-0,Borussia M'gladbach
+17/03/18,BUN,Borussia M'gladbach,3-3,Hoffenheim
+01/04/18,BUN,Mainz,0-0,Borussia M'gladbach
+07/04/18,BUN,Borussia M'gladbach,2-1,Hertha Berlin
+14/04/18,BUN,Bayern Munich,5-1,Borussia M'gladbach
+20/04/18,BUN,Borussia M'gladbach,3-0,Wolfsburg
+28/04/18,BUN,Schalke 04,1-1,Borussia M'gladbach
+05/05/18,BUN,Borussia M'gladbach,3-1,Freiburg
+12/05/18,BUN,Hamburg,2-1,Borussia M'gladbach
+13/07/18,CLF,Lübeck,0-2,Borussia M'gladbach
+14/07/18,CLF,Weiche Flensburg,0-4,Borussia M'gladbach
+26/07/18,CLF,Borussia M'gladbach,2-1,Augsburg
+29/07/18,CLF,Borussia M'gladbach,0-1,Ingolstadt
+04/08/18,CLF,Southampton,0-3,Borussia M'gladbach
+11/08/18,CLF,Borussia M'gladbach,1-3,Espanyol
+12/08/18,CLF,Borussia M'gladbach,5-1,Wegberg-Beeck
+19/08/18,DFP,Hastedt,1-11,Borussia M'gladbach
+25/08/18,BUN,Borussia M'gladbach,2-0,Bayer Leverkusen
+01/09/18,BUN,Augsburg,1-1,Borussia M'gladbach
+15/09/18,BUN,Borussia M'gladbach,2-1,Schalke 04
+22/09/18,BUN,Hertha Berlin,4-2,Borussia M'gladbach
+26/09/18,BUN,Borussia M'gladbach,3-1,Eintracht Frankfurt
+29/09/18,BUN,Wolfsburg,2-2,Borussia M'gladbach
+06/10/18,BUN,Bayern Munich,0-3,Borussia M'gladbach
+12/10/18,CLF,Borussia M'gladbach,6-0,Wiener SC
+21/10/18,BUN,Borussia M'gladbach,4-0,Mainz
+26/10/18,BUN,Freiburg,3-1,Borussia M'gladbach
+31/10/18,DFP,Borussia M'gladbach,0-5,Bayer Leverkusen
+04/11/18,BUN,Borussia M'gladbach,3-0,Fortuna Düsseldorf
+10/11/18,BUN,Werder Bremen,1-3,Borussia M'gladbach
+15/11/18,CLF,Borussia M'gladbach,3-0,Preußen Münster
+25/11/18,BUN,Borussia M'gladbach,4-1,Hannover 96
+02/12/18,BUN,RB Leipzig,2-0,Borussia M'gladbach
+09/12/18,BUN,Borussia M'gladbach,3-0,Stuttgart
+15/12/18,BUN,Hoffenheim,0-0,Borussia M'gladbach
+18/12/18,BUN,Borussia M'gladbach,2-0,Nürnberg
+21/12/18,BUN,Borussia Dortmund,2-1,Borussia M'gladbach
+07/01/19,CLF,Borussia M'gladbach,1-2,Magdeburg
+11/01/19,CLF,Borussia M'gladbach,0-2,Standard Liège
+13/01/19,CLF,Borussia M'gladbach,CANC,Hertha Berlin
+19/01/19,BUN,Bayer Leverkusen,0-1,Borussia M'gladbach
+26/01/19,BUN,Borussia M'gladbach,2-0,Augsburg
+02/02/19,BUN,Schalke 04,0-2,Borussia M'gladbach
+09/02/19,BUN,Borussia M'gladbach,0-3,Hertha Berlin
+17/02/19,BUN,Eintracht Frankfurt,1-1,Borussia M'gladbach
+23/02/19,BUN,Borussia M'gladbach,0-3,Wolfsburg
+02/03/19,BUN,Borussia M'gladbach,1-5,Bayern Munich
+09/03/19,BUN,Mainz,0-1,Borussia M'gladbach
+19/03/17,BUN,Borussia M'gladbach,0-1,Bayern Munich
+24/03/17,CLF,Borussia M'gladbach,4-4,St. Pauli
+01/04/17,BUN,Eintracht Frankfurt,0-0,Borussia M'gladbach
+05/04/17,BUN,Borussia M'gladbach,1-0,Hertha Berlin
+08/04/17,BUN,FC Cologne,2-3,Borussia M'gladbach
+15/04/17,BUN,Hoffenheim,5-3,Borussia M'gladbach
+22/04/17,BUN,Borussia M'gladbach,2-3,Borussia Dortmund
+25/04/17,DFP,Borussia M'gladbach,P1-1P,Eintracht Frankfurt
+29/04/17,BUN,Mainz,1-2,Borussia M'gladbach
+06/05/17,BUN,Borussia M'gladbach,1-1,Augsburg
+13/05/17,BUN,Wolfsburg,1-1,Borussia M'gladbach
+20/05/17,BUN,Borussia M'gladbach,2-2,Darmstadt
+08/07/17,CLF,Wuppertaler SV,0-1,Borussia M'gladbach
+12/07/17,CLF,AS Eupen,2-2,Borussia M'gladbach
+20/07/17,CLF,Borussia M'gladbach,1-1,Leeds United
+20/07/17,CLF,Borussia M'gladbach,1-2,Nice
+23/07/17,CLF,Nürnberg,2-1,Borussia M'gladbach
+29/07/17,CLF,Malaga,1-2,Borussia M'gladbach
+04/08/17,CLF,Leicester City,2-1,Borussia M'gladbach
+11/08/17,DFP,Rot-Weiss Essen,1-2,Borussia M'gladbach
+20/08/17,BUN,Borussia M'gladbach,1-0,FC Cologne
+26/08/17,BUN,Augsburg,2-2,Borussia M'gladbach
+30/08/17,CLF,Borussia M'gladbach,2-1,MSV Duisburg
+09/09/17,BUN,Borussia M'gladbach,0-1,Eintracht Frankfurt
+16/09/17,BUN,RB Leipzig,2-2,Borussia M'gladbach
+19/09/17,BUN,Borussia M'gladbach,2-0,Stuttgart
+23/09/17,BUN,Borussia Dortmund,6-1,Borussia M'gladbach
+30/09/17,BUN,Borussia M'gladbach,2-1,Hannover 96
+15/10/17,BUN,Werder Bremen,0-2,Borussia M'gladbach
+21/10/17,BUN,Borussia M'gladbach,1-5,Bayer Leverkusen
+24/10/17,DFP,Fortuna Düsseldorf,0-1,Borussia M'gladbach
+28/10/17,BUN,Hoffenheim,1-3,Borussia M'gladbach
+04/11/17,BUN,Borussia M'gladbach,1-1,Mainz
+08/11/17,CLF,Borussia M'gladbach,4-1,Arminia Bielefeld
+18/11/17,BUN,Hertha Berlin,2-4,Borussia M'gladbach
+21/11/17,CLF,Ajax,2-1,Borussia M'gladbach
+25/11/17,BUN,Borussia M'gladbach,2-1,Bayern Munich
+03/12/17,BUN,Wolfsburg,3-0,Borussia M'gladbach
+09/12/17,BUN,Borussia M'gladbach,1-1,Schalke 04
+12/12/17,BUN,Freiburg,1-0,Borussia M'gladbach
+15/12/17,BUN,Borussia M'gladbach,3-1,Hamburg
+20/12/17,DFP,Borussia M'gladbach,0-1,Bayer Leverkusen
+07/01/18,CLF,Mainz,0-3,Borussia M'gladbach
+14/01/18,BUN,FC Cologne,2-1,Borussia M'gladbach
+16/01/18,CLF,Fortuna Düsseldorf,2-0,Borussia M'gladbach
+20/01/18,BUN,Borussia M'gladbach,2-0,Augsburg
+26/01/18,BUN,Eintracht Frankfurt,2-0,Borussia M'gladbach
+03/02/18,BUN,Borussia M'gladbach,0-1,RB Leipzig
+11/02/18,BUN,Stuttgart,1-0,Borussia M'gladbach
+18/02/18,BUN,Borussia M'gladbach,0-1,Borussia Dortmund
+15/07/16,CLF,Borussia M'gladbach,1-2,Zürich
+20/07/16,CLF,1860 München,1-3,Borussia M'gladbach
+02/08/16,CLF,Chemnitzer FC,0-1,Borussia M'gladbach
+03/08/16,CLF,Hessen Kassel,1-6,Borussia M'gladbach
+10/08/16,CLF,Inter Milan,CANC,Borussia M'gladbach
+13/08/16,CLF,Borussia M'gladbach,0-0,Lazio
+16/08/16,UCL,Young Boys,1-3,Borussia M'gladbach
+20/08/16,DFP,Drochtersen / Assel,0-1,Borussia M'gladbach
+24/08/16,UCL,Borussia M'gladbach,6-1,Young Boys
+27/08/16,BUN,Borussia M'gladbach,2-1,Bayer Leverkusen
+02/09/16,CLF,Borussia M'gladbach,2-1,Hannover 96
+10/09/16,BUN,Freiburg,3-1,Borussia M'gladbach
+14/09/16,UCL,Manchester City,4-0,Borussia M'gladbach
+17/09/16,BUN,Borussia M'gladbach,4-1,Werder Bremen
+21/09/16,BUN,RB Leipzig,1-1,Borussia M'gladbach
+24/09/16,BUN,Borussia M'gladbach,2-0,Ingolstadt
+28/09/16,UCL,Borussia M'gladbach,1-2,Barcelona
+02/10/16,BUN,Schalke 04,4-0,Borussia M'gladbach
+15/10/16,BUN,Borussia M'gladbach,0-0,Hamburg
+19/10/16,UCL,Celtic,0-2,Borussia M'gladbach
+22/10/16,BUN,Bayern Munich,2-0,Borussia M'gladbach
+25/10/16,DFP,Borussia M'gladbach,2-0,Stuttgart
+28/10/16,BUN,Borussia M'gladbach,0-0,Eintracht Frankfurt
+01/11/16,UCL,Borussia M'gladbach,1-1,Celtic
+04/11/16,BUN,Hertha Berlin,3-0,Borussia M'gladbach
+19/11/16,BUN,Borussia M'gladbach,1-2,FC Cologne
+23/11/16,UCL,Borussia M'gladbach,1-1,Manchester City
+26/11/16,BUN,Borussia M'gladbach,1-1,Hoffenheim
+03/12/16,BUN,Borussia Dortmund,4-1,Borussia M'gladbach
+06/12/16,UCL,Barcelona,4-0,Borussia M'gladbach
+11/12/16,BUN,Borussia M'gladbach,1-0,Mainz
+17/12/16,BUN,Augsburg,1-0,Borussia M'gladbach
+20/12/16,BUN,Borussia M'gladbach,1-2,Wolfsburg
+10/01/17,CLF,Würzburger Kickers,0-2,Borussia M'gladbach
+10/01/17,CLF,Borussia M'gladbach,2-1,Zulte Waregem
+21/01/17,BUN,Darmstadt,0-0,Borussia M'gladbach
+28/01/17,BUN,Bayer Leverkusen,2-3,Borussia M'gladbach
+31/01/17,CLF,Borussia M'gladbach,1-4,Bochum
+04/02/17,BUN,Borussia M'gladbach,3-0,Freiburg
+07/02/17,DFP,Greuther Fürth,0-2,Borussia M'gladbach
+11/02/17,BUN,Werder Bremen,0-1,Borussia M'gladbach
+16/02/17,UEL,Borussia M'gladbach,0-1,Fiorentina
+19/02/17,BUN,Borussia M'gladbach,1-2,RB Leipzig
+23/02/17,UEL,Fiorentina,2-4,Borussia M'gladbach
+26/02/17,BUN,Ingolstadt,0-2,Borussia M'gladbach
+01/03/17,DFP,Hamburg,1-2,Borussia M'gladbach
+04/03/17,BUN,Borussia M'gladbach,4-2,Schalke 04
+09/03/17,UEL,Schalke 04,1-1,Borussia M'gladbach
+12/03/17,BUN,Hamburg,2-1,Borussia M'gladbach
+16/03/17,UEL,Borussia M'gladbach,2-2,Schalke 04
+30/08/15,BUN,Werder Bremen,2-1,Borussia M'gladbach
+04/09/15,CLF,Borussia M'gladbach,2-1,Sion
+11/09/15,BUN,Borussia M'gladbach,0-3,Hamburg
+15/09/15,UCL,Sevilla,3-0,Borussia M'gladbach
+19/09/15,BUN,FC Cologne,1-0,Borussia M'gladbach
+23/09/15,BUN,Borussia M'gladbach,4-2,Augsburg
+26/09/15,BUN,Stuttgart,1-3,Borussia M'gladbach
+30/09/15,UCL,Borussia M'gladbach,1-2,Manchester City
+03/10/15,BUN,Borussia M'gladbach,2-0,Wolfsburg
+17/10/15,BUN,Eintracht Frankfurt,1-5,Borussia M'gladbach
+21/10/15,UCL,Juventus,0-0,Borussia M'gladbach
+25/10/15,BUN,Borussia M'gladbach,3-1,Schalke 04
+28/10/15,DFP,Schalke 04,0-2,Borussia M'gladbach
+31/10/15,BUN,Hertha Berlin,1-4,Borussia M'gladbach
+03/11/15,UCL,Borussia M'gladbach,1-1,Juventus
+07/11/15,BUN,Borussia M'gladbach,0-0,Ingolstadt
+21/11/15,BUN,Borussia M'gladbach,2-1,Hannover 96
+25/11/15,UCL,Borussia M'gladbach,4-2,Sevilla
+28/11/15,BUN,Hoffenheim,3-3,Borussia M'gladbach
+05/12/15,BUN,Borussia M'gladbach,3-1,Bayern Munich
+08/12/15,UCL,Manchester City,4-2,Borussia M'gladbach
+12/12/15,BUN,Bayer Leverkusen,5-0,Borussia M'gladbach
+15/12/15,DFP,Borussia M'gladbach,3-4,Werder Bremen
+20/12/15,BUN,Borussia M'gladbach,3-2,Darmstadt
+12/01/16,CLF,Sivasspor,1-2,Borussia M'gladbach
+12/01/16,CLF,Borussia M'gladbach,2-2,Hertha Berlin
+16/01/16,CLF,Bochum,5-2,Borussia M'gladbach
+23/01/16,BUN,Borussia M'gladbach,1-3,Borussia Dortmund
+29/01/16,BUN,Mainz,1-0,Borussia M'gladbach
+30/01/16,CLF,Borussia M'gladbach,2-2,FSV Frankfurt
+05/02/16,BUN,Borussia M'gladbach,5-1,Werder Bremen
+14/02/16,BUN,Hamburg,3-2,Borussia M'gladbach
+20/02/16,BUN,Borussia M'gladbach,1-0,FC Cologne
+28/02/16,BUN,Augsburg,2-2,Borussia M'gladbach
+02/03/16,BUN,Borussia M'gladbach,4-0,Stuttgart
+05/03/16,BUN,Wolfsburg,2-1,Borussia M'gladbach
+12/03/16,BUN,Borussia M'gladbach,3-0,Eintracht Frankfurt
+18/03/16,BUN,Schalke 04,2-1,Borussia M'gladbach
+24/03/16,CLF,Borussia M'gladbach,2-1,Arminia Bielefeld
+03/04/16,BUN,Borussia M'gladbach,5-0,Hertha Berlin
+09/04/16,BUN,Ingolstadt,1-0,Borussia M'gladbach
+15/04/16,BUN,Hannover 96,2-0,Borussia M'gladbach
+24/04/16,BUN,Borussia M'gladbach,3-1,Hoffenheim
+30/04/16,BUN,Bayern Munich,1-1,Borussia M'gladbach
+07/05/16,BUN,Borussia M'gladbach,2-1,Bayer Leverkusen
+14/05/16,BUN,Darmstadt,0-2,Borussia M'gladbach
+17/05/16,CLF,Luzern,1-6,Borussia M'gladbach
+02/07/16,CLF,Rhede,0-15,Borussia M'gladbach
+09/07/16,CLF,Waldhof Mannheim,2-3,Borussia M'gladbach
+13/07/16,CLF,Young Boys,P3-3P,Borussia M'gladbach
+18/10/14,BUN,Hannover 96,0-3,Borussia M'gladbach
+23/10/14,UEL,Borussia M'gladbach,5-0,Apollon
+26/10/14,BUN,Borussia M'gladbach,0-0,Bayern Munich
+29/10/14,DFP,Eintracht Frankfurt,1-2,Borussia M'gladbach
+02/11/14,BUN,Borussia M'gladbach,3-1,Hoffenheim
+06/11/14,UEL,Apollon,0-2,Borussia M'gladbach
+09/11/14,BUN,Borussia Dortmund,1-0,Borussia M'gladbach
+14/11/14,CLF,Borussia M'gladbach,0-2,Kaiserslautern
+22/11/14,BUN,Borussia M'gladbach,1-3,Eintracht Frankfurt
+27/11/14,UEL,Villarreal,2-2,Borussia M'gladbach
+30/11/14,BUN,Wolfsburg,1-0,Borussia M'gladbach
+06/12/14,BUN,Borussia M'gladbach,3-2,Hertha Berlin
+11/12/14,UEL,Borussia M'gladbach,3-0,Zürich
+14/12/14,BUN,Bayer Leverkusen,1-1,Borussia M'gladbach
+17/12/14,BUN,Borussia M'gladbach,4-1,Werder Bremen
+20/12/14,BUN,Augsburg,2-1,Borussia M'gladbach
+13/01/15,CLF,Werder Bremen,3-2,Borussia M'gladbach
+17/01/15,CLF,Rot-Weiss Essen,0-1,Borussia M'gladbach
+24/01/15,CLF,Kaiserslautern,1-3,Borussia M'gladbach
+31/01/15,BUN,Stuttgart,0-1,Borussia M'gladbach
+03/02/15,BUN,Borussia M'gladbach,1-0,Freiburg
+06/02/15,BUN,Schalke 04,1-0,Borussia M'gladbach
+14/02/15,BUN,Borussia M'gladbach,1-0,FC Cologne
+19/02/15,UEL,Sevilla,1-0,Borussia M'gladbach
+22/02/15,BUN,Hamburg,1-1,Borussia M'gladbach
+26/02/15,UEL,Borussia M'gladbach,2-3,Sevilla
+01/03/15,BUN,Borussia M'gladbach,2-0,Paderborn
+04/03/15,DFP,Kickers Offenbach,0-2,Borussia M'gladbach
+07/03/15,BUN,Mainz,2-2,Borussia M'gladbach
+15/03/15,BUN,Borussia M'gladbach,2-0,Hannover 96
+22/03/15,BUN,Bayern Munich,0-2,Borussia M'gladbach
+04/04/15,BUN,Hoffenheim,1-4,Borussia M'gladbach
+08/04/15,DFP,Arminia Bielefeld,P1-1P,Borussia M'gladbach
+11/04/15,BUN,Borussia M'gladbach,3-1,Borussia Dortmund
+17/04/15,BUN,Eintracht Frankfurt,0-0,Borussia M'gladbach
+26/04/15,BUN,Borussia M'gladbach,1-0,Wolfsburg
+03/05/15,BUN,Hertha Berlin,1-2,Borussia M'gladbach
+09/05/15,BUN,Borussia M'gladbach,3-0,Bayer Leverkusen
+16/05/15,BUN,Werder Bremen,0-2,Borussia M'gladbach
+23/05/15,BUN,Borussia M'gladbach,1-3,Augsburg
+04/07/15,CLF,Koblenz,0-2,Borussia M'gladbach
+12/07/15,CLF,Borussia M'gladbach,P0-0P,Hamburg
+15/07/15,CLF,Borussia M'gladbach,1-1,Swansea City
+18/07/15,CLF,Borussia M'gladbach,2-2,Rennes
+19/07/15,CLF,Borussia M'gladbach,2-1,Standard Liège
+24/07/15,CLF,Borussia M'gladbach,2-1,Porto
+01/08/15,CLF,Newcastle United,0-1,Borussia M'gladbach
+10/08/15,DFP,St. Pauli,1-4,Borussia M'gladbach
+15/08/15,BUN,Borussia Dortmund,4-0,Borussia M'gladbach
+23/08/15,BUN,Borussia M'gladbach,1-2,Mainz

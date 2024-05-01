@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+03/05/23,SEA,Juventus,2-1,Lecce
+07/05/23,SEA,Lecce,0-1,Verona
+12/05/23,SEA,Lazio,2-2,Lecce
+21/05/23,SEA,Lecce,0-0,Spezia
+28/05/23,SEA,Monza,0-1,Lecce
+04/06/23,SEA,Lecce,2-3,Bologna
+22/07/23,CLF,Lecce,11-1,Rovereto
+26/07/23,CLF,Lecce,4-0,Padova
+30/07/23,CLF,Cittadella,0-3,Lecce
+06/08/23,CLF,Cadiz,P1-1P,Lecce
+13/08/23,COI,Lecce,1-0,Como
+20/08/23,SEA,Lecce,2-1,Lazio
+27/08/23,SEA,Fiorentina,2-2,Lecce
+03/09/23,SEA,Lecce,2-0,Salernitana
+17/09/23,SEA,Monza,1-1,Lecce
+22/09/23,SEA,Lecce,1-0,Genoa
+26/09/23,SEA,Juventus,1-0,Lecce
+30/09/23,SEA,Lecce,0-4,Napoli
+06/10/23,SEA,Lecce,1-1,Sassuolo
+23/10/23,SEA,Udinese,1-1,Lecce
+28/10/23,SEA,Lecce,0-1,Torino
+01/11/23,COI,Lecce,2-4,Parma
+05/11/23,SEA,Roma,2-1,Lecce
+11/11/23,SEA,Lecce,2-2,AC Milan
+27/11/23,SEA,Verona,2-2,Lecce
+03/12/23,SEA,Lecce,1-1,Bologna
+11/12/23,SEA,Empoli,1-1,Lecce
+16/12/23,SEA,Lecce,2-1,Frosinone
+23/12/23,SEA,Inter Milan,2-0,Lecce
+30/12/23,SEA,Atalanta,1-0,Lecce
+06/01/24,SEA,Lecce,1-1,Cagliari
+14/01/24,SEA,Lazio,1-0,Lecce
+21/01/24,SEA,Lecce,0-3,Juventus
+28/01/24,SEA,Genoa,2-1,Lecce
+02/02/24,SEA,Lecce,3-2,Fiorentina
+11/02/24,SEA,Bologna,4-0,Lecce
+16/02/24,SEA,Torino,2-0,Lecce
+25/02/24,SEA,Lecce,0-4,Inter Milan
+03/03/24,SEA,Frosinone,1-1,Lecce
+10/03/24,SEA,Lecce,0-1,Verona
+16/03/24,SEA,Salernitana,0-1,Lecce
+01/04/24,SEA,Lecce,0-0,Roma
+06/04/24,SEA,AC Milan,3-0,Lecce
+13/04/24,SEA,Lecce,1-0,Empoli
+21/04/24,SEA,Sassuolo,0-3,Lecce
+27/04/24,SEA,Lecce,1-1,Monza
+05/05/24,SEA,Cagliari,12:30,Lecce
+13/05/24,SEA,Lecce,18:30,Udinese
+19/05/24,SEA,Lecce,-,Atalanta
+26/05/24,SEA,Napoli,-,Lecce
+06/03/22,SEB,Perugia,1-1,Lecce
+12/03/22,SEB,Lecce,1-1,Brescia
+15/03/22,SEB,Cosenza,2-2,Lecce
+19/03/22,SEB,Parma,0-0,Lecce
+02/04/22,SEB,Lecce,1-0,Frosinone
+05/04/22,SEB,Ternana,1-4,Lecce
+09/04/22,SEB,Lecce,1-0,SPAL
+18/04/22,SEB,Reggina,1-0,Lecce
+25/04/22,SEB,Lecce,2-0,Pisa
+30/04/22,SEB,Vicenza,2-1,Lecce
+06/05/22,SEB,Lecce,1-0,Pordenone
+09/07/22,CLF,Rovereto,0-7,Lecce
+13/07/22,CLF,Bochum,3-2,Lecce
+22/07/22,CLF,Virtus Francavilla,0-1,Lecce
+29/07/22,CLF,Parma,1-0,Lecce
+05/08/22,COI,Lecce,E2-3E,Cittadella
+13/08/22,SEA,Lecce,1-2,Inter Milan
+20/08/22,SEA,Sassuolo,1-0,Lecce
+28/08/22,SEA,Lecce,1-1,Empoli
+31/08/22,SEA,Napoli,1-1,Lecce
+05/09/22,SEA,Torino,1-0,Lecce
+11/09/22,SEA,Lecce,1-1,Monza
+16/09/22,SEA,Salernitana,1-2,Lecce
+02/10/22,SEA,Lecce,1-1,Cremonese
+09/10/22,SEA,Roma,2-1,Lecce
+17/10/22,SEA,Lecce,1-1,Fiorentina
+23/10/22,SEA,Bologna,2-0,Lecce
+29/10/22,SEA,Lecce,0-1,Juventus
+04/11/22,SEA,Udinese,1-1,Lecce
+09/11/22,SEA,Lecce,2-1,Atalanta
+12/11/22,SEA,Sampdoria,0-2,Lecce
+23/12/22,CLF,Udinese,2-0,Lecce
+28/12/22,CLF,Lecce,2-0,Varaždin
+04/01/23,SEA,Lecce,2-1,Lazio
+08/01/23,SEA,Spezia,0-0,Lecce
+14/01/23,SEA,Lecce,2-2,AC Milan
+21/01/23,SEA,Verona,2-0,Lecce
+27/01/23,SEA,Lecce,1-2,Salernitana
+04/02/23,SEA,Cremonese,0-2,Lecce
+11/02/23,SEA,Lecce,1-1,Roma
+19/02/23,SEA,Atalanta,1-2,Lecce
+25/02/23,SEA,Lecce,0-1,Sassuolo
+05/03/23,SEA,Inter Milan,2-0,Lecce
+12/03/23,SEA,Lecce,0-2,Torino
+19/03/23,SEA,Fiorentina,1-0,Lecce
+03/04/23,SEA,Empoli,1-0,Lecce
+07/04/23,SEA,Lecce,1-2,Napoli
+16/04/23,SEA,Lecce,1-1,Sampdoria
+23/04/23,SEA,AC Milan,2-0,Lecce
+28/04/23,SEA,Lecce,1-0,Udinese
+02/03/21,SEB,Lecce,0-0,Virtus Entella
+07/03/21,SEB,Reggiana,0-4,Lecce
+13/03/21,SEB,Lecce,4-2,Chievo
+16/03/21,SEB,Venezia,2-3,Lecce
+20/03/21,SEB,Frosinone,0-3,Lecce
+02/04/21,SEB,Lecce,2-0,Salernitana
+05/04/21,SEB,Pisa,0-1,Lecce
+10/04/21,SEB,Lecce,1-2,SPAL
+17/04/21,SEB,Vicenza,1-2,Lecce
+01/05/21,SEB,Lecce,1-3,Cittadella
+04/05/21,SEB,Monza,1-0,Lecce
+07/05/21,SEB,Lecce,2-2,Reggina
+10/05/21,SEB,Empoli,2-1,Lecce
+17/05/21,SEB,Venezia,1-0,Lecce
+20/05/21,SEB,Lecce,1-1,Venezia
+24/07/21,CLF,Lecce,0-0,Legnago Salus
+24/07/21,CLF,Spezia,CANC,Lecce
+30/07/21,CLF,Vicenza,0-1,Lecce
+07/08/21,CLF,Heerenveen,CANC,Lecce
+15/08/21,COI,Parma,1-3,Lecce
+22/08/21,SEB,Cremonese,3-0,Lecce
+29/08/21,SEB,Lecce,1-1,Como
+03/09/21,CLF,Lecce,3-2,Città di Fasano
+10/09/21,SEB,Benevento,0-0,Lecce
+18/09/21,SEB,Lecce,3-2,Alessandria
+21/09/21,SEB,Crotone,0-3,Lecce
+25/09/21,SEB,Cittadella,1-2,Lecce
+01/10/21,SEB,Lecce,3-0,Monza
+16/10/21,SEB,Ascoli,1-1,Lecce
+23/10/21,SEB,Lecce,0-0,Perugia
+28/10/21,SEB,Brescia,1-1,Lecce
+01/11/21,SEB,Lecce,3-1,Cosenza
+07/11/21,SEB,Lecce,4-0,Parma
+20/11/21,SEB,Frosinone,0-0,Lecce
+26/11/21,SEB,Lecce,3-3,Ternana
+30/11/21,SEB,SPAL,1-3,Lecce
+04/12/21,SEB,Lecce,2-0,Reggina
+11/12/21,SEB,Pisa,1-0,Lecce
+16/12/21,COI,Spezia,0-2,Lecce
+16/01/22,SEB,Pordenone,0-1,Lecce
+20/01/22,COI,Roma,3-1,Lecce
+23/01/22,SEB,Lecce,2-1,Cremonese
+26/01/22,SEB,Lecce,2-1,Vicenza
+05/02/22,SEB,Como,1-1,Lecce
+13/02/22,SEB,Lecce,1-1,Benevento
+16/02/22,SEB,Alessandria,1-1,Lecce
+20/02/22,SEB,Lecce,3-0,Crotone
+23/02/22,SEB,Lecce,1-2,Cittadella
+27/02/22,SEB,Monza,0-1,Lecce
+02/03/22,SEB,Lecce,3-1,Ascoli
+13/01/20,SEA,Parma,2-0,Lecce
+19/01/20,SEA,Lecce,1-1,Inter Milan
+26/01/20,SEA,Verona,3-0,Lecce
+02/02/20,SEA,Lecce,4-0,Torino
+09/02/20,SEA,Napoli,2-3,Lecce
+15/02/20,SEA,Lecce,2-1,SPAL
+23/02/20,SEA,Roma,4-0,Lecce
+01/03/20,SEA,Lecce,2-7,Atalanta
+22/06/20,SEA,Lecce,1-4,AC Milan
+26/06/20,SEA,Juventus,4-0,Lecce
+01/07/20,SEA,Lecce,1-2,Sampdoria
+04/07/20,SEA,Sassuolo,4-2,Lecce
+07/07/20,SEA,Lecce,2-1,Lazio
+12/07/20,SEA,Cagliari,0-0,Lecce
+15/07/20,SEA,Lecce,1-3,Fiorentina
+19/07/20,SEA,Genoa,2-1,Lecce
+22/07/20,SEA,Lecce,3-1,Brescia
+26/07/20,SEA,Bologna,3-2,Lecce
+29/07/20,SEA,Udinese,1-2,Lecce
+02/08/20,SEA,Lecce,3-4,Parma
+12/09/20,CLF,Lecce,2-2,Monopoli
+19/09/20,CLF,Lecce,2-0,Nardò
+19/09/20,CLF,Lecce,3-0,Città di Fasano
+26/09/20,SEB,Lecce,0-0,Pordenone
+30/09/20,COI,Lecce,2-0,FeralpiSalò
+03/10/20,SEB,Ascoli,0-2,Lecce
+16/10/20,SEB,Brescia,3-0,Lecce
+21/10/20,SEB,Lecce,2-2,Cremonese
+25/10/20,SEB,Cosenza,1-1,Lecce
+28/10/20,COI,Torino,E3-1E,Lecce
+02/11/20,SEB,Lecce,3-1,Pescara
+08/11/20,SEB,Virtus Entella,1-5,Lecce
+21/11/20,SEB,Lecce,7-1,Reggiana
+27/11/20,SEB,Chievo,1-2,Lecce
+05/12/20,SEB,Lecce,2-2,Venezia
+12/12/20,SEB,Lecce,2-2,Frosinone
+15/12/20,SEB,Salernitana,1-1,Lecce
+19/12/20,SEB,Lecce,0-3,Pisa
+22/12/20,SEB,SPAL,1-0,Lecce
+27/12/20,SEB,Lecce,2-1,Vicenza
+30/12/20,SEB,Cittadella,2-2,Lecce
+04/01/21,SEB,Lecce,0-0,Monza
+16/01/21,SEB,Reggina,0-1,Lecce
+24/01/21,SEB,Lecce,2-2,Empoli
+30/01/21,SEB,Pordenone,1-1,Lecce
+05/02/21,SEB,Lecce,1-2,Ascoli
+09/02/21,SEB,Lecce,2-2,Brescia
+13/02/21,SEB,Cremonese,1-2,Lecce
+21/02/21,SEB,Lecce,3-1,Cosenza
+27/02/21,SEB,Pescara,1-1,Lecce
+31/10/18,SEB,Lecce,1-0,Crotone
+05/11/18,SEB,Pescara,4-2,Lecce
+10/11/18,SEB,Cosenza,2-3,Lecce
+25/11/18,SEB,Lecce,2-0,Cremonese
+02/12/18,SEB,Carpi,0-1,Lecce
+08/12/18,SEB,Lecce,0-0,Perugia
+16/12/18,SEB,Brescia,2-1,Lecce
+23/12/18,SEB,Lecce,3-2,Padova
+30/12/18,SEB,Spezia,1-1,Lecce
+19/01/19,SEB,Lecce,1-1,Benevento
+26/01/19,SEB,Salernitana,1-2,Lecce
+11/02/19,SEB,Venezia,1-1,Lecce
+17/02/19,SEB,Lecce,3-2,Livorno
+23/02/19,SEB,Cittadella,4-1,Lecce
+26/02/19,SEB,Lecce,2-1,Verona
+02/03/19,SEB,Palermo,2-1,Lecce
+09/03/19,SEB,Lecce,1-0,Foggia
+17/03/19,SEB,Crotone,2-2,Lecce
+23/03/19,SEB,Lecce,7-0,Ascoli
+31/03/19,SEB,Lecce,2-0,Pescara
+03/04/19,SEB,Lecce,3-1,Cosenza
+07/04/19,SEB,Cremonese,2-0,Lecce
+13/04/19,SEB,Lecce,4-1,Carpi
+22/04/19,SEB,Perugia,1-2,Lecce
+28/04/19,SEB,Lecce,1-0,Brescia
+01/05/19,SEB,Padova,2-1,Lecce
+11/05/19,SEB,Lecce,2-1,Spezia
+25/07/19,CLF,Lecce,6-0,Virtus Don Bosco
+27/07/19,CLF,Lecce,4-1,Frosinone
+18/08/19,COI,Lecce,4-0,Salernitana
+26/08/19,SEA,Inter Milan,4-0,Lecce
+01/09/19,SEA,Lecce,0-1,Verona
+07/09/19,CLF,Cosenza,1-1,Lecce
+16/09/19,SEA,Torino,1-2,Lecce
+22/09/19,SEA,Lecce,1-4,Napoli
+25/09/19,SEA,SPAL,1-3,Lecce
+29/09/19,SEA,Lecce,0-1,Roma
+06/10/19,SEA,Atalanta,3-1,Lecce
+20/10/19,SEA,AC Milan,2-2,Lecce
+26/10/19,SEA,Lecce,1-1,Juventus
+30/10/19,SEA,Sampdoria,1-1,Lecce
+03/11/19,SEA,Lecce,2-2,Sassuolo
+10/11/19,SEA,Lazio,4-2,Lecce
+25/11/19,SEA,Lecce,2-2,Cagliari
+30/11/19,SEA,Fiorentina,0-1,Lecce
+04/12/19,COI,SPAL,5-1,Lecce
+08/12/19,SEA,Lecce,2-2,Genoa
+14/12/19,SEA,Brescia,3-0,Lecce
+22/12/19,SEA,Lecce,2-3,Bologna
+06/01/20,SEA,Lecce,0-1,Udinese
+16/09/17,SEC,Lecce,1-0,Rende
+23/09/17,SEC,Catanzaro,1-3,Lecce
+30/09/17,SEC,Lecce,3-1,Bisceglie
+03/10/17,SEC,Lecce,3-2,Sicula Leonzio
+07/10/17,SEC,Juve Stabia,2-3,Lecce
+14/10/17,SEC,Lecce,0-0,Akragas
+21/10/17,SEC,Matera,0-1,Lecce
+30/10/17,SEC,Lecce,1-0,Cosenza
+04/11/17,SEC,Fidelis Andria,1-1,Lecce
+07/11/17,SEC,Lecce,2-1,Casertana
+11/11/17,SEC,Siracusa,1-3,Lecce
+18/11/17,SEC,Lecce,3-2,Reggina
+21/11/17,CIS,Lecce,2-1,Bisceglie
+25/11/17,SEC,Fondi,0-0,Lecce
+10/12/17,SEC,Paganese,1-1,Lecce
+17/12/17,SEC,Lecce,2-0,Monopoli
+23/12/17,SEC,Lecce,4-0,Virtus Francavilla
+29/12/17,SEC,Trapani,1-1,Lecce
+14/01/18,CIS,Lecce,3-0,Matera
+21/01/18,SEC,Lecce,1-1,Catania
+28/01/18,SEC,Rende,0-1,Lecce
+04/02/18,SEC,Lecce,3-1,Catanzaro
+09/02/18,SEC,Bisceglie,1-2,Lecce
+14/02/18,CIS,Lecce,0-2,Cosenza
+18/02/18,SEC,Sicula Leonzio,0-0,Lecce
+25/02/18,SEC,Lecce,0-1,Juve Stabia
+03/03/18,SEC,Akragas,0-2,Lecce
+11/03/18,SEC,Lecce,0-0,Matera
+19/03/18,SEC,Cosenza,0-1,Lecce
+22/03/18,SEC,Lecce,2-2,Fidelis Andria
+25/03/18,SEC,Casertana,1-0,Lecce
+31/03/18,SEC,Lecce,1-1,Siracusa
+08/04/18,SEC,Reggina,0-1,Lecce
+15/04/18,SEC,Lecce,2-0,Fondi
+29/04/18,SEC,Lecce,1-0,Paganese
+06/05/18,SEC,Monopoli,4-1,Lecce
+19/05/18,SEC,Livorno,3-1,Lecce
+26/05/18,SEC,Lecce,0-1,Padova
+07/08/18,COI,Lecce,E1-0E,FeralpiSalò
+11/08/18,COI,Genoa,4-0,Lecce
+18/08/18,CLF,Nardò,CANC,Lecce
+27/08/18,SEB,Benevento,3-3,Lecce
+02/09/18,SEB,Lecce,2-2,Salernitana
+15/09/18,SEB,Ascoli,1-0,Lecce
+22/09/18,SEB,Lecce,2-1,Venezia
+25/09/18,SEB,Livorno,0-3,Lecce
+29/09/18,SEB,Lecce,1-1,Cittadella
+05/10/18,SEB,Verona,0-2,Lecce
+21/10/18,SEB,Lecce,1-2,Palermo
+27/10/18,SEB,Foggia,2-2,Lecce
+28/08/16,SEC,Monopoli,1-2,Lecce
+04/09/16,SEC,Lecce,4-1,Akragas
+11/09/16,SEC,Melfi,1-3,Lecce
+14/09/16,SEC,Lecce,3-0,Catanzaro
+18/09/16,SEC,Lecce,0-0,Casertana
+25/09/16,SEC,Siracusa,0-2,Lecce
+02/10/16,SEC,Lecce,1-0,Reggina
+09/10/16,SEC,Vibonese,2-2,Lecce
+16/10/16,SEC,Lecce,3-0,Virtus Francavilla
+19/10/16,CIS,Virtus Francavilla,P1-1P,Lecce
+23/10/16,SEC,Catania,2-0,Lecce
+31/10/16,SEC,Lecce,0-0,Foggia
+06/11/16,SEC,Fondi,2-2,Lecce
+09/11/16,CIS,Matera,2-1,Lecce
+13/11/16,SEC,Lecce,1-1,Cosenza
+20/11/16,SEC,Juve Stabia,2-3,Lecce
+27/11/16,SEC,Taranto,0-1,Lecce
+03/12/16,SEC,Lecce,0-3,Matera
+06/12/16,SEC,Messina,0-3,Lecce
+10/12/16,SEC,Lecce,3-1,Paganese
+17/12/16,SEC,Fidelis Andria,0-0,Lecce
+22/12/16,SEC,Lecce,3-3,Monopoli
+29/12/16,SEC,Akragas,0-2,Lecce
+21/01/17,SEC,Lecce,3-1,Melfi
+30/01/17,SEC,Catanzaro,1-2,Lecce
+04/02/17,SEC,Casertana,1-0,Lecce
+11/02/17,SEC,Lecce,2-1,Siracusa
+18/02/17,SEC,Reggina,1-2,Lecce
+25/02/17,SEC,Lecce,2-1,Vibonese
+05/03/17,SEC,Virtus Francavilla,2-1,Lecce
+12/03/17,SEC,Lecce,1-0,Catania
+19/03/17,SEC,Foggia,3-0,Lecce
+26/03/17,SEC,Lecce,2-0,Fondi
+02/04/17,SEC,Cosenza,0-0,Lecce
+05/04/17,SEC,Lecce,3-2,Juve Stabia
+09/04/17,SEC,Lecce,3-0,Taranto
+15/04/17,SEC,Matera,1-1,Lecce
+23/04/17,SEC,Lecce,0-1,Messina
+30/04/17,SEC,Paganese,1-1,Lecce
+07/05/17,SEC,Lecce,1-1,Fidelis Andria
+21/05/17,SEC,Sambenedettese,1-1,Lecce
+24/05/17,SEC,Lecce,0-0,Sambenedettese
+31/05/17,SEC,Lecce,1-1,Alessandria
+04/06/17,SEC,Alessandria,P0-0P,Lecce
+30/07/17,COI,Lecce,3-0,Ciliverghe
+05/08/17,COI,Pro Vercelli,1-2,Lecce
+12/08/17,COI,Pordenone,3-2,Lecce
+26/08/17,SEC,Virtus Francavilla,1-1,Lecce
+02/09/17,SEC,Lecce,2-1,Trapani
+09/09/17,SEC,Catania,3-0,Lecce
+19/04/15,SEC,Lecce,1-0,Foggia
+25/04/15,SEC,Martina,0-1,Lecce
+03/05/15,SEC,Lecce,3-0,Ischia
+09/05/15,SEC,Vigor Lamezia,2-2,Lecce
+02/08/15,COI,Lecce,P0-0P,Catanzaro
+09/08/15,COI,Cesena,4-0,Lecce
+06/09/15,SEC,Lecce,1-3,Fidelis Andria
+13/09/15,SEC,Juve Stabia,0-1,Lecce
+20/09/15,SEC,Lecce,1-1,Casertana
+26/09/15,SEC,Martina,1-1,Lecce
+03/10/15,SEC,Lecce,0-0,Catania
+11/10/15,SEC,Foggia,4-0,Lecce
+17/10/15,SEC,Lecce,1-0,Ischia
+24/10/15,SEC,Melfi,0-1,Lecce
+28/10/15,CIS,Lecce,2-1,Matera
+02/11/15,SEC,Lecce,1-0,Monopoli
+08/11/15,SEC,Catanzaro,2-1,Lecce
+11/11/15,CIS,Cosenza,1-3,Lecce
+15/11/15,SEC,Lecce,1-0,Cosenza
+22/11/15,SEC,Matera,0-0,Lecce
+29/11/15,SEC,Akragas,1-3,Lecce
+05/12/15,SEC,Lecce,2-0,Messina
+13/12/15,SEC,Paganese,1-1,Lecce
+16/12/15,CIS,Lecce,0-1,Akragas
+20/12/15,SEC,Lecce,2-1,Benevento
+10/01/16,SEC,Racing Club Roma,1-1,Lecce
+17/01/16,SEC,Fidelis Andria,0-0,Lecce
+24/01/16,SEC,Lecce,2-0,Juve Stabia
+30/01/16,SEC,Casertana,1-1,Lecce
+06/02/16,SEC,Lecce,3-0,Martina
+13/02/16,SEC,Catania,0-0,Lecce
+20/02/16,SEC,Lecce,3-1,Foggia
+27/02/16,SEC,Ischia,0-3,Lecce
+06/03/16,SEC,Lecce,1-1,Melfi
+12/03/16,SEC,Monopoli,0-1,Lecce
+21/03/16,SEC,Lecce,4-0,Catanzaro
+26/03/16,SEC,Cosenza,3-4,Lecce
+03/04/16,SEC,Lecce,1-2,Matera
+09/04/16,SEC,Lecce,0-0,Akragas
+17/04/16,SEC,Messina,1-1,Lecce
+24/04/16,SEC,Lecce,1-0,Paganese
+30/04/16,SEC,Benevento,3-0,Lecce
+07/05/16,SEC,Lecce,3-1,Racing Club Roma
+15/05/16,SEC,Lecce,3-0,Bassano
+22/05/16,SEC,Lecce,2-3,Foggia
+29/05/16,SEC,Foggia,2-1,Lecce
+27/07/16,CLF,Crotone,CANC,Lecce
+30/07/16,COI,Lecce,2-1,Alto Vicentino
+08/08/16,COI,Ascoli,P2-2P,Lecce
+12/08/16,COI,Genoa,3-2,Lecce
+28/02/14,SEC,Lecce,2-1,Ascoli
+07/03/14,SEC,Viareggio,2-0,Lecce
+16/03/14,SEC,Lecce,3-0,Pontedera
+23/03/14,SEC,Prato,1-3,Lecce
+30/03/14,SEC,Lecce,3-0,Nocerina
+06/04/14,SEC,Grosseto,0-1,Lecce
+13/04/14,SEC,Lecce,2-0,Frosinone
+27/04/14,SEC,Pisa,1-0,Lecce
+11/05/14,SEC,Lecce,P0-0P,Pontedera
+18/05/14,SEC,Benevento,1-1,Lecce
+25/05/14,SEC,Lecce,2-0,Benevento
+01/06/14,SEC,Lecce,1-1,Frosinone
+07/06/14,SEC,Frosinone,E3-1E,Lecce
+10/08/14,COI,Lecce,5-0,Città di Foligno
+16/08/14,COI,Spezia,1-0,Lecce
+31/08/14,SEC,Lupa Roma,2-1,Lecce
+06/09/14,SEC,Lecce,1-0,Barletta
+13/09/14,SEC,Matera,0-0,Lecce
+19/09/14,SEC,Lecce,2-0,Reggina
+24/09/14,SEC,Savoia,0-0,Lecce
+27/09/14,SEC,Lecce,1-0,Paganese
+04/10/14,SEC,Messina,3-1,Lecce
+11/10/14,SEC,Lecce,2-0,Casertana
+19/10/14,SEC,Juve Stabia,1-1,Lecce
+24/10/14,SEC,Salernitana,1-3,Lecce
+29/10/14,CIS,Lecce,P1-1P,Matera
+02/11/14,SEC,Lecce,1-0,Cosenza
+08/11/14,SEC,Real Agro Aversa,0-1,Lecce
+15/11/14,SEC,Lecce,2-2,Catanzaro
+23/11/14,SEC,Benevento,1-2,Lecce
+29/11/14,SEC,Lecce,4-1,Melfi
+05/12/14,SEC,Foggia,2-0,Lecce
+13/12/14,SEC,Lecce,0-1,Martina
+21/12/14,SEC,Ischia,2-1,Lecce
+06/01/15,SEC,Lecce,3-3,Vigor Lamezia
+11/01/15,SEC,Lecce,2-1,Lupa Roma
+18/01/15,SEC,Barletta,1-1,Lecce
+25/01/15,SEC,Lecce,2-0,Matera
+31/01/15,SEC,Reggina,2-1,Lecce
+08/02/15,SEC,Lecce,1-0,Savoia
+13/02/15,SEC,Paganese,0-2,Lecce
+23/02/15,SEC,Lecce,2-1,Messina
+01/03/15,SEC,Casertana,1-0,Lecce
+06/03/15,SEC,Lecce,1-0,Juve Stabia
+11/03/15,SEC,Lecce,0-1,Salernitana
+15/03/15,SEC,Cosenza,1-0,Lecce
+21/03/15,SEC,Lecce,3-0,Real Agro Aversa
+28/03/15,SEC,Catanzaro,2-1,Lecce
+01/04/15,SEC,Lecce,1-0,Benevento
+12/04/15,SEC,Melfi,1-0,Lecce
+03/02/13,SEC,Lecce,2-1,Treviso
+10/02/13,SEC,Tritium,0-3,Lecce
+18/02/13,SEC,Lecce,2-0,Como
+24/02/13,SEC,Virtus Entella,2-2,Lecce
+27/02/13,CIS,Lecce,0-2,Latina
+04/03/13,SEC,Lecce,1-2,Trapani
+10/03/13,SEC,Lecce,5-0,Lumezzane
+13/03/13,CIS,Latina,1-2,Lecce
+17/03/13,SEC,Portogruaro,0-0,Lecce
+23/03/13,SEC,Lecce,1-0,Pavia
+14/04/13,SEC,Reggiana,0-2,Lecce
+21/04/13,SEC,Lecce,3-0,FeralpiSalò
+28/04/13,SEC,Südtirol,1-2,Lecce
+05/05/13,SEC,Lecce,2-2,Carpi
+12/05/13,SEC,AlbinoLeffe,2-1,Lecce
+26/05/13,SEC,Virtus Entella,1-1,Lecce
+02/06/13,SEC,Lecce,2-1,Virtus Entella
+09/06/13,SEC,Carpi,1-0,Lecce
+16/06/13,SEC,Lecce,1-1,Carpi
+04/08/13,COI,Lecce,3-0,Santhià
+11/08/13,COI,Ternana,E2-4E,Lecce
+17/08/13,COI,Parma,4-0,Lecce
+01/09/13,SEC,Salernitana,2-1,Lecce
+08/09/13,SEC,Lecce,1-2,L'Aquila
+15/09/13,SEC,Benevento,4-1,Lecce
+22/09/13,SEC,Lecce,1-2,Catanzaro
+29/09/13,SEC,Perugia,2-0,Lecce
+02/10/13,CIS,Lecce,1-0,Foggia
+06/10/13,SEC,Lecce,0-0,Barletta
+13/10/13,SEC,Paganese,0-1,Lecce
+20/10/13,SEC,Lecce,1-1,Gubbio
+23/10/13,CIS,Barletta,0-1,Lecce
+27/10/13,SEC,Ascoli,2-5,Lecce
+03/11/13,SEC,Lecce,3-0,Viareggio
+06/11/13,CIS,Grosseto,2-1,Lecce
+10/11/13,SEC,Pontedera,0-0,Lecce
+16/11/13,SEC,Lecce,2-0,Prato
+27/11/13,CIS,Lecce,0-2,Perugia
+01/12/13,SEC,Lecce,1-0,Grosseto
+08/12/13,SEC,Frosinone,3-1,Lecce
+15/12/13,SEC,Lecce,2-0,Pisa
+18/12/13,SEC,Nocerina,0-3,Lecce
+04/01/14,SEC,Lecce,2-1,Salernitana
+12/01/14,SEC,L'Aquila,0-1,Lecce
+19/01/14,SEC,Lecce,2-0,Benevento
+26/01/14,SEC,Catanzaro,0-0,Lecce
+02/02/14,SEC,Lecce,3-4,Perugia
+09/02/14,SEC,Barletta,1-2,Lecce
+16/02/14,SEC,Lecce,2-0,Paganese
+23/02/14,SEC,Gubbio,1-2,Lecce

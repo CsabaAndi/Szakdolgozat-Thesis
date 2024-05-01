@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+20/05/23,FDA,Westerlo,3-0,Standard Liège
+27/05/23,FDA,Westerlo,1-3,Gent
+03/06/23,FDA,Cercle Brugge,2-0,Westerlo
+01/07/23,CLF,Westerlo,2-2,Sint-Truiden
+11/07/23,CLF,PEC Zwolle,3-1,Westerlo
+16/07/23,CLF,Westerlo,3-2,PAOK
+22/07/23,CLF,Westerlo,2-1,Willem II
+29/07/23,FDA,AS Eupen,2-2,Westerlo
+06/08/23,FDA,Westerlo,0-1,Club Brugge
+13/08/23,FDA,Westerlo,1-3,Gent
+20/08/23,FDA,Anderlecht,2-1,Westerlo
+26/08/23,FDA,Westerlo,2-3,Mechelen
+02/09/23,FDA,Cercle Brugge,2-1,Westerlo
+15/09/23,FDA,Westerlo,0-3,Antwerp
+22/09/23,FDA,Standard Liège,0-0,Westerlo
+01/10/23,FDA,Genk,3-3,Westerlo
+07/10/23,FDA,Westerlo,1-0,Kortrijk
+21/10/23,FDA,RWDM,1-1,Westerlo
+29/10/23,FDA,Westerlo,1-3,Union Saint-Gilloise
+01/11/23,CUP,SK Beveren,3-1,Westerlo
+04/11/23,FDA,OH Leuven,0-2,Westerlo
+10/11/23,FDA,Westerlo,3-3,Sint-Truiden
+25/11/23,FDA,Sporting Charleroi,3-2,Westerlo
+01/12/23,FDA,Westerlo,1-3,Anderlecht
+08/12/23,FDA,Kortrijk,1-2,Westerlo
+15/12/23,FDA,Westerlo,2-0,AS Eupen
+23/12/23,FDA,Antwerp,2-2,Westerlo
+26/12/23,FDA,Westerlo,3-0,RWDM
+12/01/24,CLF,Westerlo,2-2,1. FC Bocholt
+12/01/24,CLF,Rapid Bucureşti,2-3,Westerlo
+20/01/24,FDA,Club Brugge,3-0,Westerlo
+27/01/24,FDA,Gent,2-2,Westerlo
+30/01/24,FDA,Westerlo,4-2,Cercle Brugge
+03/02/24,FDA,Westerlo,0-3,OH Leuven
+10/02/24,FDA,Union Saint-Gilloise,2-2,Westerlo
+16/02/24,FDA,Westerlo,2-1,Standard Liège
+24/02/24,FDA,Sint-Truiden,1-0,Westerlo
+01/03/24,FDA,Westerlo,0-1,Sporting Charleroi
+08/03/24,FDA,Mechelen,3-1,Westerlo
+17/03/24,FDA,Westerlo,1-1,Genk
+31/03/24,FDA,Sint-Truiden,2-0,Westerlo
+07/04/24,FDA,Westerlo,0-3,Gent
+13/04/24,FDA,Mechelen,3-2,Westerlo
+20/04/24,FDA,Westerlo,3-3,Standard Liège
+23/04/24,FDA,Westerlo,1-1,OH Leuven
+27/04/24,FDA,Gent,3-2,Westerlo
+03/05/24,FDA,Westerlo,20:45,Sint-Truiden
+10/05/24,FDA,Standard Liège,20:45,Westerlo
+18/05/24,FDA,Westerlo,18:15,Mechelen
+25/05/24,FDA,OH Leuven,20:30,Westerlo
+24/06/22,CLF,Westerlo,6-2,Gent
+02/07/22,CLF,Westerlo,2-0,Patro Eisden
+02/07/22,CLF,Westerlo,2-1,Maccabi Tel Aviv
+08/07/22,CLF,Lommel,1-2,Westerlo
+08/07/22,CLF,Vitesse,0-0,Westerlo
+16/07/22,CLF,Westerlo,2-3,Beerschot
+16/07/22,CLF,Westerlo,0-1,AZ
+24/07/22,FDA,Westerlo,2-0,Cercle Brugge
+30/07/22,FDA,OH Leuven,2-0,Westerlo
+07/08/22,FDA,Gent,2-1,Westerlo
+13/08/22,FDA,Westerlo,4-2,Standard Liège
+21/08/22,FDA,Mechelen,5-4,Westerlo
+28/08/22,FDA,Westerlo,0-1,AS Eupen
+04/09/22,FDA,Antwerp,3-0,Westerlo
+11/09/22,FDA,Westerlo,2-1,Anderlecht
+17/09/22,FDA,Sporting Charleroi,2-3,Westerlo
+25/09/22,CUP,Eendracht Aalst,E1-3E,Westerlo
+01/10/22,FDA,Westerlo,2-0,Zulte Waregem
+08/10/22,FDA,Club Brugge,0-2,Westerlo
+14/10/22,FDA,Westerlo,2-2,RFC Seraing
+18/10/22,FDA,Genk,6-1,Westerlo
+22/10/22,FDA,Kortrijk,0-2,Westerlo
+29/10/22,FDA,Westerlo,2-3,Sint-Truiden
+06/11/22,FDA,Union Saint-Gilloise,1-1,Westerlo
+09/11/22,CUP,Westerlo,0-1,Genk
+12/11/22,FDA,Westerlo,6-0,KV Oostende
+10/12/22,CLF,Istanbul Basaksehir,2-1,Westerlo
+11/12/22,CLF,Besiktas,1-0,Westerlo
+27/12/22,FDA,Westerlo,3-3,Antwerp
+30/12/22,CLF,Westerlo,2-1,Sparta Rotterdam
+07/01/23,FDA,Cercle Brugge,0-1,Westerlo
+13/01/23,FDA,Westerlo,1-2,OH Leuven
+17/01/23,FDA,Westerlo,2-3,Genk
+21/01/23,FDA,Zulte Waregem,1-1,Westerlo
+28/01/23,FDA,Westerlo,2-0,Mechelen
+04/02/23,FDA,AS Eupen,1-1,Westerlo
+11/02/23,FDA,Westerlo,3-3,Gent
+19/02/23,FDA,Sint-Truiden,0-1,Westerlo
+25/02/23,FDA,Westerlo,4-2,Union Saint-Gilloise
+04/03/23,FDA,Standard Liège,2-0,Westerlo
+11/03/23,FDA,Westerlo,3-1,Kortrijk
+18/03/23,FDA,KV Oostende,1-2,Westerlo
+23/03/23,CLF,SK Beveren,2-2,Westerlo
+01/04/23,FDA,Westerlo,2-3,Sporting Charleroi
+09/04/23,FDA,Anderlecht,0-0,Westerlo
+15/04/23,FDA,Westerlo,0-0,Club Brugge
+22/04/23,FDA,RFC Seraing,1-1,Westerlo
+28/04/23,FDA,Gent,3-1,Westerlo
+07/05/23,FDA,Westerlo,3-5,Cercle Brugge
+13/05/23,FDA,Standard Liège,2-2,Westerlo
+14/03/21,CPL,Lommel,1-0,Westerlo
+19/03/21,CPL,Westerlo,2-2,Union Saint-Gilloise
+26/03/21,CLF,Westerlo,1-0,Beerschot
+04/04/21,CPL,Lierse K,0-0,Westerlo
+09/04/21,CPL,Westerlo,2-2,RWDM
+19/04/21,CPL,Deinze,0-1,Westerlo
+24/04/21,CPL,Westerlo,1-1,Club Brugge II
+10/07/21,CLF,Sint-Truiden,2-1,Westerlo
+18/07/21,CLF,Mechelen,1-3,Westerlo
+24/07/21,CLF,Westerlo,1-0,OFI
+31/07/21,CLF,Westerlo,CANC,Panathinaikos
+01/08/21,CLF,Almere City,1-1,Westerlo
+07/08/21,CLF,Club Brugge,2-1,Westerlo
+15/08/21,CPL,Excelsior Virton,0-2,Westerlo
+20/08/21,CPL,Westerlo,0-0,RWDM
+28/08/21,CPL,Westerlo,3-2,Lierse K
+05/09/21,CUP,Liège,1-3,Westerlo
+08/09/21,CLF,Westerlo,0-5,Sint-Truiden
+12/09/21,CPL,SK Beveren,0-2,Westerlo
+19/09/21,CPL,Westerlo,2-2,Deinze
+26/09/21,CPL,Excel Mouscron,1-2,Westerlo
+01/10/21,CPL,Westerlo,2-0,Lommel
+07/10/21,CLF,Anderlecht,4-1,Westerlo
+17/10/21,CPL,RWDM,1-2,Westerlo
+24/10/21,CPL,Westerlo,2-0,Excelsior Virton
+28/10/21,CUP,Westerlo,2-1,Antwerp
+31/10/21,CPL,Deinze,2-1,Westerlo
+07/11/21,CPL,Westerlo,1-1,SK Beveren
+12/11/21,CLF,Westerlo,4-0,Beerschot
+20/11/21,CPL,Lierse K,1-5,Westerlo
+27/11/21,CPL,Lommel,0-1,Westerlo
+01/12/21,CUP,Westerlo,2-3,OH Leuven
+05/12/21,CPL,Westerlo,4-3,Excel Mouscron
+19/12/21,CPL,Westerlo,1-1,Excelsior Virton
+09/01/22,CLF,Anderlecht,2-0,Westerlo
+15/01/22,CLF,Westerlo,4-2,Alemannia Aachen
+25/01/22,CPL,RWDM,0-2,Westerlo
+30/01/22,CPL,SK Beveren,2-1,Westerlo
+06/02/22,CPL,Westerlo,3-0,Lommel
+09/02/22,CPL,Westerlo,0-3,Deinze
+12/02/22,CPL,Westerlo,1-0,Excel Mouscron
+25/02/22,CPL,Westerlo,2-1,SK Beveren
+04/03/22,CPL,Deinze,1-2,Westerlo
+11/03/22,CPL,Excelsior Virton,1-0,Westerlo
+16/03/22,CPL,Lierse K,1-0,Westerlo
+20/03/22,CPL,Westerlo,2-0,Lierse K
+02/04/22,CPL,Lommel,2-1,Westerlo
+08/04/22,CPL,Excel Mouscron,2-6,Westerlo
+16/04/22,CPL,Westerlo,2-2,RWDM
+18/06/22,CLF,Westerlo,11-0,City Pirates Antwerpen
+30/11/19,CPL,Excelsior Virton,1-1,Westerlo
+04/12/19,CUP,Union Saint-Gilloise,P0-0P,Westerlo
+08/12/19,CPL,Westerlo,0-3,Union Saint-Gilloise
+14/12/19,CPL,Westerlo,0-1,Beerschot
+22/12/19,CPL,Lokeren,0-4,Westerlo
+05/01/20,CLF,Roda JC,4-0,Westerlo
+11/01/20,CPL,Westerlo,2-1,Lommel
+19/01/20,CPL,OH Leuven,1-3,Westerlo
+25/01/20,CPL,Westerlo,1-1,KSV Roeselare
+31/01/20,CPL,Beerschot,1-0,Westerlo
+12/02/20,CPL,Westerlo,3-2,Lokeren
+15/02/20,CPL,Lommel,0-1,Westerlo
+18/02/20,CLF,Sint-Truiden,3-0,Westerlo
+22/02/20,CPL,Westerlo,2-1,Excelsior Virton
+28/02/20,CPL,Union Saint-Gilloise,3-1,Westerlo
+18/07/20,CLF,Mechelen,0-6,Westerlo
+22/07/20,CLF,Westerlo,0-1,Sint-Truiden
+25/07/20,CLF,Dessel Sport,1-4,Westerlo
+31/07/20,CLF,Vitesse,4-2,Westerlo
+09/08/20,CLF,Westerlo,4-2,Knokke
+09/08/20,CLF,Westerlo,CANC,Roda JC
+12/08/20,CLF,Lierse K,CANC,Westerlo
+15/08/20,CLF,Westerlo,3-1,MVV
+22/08/20,CLF,Wolvertem Merchtem,CANC,Westerlo
+23/08/20,CPL,Westerlo,0-0,Lierse K
+24/08/20,CLF,Genk,2-2,Westerlo
+30/08/20,CPL,Union Saint-Gilloise,0-0,Westerlo
+04/09/20,CLF,Westerlo,1-2,Sint-Truiden
+13/09/20,CPL,RFC Seraing,0-2,Westerlo
+11/10/20,CUP,Westerlo,5-1,Hades
+17/10/20,CPL,Lommel,1-1,Westerlo
+23/10/20,CPL,Deinze,2-2,Westerlo
+31/10/20,CPL,Westerlo,1-4,Union Saint-Gilloise
+06/11/20,CPL,RWDM,3-1,Westerlo
+09/11/20,CPL,Westerlo,3-0,RWDM
+14/11/20,CPL,Club Brugge II,1-1,Westerlo
+18/11/20,CPL,Westerlo,3-0,Deinze
+22/11/20,CPL,Westerlo,1-1,RFC Seraing
+28/11/20,CPL,Lierse K,0-1,Westerlo
+06/12/20,CPL,Westerlo,2-1,Lommel
+11/12/20,CPL,Westerlo,2-1,Club Brugge II
+20/12/20,CPL,Union Saint-Gilloise,2-1,Westerlo
+24/01/21,CPL,Westerlo,4-3,RFC Seraing
+31/01/21,CPL,Westerlo,2-0,Lierse K
+03/02/21,CUP,Sporting Charleroi,1-0,Westerlo
+15/02/21,CPL,Westerlo,1-1,Lommel
+20/02/21,CPL,RWDM,2-1,Westerlo
+28/02/21,CPL,Westerlo,4-0,Deinze
+03/03/21,CPL,Club Brugge II,1-1,Westerlo
+07/03/21,CPL,RFC Seraing,1-1,Westerlo
+24/11/18,CPL,Union Saint-Gilloise,0-0,Westerlo
+27/11/18,CLF,Sint-Truiden,1-0,Westerlo
+01/12/18,CPL,Westerlo,2-0,KSV Roeselare
+08/12/18,CPL,Westerlo,1-3,Mechelen
+15/12/18,CPL,Tubize,0-0,Westerlo
+21/12/18,CPL,Westerlo,0-0,OH Leuven
+11/01/19,CPL,Lommel,2-1,Westerlo
+19/01/19,CPL,Beerschot,1-1,Westerlo
+26/01/19,CPL,Westerlo,2-0,Union Saint-Gilloise
+02/02/19,CPL,Mechelen,3-0,Westerlo
+08/02/19,CPL,Westerlo,1-0,Tubize
+16/02/19,CPL,OH Leuven,3-0,Westerlo
+22/02/19,CPL,Westerlo,2-2,Lommel
+03/03/19,CPL,KSV Roeselare,1-1,Westerlo
+31/03/19,UEL,Westerlo,1-1,Beerschot
+03/04/19,UEL,AS Eupen,0-3,Westerlo
+06/04/19,UEL,Westerlo,2-2,Sint-Truiden
+14/04/19,UEL,Sporting Charleroi,2-0,Westerlo
+20/04/19,UEL,Westerlo,0-0,KV Oostende
+27/04/19,UEL,Westerlo,1-0,AS Eupen
+04/05/19,UEL,Beerschot,3-2,Westerlo
+11/05/19,UEL,KV Oostende,0-3,Westerlo
+15/05/19,UEL,Westerlo,0-2,Sporting Charleroi
+18/05/19,UEL,Sint-Truiden,2-1,Westerlo
+29/06/19,CLF,Houtvenne,0-6,Westerlo
+06/07/19,CLF,Westerlo,2-0,Vorskla
+09/07/19,CLF,Boluspor,0-2,Westerlo
+13/07/19,CLF,Westerlo,5-1,Eindhoven
+17/07/19,CLF,Heist,1-2,Westerlo
+21/07/19,CLF,Westerlo,2-1,Genk
+24/07/19,CLF,Lierse K,1-4,Westerlo
+26/07/19,CLF,NAC Breda,1-3,Westerlo
+03/08/19,CPL,Lommel,0-2,Westerlo
+09/08/19,CPL,Westerlo,1-0,OH Leuven
+17/08/19,CPL,Westerlo,4-1,KSV Roeselare
+24/08/19,CUP,La Louvière Centre,1-2,Westerlo
+01/09/19,CPL,Excelsior Virton,1-0,Westerlo
+07/09/19,CPL,Westerlo,2-0,Beerschot
+13/09/19,CPL,Lokeren,1-1,Westerlo
+21/09/19,CPL,Westerlo,1-2,Union Saint-Gilloise
+24/09/19,CUP,SK Beveren,3-4,Westerlo
+27/09/19,CPL,KSV Roeselare,0-2,Westerlo
+05/10/19,CPL,Westerlo,0-1,Excelsior Virton
+11/10/19,CPL,Beerschot,1-2,Westerlo
+18/10/19,CPL,Westerlo,2-0,Lokeren
+25/10/19,CPL,OH Leuven,2-1,Westerlo
+02/11/19,CPL,Westerlo,1-1,Lommel
+08/11/19,CPL,Union Saint-Gilloise,0-2,Westerlo
+17/11/19,CPL,KSV Roeselare,3-5,Westerlo
+22/11/19,CPL,Westerlo,1-2,OH Leuven
+16/09/17,CPL,Beerschot,2-2,Westerlo
+20/09/17,CUP,Westerlo,0-1,Anderlecht
+24/09/17,CPL,Westerlo,4-0,KSV Roeselare
+30/09/17,CPL,Tubize,1-2,Westerlo
+04/10/17,CPL,Westerlo,0-3,Union Saint-Gilloise
+08/10/17,CPL,OH Leuven,2-1,Westerlo
+15/10/17,CPL,Westerlo,0-0,Beerschot
+21/10/17,CPL,KSV Roeselare,0-0,Westerlo
+28/10/17,CPL,Westerlo,0-1,Lierse
+05/11/17,CPL,Cercle Brugge,3-1,Westerlo
+11/11/17,CPL,Westerlo,0-1,Union Saint-Gilloise
+18/11/17,CPL,KSV Roeselare,2-1,Westerlo
+26/11/17,CPL,Westerlo,1-1,Beerschot
+02/12/17,CPL,Lierse,2-0,Westerlo
+09/12/17,CPL,Westerlo,1-0,OH Leuven
+16/12/17,CPL,Westerlo,2-3,Cercle Brugge
+07/01/18,CPL,Tubize,2-1,Westerlo
+12/01/18,CPL,Westerlo,0-0,KSV Roeselare
+20/01/18,CPL,Union Saint-Gilloise,1-1,Westerlo
+26/01/18,CPL,OH Leuven,0-1,Westerlo
+03/02/18,CPL,Westerlo,6-0,Lierse
+09/02/18,CPL,Beerschot,0-0,Westerlo
+18/02/18,CPL,Westerlo,0-0,Tubize
+25/02/18,CPL,Cercle Brugge,1-1,Westerlo
+23/03/18,CPL,Westerlo,1-0,Union Saint-Gilloise
+30/03/18,CPL,Tubize,0-2,Westerlo
+08/04/18,CPL,Westerlo,0-0,KSV Roeselare
+15/04/18,CPL,KSV Roeselare,0-0,Westerlo
+20/04/18,CPL,Union Saint-Gilloise,0-2,Westerlo
+29/04/18,CPL,Westerlo,1-1,Tubize
+30/06/18,CLF,Houtvenne,0-5,Westerlo
+18/07/18,CLF,Dessel Sport,0-1,Westerlo
+20/07/18,CLF,Westerlo,2-2,Anderlecht
+25/07/18,CLF,Lierse K,0-1,Westerlo
+04/08/18,CPL,Westerlo,2-1,KSV Roeselare
+10/08/18,CPL,Beerschot,1-1,Westerlo
+18/08/18,CPL,Westerlo,1-3,Union Saint-Gilloise
+26/08/18,CUP,KFC Duffel,3-0,Westerlo
+01/09/18,CPL,OH Leuven,1-3,Westerlo
+08/09/18,CPL,Westerlo,2-1,Tubize
+16/09/18,CPL,Westerlo,4-1,Lommel
+23/09/18,CPL,Mechelen,2-0,Westerlo
+29/09/18,CPL,Westerlo,1-2,Beerschot
+07/10/18,CPL,Union Saint-Gilloise,2-0,Westerlo
+19/10/18,CPL,Westerlo,0-1,OH Leuven
+28/10/18,CPL,Lommel,0-1,Westerlo
+31/10/18,CPL,KSV Roeselare,0-1,Westerlo
+04/11/18,CPL,Westerlo,0-3,Mechelen
+09/11/18,CPL,Tubize,2-0,Westerlo
+18/11/18,CPL,Westerlo,1-2,Beerschot
+13/07/16,CLF,Westerlo,2-3,Olympiakos
+16/07/16,CLF,Lierse,2-0,Westerlo
+19/07/16,CLF,Westerlo,1-1,Zulte Waregem
+23/07/16,CLF,OH Leuven,2-2,Westerlo
+31/07/16,FDA,Westerlo,2-2,Standard Liège
+07/08/16,FDA,Lokeren,3-0,Westerlo
+13/08/16,FDA,Westerlo,1-2,AS Eupen
+21/08/16,FDA,Gent,4-2,Westerlo
+27/08/16,FDA,Westerlo,1-2,Mechelen
+10/09/16,FDA,Kortrijk,4-1,Westerlo
+17/09/16,FDA,Westerlo,1-3,Excel Mouscron
+21/09/16,CUP,Westerlo,0-1,Tubize
+25/09/16,FDA,Anderlecht,1-2,Westerlo
+01/10/16,FDA,Westerlo,1-0,SK Beveren
+15/10/16,FDA,Sint-Truiden,2-2,Westerlo
+22/10/16,FDA,Westerlo,0-0,Sporting Charleroi
+26/10/16,FDA,Club Brugge,4-0,Westerlo
+29/10/16,FDA,Genk,2-1,Westerlo
+05/11/16,FDA,Westerlo,1-2,Zulte Waregem
+19/11/16,FDA,KV Oostende,5-0,Westerlo
+26/11/16,FDA,AS Eupen,3-3,Westerlo
+03/12/16,FDA,Westerlo,0-0,Gent
+11/12/16,FDA,Standard Liège,3-1,Westerlo
+17/12/16,FDA,Westerlo,1-3,Lokeren
+20/12/16,FDA,Excel Mouscron,0-0,Westerlo
+26/12/16,FDA,Westerlo,4-1,Kortrijk
+13/01/17,CLF,Westerlo,CANC,Shanghai Shenxin
+13/01/17,CLF,Westerlo,1-1,Shanghai Shenxin
+22/01/17,FDA,Mechelen,1-2,Westerlo
+25/01/17,FDA,Westerlo,2-4,Anderlecht
+28/01/17,FDA,SK Beveren,0-0,Westerlo
+05/02/17,FDA,Westerlo,1-0,Sint-Truiden
+11/02/17,FDA,Sporting Charleroi,2-1,Westerlo
+17/02/17,FDA,Westerlo,1-2,Club Brugge
+25/02/17,FDA,Westerlo,0-4,KV Oostende
+04/03/17,FDA,Zulte Waregem,2-2,Westerlo
+12/03/17,FDA,Westerlo,0-4,Genk
+03/05/17,CLF,Mechelen,1-4,Westerlo
+28/06/17,CLF,Weerstand Koersel,0-4,Westerlo
+16/07/17,CLF,Westerlo,0-6,Mechelen
+19/07/17,CLF,Sint-Truiden,0-0,Westerlo
+23/07/17,CLF,Oosterwijk,3-2,Westerlo
+26/07/17,CLF,Dessel Sport,0-1,Westerlo
+29/07/17,CLF,Go Ahead Eagles,1-1,Westerlo
+06/08/17,CPL,Westerlo,1-2,Cercle Brugge
+12/08/17,CPL,Westerlo,1-1,Tubize
+19/08/17,CPL,Union Saint-Gilloise,3-0,Westerlo
+27/08/17,CUP,Westerlo,4-0,Toekomst Menen
+02/09/17,CPL,Westerlo,2-2,OH Leuven
+09/09/17,CPL,Lierse,2-2,Westerlo
+15/03/15,FDA,Westerlo,1-3,Club Brugge
+04/04/15,FDA,Westerlo,0-3,Excel Mouscron
+11/04/15,FDA,Lokeren,1-1,Westerlo
+18/04/15,FDA,KV Oostende,2-0,Westerlo
+25/04/15,FDA,Westerlo,1-2,KV Oostende
+01/05/15,FDA,Westerlo,4-3,Lokeren
+09/05/15,FDA,Excel Mouscron,1-1,Westerlo
+30/06/15,CLF,Dessel Sport,1-2,Westerlo
+03/07/15,CLF,Weerstand Koersel,0-10,Westerlo
+07/07/15,CLF,Eindhoven,0-1,Westerlo
+10/07/15,CLF,Willem II,0-0,Westerlo
+14/07/15,CLF,Lierse,1-0,Westerlo
+17/07/15,CLF,Westerlo,1-1,NAC Breda
+26/07/15,FDA,Westerlo,1-1,Gent
+01/08/15,FDA,KV Oostende,2-1,Westerlo
+08/08/15,FDA,Westerlo,3-2,OH Leuven
+15/08/15,FDA,Genk,2-1,Westerlo
+22/08/15,FDA,Sporting Charleroi,0-0,Westerlo
+30/08/15,FDA,Westerlo,0-3,Anderlecht
+12/09/15,FDA,Mechelen,2-2,Westerlo
+19/09/15,FDA,Westerlo,0-3,Sint-Truiden
+22/09/15,CUP,Westerlo,3-2,Cercle Brugge
+25/09/15,FDA,Zulte Waregem,4-2,Westerlo
+03/10/15,FDA,Westerlo,1-1,Kortrijk
+17/10/15,FDA,Standard Liège,1-2,Westerlo
+24/10/15,FDA,Westerlo,1-2,Lokeren
+27/10/15,FDA,Excel Mouscron,2-2,Westerlo
+31/10/15,FDA,Westerlo,0-2,Club Brugge
+07/11/15,FDA,SK Beveren,2-2,Westerlo
+20/11/15,FDA,Gent,5-0,Westerlo
+29/11/15,FDA,Westerlo,0-1,KV Oostende
+02/12/15,CUP,Westerlo,P1-1P,Antwerp
+05/12/15,FDA,OH Leuven,5-1,Westerlo
+11/12/15,FDA,Westerlo,0-0,Genk
+16/12/15,CUP,Westerlo,0-2,Club Brugge
+19/12/15,FDA,Westerlo,2-1,Sporting Charleroi
+27/12/15,FDA,Anderlecht,2-1,Westerlo
+16/01/16,FDA,Westerlo,3-2,Mechelen
+23/01/16,FDA,Sint-Truiden,1-2,Westerlo
+30/01/16,FDA,Westerlo,1-2,Zulte Waregem
+06/02/16,FDA,Kortrijk,1-1,Westerlo
+14/02/16,FDA,Westerlo,2-0,Standard Liège
+19/02/16,FDA,Club Brugge,6-0,Westerlo
+27/02/16,FDA,Westerlo,2-2,Excel Mouscron
+05/03/16,FDA,Lokeren,2-1,Westerlo
+13/03/16,FDA,Westerlo,1-0,SK Beveren
+25/06/16,CLF,Houtvenne,1-6,Westerlo
+02/07/16,CLF,Svelta Melsele,3-5,Westerlo
+06/07/16,CLF,Cercle Brugge,3-1,Westerlo
+08/07/16,CLF,KSV Roeselare,1-0,Westerlo
+19/01/14,CPL,Sint-Truiden,3-2,Westerlo
+25/01/14,CPL,Westerlo,1-0,RWDM Brussels
+02/02/14,CPL,Westerlo,2-0,Hoogstraten
+07/02/14,CPL,Francs Borains,0-0,Westerlo
+15/02/14,CPL,Westerlo,6-0,KSV Roeselare
+02/03/14,CPL,White Star Bruxelles,0-1,Westerlo
+08/03/14,CPL,Westerlo,3-0,Dessel Sport
+15/03/14,CPL,Antwerp,2-0,Westerlo
+29/03/14,CPL,Westerlo,4-0,Eendracht Aalst
+04/04/14,CPL,Heist,0-3,Westerlo
+13/04/14,CPL,Westerlo,4-1,Geel
+20/04/14,CPL,Excel Mouscron,0-1,Westerlo
+27/04/14,CPL,Westerlo,1-0,AS Eupen
+28/06/14,CLF,Westerlo,1-1,Club Brugge
+02/07/14,CLF,Dessel Sport,0-1,Westerlo
+05/07/14,CLF,Westerlo,0-3,Mechelen
+09/07/14,CLF,Lierse,1-0,Westerlo
+12/07/14,CLF,Heist,1-0,Westerlo
+16/07/14,CLF,Cercle Brugge,0-1,Westerlo
+26/07/14,FDA,Westerlo,1-0,Lokeren
+02/08/14,FDA,Sporting Charleroi,2-3,Westerlo
+09/08/14,FDA,SK Beveren,1-1,Westerlo
+17/08/14,FDA,Westerlo,2-2,Anderlecht
+23/08/14,FDA,Standard Liège,2-2,Westerlo
+30/08/14,FDA,Westerlo,2-2,Zulte Waregem
+13/09/14,FDA,Mechelen,5-2,Westerlo
+20/09/14,FDA,Westerlo,6-1,Lierse
+24/09/14,CUP,Olsa Brakel,6-1,Westerlo
+27/09/14,FDA,Cercle Brugge,1-2,Westerlo
+03/10/14,FDA,Westerlo,0-0,Gent
+19/10/14,FDA,Genk,3-1,Westerlo
+25/10/14,FDA,Westerlo,2-1,Kortrijk
+29/10/14,FDA,KV Oostende,4-0,Westerlo
+02/11/14,FDA,Westerlo,1-3,Excel Mouscron
+09/11/14,FDA,Club Brugge,5-0,Westerlo
+22/11/14,FDA,Lokeren,0-0,Westerlo
+29/11/14,FDA,Westerlo,2-3,Sporting Charleroi
+05/12/14,FDA,Westerlo,1-2,SK Beveren
+13/12/14,FDA,Lierse,3-3,Westerlo
+20/12/14,FDA,Westerlo,1-1,Mechelen
+26/12/14,FDA,Anderlecht,4-0,Westerlo
+10/01/15,CLF,Dessel Sport,1-6,Westerlo
+18/01/15,FDA,Westerlo,1-1,Standard Liège
+24/01/15,FDA,Zulte Waregem,1-3,Westerlo
+31/01/15,FDA,Westerlo,1-0,Cercle Brugge
+07/02/15,FDA,Gent,4-0,Westerlo
+13/02/15,FDA,Westerlo,1-2,Genk
+21/02/15,FDA,Kortrijk,6-0,Westerlo
+28/02/15,FDA,Westerlo,3-0,KV Oostende
+07/03/15,FDA,Excel Mouscron,1-0,Westerlo
+23/02/13,CPL,RWDM Brussels,0-2,Westerlo
+01/03/13,CPL,Westerlo,2-0,Francs Borains
+10/03/13,CPL,Tubize,0-2,Westerlo
+15/03/13,CPL,Westerlo,2-0,AS Eupen
+20/03/13,CPL,Westerlo,1-0,Dessel Sport
+23/03/13,CPL,Lommel,3-2,Westerlo
+29/03/13,CPL,Antwerp,1-1,Westerlo
+06/04/13,CPL,Westerlo,1-1,KSV Roeselare
+13/04/13,CPL,Westerlo,4-4,SK Sint-Niklaas
+21/04/13,CPL,Sint-Truiden,0-2,Westerlo
+28/04/13,CPL,Westerlo,0-0,KV Oostende
+05/05/13,PL1,Westerlo,1-1,White Star Bruxelles
+12/05/13,PL1,Cercle Brugge,1-0,Westerlo
+16/05/13,PL1,Excel Mouscron,1-0,Westerlo
+19/05/13,PL1,Westerlo,3-1,Excel Mouscron
+23/05/13,PL1,White Star Bruxelles,0-2,Westerlo
+26/05/13,PL1,Westerlo,5-0,Cercle Brugge
+03/07/13,CLF,Westerlo,2-3,SK Beveren
+06/07/13,CLF,Westerlo,2-3,Lokeren
+09/07/13,CLF,Willem II,1-1,Westerlo
+13/07/13,CLF,MVV,3-2,Westerlo
+17/07/13,CLF,Cercle Brugge,0-1,Westerlo
+20/07/13,CLF,Sparta Rotterdam,2-0,Westerlo
+03/08/13,CPL,Westerlo,2-2,Tubize
+09/08/13,CPL,Lommel,0-2,Westerlo
+17/08/13,CUP,Tournai,0-2,Westerlo
+24/08/13,CUP,Westerlo,2-1,Wallonne Ciney
+31/08/13,CPL,Westerlo,2-0,Visé
+03/09/13,CPL,Westerlo,1-1,Sint-Truiden
+07/09/13,CPL,Excelsior Virton,0-1,Westerlo
+11/09/13,CPL,RWDM Brussels,1-2,Westerlo
+14/09/13,CPL,Hoogstraten,1-1,Westerlo
+20/09/13,CPL,Westerlo,3-0,Francs Borains
+25/09/13,CUP,Westerlo,P1-1P,Mons
+28/09/13,CPL,KSV Roeselare,1-2,Westerlo
+06/10/13,CPL,Westerlo,3-3,White Star Bruxelles
+12/10/13,CPL,Dessel Sport,0-2,Westerlo
+20/10/13,CPL,Westerlo,2-1,Antwerp
+27/10/13,CPL,Eendracht Aalst,1-0,Westerlo
+02/11/13,CPL,Westerlo,2-1,Heist
+10/11/13,CPL,Geel,1-3,Westerlo
+17/11/13,CPL,Westerlo,1-0,Excel Mouscron
+22/11/13,CPL,AS Eupen,1-0,Westerlo
+30/11/13,CPL,Tubize,2-2,Westerlo
+04/12/13,CUP,Westerlo,P2-2P,Anderlecht
+08/12/13,CPL,Westerlo,2-1,Lommel
+15/12/13,CPL,Visé,0-1,Westerlo
+18/12/13,CUP,Westerlo,0-1,Lokeren
+11/01/14,CPL,Westerlo,5-0,Excelsior Virton
+15/01/14,CUP,Lokeren,4-2,Westerlo

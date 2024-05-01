@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+06/05/23,BUN,Hertha Berlin,2-1,Stuttgart
+14/05/23,BUN,Stuttgart,1-1,Bayer Leverkusen
+21/05/23,BUN,Mainz,1-4,Stuttgart
+27/05/23,BUN,Stuttgart,1-1,Hoffenheim
+01/06/23,PL1,Stuttgart,3-0,Hamburg
+05/06/23,PL1,Hamburg,1-3,Stuttgart
+09/07/23,CLF,Schwäbisch Hall,0-3,Stuttgart
+15/07/23,CLF,Reutlingen,0-4,Stuttgart
+22/07/23,CLF,Stuttgart,2-1,Vitesse
+05/08/23,CLF,Sheffield United,0-3,Stuttgart
+12/08/23,DFP,Balingen,0-4,Stuttgart
+19/08/23,BUN,Stuttgart,5-0,Bochum
+25/08/23,BUN,RB Leipzig,5-1,Stuttgart
+02/09/23,BUN,Stuttgart,5-0,Freiburg
+16/09/23,BUN,Mainz,1-3,Stuttgart
+22/09/23,BUN,Stuttgart,3-1,Darmstadt
+30/09/23,BUN,FC Cologne,0-2,Stuttgart
+07/10/23,BUN,Stuttgart,3-1,Wolfsburg
+12/10/23,CLF,Stuttgart,5-1,Wehen Wiesbaden
+21/10/23,BUN,Union Berlin,0-3,Stuttgart
+28/10/23,BUN,Stuttgart,2-3,Hoffenheim
+31/10/23,DFP,Stuttgart,1-0,Union Berlin
+05/11/23,BUN,Heidenheim,2-0,Stuttgart
+11/11/23,BUN,Stuttgart,2-1,Borussia Dortmund
+16/11/23,CLF,Stuttgart,2-0,Nürnberg
+25/11/23,BUN,Eintracht Frankfurt,1-2,Stuttgart
+02/12/23,BUN,Stuttgart,2-0,Werder Bremen
+06/12/23,DFP,Stuttgart,2-0,Borussia Dortmund
+10/12/23,BUN,Stuttgart,1-1,Bayer Leverkusen
+17/12/23,BUN,Bayern Munich,3-0,Stuttgart
+20/12/23,BUN,Stuttgart,3-0,Augsburg
+14/01/24,BUN,Borussia M'gladbach,3-1,Stuttgart
+20/01/24,BUN,Bochum,1-0,Stuttgart
+27/01/24,BUN,Stuttgart,5-2,RB Leipzig
+03/02/24,BUN,Freiburg,1-3,Stuttgart
+06/02/24,DFP,Bayer Leverkusen,3-2,Stuttgart
+11/02/24,BUN,Stuttgart,3-1,Mainz
+17/02/24,BUN,Darmstadt,1-2,Stuttgart
+24/02/24,BUN,Stuttgart,1-1,FC Cologne
+02/03/24,BUN,Wolfsburg,2-3,Stuttgart
+08/03/24,BUN,Stuttgart,2-0,Union Berlin
+16/03/24,BUN,Hoffenheim,0-3,Stuttgart
+31/03/24,BUN,Stuttgart,3-3,Heidenheim
+06/04/24,BUN,Borussia Dortmund,0-1,Stuttgart
+13/04/24,BUN,Stuttgart,3-0,Eintracht Frankfurt
+21/04/24,BUN,Werder Bremen,2-1,Stuttgart
+27/04/24,BUN,Bayer Leverkusen,2-2,Stuttgart
+04/05/24,BUN,Stuttgart,15:30,Bayern Munich
+10/05/24,BUN,Augsburg,20:30,Stuttgart
+18/05/24,BUN,Stuttgart,15:30,Borussia M'gladbach
+16/04/22,BUN,Mainz,0-0,Stuttgart
+24/04/22,BUN,Hertha Berlin,2-0,Stuttgart
+30/04/22,BUN,Stuttgart,1-1,Wolfsburg
+08/05/22,BUN,Bayern Munich,2-2,Stuttgart
+14/05/22,BUN,Stuttgart,2-1,FC Cologne
+02/07/22,CLF,Böblingen,1-7,Stuttgart
+09/07/22,CLF,Stuttgart,3-2,Zürich
+16/07/22,CLF,Stuttgart,2-1,Brentford
+23/07/22,CLF,Stuttgart,5-2,Valencia
+29/07/22,DFP,Dynamo Dresden,0-1,Stuttgart
+07/08/22,BUN,Stuttgart,1-1,RB Leipzig
+13/08/22,BUN,Werder Bremen,2-2,Stuttgart
+20/08/22,BUN,Stuttgart,0-1,Freiburg
+28/08/22,BUN,FC Cologne,0-0,Stuttgart
+03/09/22,BUN,Stuttgart,1-1,Schalke 04
+10/09/22,BUN,Bayern Munich,2-2,Stuttgart
+17/09/22,BUN,Stuttgart,1-3,Eintracht Frankfurt
+22/09/22,CLF,Stuttgart,2-1,Grasshoppers
+01/10/22,BUN,Wolfsburg,3-2,Stuttgart
+09/10/22,BUN,Stuttgart,0-1,Union Berlin
+15/10/22,BUN,Stuttgart,4-1,Bochum
+19/10/22,DFP,Stuttgart,6-0,Arminia Bielefeld
+22/10/22,BUN,Borussia Dortmund,5-0,Stuttgart
+29/10/22,BUN,Stuttgart,2-1,Augsburg
+04/11/22,BUN,Borussia M'gladbach,3-1,Stuttgart
+08/11/22,BUN,Stuttgart,2-1,Hertha Berlin
+12/11/22,BUN,Bayer Leverkusen,2-0,Stuttgart
+19/11/22,CLF,FC Cologne,2-4,Stuttgart
+16/12/22,CLF,Stuttgart,0-3,Luzern
+08/01/23,CLF,Stuttgart,3-0,Sion
+12/01/23,CLF,Stuttgart,0-2,Sparta Prague
+21/01/23,BUN,Stuttgart,1-1,Mainz
+24/01/23,BUN,Hoffenheim,2-2,Stuttgart
+27/01/23,BUN,RB Leipzig,2-1,Stuttgart
+31/01/23,DFP,Paderborn,1-2,Stuttgart
+05/02/23,BUN,Stuttgart,0-2,Werder Bremen
+11/02/23,BUN,Freiburg,2-1,Stuttgart
+18/02/23,BUN,Stuttgart,3-0,FC Cologne
+25/02/23,BUN,Schalke 04,2-1,Stuttgart
+04/03/23,BUN,Stuttgart,1-2,Bayern Munich
+11/03/23,BUN,Eintracht Frankfurt,1-1,Stuttgart
+18/03/23,BUN,Stuttgart,0-1,Wolfsburg
+24/03/23,CLF,Stuttgart,2-0,Heidenheim
+01/04/23,BUN,Union Berlin,3-0,Stuttgart
+05/04/23,DFP,Nürnberg,0-1,Stuttgart
+09/04/23,BUN,Bochum,2-3,Stuttgart
+15/04/23,BUN,Stuttgart,3-3,Borussia Dortmund
+21/04/23,BUN,Augsburg,1-1,Stuttgart
+29/04/23,BUN,Stuttgart,2-1,Borussia M'gladbach
+03/05/23,DFP,Stuttgart,2-3,Eintracht Frankfurt
+25/03/21,CLF,Stuttgart,3-0,Würzburger Kickers
+04/04/21,BUN,Stuttgart,1-0,Werder Bremen
+10/04/21,BUN,Stuttgart,2-3,Borussia Dortmund
+17/04/21,BUN,Union Berlin,2-1,Stuttgart
+21/04/21,BUN,Stuttgart,1-3,Wolfsburg
+25/04/21,BUN,RB Leipzig,2-0,Stuttgart
+07/05/21,BUN,Stuttgart,2-1,Augsburg
+15/05/21,BUN,Borussia M'gladbach,1-2,Stuttgart
+22/05/21,BUN,Stuttgart,0-2,Arminia Bielefeld
+06/07/21,CLF,Hollenbach,1-10,Stuttgart
+10/07/21,CLF,Stuttgart,3-0,St.Gallen
+14/07/21,CLF,Stuttgart,1-1,Darmstadt
+23/07/21,CLF,Stuttgart,5-2,Arminia Bielefeld
+31/07/21,CLF,Stuttgart,0-3,Barcelona
+07/08/21,DFP,BFC Dynamo,0-6,Stuttgart
+14/08/21,BUN,Stuttgart,5-1,Greuther Fürth
+20/08/21,BUN,RB Leipzig,4-0,Stuttgart
+28/08/21,BUN,Stuttgart,2-3,Freiburg
+02/09/21,CLF,Stuttgart,3-0,Nürnberg
+12/09/21,BUN,Eintracht Frankfurt,1-1,Stuttgart
+19/09/21,BUN,Stuttgart,1-3,Bayer Leverkusen
+26/09/21,BUN,Bochum,0-0,Stuttgart
+02/10/21,BUN,Stuttgart,3-1,Hoffenheim
+07/10/21,CLF,Stuttgart,1-4,Sandhausen
+16/10/21,BUN,Borussia M'gladbach,1-1,Stuttgart
+24/10/21,BUN,Stuttgart,1-1,Union Berlin
+27/10/21,DFP,Stuttgart,0-2,FC Cologne
+31/10/21,BUN,Augsburg,4-1,Stuttgart
+06/11/21,BUN,Stuttgart,0-1,Arminia Bielefeld
+10/11/21,CLF,Stuttgart,1-0,Zürich
+20/11/21,BUN,Borussia Dortmund,2-1,Stuttgart
+26/11/21,BUN,Stuttgart,2-1,Mainz
+05/12/21,BUN,Stuttgart,2-2,Hertha Berlin
+11/12/21,BUN,Wolfsburg,0-2,Stuttgart
+14/12/21,BUN,Stuttgart,0-5,Bayern Munich
+19/12/21,BUN,FC Cologne,1-0,Stuttgart
+08/01/22,BUN,Greuther Fürth,0-0,Stuttgart
+15/01/22,BUN,Stuttgart,0-2,RB Leipzig
+22/01/22,BUN,Freiburg,2-0,Stuttgart
+28/01/22,CLF,Rostov,1-2,Stuttgart
+05/02/22,BUN,Stuttgart,2-3,Eintracht Frankfurt
+12/02/22,BUN,Bayer Leverkusen,4-2,Stuttgart
+19/02/22,BUN,Stuttgart,1-1,Bochum
+25/02/22,BUN,Hoffenheim,2-1,Stuttgart
+05/03/22,BUN,Stuttgart,3-2,Borussia M'gladbach
+12/03/22,BUN,Union Berlin,1-1,Stuttgart
+19/03/22,BUN,Stuttgart,3-2,Augsburg
+24/03/22,CLF,Stuttgart,2-3,Sandhausen
+02/04/22,BUN,Arminia Bielefeld,1-1,Stuttgart
+08/04/22,BUN,Stuttgart,0-2,Borussia Dortmund
+22/02/20,2.B,Stuttgart,2-0,Jahn Regensburg
+29/02/20,2.B,Greuther Fürth,2-0,Stuttgart
+09/03/20,2.B,Stuttgart,1-1,Arminia Bielefeld
+17/05/20,2.B,Wehen Wiesbaden,2-1,Stuttgart
+24/05/20,2.B,Holstein Kiel,3-2,Stuttgart
+28/05/20,2.B,Stuttgart,3-2,Hamburg
+31/05/20,2.B,Dynamo Dresden,0-2,Stuttgart
+07/06/20,2.B,Stuttgart,0-0,Osnabrück
+14/06/20,2.B,Karlsruhe,2-1,Stuttgart
+17/06/20,2.B,Stuttgart,5-1,Sandhausen
+21/06/20,2.B,Nürnberg,0-6,Stuttgart
+28/06/20,2.B,Stuttgart,1-3,Darmstadt
+08/08/20,CLF,Stuttgart,6-1,Sandhausen
+14/08/20,CLF,Stuttgart,CANC,Marseille
+19/08/20,CLF,Mainz,CANC,Stuttgart
+22/08/20,CLF,Liverpool,3-0,Stuttgart
+26/08/20,CLF,Stuttgart,3-2,Hamburg
+29/08/20,CLF,Stuttgart,2-0,Arminia Bielefeld
+05/09/20,CLF,Stuttgart,4-2,Strasbourg
+13/09/20,DFP,Hansa Rostock,0-1,Stuttgart
+19/09/20,BUN,Stuttgart,2-3,Freiburg
+26/09/20,BUN,Mainz,1-4,Stuttgart
+03/10/20,BUN,Stuttgart,1-1,Bayer Leverkusen
+08/10/20,CLF,Freiburg,0-3,Stuttgart
+17/10/20,BUN,Hertha Berlin,0-2,Stuttgart
+23/10/20,BUN,Stuttgart,1-1,FC Cologne
+30/10/20,BUN,Schalke 04,1-1,Stuttgart
+07/11/20,BUN,Stuttgart,2-2,Eintracht Frankfurt
+13/11/20,CLF,Stuttgart,1-0,Heidenheim
+21/11/20,BUN,Hoffenheim,3-3,Stuttgart
+28/11/20,BUN,Stuttgart,1-3,Bayern Munich
+06/12/20,BUN,Werder Bremen,1-2,Stuttgart
+12/12/20,BUN,Borussia Dortmund,1-5,Stuttgart
+15/12/20,BUN,Stuttgart,2-2,Union Berlin
+20/12/20,BUN,Wolfsburg,1-0,Stuttgart
+23/12/20,DFP,Stuttgart,1-0,Freiburg
+02/01/21,BUN,Stuttgart,0-1,RB Leipzig
+10/01/21,BUN,Augsburg,1-4,Stuttgart
+16/01/21,BUN,Stuttgart,2-2,Borussia M'gladbach
+20/01/21,BUN,Arminia Bielefeld,3-0,Stuttgart
+23/01/21,BUN,Freiburg,2-1,Stuttgart
+29/01/21,BUN,Stuttgart,2-0,Mainz
+03/02/21,DFP,Stuttgart,1-2,Borussia M'gladbach
+06/02/21,BUN,Bayer Leverkusen,5-2,Stuttgart
+13/02/21,BUN,Stuttgart,1-1,Hertha Berlin
+20/02/21,BUN,FC Cologne,0-1,Stuttgart
+27/02/21,BUN,Stuttgart,5-1,Schalke 04
+06/03/21,BUN,Eintracht Frankfurt,1-1,Stuttgart
+14/03/21,BUN,Stuttgart,2-0,Hoffenheim
+20/03/21,BUN,Bayern Munich,4-0,Stuttgart
+22/02/19,BUN,Werder Bremen,1-1,Stuttgart
+03/03/19,BUN,Stuttgart,5-1,Hannover 96
+09/03/19,BUN,Borussia Dortmund,3-1,Stuttgart
+16/03/19,BUN,Stuttgart,1-1,Hoffenheim
+31/03/19,BUN,Eintracht Frankfurt,3-0,Stuttgart
+06/04/19,BUN,Stuttgart,1-1,Nürnberg
+13/04/19,BUN,Stuttgart,0-1,Bayer Leverkusen
+20/04/19,BUN,Augsburg,6-0,Stuttgart
+27/04/19,BUN,Stuttgart,1-0,Borussia M'gladbach
+04/05/19,BUN,Hertha Berlin,3-1,Stuttgart
+11/05/19,BUN,Stuttgart,3-0,Wolfsburg
+18/05/19,BUN,Schalke 04,0-0,Stuttgart
+23/05/19,PL1,Stuttgart,2-2,Union Berlin
+27/05/19,PL1,Union Berlin,0-0,Stuttgart
+26/06/19,CLF,Wacker Innsbruck,1-4,Stuttgart
+29/06/19,CLF,Young Boys,3-1,Stuttgart
+05/07/19,CLF,Backnang,0-3,Stuttgart
+06/07/19,CLF,Zürich,3-5,Stuttgart
+10/07/19,CLF,Winterthur,3-1,Stuttgart
+13/07/19,CLF,Basel,2-3,Stuttgart
+19/07/19,CLF,Freiburg,2-4,Stuttgart
+26/07/19,2.B,Stuttgart,2-1,Hannover 96
+04/08/19,2.B,Heidenheim,2-2,Stuttgart
+12/08/19,DFP,Hansa Rostock,0-1,Stuttgart
+17/08/19,2.B,Stuttgart,2-1,St. Pauli
+23/08/19,2.B,Erzgebirge Aue,0-0,Stuttgart
+02/09/19,2.B,Stuttgart,2-1,Bochum
+14/09/19,2.B,Jahn Regensburg,2-3,Stuttgart
+21/09/19,2.B,Stuttgart,2-0,Greuther Fürth
+27/09/19,2.B,Arminia Bielefeld,0-1,Stuttgart
+04/10/19,2.B,Stuttgart,1-2,Wehen Wiesbaden
+20/10/19,2.B,Stuttgart,0-1,Holstein Kiel
+26/10/19,2.B,Hamburg,6-2,Stuttgart
+29/10/19,DFP,Hamburg,E1-2E,Stuttgart
+03/11/19,2.B,Stuttgart,3-1,Dynamo Dresden
+09/11/19,2.B,Osnabrück,1-0,Stuttgart
+15/11/19,CLF,Stuttgart,4-0,Grasshoppers
+24/11/19,2.B,Stuttgart,3-0,Karlsruhe
+01/12/19,2.B,Sandhausen,2-1,Stuttgart
+09/12/19,2.B,Stuttgart,3-1,Nürnberg
+16/12/19,2.B,Darmstadt,1-1,Stuttgart
+21/12/19,2.B,Hannover 96,2-2,Stuttgart
+13/01/20,CLF,Basel,0-2,Stuttgart
+18/01/20,CLF,Fehérvár,1-3,Stuttgart
+24/01/20,CLF,Stuttgart,3-1,Dynamo Dresden
+29/01/20,2.B,Stuttgart,3-0,Heidenheim
+01/02/20,2.B,St. Pauli,1-1,Stuttgart
+05/02/20,DFP,Bayer Leverkusen,2-1,Stuttgart
+08/02/20,2.B,Stuttgart,3-0,Erzgebirge Aue
+17/02/20,2.B,Bochum,0-1,Stuttgart
+27/01/18,BUN,Stuttgart,0-2,Schalke 04
+03/02/18,BUN,Wolfsburg,1-1,Stuttgart
+11/02/18,BUN,Stuttgart,1-0,Borussia M'gladbach
+18/02/18,BUN,Augsburg,0-1,Stuttgart
+24/02/18,BUN,Stuttgart,1-0,Eintracht Frankfurt
+04/03/18,BUN,FC Cologne,2-3,Stuttgart
+11/03/18,BUN,Stuttgart,0-0,RB Leipzig
+16/03/18,BUN,Freiburg,1-2,Stuttgart
+31/03/18,BUN,Stuttgart,1-1,Hamburg
+08/04/18,BUN,Borussia Dortmund,3-0,Stuttgart
+14/04/18,BUN,Stuttgart,1-1,Hannover 96
+21/04/18,BUN,Stuttgart,2-0,Werder Bremen
+28/04/18,BUN,Bayer Leverkusen,0-1,Stuttgart
+05/05/18,BUN,Stuttgart,2-0,Hoffenheim
+12/05/18,BUN,Bayern Munich,1-4,Stuttgart
+15/05/18,CLF,Hallescher FC,5-3,Stuttgart
+16/05/18,CLF,Zwickau,1-4,Stuttgart
+13/07/18,CLF,Reutlingen,0-4,Stuttgart
+18/07/18,CLF,Illertissen,3-3,Stuttgart
+21/07/18,CLF,Stuttgart,3-1,Sonnenhof Großaspach
+25/07/18,CLF,Sandhausen,1-1,Stuttgart
+29/07/18,CLF,Stuttgart,2-1,Eibar
+30/07/18,CLF,Stuttgart,3-1,Istanbul Basaksehir
+05/08/18,CLF,Stuttgart,1-1,Atletico Madrid
+11/08/18,CLF,Stuttgart,1-0,Real Sociedad
+18/08/18,DFP,Hansa Rostock,2-0,Stuttgart
+26/08/18,BUN,Mainz,1-0,Stuttgart
+01/09/18,BUN,Stuttgart,0-3,Bayern Munich
+16/09/18,BUN,Freiburg,3-3,Stuttgart
+21/09/18,BUN,Stuttgart,0-0,Fortuna Düsseldorf
+26/09/18,BUN,RB Leipzig,2-0,Stuttgart
+29/09/18,BUN,Stuttgart,2-1,Werder Bremen
+06/10/18,BUN,Hannover 96,3-1,Stuttgart
+20/10/18,BUN,Stuttgart,0-4,Borussia Dortmund
+27/10/18,BUN,Hoffenheim,4-0,Stuttgart
+02/11/18,BUN,Stuttgart,0-3,Eintracht Frankfurt
+10/11/18,BUN,Nürnberg,0-2,Stuttgart
+23/11/18,BUN,Bayer Leverkusen,2-0,Stuttgart
+01/12/18,BUN,Stuttgart,1-0,Augsburg
+09/12/18,BUN,Borussia M'gladbach,3-0,Stuttgart
+15/12/18,BUN,Stuttgart,2-1,Hertha Berlin
+18/12/18,BUN,Wolfsburg,2-0,Stuttgart
+22/12/18,BUN,Stuttgart,1-3,Schalke 04
+06/01/19,CLF,Stuttgart,2-3,Utrecht
+11/01/19,CLF,Cercle Brugge,2-2,Stuttgart
+19/01/19,BUN,Stuttgart,2-3,Mainz
+27/01/19,BUN,Bayern Munich,4-1,Stuttgart
+03/02/19,BUN,Stuttgart,2-2,Freiburg
+10/02/19,BUN,Fortuna Düsseldorf,3-0,Stuttgart
+16/02/19,BUN,Stuttgart,1-3,RB Leipzig
+06/02/17,2.B,Stuttgart,2-0,Fortuna Düsseldorf
+12/02/17,2.B,Stuttgart,2-1,Sandhausen
+17/02/17,2.B,Heidenheim,1-2,Stuttgart
+26/02/17,2.B,Stuttgart,2-0,Kaiserslautern
+06/03/17,2.B,Eintracht Braunschweig,1-1,Stuttgart
+10/03/17,2.B,Stuttgart,1-1,Bochum
+18/03/17,2.B,Greuther Fürth,1-0,Stuttgart
+23/03/17,CLF,Ingolstadt,0-1,Stuttgart
+02/04/17,2.B,Stuttgart,3-3,Dynamo Dresden
+05/04/17,2.B,1860 München,1-1,Stuttgart
+09/04/17,2.B,Stuttgart,2-0,Karlsruhe
+17/04/17,2.B,Arminia Bielefeld,2-3,Stuttgart
+24/04/17,2.B,Stuttgart,3-1,Union Berlin
+29/04/17,2.B,Nürnberg,2-3,Stuttgart
+07/05/17,2.B,Stuttgart,3-0,Erzgebirge Aue
+14/05/17,2.B,Hannover 96,1-0,Stuttgart
+21/05/17,2.B,Stuttgart,4-1,Würzburger Kickers
+30/05/17,CLF,SV Ringschnait,1-5,Stuttgart
+09/07/17,CLF,Stuttgarter Kickers,1-1,Stuttgart
+12/07/17,CLF,Stuttgart,1-2,Dynamo Dresden
+22/07/17,CLF,Heidenheim,2-1,Stuttgart
+26/07/17,CLF,Kasımpaşa,0-5,Stuttgart
+29/07/17,CLF,Stuttgart,2-0,Asteras Tripolis
+01/08/17,CLF,Stuttgart,3-3,Huddersfield Town
+06/08/17,CLF,Stuttgart,1-2,Real Betis
+13/08/17,DFP,Energie Cottbus,P2-2P,Stuttgart
+19/08/17,BUN,Hertha Berlin,2-0,Stuttgart
+26/08/17,BUN,Stuttgart,1-0,Mainz
+31/08/17,CLF,Stuttgart,0-1,Ingolstadt
+10/09/17,BUN,Schalke 04,3-1,Stuttgart
+16/09/17,BUN,Stuttgart,1-0,Wolfsburg
+19/09/17,BUN,Borussia M'gladbach,2-0,Stuttgart
+23/09/17,BUN,Stuttgart,0-0,Augsburg
+30/09/17,BUN,Eintracht Frankfurt,2-1,Stuttgart
+13/10/17,BUN,Stuttgart,2-1,FC Cologne
+21/10/17,BUN,RB Leipzig,1-0,Stuttgart
+25/10/17,DFP,Kaiserslautern,1-3,Stuttgart
+29/10/17,BUN,Stuttgart,3-0,Freiburg
+04/11/17,BUN,Hamburg,3-1,Stuttgart
+17/11/17,BUN,Stuttgart,2-1,Borussia Dortmund
+24/11/17,BUN,Hannover 96,1-1,Stuttgart
+02/12/17,BUN,Werder Bremen,1-0,Stuttgart
+08/12/17,BUN,Stuttgart,0-2,Bayer Leverkusen
+13/12/17,BUN,Hoffenheim,1-0,Stuttgart
+16/12/17,BUN,Stuttgart,0-1,Bayern Munich
+19/12/17,DFP,Mainz,3-1,Stuttgart
+06/01/18,CLF,Twente,1-2,Stuttgart
+08/01/18,CLF,Stuttgart,5-2,KV Oostende
+13/01/18,BUN,Stuttgart,1-0,Hertha Berlin
+20/01/18,BUN,Mainz,3-2,Stuttgart
+23/01/16,BUN,FC Cologne,1-3,Stuttgart
+30/01/16,BUN,Stuttgart,2-1,Hamburg
+06/02/16,BUN,Eintracht Frankfurt,2-4,Stuttgart
+09/02/16,DFP,Stuttgart,1-3,Borussia Dortmund
+13/02/16,BUN,Stuttgart,2-0,Hertha Berlin
+21/02/16,BUN,Schalke 04,1-1,Stuttgart
+27/02/16,BUN,Stuttgart,1-2,Hannover 96
+02/03/16,BUN,Borussia M'gladbach,4-0,Stuttgart
+05/03/16,BUN,Stuttgart,5-1,Hoffenheim
+12/03/16,BUN,Ingolstadt,3-3,Stuttgart
+20/03/16,BUN,Stuttgart,0-2,Bayer Leverkusen
+02/04/16,BUN,Darmstadt,2-2,Stuttgart
+09/04/16,BUN,Stuttgart,1-3,Bayern Munich
+16/04/16,BUN,Augsburg,1-0,Stuttgart
+23/04/16,BUN,Stuttgart,0-3,Borussia Dortmund
+02/05/16,BUN,Werder Bremen,6-2,Stuttgart
+07/05/16,BUN,Stuttgart,1-3,Mainz
+14/05/16,BUN,Wolfsburg,3-1,Stuttgart
+03/07/16,CLF,Sonnenhof Großaspach,1-2,Stuttgart
+05/07/16,CLF,Schwäbisch Hall,1-6,Stuttgart
+09/07/16,CLF,Stuttgart,4-1,St.Gallen
+12/07/16,CLF,Pfullendorf,0-9,Stuttgart
+16/07/16,CLF,Stuttgart,2-1,Wohlen
+16/07/16,CLF,Stuttgart,1-1,Wil
+22/07/16,CLF,Spartak Moscow,0-1,Stuttgart
+23/07/16,CLF,Stuttgart,4-0,Zbrojovka Brno
+08/08/16,2.B,Stuttgart,2-1,St. Pauli
+12/08/16,2.B,Fortuna Düsseldorf,1-0,Stuttgart
+20/08/16,DFP,Homburg,0-3,Stuttgart
+26/08/16,2.B,Sandhausen,1-2,Stuttgart
+09/09/16,2.B,Stuttgart,1-2,Heidenheim
+17/09/16,2.B,Kaiserslautern,0-1,Stuttgart
+20/09/16,2.B,Stuttgart,2-0,Eintracht Braunschweig
+23/09/16,2.B,Bochum,1-1,Stuttgart
+03/10/16,2.B,Stuttgart,4-0,Greuther Fürth
+15/10/16,2.B,Dynamo Dresden,5-0,Stuttgart
+21/10/16,2.B,Stuttgart,2-1,1860 München
+25/10/16,DFP,Borussia M'gladbach,2-0,Stuttgart
+30/10/16,2.B,Karlsruhe,1-3,Stuttgart
+06/11/16,2.B,Stuttgart,3-1,Arminia Bielefeld
+20/11/16,2.B,Union Berlin,1-1,Stuttgart
+28/11/16,2.B,Stuttgart,3-1,Nürnberg
+04/12/16,2.B,Erzgebirge Aue,0-4,Stuttgart
+12/12/16,2.B,Stuttgart,1-2,Hannover 96
+18/12/16,2.B,Würzburger Kickers,3-0,Stuttgart
+11/01/17,CLF,FC Cologne,0-0,Stuttgart
+15/01/17,CLF,Stuttgart,0-0,MSV Duisburg
+19/01/17,CLF,Stuttgart,1-0,Lausanne-Sport
+25/01/17,CLF,Stuttgart,3-0,Luzern
+29/01/17,2.B,St. Pauli,0-1,Stuttgart
+13/12/14,BUN,Mainz,1-1,Stuttgart
+16/12/14,BUN,Hamburg,0-1,Stuttgart
+20/12/14,BUN,Stuttgart,0-0,Paderborn
+31/01/15,BUN,Stuttgart,0-1,Borussia M'gladbach
+04/02/15,BUN,FC Cologne,0-0,Stuttgart
+07/02/15,BUN,Stuttgart,0-2,Bayern Munich
+14/02/15,BUN,Hoffenheim,2-1,Stuttgart
+20/02/15,BUN,Stuttgart,2-3,Borussia Dortmund
+28/02/15,BUN,Hannover 96,1-1,Stuttgart
+06/03/15,BUN,Stuttgart,0-0,Hertha Berlin
+13/03/15,BUN,Bayer Leverkusen,4-0,Stuttgart
+21/03/15,BUN,Stuttgart,3-1,Eintracht Frankfurt
+04/04/15,BUN,Wolfsburg,3-1,Stuttgart
+12/04/15,BUN,Stuttgart,3-2,Werder Bremen
+18/04/15,BUN,Augsburg,2-1,Stuttgart
+25/04/15,BUN,Stuttgart,2-2,Freiburg
+02/05/15,BUN,Schalke 04,3-2,Stuttgart
+09/05/15,BUN,Stuttgart,2-0,Mainz
+16/05/15,BUN,Stuttgart,2-1,Hamburg
+23/05/15,BUN,Paderborn,1-2,Stuttgart
+05/07/15,CLF,Stuttgart,6-3,Viktoria Plzen
+11/07/15,CLF,Young Boys,4-1,Stuttgart
+16/07/15,CLF,Ilshofen,0-13,Stuttgart
+18/07/15,CLF,Pirmasens,CANC,Stuttgart
+19/07/15,CLF,Aalen,0-1,Stuttgart
+26/07/15,CLF,Stuttgart,4-1,Winterthur
+01/08/15,CLF,Stuttgart,4-2,Manchester City
+08/08/15,DFP,Holstein Kiel,1-2,Stuttgart
+16/08/15,BUN,Stuttgart,1-3,FC Cologne
+22/08/15,BUN,Hamburg,3-2,Stuttgart
+29/08/15,BUN,Stuttgart,1-4,Eintracht Frankfurt
+12/09/15,BUN,Hertha Berlin,2-1,Stuttgart
+20/09/15,BUN,Stuttgart,0-1,Schalke 04
+23/09/15,BUN,Hannover 96,1-3,Stuttgart
+26/09/15,BUN,Stuttgart,1-3,Borussia M'gladbach
+03/10/15,BUN,Hoffenheim,2-2,Stuttgart
+18/10/15,BUN,Stuttgart,1-0,Ingolstadt
+24/10/15,BUN,Bayer Leverkusen,4-3,Stuttgart
+28/10/15,DFP,Carl Zeiss Jena,0-2,Stuttgart
+01/11/15,BUN,Stuttgart,2-0,Darmstadt
+07/11/15,BUN,Bayern Munich,4-0,Stuttgart
+21/11/15,BUN,Stuttgart,0-4,Augsburg
+29/11/15,BUN,Borussia Dortmund,4-1,Stuttgart
+06/12/15,BUN,Stuttgart,1-1,Werder Bremen
+11/12/15,BUN,Mainz,0-0,Stuttgart
+16/12/15,DFP,Stuttgart,E3-2E,Eintracht Braunschweig
+19/12/15,BUN,Stuttgart,3-1,Wolfsburg
+10/01/16,CLF,Stuttgart,0-0,Bochum
+13/01/16,CLF,Stuttgart,2-0,Hannover 96
+17/01/16,CLF,Würzburger Kickers,CANC,Stuttgart
+25/10/13,BUN,Stuttgart,1-1,Nürnberg
+01/11/13,BUN,Borussia Dortmund,6-1,Stuttgart
+10/11/13,BUN,Freiburg,1-3,Stuttgart
+22/11/13,BUN,Stuttgart,0-2,Borussia M'gladbach
+30/11/13,BUN,Schalke 04,3-0,Stuttgart
+07/12/13,BUN,Stuttgart,4-2,Hannover 96
+14/12/13,BUN,Wolfsburg,3-1,Stuttgart
+09/01/14,CLF,Stellenbosch,0-5,Stuttgart
+11/01/14,CLF,PEC Zwolle,1-4,Stuttgart
+14/01/14,CLF,Cape Town Spurs,1-1,Stuttgart
+21/01/14,CLF,Greuther Fürth,0-2,Stuttgart
+25/01/14,BUN,Stuttgart,1-2,Mainz
+29/01/14,BUN,Stuttgart,1-2,Bayern Munich
+01/02/14,BUN,Bayer Leverkusen,2-1,Stuttgart
+09/02/14,BUN,Stuttgart,1-4,Augsburg
+15/02/14,BUN,Hoffenheim,4-1,Stuttgart
+22/02/14,BUN,Stuttgart,1-2,Hertha Berlin
+02/03/14,BUN,Eintracht Frankfurt,2-1,Stuttgart
+08/03/14,BUN,Stuttgart,2-2,Eintracht Braunschweig
+15/03/14,BUN,Werder Bremen,1-1,Stuttgart
+22/03/14,BUN,Stuttgart,1-0,Hamburg
+26/03/14,BUN,Nürnberg,2-0,Stuttgart
+29/03/14,BUN,Stuttgart,2-3,Borussia Dortmund
+05/04/14,BUN,Stuttgart,2-0,Freiburg
+12/04/14,BUN,Borussia M'gladbach,1-1,Stuttgart
+20/04/14,BUN,Stuttgart,3-1,Schalke 04
+25/04/14,BUN,Hannover 96,0-0,Stuttgart
+03/05/14,BUN,Stuttgart,1-2,Wolfsburg
+10/05/14,BUN,Bayern Munich,1-0,Stuttgart
+19/07/14,CLF,Pirmasens,1-1,Stuttgart
+23/07/14,CLF,Erzgebirge Aue,0-1,Stuttgart
+26/07/14,CLF,Heidenheim,2-4,Stuttgart
+02/08/14,CLF,Stuttgart,2-1,Eskişehirspor
+06/08/14,CLF,Stuttgart,1-1,Rizespor
+10/08/14,CLF,Stuttgart,1-2,Hull City
+16/08/14,DFP,Bochum,2-0,Stuttgart
+24/08/14,BUN,Borussia M'gladbach,1-1,Stuttgart
+30/08/14,BUN,Stuttgart,0-2,FC Cologne
+13/09/14,BUN,Bayern Munich,2-0,Stuttgart
+20/09/14,BUN,Stuttgart,0-2,Hoffenheim
+24/09/14,BUN,Borussia Dortmund,2-2,Stuttgart
+27/09/14,BUN,Stuttgart,1-0,Hannover 96
+03/10/14,BUN,Hertha Berlin,3-2,Stuttgart
+18/10/14,BUN,Stuttgart,3-3,Bayer Leverkusen
+25/10/14,BUN,Eintracht Frankfurt,4-5,Stuttgart
+01/11/14,BUN,Stuttgart,0-4,Wolfsburg
+08/11/14,BUN,Werder Bremen,2-0,Stuttgart
+23/11/14,BUN,Stuttgart,0-1,Augsburg
+28/11/14,BUN,Freiburg,1-4,Stuttgart
+06/12/14,BUN,Stuttgart,0-4,Schalke 04

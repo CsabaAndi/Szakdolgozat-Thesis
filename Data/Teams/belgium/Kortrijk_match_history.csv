@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+18/03/23,FDA,Kortrijk,1-0,Club Brugge
+01/04/23,FDA,Cercle Brugge,2-0,Kortrijk
+08/04/23,FDA,Kortrijk,0-0,AS Eupen
+16/04/23,FDA,Antwerp,1-0,Kortrijk
+23/04/23,FDA,Kortrijk,2-4,Union Saint-Gilloise
+17/06/23,CLF,Eendracht Wervik,2-1,Kortrijk
+24/06/23,CLF,Harelbeke,2-6,Kortrijk
+28/06/23,CLF,Oudenaarde,2-4,Kortrijk
+01/07/23,CLF,Kortrijk,0-2,SK Beveren
+05/07/23,CLF,Kortrijk,2-1,RWDM
+08/07/23,CLF,RKC Waalwijk,0-0,Kortrijk
+22/07/23,CLF,Kortrijk,2-1,Volendam
+30/07/23,FDA,Gent,3-2,Kortrijk
+06/08/23,FDA,Kortrijk,0-1,Sint-Truiden
+11/08/23,FDA,Antwerp,6-0,Kortrijk
+20/08/23,FDA,Kortrijk,1-3,AS Eupen
+26/08/23,FDA,Kortrijk,1-1,Standard Liège
+01/09/23,FDA,OH Leuven,3-0,Kortrijk
+17/09/23,FDA,Kortrijk,2-2,Anderlecht
+23/09/23,FDA,Sporting Charleroi,1-0,Kortrijk
+29/09/23,FDA,Kortrijk,2-1,Cercle Brugge
+07/10/23,FDA,Westerlo,1-0,Kortrijk
+21/10/23,FDA,Kortrijk,1-0,Club Brugge
+29/10/23,FDA,Kortrijk,0-3,Genk
+01/11/23,CUP,Dender,P1-1P,Kortrijk
+04/11/23,FDA,RWDM,1-1,Kortrijk
+12/11/23,FDA,Union Saint-Gilloise,3-0,Kortrijk
+26/11/23,FDA,Kortrijk,0-3,Mechelen
+02/12/23,FDA,AS Eupen,1-1,Kortrijk
+05/12/23,CUP,Kortrijk,0-1,RWDM
+08/12/23,FDA,Kortrijk,1-2,Westerlo
+17/12/23,FDA,Genk,4-0,Kortrijk
+20/12/23,FDA,Cercle Brugge,3-0,Kortrijk
+26/12/23,FDA,Kortrijk,0-2,Gent
+20/01/24,FDA,Standard Liège,0-1,Kortrijk
+27/01/24,FDA,Kortrijk,0-0,OH Leuven
+30/01/24,FDA,Club Brugge,3-3,Kortrijk
+03/02/24,FDA,Kortrijk,1-0,Sporting Charleroi
+09/02/24,FDA,Sint-Truiden,1-0,Kortrijk
+18/02/24,FDA,Kortrijk,1-3,Union Saint-Gilloise
+24/02/24,FDA,Mechelen,3-0,Kortrijk
+03/03/24,FDA,Kortrijk,3-2,RWDM
+09/03/24,FDA,Kortrijk,0-1,Antwerp
+16/03/24,FDA,Anderlecht,0-1,Kortrijk
+07/04/24,FDA,AS Eupen,1-1,Kortrijk
+14/04/24,FDA,Kortrijk,1-2,Sporting Charleroi
+21/04/24,FDA,Kortrijk,2-4,RWDM
+28/04/24,FDA,RWDM,0-1,Kortrijk
+05/05/24,FDA,Kortrijk,19:15,AS Eupen
+11/05/24,FDA,Sporting Charleroi,18:15,Kortrijk
+30/01/22,FDA,Kortrijk,0-1,Club Brugge
+02/02/22,FDA,Kortrijk,0-2,Antwerp
+05/02/22,FDA,Kortrijk,1-3,Sint-Truiden
+13/02/22,FDA,Beerschot,2-1,Kortrijk
+19/02/22,FDA,Kortrijk,5-0,Zulte Waregem
+27/02/22,FDA,Genk,2-0,Kortrijk
+05/03/22,FDA,Kortrijk,2-3,Union Saint-Gilloise
+12/03/22,FDA,Cercle Brugge,2-0,Kortrijk
+20/03/22,FDA,Kortrijk,0-1,Standard Liège
+02/04/22,FDA,Mechelen,3-2,Kortrijk
+10/04/22,FDA,Kortrijk,2-3,Anderlecht
+25/06/22,CLF,Kortrijk,3-1,Mechelen
+02/07/22,CLF,Dordrecht,4-2,Kortrijk
+08/07/22,CLF,SK Beveren,CANC,Kortrijk
+09/07/22,CLF,Kortrijk,0-0,Excelsior Virton
+16/07/22,CLF,Kortrijk,2-1,Utrecht
+23/07/22,FDA,Kortrijk,0-2,OH Leuven
+31/07/22,FDA,RFC Seraing,0-1,Kortrijk
+06/08/22,FDA,Kortrijk,0-0,Sint-Truiden
+13/08/22,FDA,Union Saint-Gilloise,2-1,Kortrijk
+21/08/22,FDA,Club Brugge,2-1,Kortrijk
+28/08/22,FDA,Kortrijk,0-1,Standard Liège
+03/09/22,FDA,AS Eupen,0-1,Kortrijk
+10/09/22,FDA,Kortrijk,1-4,Mechelen
+18/09/22,FDA,Anderlecht,4-1,Kortrijk
+02/10/22,FDA,Kortrijk,2-1,Antwerp
+08/10/22,FDA,Genk,2-1,Kortrijk
+15/10/22,FDA,Kortrijk,1-3,Zulte Waregem
+18/10/22,FDA,Sporting Charleroi,2-2,Kortrijk
+22/10/22,FDA,Kortrijk,0-2,Westerlo
+29/10/22,FDA,Kortrijk,1-1,Cercle Brugge
+06/11/22,FDA,KV Oostende,3-1,Kortrijk
+10/11/22,CUP,RWDM,1-3,Kortrijk
+13/11/22,FDA,Kortrijk,0-4,Gent
+04/12/22,CLF,Kortrijk,1-0,Excelsior
+20/12/22,CUP,OH Leuven,1-3,Kortrijk
+26/12/22,FDA,Kortrijk,1-0,Genk
+06/01/23,CLF,Kortrijk,1-2,Westhoek
+08/01/23,FDA,OH Leuven,2-3,Kortrijk
+11/01/23,CUP,Kortrijk,0-1,Mechelen
+15/01/23,FDA,Gent,2-1,Kortrijk
+18/01/23,FDA,Kortrijk,3-2,RFC Seraing
+21/01/23,FDA,Mechelen,3-2,Kortrijk
+28/01/23,FDA,Kortrijk,2-2,KV Oostende
+04/02/23,FDA,Sint-Truiden,1-0,Kortrijk
+12/02/23,FDA,Standard Liège,0-2,Kortrijk
+19/02/23,FDA,Kortrijk,2-2,Anderlecht
+24/02/23,FDA,Zulte Waregem,3-3,Kortrijk
+04/03/23,FDA,Kortrijk,0-1,Sporting Charleroi
+11/03/23,FDA,Westerlo,3-1,Kortrijk
+30/01/21,FDA,Kortrijk,1-3,Sporting Charleroi
+02/02/21,CUP,Lommel,1-3,Kortrijk
+05/02/21,FDA,Excel Mouscron,0-3,Kortrijk
+09/02/21,CUP,Kortrijk,P1-1P,Standard Liège
+12/02/21,FDA,OH Leuven,3-1,Kortrijk
+21/02/21,FDA,Anderlecht,0-2,Kortrijk
+27/02/21,FDA,Kortrijk,1-2,Zulte Waregem
+06/03/21,FDA,Antwerp,4-2,Kortrijk
+20/03/21,FDA,AS Eupen,2-0,Kortrijk
+26/03/21,CLF,Anderlecht,1-2,Kortrijk
+03/04/21,FDA,Kortrijk,1-2,Club Brugge
+11/04/21,FDA,SK Beveren,3-4,Kortrijk
+18/04/21,FDA,Kortrijk,1-4,Mechelen
+22/06/21,CLF,Harelbeke,0-5,Kortrijk
+25/06/21,CLF,Westhoek,0-3,Kortrijk
+30/06/21,CLF,Sparta Petegem,0-4,Kortrijk
+03/07/21,CLF,Club Brugge,0-1,Kortrijk
+06/07/21,CLF,Kortrijk,0-1,Valenciennes
+10/07/21,CLF,Heerenveen,2-2,Kortrijk
+17/07/21,CLF,Kortrijk,1-1,Lille
+24/07/21,FDA,Kortrijk,2-0,RFC Seraing
+01/08/21,FDA,Antwerp,0-1,Kortrijk
+07/08/21,FDA,Kortrijk,1-2,Genk
+14/08/21,FDA,Union Saint-Gilloise,2-0,Kortrijk
+21/08/21,FDA,Sint-Truiden,0-2,Kortrijk
+27/08/21,FDA,Kortrijk,2-2,Mechelen
+12/09/21,FDA,OH Leuven,2-1,Kortrijk
+19/09/21,FDA,Kortrijk,1-0,Gent
+25/09/21,FDA,Zulte Waregem,2-2,Kortrijk
+02/10/21,FDA,Kortrijk,2-2,Sporting Charleroi
+15/10/21,FDA,Club Brugge,2-0,Kortrijk
+23/10/21,FDA,Kortrijk,1-0,KV Oostende
+27/10/21,CUP,Knokke,P1-1P,Kortrijk
+30/10/21,FDA,Standard Liège,1-1,Kortrijk
+06/11/21,FDA,Kortrijk,1-1,Beerschot
+11/11/21,CLF,Gent,1-3,Kortrijk
+21/11/21,FDA,Anderlecht,1-1,Kortrijk
+27/11/21,FDA,AS Eupen,2-2,Kortrijk
+01/12/21,CUP,Kortrijk,1-0,KV Oostende
+04/12/21,FDA,Kortrijk,0-2,Cercle Brugge
+11/12/21,FDA,Kortrijk,2-1,OH Leuven
+14/12/21,FDA,KV Oostende,0-2,Kortrijk
+17/12/21,FDA,RFC Seraing,0-2,Kortrijk
+23/12/21,CUP,Anderlecht,3-0,Kortrijk
+11/01/22,CLF,Kortrijk,CANC,Torhout
+11/01/22,CLF,Toekomst Menen,CANC,Kortrijk
+14/01/22,FDA,Gent,2-2,Kortrijk
+15/01/22,CLF,Excel Mouscron,CANC,Kortrijk
+22/01/22,FDA,Kortrijk,1-1,AS Eupen
+25/01/22,FDA,Sporting Charleroi,1-1,Kortrijk
+04/12/19,CUP,Kortrijk,2-1,AS Eupen
+07/12/19,FDA,Mechelen,1-1,Kortrijk
+13/12/19,FDA,Kortrijk,1-2,Excel Mouscron
+18/12/19,CUP,Union Saint-Gilloise,0-1,Kortrijk
+21/12/19,FDA,AS Eupen,1-2,Kortrijk
+26/12/19,FDA,Kortrijk,1-0,Cercle Brugge
+07/01/20,CLF,Gullegem,1-2,Kortrijk
+10/01/20,CLF,VVV,1-1,Kortrijk
+18/01/20,FDA,Sint-Truiden,2-0,Kortrijk
+23/01/20,CUP,Antwerp,1-1,Kortrijk
+26/01/20,FDA,Kortrijk,2-2,Club Brugge
+31/01/20,FDA,Kortrijk,3-1,Standard Liège
+06/02/20,CUP,Kortrijk,0-1,Antwerp
+12/02/20,FDA,SK Beveren,1-2,Kortrijk
+15/02/20,FDA,KV Oostende,0-3,Kortrijk
+21/02/20,FDA,Kortrijk,0-1,Genk
+29/02/20,FDA,Zulte Waregem,2-2,Kortrijk
+07/03/20,FDA,Kortrijk,0-1,Antwerp
+15/03/20,FDA,Sporting Charleroi,CANC,Kortrijk
+04/07/20,CLF,Standard Liège,3-2,Kortrijk
+10/07/20,CLF,Kortrijk,1-1,Sporting Charleroi
+11/07/20,CLF,Kortrijk,0-1,Cercle Brugge
+24/07/20,CLF,Kortrijk,CANC,RWDM
+25/07/20,CLF,Beerschot,CANC,Kortrijk
+31/07/20,CLF,Kortrijk,CANC,Lille
+01/08/20,CLF,Kortrijk,0-1,Deinze
+09/08/20,FDA,Kortrijk,1-3,SK Beveren
+15/08/20,FDA,Gent,1-2,Kortrijk
+21/08/20,FDA,Kortrijk,0-0,AS Eupen
+29/08/20,FDA,Cercle Brugge,0-1,Kortrijk
+13/09/20,FDA,Kortrijk,3-0,Excel Mouscron
+20/09/20,FDA,Standard Liège,2-1,Kortrijk
+25/09/20,FDA,Kortrijk,1-3,Antwerp
+03/10/20,FDA,Sint-Truiden,0-0,Kortrijk
+17/10/20,FDA,Mechelen,1-2,Kortrijk
+23/10/20,FDA,Kortrijk,1-3,Anderlecht
+02/11/20,FDA,Zulte Waregem,1-1,Kortrijk
+07/11/20,FDA,Kortrijk,5-5,Beerschot
+21/11/20,FDA,Club Brugge,1-0,Kortrijk
+29/11/20,FDA,Kortrijk,3-1,KV Oostende
+07/12/20,FDA,Sporting Charleroi,0-0,Kortrijk
+12/12/20,FDA,Kortrijk,0-3,OH Leuven
+16/12/20,FDA,Kortrijk,2-1,Standard Liège
+19/12/20,FDA,Genk,2-0,Kortrijk
+26/12/20,FDA,Kortrijk,1-0,Gent
+09/01/21,FDA,Kortrijk,2-1,Genk
+16/01/21,FDA,KV Oostende,2-1,Kortrijk
+20/01/21,FDA,Kortrijk,0-2,Sint-Truiden
+23/01/21,FDA,Kortrijk,1-2,Cercle Brugge
+27/01/21,FDA,Beerschot,0-0,Kortrijk
+15/12/18,FDA,Kortrijk,0-0,Club Brugge
+19/12/18,CUP,Mechelen,3-0,Kortrijk
+22/12/18,FDA,Sint-Truiden,0-0,Kortrijk
+26/12/18,FDA,Kortrijk,4-2,Zulte Waregem
+19/01/19,FDA,Standard Liège,2-1,Kortrijk
+27/01/19,FDA,Kortrijk,1-2,Gent
+02/02/19,FDA,Kortrijk,2-1,Lokeren
+09/02/19,FDA,AS Eupen,0-1,Kortrijk
+16/02/19,FDA,Kortrijk,1-2,Sporting Charleroi
+23/02/19,FDA,SK Beveren,2-6,Kortrijk
+02/03/19,FDA,Kortrijk,2-1,Cercle Brugge
+10/03/19,FDA,Anderlecht,2-0,Kortrijk
+17/03/19,FDA,Kortrijk,2-0,Antwerp
+30/03/19,UEL,Kortrijk,3-1,Excel Mouscron
+02/04/19,UEL,SK Beveren,2-3,Kortrijk
+05/04/19,UEL,Kortrijk,4-2,Zulte Waregem
+13/04/19,UEL,Kortrijk,0-1,Union Saint-Gilloise
+20/04/19,UEL,Cercle Brugge,1-2,Kortrijk
+27/04/19,UEL,Excel Mouscron,2-3,Kortrijk
+04/05/19,UEL,Kortrijk,2-1,SK Beveren
+11/05/19,UEL,Zulte Waregem,0-5,Kortrijk
+14/05/19,UEL,Union Saint-Gilloise,2-0,Kortrijk
+17/05/19,UEL,Kortrijk,4-0,Cercle Brugge
+22/05/19,UEL,Kortrijk,1-2,Sporting Charleroi
+28/06/19,CLF,Harelbeke,0-3,Kortrijk
+29/06/19,CLF,Voorwaarts Zwevezele,1-2,Kortrijk
+05/07/19,CLF,Kortrijk,2-0,OH Leuven
+06/07/19,CLF,Kortrijk,1-1,Valenciennes
+12/07/19,CLF,ADO Den Haag,0-0,Kortrijk
+13/07/19,CLF,NAC Breda,2-1,Kortrijk
+19/07/19,CLF,KSV Roeselare,4-1,Kortrijk
+20/07/19,CLF,Kortrijk,4-0,Excelsior
+26/07/19,FDA,Genk,2-1,Kortrijk
+03/08/19,FDA,Kortrijk,1-1,Sporting Charleroi
+10/08/19,FDA,Cercle Brugge,1-3,Kortrijk
+17/08/19,FDA,Kortrijk,4-2,Anderlecht
+25/08/19,FDA,Standard Liège,2-1,Kortrijk
+31/08/19,FDA,Kortrijk,2-2,KV Oostende
+15/09/19,FDA,Excel Mouscron,2-0,Kortrijk
+20/09/19,FDA,Kortrijk,2-3,Mechelen
+25/09/19,CUP,RFC Seraing,1-3,Kortrijk
+28/09/19,FDA,Gent,2-0,Kortrijk
+05/10/19,FDA,Kortrijk,4-0,Sint-Truiden
+19/10/19,FDA,Kortrijk,2-0,Zulte Waregem
+26/10/19,FDA,Antwerp,3-1,Kortrijk
+29/10/19,FDA,Kortrijk,1-2,AS Eupen
+02/11/19,FDA,Club Brugge,3-0,Kortrijk
+09/11/19,FDA,Kortrijk,1-3,SK Beveren
+24/11/19,FDA,Anderlecht,0-0,Kortrijk
+01/12/19,FDA,Kortrijk,0-2,Gent
+12/12/17,CUP,Kortrijk,4-1,Gent
+16/12/17,FDA,Kortrijk,2-0,Mechelen
+23/12/17,FDA,Genk,2-3,Kortrijk
+27/12/17,FDA,Kortrijk,2-1,Standard Liège
+20/01/18,FDA,KV Oostende,2-1,Kortrijk
+23/01/18,FDA,Excel Mouscron,0-3,Kortrijk
+27/01/18,FDA,Kortrijk,0-0,AS Eupen
+30/01/18,CUP,Kortrijk,3-2,Genk
+03/02/18,FDA,Sint-Truiden,0-2,Kortrijk
+06/02/18,CUP,Genk,1-0,Kortrijk
+10/02/18,FDA,Kortrijk,4-0,Antwerp
+17/02/18,FDA,Lokeren,0-1,Kortrijk
+25/02/18,FDA,Kortrijk,0-1,Zulte Waregem
+03/03/18,FDA,Club Brugge,2-1,Kortrijk
+11/03/18,FDA,Kortrijk,2-0,Sporting Charleroi
+31/03/18,UEL,Kortrijk,4-1,SK Beveren
+08/04/18,UEL,Excel Mouscron,2-1,Kortrijk
+14/04/18,UEL,Lierse,0-2,Kortrijk
+17/04/18,UEL,Kortrijk,2-1,OH Leuven
+20/04/18,UEL,Zulte Waregem,3-0,Kortrijk
+28/04/18,UEL,Kortrijk,2-1,Lierse
+05/05/18,UEL,Kortrijk,1-2,Zulte Waregem
+08/05/18,UEL,OH Leuven,0-2,Kortrijk
+11/05/18,UEL,Kortrijk,1-1,Excel Mouscron
+18/05/18,UEL,SK Beveren,1-3,Kortrijk
+26/06/18,CLF,Mandel United,0-2,Kortrijk
+12/07/18,CLF,KSV Roeselare,1-1,Kortrijk
+19/07/18,CLF,Beerschot,1-1,Kortrijk
+21/07/18,CLF,Kortrijk,1-2,Metz
+24/07/18,CLF,Harelbeke,0-5,Kortrijk
+28/07/18,FDA,Kortrijk,1-4,Anderlecht
+04/08/18,FDA,Antwerp,0-0,Kortrijk
+10/08/18,FDA,Club Brugge,3-0,Kortrijk
+18/08/18,FDA,Kortrijk,1-2,KV Oostende
+25/08/18,FDA,Sporting Charleroi,0-2,Kortrijk
+02/09/18,FDA,Kortrijk,3-3,Genk
+16/09/18,FDA,Excel Mouscron,1-0,Kortrijk
+21/09/18,FDA,Zulte Waregem,0-2,Kortrijk
+25/09/18,CUP,Harelbeke,0-1,Kortrijk
+28/09/18,FDA,Kortrijk,1-3,AS Eupen
+06/10/18,FDA,Lokeren,1-3,Kortrijk
+20/10/18,FDA,Kortrijk,3-1,Sint-Truiden
+27/10/18,FDA,Cercle Brugge,1-1,Kortrijk
+31/10/18,FDA,Kortrijk,2-2,SK Beveren
+03/11/18,FDA,Gent,3-1,Kortrijk
+11/11/18,FDA,Kortrijk,0-2,Standard Liège
+24/11/18,FDA,KV Oostende,1-2,Kortrijk
+01/12/18,FDA,Kortrijk,1-0,Excel Mouscron
+04/12/18,CUP,Kortrijk,1-0,Zulte Waregem
+08/12/18,FDA,Genk,1-1,Kortrijk
+13/12/16,CUP,AS Eupen,4-0,Kortrijk
+18/12/16,FDA,Club Brugge,5-1,Kortrijk
+21/12/16,FDA,Kortrijk,0-2,KV Oostende
+26/12/16,FDA,Westerlo,4-1,Kortrijk
+09/01/17,CLF,NAC Breda,2-0,Kortrijk
+21/01/17,FDA,Kortrijk,2-3,Zulte Waregem
+24/01/17,FDA,Genk,3-0,Kortrijk
+28/01/17,FDA,Kortrijk,2-1,Lokeren
+04/02/17,FDA,Standard Liège,0-3,Kortrijk
+11/02/17,FDA,Kortrijk,0-2,Mechelen
+18/02/17,FDA,AS Eupen,1-0,Kortrijk
+25/02/17,FDA,Kortrijk,1-2,SK Beveren
+04/03/17,FDA,Sporting Charleroi,1-1,Kortrijk
+12/03/17,FDA,Kortrijk,0-2,Excel Mouscron
+01/04/17,UEL,Kortrijk,2-1,Excel Mouscron
+08/04/17,UEL,Lokeren,0-0,Kortrijk
+16/04/17,UEL,Kortrijk,0-3,Genk
+22/04/17,UEL,Kortrijk,3-3,AS Eupen
+25/04/17,UEL,KSV Roeselare,2-3,Kortrijk
+29/04/17,UEL,Genk,3-0,Kortrijk
+06/05/17,UEL,Kortrijk,0-3,KSV Roeselare
+13/05/17,UEL,AS Eupen,3-2,Kortrijk
+17/05/17,UEL,Kortrijk,4-4,Lokeren
+20/05/17,UEL,Excel Mouscron,0-1,Kortrijk
+23/06/17,CLF,Wikings Kortrijk,0-16,Kortrijk
+01/07/17,CLF,Vlamertinge,CANC,Kortrijk
+08/07/17,CLF,Willem II,2-0,Kortrijk
+11/07/17,CLF,Kortrijk,1-2,Panathinaikos
+15/07/17,CLF,Kortrijk,1-0,Reading
+19/07/17,CLF,Kortrijk,0-4,Lille
+29/07/17,FDA,Sporting Charleroi,1-0,Kortrijk
+05/08/17,FDA,Kortrijk,1-0,Lokeren
+12/08/17,FDA,AS Eupen,1-2,Kortrijk
+20/08/17,FDA,Kortrijk,1-2,Club Brugge
+25/08/17,FDA,Kortrijk,1-1,Excel Mouscron
+09/09/17,FDA,Zulte Waregem,2-2,Kortrijk
+16/09/17,FDA,Kortrijk,2-2,Anderlecht
+19/09/17,CUP,Kortrijk,5-3,RES Durbuy
+22/09/17,FDA,Antwerp,3-0,Kortrijk
+30/09/17,FDA,Kortrijk,1-2,KV Oostende
+15/10/17,FDA,Standard Liège,3-1,Kortrijk
+21/10/17,FDA,Kortrijk,1-1,Gent
+25/10/17,FDA,SK Beveren,2-1,Kortrijk
+28/10/17,FDA,Kortrijk,0-0,Genk
+04/11/17,FDA,Mechelen,2-0,Kortrijk
+18/11/17,FDA,Kortrijk,3-2,Sint-Truiden
+26/11/17,FDA,Anderlecht,4-0,Kortrijk
+29/11/17,CUP,Kortrijk,4-2,Antwerp
+02/12/17,FDA,Kortrijk,4-1,SK Beveren
+09/12/17,FDA,Gent,2-1,Kortrijk
+02/12/15,CUP,Kortrijk,4-2,Anderlecht
+06/12/15,FDA,Lokeren,3-1,Kortrijk
+12/12/15,FDA,Kortrijk,1-3,Excel Mouscron
+17/12/15,CUP,Standard Liège,2-0,Kortrijk
+20/12/15,FDA,Gent,3-0,Kortrijk
+26/12/15,FDA,Kortrijk,1-4,Club Brugge
+16/01/16,FDA,OH Leuven,1-0,Kortrijk
+22/01/16,FDA,Kortrijk,2-1,KV Oostende
+30/01/16,FDA,Genk,1-0,Kortrijk
+06/02/16,FDA,Kortrijk,1-1,Westerlo
+13/02/16,FDA,Sporting Charleroi,1-1,Kortrijk
+20/02/16,FDA,Kortrijk,3-0,Sint-Truiden
+27/02/16,FDA,Mechelen,0-2,Kortrijk
+05/03/16,FDA,Kortrijk,1-0,Zulte Waregem
+13/03/16,FDA,Anderlecht,3-0,Kortrijk
+02/04/16,FDA,Kortrijk,0-0,Excel Mouscron
+10/04/16,FDA,Standard Liège,1-1,Kortrijk
+16/04/16,FDA,SK Beveren,2-3,Kortrijk
+23/04/16,FDA,Kortrijk,5-0,SK Beveren
+30/04/16,FDA,Kortrijk,1-0,Standard Liège
+07/05/16,FDA,Excel Mouscron,2-3,Kortrijk
+13/05/16,FDA,Sporting Charleroi,1-0,Kortrijk
+21/05/16,FDA,Kortrijk,1-2,Sporting Charleroi
+24/06/16,CLF,Aalbeke,2-8,Kortrijk
+01/07/16,CLF,Lauwe,0-7,Kortrijk
+05/07/16,CLF,Harelbeke,1-5,Kortrijk
+09/07/16,CLF,Eernegem,0-6,Kortrijk
+16/07/16,CLF,Antwerp,0-1,Kortrijk
+22/07/16,CLF,Kortrijk,1-1,MVV
+23/07/16,CLF,Kortrijk,2-1,Krylya Sovetov
+31/07/16,FDA,Kortrijk,1-1,Gent
+07/08/16,FDA,Anderlecht,5-1,Kortrijk
+13/08/16,FDA,Mechelen,0-0,Kortrijk
+20/08/16,FDA,Kortrijk,2-1,Club Brugge
+27/08/16,FDA,Sint-Truiden,1-2,Kortrijk
+10/09/16,FDA,Kortrijk,4-1,Westerlo
+17/09/16,FDA,Zulte Waregem,2-1,Kortrijk
+21/09/16,CUP,Kortrijk,2-0,Sprimont
+25/09/16,FDA,Kortrijk,4-1,Genk
+01/10/16,FDA,Lokeren,2-1,Kortrijk
+15/10/16,FDA,Kortrijk,3-3,Standard Liège
+21/10/16,FDA,KV Oostende,2-2,Kortrijk
+26/10/16,FDA,Kortrijk,1-1,AS Eupen
+30/10/16,FDA,Excel Mouscron,0-1,Kortrijk
+04/11/16,FDA,Kortrijk,2-1,Sporting Charleroi
+19/11/16,FDA,SK Beveren,1-1,Kortrijk
+27/11/16,FDA,Gent,3-0,Kortrijk
+30/11/16,CUP,Kortrijk,1-0,Excel Mouscron
+04/12/16,FDA,Kortrijk,1-3,Anderlecht
+10/12/16,FDA,Kortrijk,0-1,Sint-Truiden
+03/12/14,CUP,Kortrijk,0-3,Club Brugge
+06/12/14,FDA,Kortrijk,3-0,Mechelen
+13/12/14,FDA,Genk,3-0,Kortrijk
+21/12/14,FDA,Lokeren,1-2,Kortrijk
+26/12/14,FDA,Kortrijk,2-3,Gent
+17/01/15,FDA,KV Oostende,1-7,Kortrijk
+24/01/15,FDA,Kortrijk,0-0,Sporting Charleroi
+31/01/15,FDA,Excel Mouscron,0-3,Kortrijk
+08/02/15,FDA,Kortrijk,2-0,Club Brugge
+14/02/15,FDA,SK Beveren,1-0,Kortrijk
+21/02/15,FDA,Kortrijk,6-0,Westerlo
+01/03/15,FDA,Anderlecht,2-0,Kortrijk
+07/03/15,FDA,Kortrijk,1-0,Cercle Brugge
+15/03/15,FDA,Lierse,0-0,Kortrijk
+05/04/15,FDA,Gent,2-0,Kortrijk
+11/04/15,FDA,Kortrijk,2-0,Club Brugge
+19/04/15,FDA,Kortrijk,1-1,Sporting Charleroi
+25/04/15,FDA,Anderlecht,5-1,Kortrijk
+28/04/15,FDA,Kortrijk,3-1,Standard Liège
+03/05/15,FDA,Kortrijk,0-1,Gent
+10/05/15,FDA,Standard Liège,4-0,Kortrijk
+17/05/15,FDA,Sporting Charleroi,5-2,Kortrijk
+21/05/15,FDA,Kortrijk,2-2,Anderlecht
+24/05/15,FDA,Club Brugge,1-0,Kortrijk
+26/06/15,CLF,Harelbeke,3-3,Kortrijk
+27/06/15,CLF,Kortrijk,4-2,Izegem
+30/06/15,CLF,OMS Ingelmunster,1-4,Kortrijk
+10/07/15,CLF,Deinze,1-0,Kortrijk
+11/07/15,CLF,Eendracht Aalst,0-2,Kortrijk
+14/07/15,CLF,Antwerp,0-1,Kortrijk
+15/07/15,CLF,Cercle Brugge,0-0,Kortrijk
+18/07/15,CLF,Kortrijk,0-0,Mechelen
+25/07/15,FDA,Kortrijk,2-1,Standard Liège
+01/08/15,FDA,SK Beveren,2-1,Kortrijk
+08/08/15,FDA,Kortrijk,0-0,Lokeren
+14/08/15,FDA,Club Brugge,2-1,Kortrijk
+23/08/15,FDA,Kortrijk,0-0,Gent
+29/08/15,FDA,Excel Mouscron,0-1,Kortrijk
+12/09/15,FDA,Kortrijk,0-0,OH Leuven
+19/09/15,FDA,KV Oostende,1-0,Kortrijk
+23/09/15,CUP,Kortrijk,5-0,Olsa Brakel
+27/09/15,FDA,Kortrijk,1-0,Genk
+03/10/15,FDA,Westerlo,1-1,Kortrijk
+18/10/15,FDA,Kortrijk,2-0,Sporting Charleroi
+25/10/15,FDA,Sint-Truiden,2-1,Kortrijk
+29/10/15,FDA,Kortrijk,1-1,Anderlecht
+01/11/15,FDA,Zulte Waregem,2-2,Kortrijk
+07/11/15,FDA,Kortrijk,1-0,Mechelen
+22/11/15,FDA,Standard Liège,1-1,Kortrijk
+28/11/15,FDA,Kortrijk,3-1,SK Beveren
+26/10/13,FDA,Mons,0-1,Kortrijk
+30/10/13,FDA,Genk,1-0,Kortrijk
+02/11/13,FDA,Kortrijk,2-0,KV Oostende
+09/11/13,FDA,Cercle Brugge,3-1,Kortrijk
+23/11/13,FDA,OH Leuven,1-1,Kortrijk
+01/12/13,FDA,Kortrijk,1-1,Zulte Waregem
+04/12/13,CUP,Kortrijk,E1-0E,Club Brugge
+07/12/13,FDA,Kortrijk,1-1,Sporting Charleroi
+14/12/13,FDA,Lokeren,0-0,Kortrijk
+18/12/13,CUP,Gent,1-0,Kortrijk
+21/12/13,FDA,Mechelen,5-2,Kortrijk
+27/12/13,FDA,Kortrijk,1-5,Standard Liège
+14/01/14,CUP,Kortrijk,P1-0P,Gent
+18/01/14,FDA,Gent,0-1,Kortrijk
+25/01/14,FDA,Kortrijk,3-4,Lierse
+01/02/14,FDA,SK Beveren,1-1,Kortrijk
+08/02/14,FDA,Kortrijk,2-2,Anderlecht
+14/02/14,FDA,Club Brugge,3-1,Kortrijk
+22/02/14,FDA,Kortrijk,1-2,Mons
+01/03/14,FDA,Kortrijk,4-0,Cercle Brugge
+08/03/14,FDA,KV Oostende,0-0,Kortrijk
+16/03/14,FDA,Kortrijk,2-2,Genk
+29/03/14,FDA,Kortrijk,4-0,Cercle Brugge
+05/04/14,FDA,Sporting Charleroi,1-1,Kortrijk
+12/04/14,FDA,Kortrijk,4-1,Mechelen
+19/04/14,FDA,Mechelen,2-1,Kortrijk
+26/04/14,FDA,Cercle Brugge,0-4,Kortrijk
+03/05/14,FDA,Kortrijk,2-1,Sporting Charleroi
+09/05/14,FDA,Kortrijk,2-2,KV Oostende
+17/05/14,FDA,KV Oostende,P2-2P,Kortrijk
+27/06/14,CLF,Harelbeke,0-3,Kortrijk
+05/07/14,CLF,Lierse,0-2,Kortrijk
+27/07/14,FDA,Zulte Waregem,2-0,Kortrijk
+02/08/14,FDA,Kortrijk,2-3,Standard Liège
+09/08/14,FDA,Mechelen,1-2,Kortrijk
+16/08/14,FDA,Kortrijk,1-1,Genk
+23/08/14,FDA,Kortrijk,0-2,KV Oostende
+29/08/14,FDA,Gent,0-1,Kortrijk
+14/09/14,FDA,Kortrijk,2-3,Lokeren
+21/09/14,FDA,Club Brugge,5-0,Kortrijk
+24/09/14,CUP,OH Leuven,1-3,Kortrijk
+27/09/14,FDA,Kortrijk,3-0,Excel Mouscron
+04/10/14,FDA,Sporting Charleroi,0-2,Kortrijk
+18/10/14,FDA,Kortrijk,2-1,SK Beveren
+25/10/14,FDA,Westerlo,2-1,Kortrijk
+29/10/14,FDA,Kortrijk,2-3,Anderlecht
+01/11/14,FDA,Cercle Brugge,0-4,Kortrijk
+08/11/14,FDA,Kortrijk,1-0,Lierse
+23/11/14,FDA,Kortrijk,3-1,Zulte Waregem
+30/11/14,FDA,Standard Liège,0-2,Kortrijk

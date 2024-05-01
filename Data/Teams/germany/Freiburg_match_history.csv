@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+05/08/23,CLF,Freiburg,2-0,Empoli
+13/08/23,DFP,Oberachern,0-2,Freiburg
+19/08/23,BUN,Hoffenheim,1-2,Freiburg
+26/08/23,BUN,Freiburg,1-0,Werder Bremen
+02/09/23,BUN,Stuttgart,5-0,Freiburg
+07/09/23,CLF,Karlsruhe,0-1,Freiburg
+16/09/23,BUN,Freiburg,2-4,Borussia Dortmund
+21/09/23,UEL,Olympiakos,2-3,Freiburg
+24/09/23,BUN,Eintracht Frankfurt,0-0,Freiburg
+01/10/23,BUN,Freiburg,2-0,Augsburg
+05/10/23,UEL,Freiburg,1-2,West Ham United
+08/10/23,BUN,Bayern Munich,3-0,Freiburg
+21/10/23,BUN,Freiburg,2-1,Bochum
+26/10/23,UEL,TSC,1-3,Freiburg
+29/10/23,BUN,Bayer Leverkusen,2-1,Freiburg
+01/11/23,DFP,Freiburg,1-3,Paderborn
+04/11/23,BUN,Freiburg,3-3,Borussia M'gladbach
+09/11/23,UEL,Freiburg,5-0,TSC
+12/11/23,BUN,RB Leipzig,3-1,Freiburg
+25/11/23,BUN,Freiburg,1-1,Darmstadt
+30/11/23,UEL,Freiburg,5-0,Olympiakos
+03/12/23,BUN,Mainz,0-1,Freiburg
+09/12/23,BUN,Wolfsburg,0-1,Freiburg
+14/12/23,UEL,West Ham United,2-0,Freiburg
+17/12/23,BUN,Freiburg,2-0,FC Cologne
+20/12/23,BUN,Heidenheim,3-2,Freiburg
+06/01/24,CLF,Eintracht Frankfurt,2-5,Freiburg
+13/01/24,BUN,Freiburg,0-0,Union Berlin
+20/01/24,BUN,Freiburg,3-2,Hoffenheim
+27/01/24,BUN,Werder Bremen,3-1,Freiburg
+03/02/24,BUN,Freiburg,1-3,Stuttgart
+09/02/24,BUN,Borussia Dortmund,3-0,Freiburg
+15/02/24,UEL,Lens,0-0,Freiburg
+18/02/24,BUN,Freiburg,3-3,Eintracht Frankfurt
+22/02/24,UEL,Freiburg,E3-2E,Lens
+25/02/24,BUN,Augsburg,2-1,Freiburg
+01/03/24,BUN,Freiburg,2-2,Bayern Munich
+07/03/24,UEL,Freiburg,1-0,West Ham United
+10/03/24,BUN,Bochum,1-2,Freiburg
+14/03/24,UEL,West Ham United,5-0,Freiburg
+17/03/24,BUN,Freiburg,2-3,Bayer Leverkusen
+21/03/24,CLF,Freiburg,4-1,St.Gallen
+30/03/24,BUN,Borussia M'gladbach,0-3,Freiburg
+06/04/24,BUN,Freiburg,1-4,RB Leipzig
+14/04/24,BUN,Darmstadt,0-1,Freiburg
+21/04/24,BUN,Freiburg,1-1,Mainz
+27/04/24,BUN,Freiburg,1-2,Wolfsburg
+04/05/24,BUN,FC Cologne,18:30,Freiburg
+11/05/24,BUN,Freiburg,15:30,Heidenheim
+18/05/24,BUN,Union Berlin,15:30,Freiburg
+26/08/22,BUN,Freiburg,1-0,Bochum
+03/09/22,BUN,Bayer Leverkusen,2-3,Freiburg
+08/09/22,UEL,Freiburg,2-1,Qarabag
+11/09/22,BUN,Freiburg,0-0,Borussia M'gladbach
+15/09/22,UEL,Olympiakos,0-3,Freiburg
+18/09/22,BUN,Hoffenheim,0-0,Freiburg
+01/10/22,BUN,Freiburg,2-1,Mainz
+06/10/22,UEL,Freiburg,2-0,Nantes
+09/10/22,BUN,Hertha Berlin,2-2,Freiburg
+13/10/22,UEL,Nantes,0-4,Freiburg
+16/10/22,BUN,Bayern Munich,5-0,Freiburg
+19/10/22,DFP,Freiburg,E2-1E,St. Pauli
+22/10/22,BUN,Freiburg,2-0,Werder Bremen
+27/10/22,UEL,Freiburg,1-1,Olympiakos
+30/10/22,BUN,Schalke 04,0-2,Freiburg
+03/11/22,UEL,Qarabag,1-1,Freiburg
+06/11/22,BUN,Freiburg,2-0,FC Cologne
+09/11/22,BUN,RB Leipzig,3-1,Freiburg
+13/11/22,BUN,Freiburg,4-1,Union Berlin
+09/12/22,CLF,Freiburg,2-2,Luzern
+22/12/22,CLF,Freiburg,1-1,Young Boys
+07/01/23,CLF,Freiburg,CANC,Basel
+13/01/23,CLF,Freiburg,CANC,Hamburg
+21/01/23,BUN,Wolfsburg,6-0,Freiburg
+25/01/23,BUN,Freiburg,1-1,Eintracht Frankfurt
+28/01/23,BUN,Freiburg,3-1,Augsburg
+04/02/23,BUN,Borussia Dortmund,5-1,Freiburg
+07/02/23,DFP,Sandhausen,0-2,Freiburg
+11/02/23,BUN,Freiburg,2-1,Stuttgart
+18/02/23,BUN,Bochum,0-2,Freiburg
+26/02/23,BUN,Freiburg,1-1,Bayer Leverkusen
+04/03/23,BUN,Borussia M'gladbach,0-0,Freiburg
+09/03/23,UEL,Juventus,1-0,Freiburg
+12/03/23,BUN,Freiburg,2-1,Hoffenheim
+16/03/23,UEL,Freiburg,0-2,Juventus
+19/03/23,BUN,Mainz,1-1,Freiburg
+01/04/23,BUN,Freiburg,1-1,Hertha Berlin
+04/04/23,DFP,Bayern Munich,1-2,Freiburg
+08/04/23,BUN,Freiburg,0-1,Bayern Munich
+16/04/23,BUN,Werder Bremen,1-2,Freiburg
+23/04/23,BUN,Freiburg,4-0,Schalke 04
+29/04/23,BUN,FC Cologne,0-1,Freiburg
+02/05/23,DFP,Freiburg,1-5,RB Leipzig
+06/05/23,BUN,Freiburg,0-1,RB Leipzig
+13/05/23,BUN,Union Berlin,4-2,Freiburg
+19/05/23,BUN,Freiburg,2-0,Wolfsburg
+27/05/23,BUN,Eintracht Frankfurt,2-1,Freiburg
+15/07/23,CLF,Freiburg,6-1,Grasshoppers
+29/07/23,CLF,Freiburg,2-2,Strasbourg
+29/07/23,CLF,Freiburg,2-2,Strasbourg
+14/08/21,BUN,Arminia Bielefeld,0-0,Freiburg
+21/08/21,BUN,Freiburg,2-1,Borussia Dortmund
+28/08/21,BUN,Stuttgart,2-3,Freiburg
+11/09/21,BUN,Freiburg,1-1,FC Cologne
+18/09/21,BUN,Mainz,0-0,Freiburg
+26/09/21,BUN,Freiburg,3-0,Augsburg
+02/10/21,BUN,Hertha Berlin,1-2,Freiburg
+07/10/21,CLF,Freiburg,3-0,St. Pauli
+16/10/21,BUN,Freiburg,1-1,RB Leipzig
+23/10/21,BUN,Wolfsburg,0-2,Freiburg
+26/10/21,DFP,Osnabrück,P2-2P,Freiburg
+30/10/21,BUN,Freiburg,3-1,Greuther Fürth
+06/11/21,BUN,Bayern Munich,2-1,Freiburg
+11/11/21,CLF,Karlsruhe,1-2,Freiburg
+21/11/21,BUN,Freiburg,0-2,Eintracht Frankfurt
+27/11/21,BUN,Bochum,2-1,Freiburg
+05/12/21,BUN,Borussia M'gladbach,0-6,Freiburg
+11/12/21,BUN,Freiburg,1-2,Hoffenheim
+15/12/21,BUN,Union Berlin,0-0,Freiburg
+19/12/21,BUN,Freiburg,2-1,Bayer Leverkusen
+08/01/22,BUN,Freiburg,2-2,Arminia Bielefeld
+14/01/22,BUN,Borussia Dortmund,5-1,Freiburg
+19/01/22,DFP,Hoffenheim,1-4,Freiburg
+22/01/22,BUN,Freiburg,2-0,Stuttgart
+05/02/22,BUN,FC Cologne,1-0,Freiburg
+12/02/22,BUN,Freiburg,1-1,Mainz
+19/02/22,BUN,Augsburg,1-2,Freiburg
+26/02/22,BUN,Freiburg,3-0,Hertha Berlin
+02/03/22,DFP,Bochum,E1-2E,Freiburg
+05/03/22,BUN,RB Leipzig,1-1,Freiburg
+12/03/22,BUN,Freiburg,3-2,Wolfsburg
+19/03/22,BUN,Greuther Fürth,0-0,Freiburg
+02/04/22,BUN,Freiburg,1-4,Bayern Munich
+10/04/22,BUN,Eintracht Frankfurt,1-2,Freiburg
+16/04/22,BUN,Freiburg,3-0,Bochum
+19/04/22,DFP,Hamburg,1-3,Freiburg
+23/04/22,BUN,Freiburg,3-3,Borussia M'gladbach
+30/04/22,BUN,Hoffenheim,3-4,Freiburg
+07/05/22,BUN,Freiburg,1-4,Union Berlin
+14/05/22,BUN,Bayer Leverkusen,2-1,Freiburg
+21/05/22,DFP,Freiburg,P1-1P,RB Leipzig
+02/07/22,CLF,Freiburg,0-0,Elversberg
+09/07/22,CLF,St.Gallen,3-4,Freiburg
+16/07/22,CLF,Freiburg,3-0,Rayo Vallecano
+16/07/22,CLF,Freiburg,1-0,Rennes
+20/07/22,CLF,Bahlinger SC,0-1,Freiburg
+31/07/22,DFP,Kaiserslautern,E1-2E,Freiburg
+06/08/22,BUN,Augsburg,0-4,Freiburg
+12/08/22,BUN,Freiburg,1-3,Borussia Dortmund
+20/08/22,BUN,Stuttgart,0-1,Freiburg
+20/06/20,BUN,Bayern Munich,3-1,Freiburg
+27/06/20,BUN,Freiburg,4-0,Schalke 04
+15/08/20,CLF,Freiburg,1-1,Karlsruhe
+22/08/20,CLF,Dornbirn,1-8,Freiburg
+29/08/20,CLF,St.Gallen,3-1,Freiburg
+06/09/20,CLF,Freiburg,4-1,Górnik Zabrze
+06/09/20,CLF,Freiburg,1-1,Sandhausen
+13/09/20,DFP,Waldhof Mannheim,1-2,Freiburg
+19/09/20,BUN,Stuttgart,2-3,Freiburg
+27/09/20,BUN,Freiburg,1-1,Wolfsburg
+03/10/20,BUN,Borussia Dortmund,4-0,Freiburg
+08/10/20,CLF,Freiburg,0-3,Stuttgart
+17/10/20,BUN,Freiburg,1-1,Werder Bremen
+24/10/20,BUN,Union Berlin,1-1,Freiburg
+01/11/20,BUN,Freiburg,2-4,Bayer Leverkusen
+07/11/20,BUN,RB Leipzig,3-0,Freiburg
+22/11/20,BUN,Freiburg,1-3,Mainz
+28/11/20,BUN,Augsburg,1-1,Freiburg
+05/12/20,BUN,Freiburg,2-2,Borussia M'gladbach
+12/12/20,BUN,Freiburg,2-0,Arminia Bielefeld
+16/12/20,BUN,Schalke 04,0-2,Freiburg
+20/12/20,BUN,Freiburg,4-1,Hertha Berlin
+23/12/20,DFP,Stuttgart,1-0,Freiburg
+02/01/21,BUN,Hoffenheim,1-3,Freiburg
+09/01/21,BUN,Freiburg,5-0,FC Cologne
+17/01/21,BUN,Bayern Munich,2-1,Freiburg
+20/01/21,BUN,Freiburg,2-2,Eintracht Frankfurt
+23/01/21,BUN,Freiburg,2-1,Stuttgart
+31/01/21,BUN,Wolfsburg,3-0,Freiburg
+06/02/21,BUN,Freiburg,2-1,Borussia Dortmund
+13/02/21,BUN,Werder Bremen,0-0,Freiburg
+20/02/21,BUN,Freiburg,0-1,Union Berlin
+28/02/21,BUN,Bayer Leverkusen,1-2,Freiburg
+06/03/21,BUN,Freiburg,0-3,RB Leipzig
+13/03/21,BUN,Mainz,1-0,Freiburg
+21/03/21,BUN,Freiburg,2-0,Augsburg
+03/04/21,BUN,Borussia M'gladbach,2-1,Freiburg
+09/04/21,BUN,Arminia Bielefeld,1-0,Freiburg
+17/04/21,BUN,Freiburg,4-0,Schalke 04
+24/04/21,BUN,Freiburg,1-1,Hoffenheim
+06/05/21,BUN,Hertha Berlin,3-0,Freiburg
+09/05/21,BUN,FC Cologne,1-4,Freiburg
+15/05/21,BUN,Freiburg,2-2,Bayern Munich
+22/05/21,BUN,Eintracht Frankfurt,3-1,Freiburg
+10/07/21,CLF,Freiburg,2-1,Saarbrücken
+16/07/21,CLF,Freiburg,CANC,Vaduz
+23/07/21,CLF,Bayer Leverkusen,0-0,Freiburg
+31/07/21,CLF,Strasbourg,2-1,Freiburg
+31/07/21,CLF,Strasbourg,1-2,Freiburg
+08/08/21,DFP,Würzburger Kickers,0-1,Freiburg
+30/03/19,BUN,Freiburg,1-1,Bayern Munich
+05/04/19,BUN,Mainz,5-0,Freiburg
+13/04/19,BUN,Werder Bremen,2-1,Freiburg
+21/04/19,BUN,Freiburg,0-4,Borussia Dortmund
+27/04/19,BUN,RB Leipzig,2-1,Freiburg
+05/05/19,BUN,Freiburg,1-1,Fortuna Düsseldorf
+11/05/19,BUN,Hannover 96,3-0,Freiburg
+18/05/19,BUN,Freiburg,5-1,Nürnberg
+06/07/19,CLF,Linx,0-2,Freiburg
+13/07/19,CLF,Offenburger FV,1-6,Freiburg
+19/07/19,CLF,Freiburg,2-4,Stuttgart
+03/08/19,CLF,Freiburg,0-1,Cagliari
+03/08/19,CLF,Freiburg,4-1,Cagliari
+10/08/19,DFP,Magdeburg,E0-1E,Freiburg
+17/08/19,BUN,Freiburg,3-0,Mainz
+24/08/19,BUN,Paderborn,1-3,Freiburg
+31/08/19,BUN,Freiburg,1-2,FC Cologne
+15/09/19,BUN,Hoffenheim,0-3,Freiburg
+21/09/19,BUN,Freiburg,1-1,Augsburg
+29/09/19,BUN,Fortuna Düsseldorf,1-2,Freiburg
+05/10/19,BUN,Freiburg,2-2,Borussia Dortmund
+19/10/19,BUN,Union Berlin,2-0,Freiburg
+26/10/19,BUN,Freiburg,2-1,RB Leipzig
+29/10/19,DFP,Freiburg,1-3,Union Berlin
+02/11/19,BUN,Werder Bremen,2-2,Freiburg
+10/11/19,BUN,Freiburg,1-0,Eintracht Frankfurt
+14/11/19,CLF,Freiburg,0-0,St.Gallen
+23/11/19,BUN,Bayer Leverkusen,1-1,Freiburg
+01/12/19,BUN,Borussia M'gladbach,4-2,Freiburg
+07/12/19,BUN,Freiburg,1-0,Wolfsburg
+14/12/19,BUN,Hertha Berlin,1-0,Freiburg
+18/12/19,BUN,Freiburg,1-3,Bayern Munich
+21/12/19,BUN,Schalke 04,2-2,Freiburg
+10/01/20,CLF,Freiburg,1-2,Borussia M'gladbach
+10/01/20,CLF,Borussia M'gladbach,2-1,Freiburg
+18/01/20,BUN,Mainz,1-2,Freiburg
+25/01/20,BUN,Freiburg,0-2,Paderborn
+02/02/20,BUN,FC Cologne,4-0,Freiburg
+08/02/20,BUN,Freiburg,1-0,Hoffenheim
+15/02/20,BUN,Augsburg,1-1,Freiburg
+22/02/20,BUN,Freiburg,0-2,Fortuna Düsseldorf
+29/02/20,BUN,Borussia Dortmund,1-0,Freiburg
+07/03/20,BUN,Freiburg,3-1,Union Berlin
+16/05/20,BUN,RB Leipzig,1-1,Freiburg
+23/05/20,BUN,Freiburg,0-1,Werder Bremen
+26/05/20,BUN,Eintracht Frankfurt,3-3,Freiburg
+29/05/20,BUN,Freiburg,0-1,Bayer Leverkusen
+05/06/20,BUN,Freiburg,1-0,Borussia M'gladbach
+13/06/20,BUN,Wolfsburg,2-2,Freiburg
+16/06/20,BUN,Freiburg,2-1,Hertha Berlin
+03/02/18,BUN,Freiburg,0-0,Bayer Leverkusen
+10/02/18,BUN,Hannover 96,2-1,Freiburg
+17/02/18,BUN,Freiburg,1-0,Werder Bremen
+24/02/18,BUN,Hoffenheim,1-1,Freiburg
+04/03/18,BUN,Freiburg,0-4,Bayern Munich
+10/03/18,BUN,Hertha Berlin,0-0,Freiburg
+16/03/18,BUN,Freiburg,1-2,Stuttgart
+31/03/18,BUN,Schalke 04,2-0,Freiburg
+07/04/18,BUN,Freiburg,0-2,Wolfsburg
+16/04/18,BUN,Mainz,2-0,Freiburg
+21/04/18,BUN,Hamburg,1-0,Freiburg
+28/04/18,BUN,Freiburg,3-2,FC Cologne
+05/05/18,BUN,Borussia M'gladbach,3-1,Freiburg
+12/05/18,BUN,Freiburg,2-0,Augsburg
+19/07/18,CLF,Ravensburg,1-9,Freiburg
+23/07/18,CLF,Freiburg,CANC,Al Sadd
+27/07/18,CLF,Freiburg,3-0,Swansea City
+03/08/18,CLF,Freiburg,2-3,Strasbourg
+12/08/18,CLF,Freiburg,1-1,Real Sociedad
+20/08/18,DFP,Energie Cottbus,P2-2P,Freiburg
+25/08/18,BUN,Freiburg,0-2,Eintracht Frankfurt
+01/09/18,BUN,Hoffenheim,3-1,Freiburg
+16/09/18,BUN,Freiburg,3-3,Stuttgart
+22/09/18,BUN,Wolfsburg,1-3,Freiburg
+25/09/18,BUN,Freiburg,1-0,Schalke 04
+30/09/18,BUN,Augsburg,4-1,Freiburg
+07/10/18,BUN,Freiburg,0-0,Bayer Leverkusen
+21/10/18,BUN,Hertha Berlin,1-1,Freiburg
+26/10/18,BUN,Freiburg,3-1,Borussia M'gladbach
+31/10/18,DFP,Holstein Kiel,2-1,Freiburg
+03/11/18,BUN,Bayern Munich,1-1,Freiburg
+10/11/18,BUN,Freiburg,1-3,Mainz
+15/11/18,CLF,Sion,0-5,Freiburg
+25/11/18,BUN,Freiburg,1-1,Werder Bremen
+01/12/18,BUN,Borussia Dortmund,2-0,Freiburg
+08/12/18,BUN,Freiburg,3-0,RB Leipzig
+15/12/18,BUN,Fortuna Düsseldorf,2-0,Freiburg
+19/12/18,BUN,Freiburg,1-1,Hannover 96
+22/12/18,BUN,Nürnberg,0-1,Freiburg
+12/01/19,CLF,Mainz,2-2,Freiburg
+12/01/19,CLF,Mainz,2-2,Freiburg
+19/01/19,BUN,Eintracht Frankfurt,3-1,Freiburg
+26/01/19,BUN,Freiburg,2-4,Hoffenheim
+03/02/19,BUN,Stuttgart,2-2,Freiburg
+09/02/19,BUN,Freiburg,3-3,Wolfsburg
+16/02/19,BUN,Schalke 04,0-0,Freiburg
+23/02/19,BUN,Freiburg,5-1,Augsburg
+02/03/19,BUN,Bayer Leverkusen,2-0,Freiburg
+09/03/19,BUN,Freiburg,2-1,Hertha Berlin
+15/03/19,BUN,Borussia M'gladbach,1-1,Freiburg
+18/02/17,BUN,Hamburg,2-2,Freiburg
+25/02/17,BUN,Freiburg,0-3,Borussia Dortmund
+05/03/17,BUN,Eintracht Frankfurt,1-2,Freiburg
+11/03/17,BUN,Freiburg,1-1,Hoffenheim
+18/03/17,BUN,Augsburg,1-1,Freiburg
+01/04/17,BUN,Freiburg,2-5,Werder Bremen
+05/04/17,BUN,Wolfsburg,0-1,Freiburg
+08/04/17,BUN,Freiburg,1-0,Mainz
+15/04/17,BUN,RB Leipzig,4-0,Freiburg
+23/04/17,BUN,Freiburg,2-1,Bayer Leverkusen
+29/04/17,BUN,Darmstadt,3-0,Freiburg
+07/05/17,BUN,Freiburg,2-0,Schalke 04
+13/05/17,BUN,Freiburg,1-1,Ingolstadt
+20/05/17,BUN,Bayern Munich,4-1,Freiburg
+06/07/17,CLF,Lörrach-Brombach,0-8,Freiburg
+09/07/17,CLF,Freiburger FC,0-8,Freiburg
+11/07/17,CLF,Schutterwald,0-11,Freiburg
+14/07/17,CLF,Freiburg,0-3,Sandhausen
+19/07/17,CLF,Freiburg,2-0,Konyaspor
+22/07/17,CLF,Freiburg,1-0,Feyenoord
+27/07/17,UEL,Freiburg,1-0,Domzale
+03/08/17,UEL,Domzale,2-0,Freiburg
+06/08/17,CLF,Freiburg,1-2,Torino
+12/08/17,DFP,Germania Halberstadt,1-2,Freiburg
+20/08/17,BUN,Freiburg,0-0,Eintracht Frankfurt
+27/08/17,BUN,RB Leipzig,4-1,Freiburg
+31/08/17,CLF,Freiburg,1-1,St.Gallen
+09/09/17,BUN,Freiburg,0-0,Borussia Dortmund
+17/09/17,BUN,Bayer Leverkusen,4-0,Freiburg
+20/09/17,BUN,Freiburg,1-1,Hannover 96
+23/09/17,BUN,Werder Bremen,0-0,Freiburg
+01/10/17,BUN,Freiburg,3-2,Hoffenheim
+05/10/17,CLF,Freiburg,1-2,Strasbourg
+14/10/17,BUN,Bayern Munich,5-0,Freiburg
+22/10/17,BUN,Freiburg,1-1,Hertha Berlin
+25/10/17,DFP,Freiburg,3-1,Dynamo Dresden
+29/10/17,BUN,Stuttgart,3-0,Freiburg
+04/11/17,BUN,Freiburg,0-1,Schalke 04
+18/11/17,BUN,Wolfsburg,3-1,Freiburg
+25/11/17,BUN,Freiburg,2-1,Mainz
+01/12/17,BUN,Freiburg,0-0,Hamburg
+10/12/17,BUN,FC Cologne,3-4,Freiburg
+12/12/17,BUN,Freiburg,1-0,Borussia M'gladbach
+16/12/17,BUN,Augsburg,3-3,Freiburg
+20/12/17,DFP,Werder Bremen,3-2,Freiburg
+07/01/18,CLF,Freiburg,2-0,Kaiserslautern
+07/01/18,CLF,Freiburg,1-1,Hamburg
+13/01/18,BUN,Eintracht Frankfurt,1-1,Freiburg
+20/01/18,BUN,Freiburg,2-1,RB Leipzig
+27/01/18,BUN,Borussia Dortmund,2-2,Freiburg
+21/01/16,CLF,Basel,1-1,Freiburg
+24/01/16,CLF,Karlsruhe,1-0,Freiburg
+30/01/16,CLF,Freiburg,1-3,Grasshoppers
+05/02/16,2.B,Bochum,2-0,Freiburg
+14/02/16,2.B,Freiburg,1-2,Fortuna Düsseldorf
+21/02/16,2.B,Sandhausen,0-2,Freiburg
+27/02/16,2.B,Freiburg,2-0,Kaiserslautern
+02/03/16,2.B,Arminia Bielefeld,1-4,Freiburg
+07/03/16,2.B,Freiburg,2-1,RB Leipzig
+13/03/16,2.B,FSV Frankfurt,1-3,Freiburg
+21/03/16,2.B,Freiburg,1-0,Karlsruhe
+04/04/16,2.B,Greuther Fürth,2-3,Freiburg
+10/04/16,2.B,Freiburg,4-3,St. Pauli
+18/04/16,2.B,Eintracht Braunschweig,2-2,Freiburg
+22/04/16,2.B,Freiburg,3-0,MSV Duisburg
+29/04/16,2.B,Paderborn,1-2,Freiburg
+08/05/16,2.B,Freiburg,2-0,Heidenheim
+15/05/16,2.B,Union Berlin,2-1,Freiburg
+10/07/16,CLF,Freiburg,9-1,March
+22/07/16,CLF,Zimmern,0-9,Freiburg
+27/07/16,CLF,Freiburg,2-1,Rizespor
+14/08/16,CLF,Freiburg,0-2,AC Milan
+20/08/16,DFP,Babelsberg,0-4,Freiburg
+28/08/16,BUN,Hertha Berlin,2-1,Freiburg
+10/09/16,BUN,Freiburg,3-1,Borussia M'gladbach
+16/09/16,BUN,FC Cologne,3-0,Freiburg
+20/09/16,BUN,Freiburg,1-0,Hamburg
+23/09/16,BUN,Borussia Dortmund,3-1,Freiburg
+01/10/16,BUN,Freiburg,1-0,Eintracht Frankfurt
+15/10/16,BUN,Hoffenheim,2-1,Freiburg
+22/10/16,BUN,Freiburg,2-1,Augsburg
+25/10/16,DFP,Freiburg,P3-3P,Sandhausen
+29/10/16,BUN,Werder Bremen,1-3,Freiburg
+05/11/16,BUN,Freiburg,0-3,Wolfsburg
+10/11/16,CLF,Freiburg,5-1,Sandhausen
+19/11/16,BUN,Mainz,4-2,Freiburg
+25/11/16,BUN,Freiburg,1-4,RB Leipzig
+03/12/16,BUN,Bayer Leverkusen,1-1,Freiburg
+10/12/16,BUN,Freiburg,1-0,Darmstadt
+17/12/16,BUN,Schalke 04,1-1,Freiburg
+21/12/16,BUN,Ingolstadt,1-2,Freiburg
+08/01/17,CLF,Freiburg,3-1,Vaduz
+08/01/17,CLF,Freiburg,1-2,PSV
+12/01/17,CLF,Sparta Prague,0-0,Freiburg
+12/01/17,CLF,Freiburg,1-3,Club Brugge
+18/01/17,CLF,Karlsruhe,2-2,Freiburg
+20/01/17,BUN,Freiburg,1-2,Bayern Munich
+29/01/17,BUN,Freiburg,2-1,Hertha Berlin
+04/02/17,BUN,Borussia M'gladbach,3-0,Freiburg
+12/02/17,BUN,Freiburg,2-1,FC Cologne
+13/12/14,BUN,Freiburg,0-0,Hamburg
+16/12/14,BUN,Bayern Munich,2-0,Freiburg
+21/12/14,BUN,Freiburg,2-2,Hannover 96
+14/01/15,CLF,Freiburg,1-0,Mainz
+18/01/15,CLF,Preußen Münster,1-4,Freiburg
+18/01/15,CLF,Freiburg,0-5,Karlsruhe
+31/01/15,BUN,Freiburg,4-1,Eintracht Frankfurt
+03/02/15,BUN,Borussia M'gladbach,1-0,Freiburg
+07/02/15,BUN,Freiburg,0-3,Borussia Dortmund
+15/02/15,BUN,Hertha Berlin,0-2,Freiburg
+21/02/15,BUN,Freiburg,1-1,Hoffenheim
+28/02/15,BUN,Bayer Leverkusen,1-0,Freiburg
+03/03/15,DFP,Freiburg,2-1,FC Cologne
+07/03/15,BUN,Freiburg,0-1,Werder Bremen
+15/03/15,BUN,Wolfsburg,3-0,Freiburg
+21/03/15,BUN,Freiburg,2-0,Augsburg
+04/04/15,BUN,Freiburg,1-0,FC Cologne
+07/04/15,DFP,Wolfsburg,1-0,Freiburg
+11/04/15,BUN,Schalke 04,0-0,Freiburg
+18/04/15,BUN,Freiburg,2-3,Mainz
+25/04/15,BUN,Stuttgart,2-2,Freiburg
+02/05/15,BUN,Freiburg,1-2,Paderborn
+08/05/15,BUN,Hamburg,1-1,Freiburg
+16/05/15,BUN,Freiburg,2-1,Bayern Munich
+23/05/15,BUN,Hannover 96,2-1,Freiburg
+07/07/15,CLF,Freiburg,0-1,Spartak Moscow
+14/07/15,CLF,Freiburg,0-0,St. Pauli
+19/07/15,CLF,Freiburg,0-1,Malaga
+27/07/15,2.B,Freiburg,6-3,Nürnberg
+01/08/15,2.B,1860 München,0-1,Freiburg
+09/08/15,DFP,Barmbek-Uhlenhorst,0-5,Freiburg
+15/08/15,2.B,Freiburg,1-3,Bochum
+22/08/15,2.B,Fortuna Düsseldorf,1-2,Freiburg
+28/08/15,2.B,Freiburg,4-1,Sandhausen
+11/09/15,2.B,Kaiserslautern,0-2,Freiburg
+18/09/15,2.B,Freiburg,2-2,Arminia Bielefeld
+24/09/15,2.B,RB Leipzig,1-1,Freiburg
+27/09/15,2.B,Freiburg,2-0,FSV Frankfurt
+04/10/15,2.B,Karlsruhe,1-1,Freiburg
+18/10/15,2.B,Freiburg,5-2,Greuther Fürth
+25/10/15,2.B,St. Pauli,1-0,Freiburg
+28/10/15,DFP,Freiburg,0-3,Augsburg
+01/11/15,2.B,Freiburg,2-2,Eintracht Braunschweig
+07/11/15,2.B,MSV Duisburg,1-1,Freiburg
+22/11/15,2.B,Freiburg,4-1,Paderborn
+27/11/15,2.B,Heidenheim,1-2,Freiburg
+05/12/15,2.B,Freiburg,3-0,Union Berlin
+13/12/15,2.B,Nürnberg,2-1,Freiburg
+20/12/15,2.B,Freiburg,3-0,1860 München
+18/01/16,CLF,Freiburg,1-1,Luzern
+02/11/13,BUN,Nürnberg,0-3,Freiburg
+07/11/13,UEL,Estoril,0-0,Freiburg
+10/11/13,BUN,Freiburg,1-3,Stuttgart
+23/11/13,BUN,Eintracht Braunschweig,0-1,Freiburg
+28/11/13,UEL,Slovan Liberec,1-2,Freiburg
+01/12/13,BUN,Borussia M'gladbach,1-0,Freiburg
+04/12/13,DFP,Freiburg,1-2,Bayer Leverkusen
+08/12/13,BUN,Freiburg,0-3,Wolfsburg
+12/12/13,UEL,Freiburg,0-2,Sevilla
+15/12/13,BUN,Schalke 04,2-0,Freiburg
+21/12/13,BUN,Freiburg,2-1,Hannover 96
+11/01/14,CLF,Freiburg,2-0,Eintracht Braunschweig
+16/01/14,CLF,Freiburg,0-5,Union Berlin
+25/01/14,BUN,Freiburg,3-2,Bayer Leverkusen
+01/02/14,BUN,Mainz,2-0,Freiburg
+08/02/14,BUN,Freiburg,1-1,Hoffenheim
+15/02/14,BUN,Bayern Munich,4-0,Freiburg
+22/02/14,BUN,Freiburg,2-4,Augsburg
+28/02/14,BUN,Hertha Berlin,0-0,Freiburg
+09/03/14,BUN,Freiburg,0-1,Borussia Dortmund
+16/03/14,BUN,Eintracht Frankfurt,1-4,Freiburg
+21/03/14,BUN,Freiburg,3-1,Werder Bremen
+26/03/14,BUN,Hamburg,1-1,Freiburg
+29/03/14,BUN,Freiburg,3-2,Nürnberg
+05/04/14,BUN,Stuttgart,2-0,Freiburg
+12/04/14,BUN,Freiburg,2-0,Eintracht Braunschweig
+19/04/14,BUN,Freiburg,4-2,Borussia M'gladbach
+26/04/14,BUN,Wolfsburg,2-2,Freiburg
+03/05/14,BUN,Freiburg,0-2,Schalke 04
+10/05/14,BUN,Hannover 96,3-2,Freiburg
+05/07/14,CLF,Freiburg,6-3,Winterthur
+18/07/14,CLF,Freiburg,1-1,Aalen
+22/07/14,CLF,St.Gallen,0-1,Freiburg
+09/08/14,CLF,Freiburg,1-1,Stoke City
+17/08/14,DFP,Eintracht Trier,0-2,Freiburg
+23/08/14,BUN,Eintracht Frankfurt,1-0,Freiburg
+31/08/14,BUN,Freiburg,0-0,Borussia M'gladbach
+13/09/14,BUN,Borussia Dortmund,3-1,Freiburg
+19/09/14,BUN,Freiburg,2-2,Hertha Berlin
+23/09/14,BUN,Hoffenheim,3-3,Freiburg
+27/09/14,BUN,Freiburg,0-0,Bayer Leverkusen
+04/10/14,BUN,Werder Bremen,1-1,Freiburg
+18/10/14,BUN,Freiburg,1-2,Wolfsburg
+25/10/14,BUN,Augsburg,2-0,Freiburg
+29/10/14,DFP,1860 München,2-5,Freiburg
+02/11/14,BUN,FC Cologne,0-1,Freiburg
+08/11/14,BUN,Freiburg,2-0,Schalke 04
+22/11/14,BUN,Mainz,2-2,Freiburg
+28/11/14,BUN,Freiburg,1-4,Stuttgart
+06/12/14,BUN,Paderborn,1-1,Freiburg

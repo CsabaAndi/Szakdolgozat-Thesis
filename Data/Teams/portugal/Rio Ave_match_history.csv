@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+02/04/23,PRL,Rio Ave,0-1,Benfica
+08/04/23,PRL,Portimonense,2-2,Rio Ave
+16/04/23,PRL,Rio Ave,1-1,Casa Pia
+22/04/23,PRL,Boavista,3-2,Rio Ave
+28/04/23,PRL,Rio Ave,1-0,Arouca
+07/05/23,PRL,Marítimo,2-2,Rio Ave
+14/05/23,PRL,Rio Ave,0-1,Vitoria Guimaraes
+21/05/23,PRL,Paços Ferreira,3-1,Rio Ave
+26/05/23,PRL,Rio Ave,2-2,Famalicão
+08/07/23,CLF,Rio Ave,2-4,Sporting Braga II
+12/07/23,CLF,Moreirense,0-2,Rio Ave
+15/07/23,CLF,Rio Ave,1-1,Vitoria Guimaraes
+22/07/23,TDL,Rio Ave,3-0,Academico Viseu
+30/07/23,TDL,Arouca,2-0,Rio Ave
+13/08/23,PRL,Rio Ave,2-0,Chaves
+20/08/23,PRL,Estoril,2-0,Rio Ave
+28/08/23,PRL,Rio Ave,1-2,Porto
+02/09/23,PRL,Casa Pia,1-1,Rio Ave
+16/09/23,PRL,Rio Ave,1-1,Famalicão
+25/09/23,PRL,Sporting Lisbon,2-0,Rio Ave
+01/10/23,PRL,Rio Ave,0-4,Moreirense
+07/10/23,PRL,Sporting Braga,2-1,Rio Ave
+22/10/23,TDP,Torreense,2-1,Rio Ave
+29/10/23,PRL,Rio Ave,3-4,Farense
+05/11/23,PRL,Rio Ave,2-0,Boavista
+12/11/23,PRL,Gil Vicente,1-1,Rio Ave
+17/11/23,CLF,Moreirense,2-0,Rio Ave
+02/12/23,PRL,Rio Ave,1-1,Estrela
+10/12/23,PRL,Arouca,2-2,Rio Ave
+16/12/23,PRL,Rio Ave,1-1,Vizela
+23/12/23,PRL,Vitoria Guimaraes,1-0,Rio Ave
+07/01/24,PRL,Rio Ave,2-0,Portimonense
+14/01/24,PRL,Benfica,4-1,Rio Ave
+21/01/24,PRL,Chaves,0-0,Rio Ave
+31/01/24,PRL,Rio Ave,1-1,Estoril
+03/02/24,PRL,Porto,0-0,Rio Ave
+11/02/24,PRL,Rio Ave,1-0,Casa Pia
+16/02/24,PRL,Famalicão,2-1,Rio Ave
+25/02/24,PRL,Rio Ave,3-3,Sporting Lisbon
+02/03/24,PRL,Moreirense,0-0,Rio Ave
+09/03/24,PRL,Rio Ave,0-0,Sporting Braga
+16/03/24,PRL,Farense,1-1,Rio Ave
+30/03/24,PRL,Boavista,0-0,Rio Ave
+06/04/24,PRL,Rio Ave,3-0,Gil Vicente
+14/04/24,PRL,Estrela,2-2,Rio Ave
+19/04/24,PRL,Rio Ave,1-1,Arouca
+27/04/24,PRL,Vizela,1-1,Rio Ave
+04/05/24,PRL,Rio Ave,16:30,Vitoria Guimaraes
+11/05/24,PRL,Portimonense,16:30,Rio Ave
+19/05/24,PRL,Rio Ave,-,Benfica
+23/01/22,SEL,Rio Ave,2-1,Farense
+30/01/22,SEL,Rio Ave,1-1,Varzim
+02/02/22,SEL,Rio Ave,3-1,Sporting Covilhã
+06/02/22,SEL,Leixões,2-2,Rio Ave
+10/02/22,SEL,Chaves,2-1,Rio Ave
+14/02/22,SEL,Rio Ave,1-0,Estrela
+20/02/22,SEL,Feirense,0-0,Rio Ave
+27/02/22,SEL,Rio Ave,1-0,Porto II
+07/03/22,SEL,Vilafranquense,1-2,Rio Ave
+12/03/22,SEL,Rio Ave,2-0,Penafiel
+18/03/22,SEL,Academico Viseu,0-1,Rio Ave
+02/04/22,SEL,Rio Ave,1-0,Trofense
+10/04/22,SEL,Nacional,2-0,Rio Ave
+17/04/22,SEL,Rio Ave,2-1,Benfica II
+24/04/22,SEL,Mafra,1-1,Rio Ave
+01/05/22,SEL,Rio Ave,1-0,Casa Pia
+07/05/22,SEL,Sporting Covilhã,0-1,Rio Ave
+15/05/22,SEL,Rio Ave,3-0,Chaves
+16/07/22,CLF,Rio Ave,0-0,Paços Ferreira
+23/07/22,CLF,Rio Ave,0-2,Santa Clara
+30/07/22,CLF,Rio Ave,1-0,Academico Viseu
+06/08/22,PRL,Rio Ave,0-1,Vizela
+13/08/22,PRL,Sporting Lisbon,3-0,Rio Ave
+19/08/22,PRL,Estoril,2-2,Rio Ave
+28/08/22,PRL,Rio Ave,3-1,Porto
+05/09/22,PRL,Chaves,1-1,Rio Ave
+11/09/22,PRL,Rio Ave,2-3,Sporting Braga
+17/09/22,PRL,Gil Vicente,2-2,Rio Ave
+02/10/22,PRL,Rio Ave,1-0,Santa Clara
+08/10/22,PRL,Benfica,4-2,Rio Ave
+16/10/22,TDP,Oliveira Hospital,E3-2E,Rio Ave
+24/10/22,PRL,Rio Ave,1-0,Portimonense
+30/10/22,PRL,Casa Pia,1-0,Rio Ave
+06/11/22,PRL,Rio Ave,1-0,Boavista
+12/11/22,PRL,Arouca,0-1,Rio Ave
+01/12/22,TDL,Marítimo,0-1,Rio Ave
+07/12/22,TDL,Rio Ave,0-2,Sporting Lisbon
+13/12/22,TDL,Rio Ave,2-1,Farense
+23/12/22,PRL,Rio Ave,1-1,Marítimo
+07/01/23,PRL,Vitoria Guimaraes,0-0,Rio Ave
+14/01/23,PRL,Rio Ave,0-1,Paços Ferreira
+22/01/23,PRL,Famalicão,0-0,Rio Ave
+29/01/23,PRL,Vizela,3-1,Rio Ave
+06/02/23,PRL,Rio Ave,0-1,Sporting Lisbon
+13/02/23,PRL,Rio Ave,2-0,Estoril
+18/02/23,PRL,Porto,1-0,Rio Ave
+26/02/23,PRL,Rio Ave,1-0,Chaves
+05/03/23,PRL,Sporting Braga,2-0,Rio Ave
+12/03/23,PRL,Rio Ave,2-1,Gil Vicente
+17/03/23,PRL,Santa Clara,0-2,Rio Ave
+08/01/21,PRL,Rio Ave,3-0,Portimonense
+12/01/21,TDP,Rio Ave,1-2,Estoril
+15/01/21,PRL,Sporting Lisbon,1-1,Rio Ave
+25/01/21,PRL,Rio Ave,1-2,Santa Clara
+01/02/21,PRL,Porto,2-0,Rio Ave
+05/02/21,PRL,Rio Ave,0-0,Nacional
+09/02/21,PRL,Rio Ave,2-1,Tondela
+13/02/21,PRL,Vitoria Guimaraes,1-3,Rio Ave
+21/02/21,PRL,Rio Ave,0-1,Famalicão
+01/03/21,PRL,Benfica,2-0,Rio Ave
+07/03/21,PRL,Rio Ave,2-0,Farense
+14/03/21,PRL,Moreirense,1-1,Rio Ave
+21/03/21,PRL,Rio Ave,0-0,Belenenses
+03/04/21,PRL,Rio Ave,0-2,Gil Vicente
+10/04/21,PRL,Boavista,3-3,Rio Ave
+17/04/21,PRL,Rio Ave,0-0,Sporting Braga
+21/04/21,PRL,Marítimo,1-0,Rio Ave
+25/04/21,PRL,Rio Ave,1-1,Paços Ferreira
+01/05/21,PRL,Portimonense,0-0,Rio Ave
+05/05/21,PRL,Rio Ave,0-2,Sporting Lisbon
+11/05/21,PRL,Santa Clara,1-0,Rio Ave
+15/05/21,PRL,Rio Ave,0-3,Porto
+19/05/21,PRL,Nacional,1-2,Rio Ave
+26/05/21,PL1,Arouca,3-0,Rio Ave
+30/05/21,PL1,Rio Ave,0-2,Arouca
+25/07/21,TDL,Varzim,P1-1P,Rio Ave
+01/08/21,TDL,Arouca,0-1,Rio Ave
+08/08/21,SEL,Rio Ave,5-1,Académica
+15/08/21,SEL,Farense,1-1,Rio Ave
+22/08/21,SEL,Varzim,0-3,Rio Ave
+28/08/21,SEL,Rio Ave,2-1,Leixões
+10/09/21,SEL,Estrela,2-5,Rio Ave
+18/09/21,SEL,Rio Ave,0-4,Feirense
+22/09/21,TDL,Rio Ave,2-2,Santa Clara
+26/09/21,TDP,Vitória de Sernache,1-3,Rio Ave
+03/10/21,SEL,Porto II,1-1,Rio Ave
+10/10/21,SEL,Rio Ave,2-1,Vilafranquense
+17/10/21,TDP,Rio Ave,4-0,Boavista
+23/10/21,SEL,Penafiel,1-1,Rio Ave
+31/10/21,SEL,Rio Ave,1-2,Academico Viseu
+06/11/21,SEL,Trofense,0-1,Rio Ave
+20/11/21,TDP,Rio Ave,2-1,Olhanense
+28/11/21,SEL,Rio Ave,1-0,Nacional
+04/12/21,SEL,Benfica II,2-0,Rio Ave
+11/12/21,SEL,Rio Ave,1-2,Mafra
+15/12/21,TDL,Porto,1-0,Rio Ave
+19/12/21,SEL,Casa Pia,0-1,Rio Ave
+23/12/21,TDP,Rio Ave,P1-1P,Belenenses
+12/01/22,TDP,Rio Ave,E0-1E,Tondela
+19/01/22,SEL,Académica,1-2,Rio Ave
+09/11/19,PRL,Rio Ave,1-0,Vitória Setúbal
+24/11/19,TDP,Rio Ave,1-0,Alverca
+02/12/19,PRL,Sporting Braga,2-0,Rio Ave
+09/12/19,PRL,Rio Ave,1-0,Gil Vicente
+13/12/19,PRL,Portimonense,1-1,Rio Ave
+17/12/19,TDP,Marinhense,0-2,Rio Ave
+21/12/19,TDL,Rio Ave,0-1,Gil Vicente
+05/01/20,PRL,Rio Ave,0-1,Marítimo
+10/01/20,PRL,Santa Clara,0-1,Rio Ave
+14/01/20,TDP,Benfica,3-2,Rio Ave
+19/01/20,PRL,Rio Ave,2-0,Boavista
+27/01/20,PRL,Vitoria Guimaraes,1-2,Rio Ave
+31/01/20,PRL,Rio Ave,2-2,Famalicão
+09/02/20,PRL,Desportivo Aves,0-4,Rio Ave
+15/02/20,PRL,Rio Ave,1-1,Sporting Lisbon
+22/02/20,PRL,Tondela,1-2,Rio Ave
+29/02/20,PRL,Rio Ave,0-0,Belenenses
+07/03/20,PRL,Porto,1-1,Rio Ave
+07/06/20,PRL,Rio Ave,2-3,Paços Ferreira
+12/06/20,PRL,Moreirense,0-1,Rio Ave
+17/06/20,PRL,Rio Ave,1-2,Benfica
+23/06/20,PRL,Vitória Setúbal,1-2,Rio Ave
+30/06/20,PRL,Rio Ave,4-3,Sporting Braga
+05/07/20,PRL,Gil Vicente,1-0,Rio Ave
+09/07/20,PRL,Rio Ave,2-1,Portimonense
+13/07/20,PRL,Marítimo,0-0,Rio Ave
+18/07/20,PRL,Rio Ave,2-2,Santa Clara
+25/07/20,PRL,Boavista,0-2,Rio Ave
+22/08/20,CLF,Rio Ave,CANC,Penafiel
+28/08/20,CLF,Rio Ave,CANC,Real Sociedad
+29/08/20,CLF,Rio Ave,CANC,Boavista
+02/09/20,CLF,Paços Ferreira,1-2,Rio Ave
+05/09/20,CLF,Marítimo,2-1,Rio Ave
+17/09/20,UEL,Borac Banja Luka,0-2,Rio Ave
+20/09/20,PRL,Tondela,1-1,Rio Ave
+24/09/20,UEL,Besiktas,P1-1P,Rio Ave
+27/09/20,PRL,Rio Ave,0-0,Vitoria Guimaraes
+01/10/20,UEL,Rio Ave,P2-2P,AC Milan
+04/10/20,PRL,Famalicão,1-1,Rio Ave
+18/10/20,PRL,Rio Ave,0-3,Benfica
+25/10/20,PRL,Farense,0-1,Rio Ave
+31/10/20,PRL,Rio Ave,2-0,Moreirense
+06/11/20,PRL,Belenenses,0-0,Rio Ave
+22/11/20,TDP,Monção,1-2,Rio Ave
+29/11/20,PRL,Gil Vicente,2-0,Rio Ave
+06/12/20,PRL,Rio Ave,0-0,Boavista
+12/12/20,TDP,Rio Ave,2-1,Famalicão
+22/12/20,PRL,Sporting Braga,3-0,Rio Ave
+28/12/20,PRL,Rio Ave,1-3,Marítimo
+03/01/21,PRL,Paços Ferreira,2-0,Rio Ave
+05/11/18,PRL,Rio Ave,3-3,Nacional
+10/11/18,PRL,Desportivo Aves,2-1,Rio Ave
+25/11/18,TDP,Rio Ave,7-0,Silves
+03/12/18,PRL,Rio Ave,1-3,Sporting Lisbon
+09/12/18,PRL,Vitoria Guimaraes,3-2,Rio Ave
+16/12/18,PRL,Rio Ave,2-2,Belenenses
+19/12/18,TDP,Sporting Lisbon,5-2,Rio Ave
+23/12/18,PRL,Porto,2-1,Rio Ave
+28/12/18,TDL,Rio Ave,1-1,Paços Ferreira
+02/01/19,PRL,Rio Ave,1-2,Moreirense
+06/01/19,PRL,Benfica,4-2,Rio Ave
+13/01/19,PRL,Rio Ave,1-1,Vitória Setúbal
+20/01/19,PRL,Rio Ave,0-0,Feirense
+28/01/19,PRL,Marítimo,0-2,Rio Ave
+01/02/19,PRL,Rio Ave,2-2,Tondela
+09/02/19,PRL,Portimonense,0-1,Rio Ave
+15/02/19,PRL,Rio Ave,1-2,Santa Clara
+24/02/19,PRL,Boavista,1-0,Rio Ave
+03/03/19,PRL,Rio Ave,1-2,Sporting Braga
+08/03/19,PRL,Chaves,1-1,Rio Ave
+17/03/19,PRL,Nacional,0-1,Rio Ave
+31/03/19,PRL,Rio Ave,0-2,Desportivo Aves
+07/04/19,PRL,Sporting Lisbon,3-0,Rio Ave
+14/04/19,PRL,Rio Ave,2-1,Vitoria Guimaraes
+20/04/19,PRL,Belenenses,1-3,Rio Ave
+26/04/19,PRL,Rio Ave,2-2,Porto
+03/05/19,PRL,Moreirense,1-2,Rio Ave
+12/05/19,PRL,Rio Ave,2-3,Benfica
+18/05/19,PRL,Vitória Setúbal,1-3,Rio Ave
+10/07/19,CLF,Rio Ave,0-2,Penafiel
+13/07/19,CLF,Rio Ave,3-0,Boavista
+17/07/19,CLF,Rio Ave,0-1,Vitoria Guimaraes
+20/07/19,CLF,Rio Ave,1-1,Santa Clara
+24/07/19,CLF,Chaves,1-0,Rio Ave
+27/07/19,CLF,Famalicão,2-1,Rio Ave
+31/07/19,CLF,Porto II,CANC,Rio Ave
+03/08/19,TDL,Rio Ave,6-1,Oliveirense
+16/08/19,PRL,Famalicão,1-0,Rio Ave
+23/08/19,PRL,Rio Ave,5-1,Desportivo Aves
+31/08/19,PRL,Sporting Lisbon,2-3,Rio Ave
+08/09/19,PRL,Rio Ave,1-1,Vitoria Guimaraes
+15/09/19,PRL,Rio Ave,2-4,Tondela
+21/09/19,PRL,Belenenses,0-2,Rio Ave
+26/09/19,TDL,Sporting Lisbon,1-2,Rio Ave
+29/09/19,PRL,Rio Ave,0-1,Porto
+05/10/19,TDL,Portimonense,1-1,Rio Ave
+19/10/19,TDP,Condeixa,0-1,Rio Ave
+25/10/19,PRL,Paços Ferreira,0-0,Rio Ave
+30/10/19,PRL,Rio Ave,1-1,Moreirense
+02/11/19,PRL,Benfica,2-0,Rio Ave
+27/10/17,PRL,Rio Ave,0-1,Sporting Lisbon
+04/11/17,PRL,Estoril,0-2,Rio Ave
+18/11/17,TDP,Rio Ave,1-0,Sporting Braga
+27/11/17,PRL,Rio Ave,0-1,Vitoria Guimaraes
+02/12/17,PRL,Tondela,1-3,Rio Ave
+08/12/17,PRL,Rio Ave,2-1,Moreirense
+13/12/17,TDP,Rio Ave,E3-2E,Benfica
+17/12/17,PRL,Chaves,1-1,Rio Ave
+21/12/17,TDL,Porto,3-0,Rio Ave
+30/12/17,TDL,Rio Ave,3-2,Leixões
+03/01/18,PRL,Rio Ave,4-2,Paços Ferreira
+06/01/18,PRL,Sporting Braga,2-1,Rio Ave
+10/01/18,TDP,Rio Ave,P4-4P,Desportivo Aves
+14/01/18,PRL,Belenenses,1-2,Rio Ave
+21/01/18,PRL,Rio Ave,2-0,Boavista
+29/01/18,PRL,Portimonense,4-1,Rio Ave
+03/02/18,PRL,Benfica,5-1,Rio Ave
+10/02/18,PRL,Rio Ave,3-0,Marítimo
+18/02/18,PRL,Porto,5-0,Rio Ave
+23/02/18,PRL,Rio Ave,0-0,Desportivo Aves
+04/03/18,PRL,Vitória Setúbal,1-0,Rio Ave
+10/03/18,PRL,Rio Ave,2-1,Feirense
+18/03/18,PRL,Sporting Lisbon,2-0,Rio Ave
+30/03/18,PRL,Rio Ave,2-0,Estoril
+06/04/18,PRL,Vitoria Guimaraes,3-0,Rio Ave
+16/04/18,PRL,Rio Ave,1-1,Tondela
+22/04/18,PRL,Moreirense,2-1,Rio Ave
+29/04/18,PRL,Rio Ave,2-1,Chaves
+07/05/18,PRL,Paços Ferreira,0-0,Rio Ave
+13/05/18,PRL,Rio Ave,1-0,Sporting Braga
+07/07/18,CLF,Rio Ave,1-1,Famalicão
+11/07/18,CLF,Rio Ave,CANC,Moreirense
+11/07/18,CLF,Rio Ave,4-1,Espinho
+14/07/18,CLF,Rio Ave,2-1,Chaves
+17/07/18,CLF,Famalicão,1-1,Rio Ave
+19/07/18,CLF,Feirense,0-1,Rio Ave
+26/07/18,UEL,Jagiellonia Białystok,1-0,Rio Ave
+02/08/18,UEL,Rio Ave,4-4,Jagiellonia Białystok
+05/08/18,TDL,Portimonense,0-2,Rio Ave
+12/08/18,PRL,Feirense,2-0,Rio Ave
+19/08/18,PRL,Rio Ave,3-1,Marítimo
+26/08/18,PRL,Tondela,1-1,Rio Ave
+02/09/18,PRL,Rio Ave,2-1,Portimonense
+15/09/18,TDL,Benfica,2-1,Rio Ave
+22/09/18,PRL,Santa Clara,1-3,Rio Ave
+29/09/18,PRL,Rio Ave,2-1,Boavista
+06/10/18,PRL,Sporting Braga,1-1,Rio Ave
+13/10/18,TDL,Desportivo Aves,3-0,Rio Ave
+21/10/18,TDP,Torreense,1-5,Rio Ave
+27/10/18,PRL,Rio Ave,1-0,Chaves
+11/09/16,PRL,Marítimo,0-1,Rio Ave
+18/09/16,PRL,Rio Ave,3-1,Sporting Lisbon
+25/09/16,PRL,Paços Ferreira,2-1,Rio Ave
+01/10/16,PRL,Rio Ave,1-2,Estoril
+16/10/16,TDP,Santa Clara,P1-1P,Rio Ave
+23/10/16,PRL,Moreirense,1-1,Rio Ave
+27/10/16,TDL,Rio Ave,P1-1P,Chaves
+30/10/16,PRL,Rio Ave,0-3,Vitoria Guimaraes
+05/11/16,PRL,Rio Ave,1-2,Boavista
+25/11/16,PRL,Vitória Setúbal,0-1,Rio Ave
+03/12/16,PRL,Rio Ave,3-1,Tondela
+12/12/16,PRL,Arouca,0-2,Rio Ave
+18/12/16,PRL,Rio Ave,2-1,Nacional
+21/12/16,PRL,Benfica,2-0,Rio Ave
+29/12/16,TDL,Sporting Braga,1-2,Rio Ave
+03/01/17,TDL,Marítimo,1-0,Rio Ave
+08/01/17,PRL,Rio Ave,2-2,Chaves
+11/01/17,TDL,Rio Ave,2-0,Sporting Covilhã
+15/01/17,PRL,Belenenses,1-0,Rio Ave
+21/01/17,PRL,Porto,4-2,Rio Ave
+02/02/17,PRL,Rio Ave,1-0,Sporting Braga
+06/02/17,PRL,Feirense,2-1,Rio Ave
+13/02/17,PRL,Rio Ave,0-0,Marítimo
+18/02/17,PRL,Sporting Lisbon,1-0,Rio Ave
+25/02/17,PRL,Rio Ave,0-0,Paços Ferreira
+06/03/17,PRL,Estoril,0-2,Rio Ave
+12/03/17,PRL,Rio Ave,3-2,Moreirense
+19/03/17,PRL,Vitoria Guimaraes,3-0,Rio Ave
+01/04/17,PRL,Boavista,0-1,Rio Ave
+09/04/17,PRL,Rio Ave,0-0,Vitória Setúbal
+15/04/17,PRL,Tondela,2-1,Rio Ave
+21/04/17,PRL,Rio Ave,3-0,Arouca
+29/04/17,PRL,Nacional,0-2,Rio Ave
+07/05/17,PRL,Rio Ave,0-1,Benfica
+14/05/17,PRL,Chaves,2-2,Rio Ave
+20/05/17,PRL,Rio Ave,2-0,Belenenses
+19/07/17,CLF,Rio Ave,3-0,Gil Vicente
+22/07/17,CLF,Rio Ave,0-1,Angers
+07/08/17,PRL,Rio Ave,1-0,Belenenses
+12/08/17,PRL,Boavista,1-2,Rio Ave
+18/08/17,PRL,Rio Ave,2-0,Portimonense
+26/08/17,PRL,Rio Ave,1-1,Benfica
+02/09/17,TDL,Rio Ave,2-0,Cova Piedade
+09/09/17,PRL,Marítimo,1-0,Rio Ave
+17/09/17,PRL,Rio Ave,1-2,Porto
+24/09/17,PRL,Desportivo Aves,0-0,Rio Ave
+30/09/17,PRL,Rio Ave,2-1,Vitória Setúbal
+08/10/17,TDL,Paços Ferreira,1-1,Rio Ave
+15/10/17,TDP,Sanjoanense,0-4,Rio Ave
+21/10/17,PRL,Feirense,1-0,Rio Ave
+19/09/15,PRL,Paços Ferreira,0-3,Rio Ave
+28/09/15,PRL,Rio Ave,1-0,Académica
+03/10/15,PRL,Rio Ave,1-0,Boavista
+10/10/15,TDL,Rio Ave,3-2,Vitoria Guimaraes
+18/10/15,TDP,União,0-3,Rio Ave
+24/10/15,PRL,Estoril,2-2,Rio Ave
+01/11/15,PRL,Rio Ave,1-0,Nacional
+08/11/15,PRL,Marítimo,3-2,Rio Ave
+22/11/15,TDP,Paços Ferreira,1-2,Rio Ave
+29/11/15,PRL,Rio Ave,0-1,Moreirense
+07/12/15,PRL,Vitoria Guimaraes,3-1,Rio Ave
+12/12/15,PRL,Rio Ave,3-1,Arouca
+15/12/15,TDP,Vitória Setúbal,P1-1P,Rio Ave
+20/12/15,PRL,Benfica,3-1,Rio Ave
+29/12/15,TDL,Leixões,1-2,Rio Ave
+03/01/16,PRL,Rio Ave,2-3,Tondela
+06/01/16,PRL,Porto,1-1,Rio Ave
+10/01/16,PRL,Rio Ave,1-0,União Madeira
+13/01/16,TDP,Rio Ave,3-0,Estoril
+17/01/16,PRL,Rio Ave,1-2,Belenenses
+20/01/16,TDL,Rio Ave,1-1,Belenenses
+24/01/16,PRL,Sporting Braga,5-1,Rio Ave
+27/01/16,TDL,Rio Ave,0-0,Sporting Braga
+31/01/16,PRL,Rio Ave,2-1,Vitória Setúbal
+04/02/16,TDP,Sporting Braga,1-0,Rio Ave
+08/02/16,PRL,Sporting Lisbon,0-0,Rio Ave
+15/02/16,PRL,Rio Ave,1-1,Paços Ferreira
+20/02/16,PRL,Académica,0-2,Rio Ave
+27/02/16,PRL,Boavista,1-2,Rio Ave
+02/03/16,TDP,Rio Ave,0-0,Sporting Braga
+07/03/16,PRL,Rio Ave,1-3,Estoril
+13/03/16,PRL,Nacional,1-0,Rio Ave
+18/03/16,PRL,Rio Ave,1-0,Marítimo
+03/04/16,PRL,Moreirense,0-1,Rio Ave
+11/04/16,PRL,Rio Ave,2-0,Vitoria Guimaraes
+16/04/16,PRL,Arouca,0-0,Rio Ave
+24/04/16,PRL,Rio Ave,0-1,Benfica
+30/04/16,PRL,Tondela,1-1,Rio Ave
+07/05/16,PRL,Rio Ave,1-3,Porto
+14/05/16,PRL,União Madeira,1-2,Rio Ave
+09/07/16,CLF,Porto,1-1,Rio Ave
+13/07/16,CLF,Desportivo Aves,0-2,Rio Ave
+17/07/16,CLF,Vitoria Guimaraes,3-2,Rio Ave
+20/07/16,CLF,Paços Ferreira,CANC,Rio Ave
+23/07/16,CLF,Rio Ave,1-0,Sporting Gijon
+28/07/16,UEL,Slavia Prague,0-0,Rio Ave
+04/08/16,UEL,Rio Ave,1-1,Slavia Prague
+12/08/16,PRL,Rio Ave,1-3,Porto
+22/08/16,PRL,Sporting Braga,1-1,Rio Ave
+28/08/16,PRL,Rio Ave,1-0,Feirense
+10/11/14,PRL,Rio Ave,3-0,Académica
+16/11/14,TDL,Rio Ave,P0-0P,Chaves
+22/11/14,TDP,Rio Ave,2-0,Oliveirense
+27/11/14,UEL,Dinamo Kiev,2-0,Rio Ave
+30/11/14,PRL,Porto,5-0,Rio Ave
+06/12/14,PRL,Rio Ave,0-0,Gil Vicente
+11/12/14,UEL,Rio Ave,2-0,AaB
+14/12/14,PRL,Vitoria Guimaraes,0-0,Rio Ave
+17/12/14,TDP,Rio Ave,2-0,Chaves
+22/12/14,PRL,Rio Ave,0-0,Belenenses
+30/12/14,TDL,Rio Ave,0-1,Porto
+03/01/15,PRL,Paços Ferreira,1-2,Rio Ave
+06/01/15,TDP,Rio Ave,5-2,Gil Vicente
+11/01/15,PRL,Rio Ave,0-0,Marítimo
+18/01/15,PRL,Sporting Lisbon,4-2,Rio Ave
+21/01/15,TDL,Académica,1-0,Rio Ave
+25/01/15,PRL,Vitória Setúbal,4-1,Rio Ave
+28/01/15,TDL,União Madeira,2-1,Rio Ave
+01/02/15,PRL,Rio Ave,2-1,Estoril
+04/02/15,TDL,Rio Ave,0-2,Sporting Braga
+09/02/15,PRL,Boavista,1-1,Rio Ave
+15/02/15,PRL,Rio Ave,1-1,Moreirense
+22/02/15,PRL,Arouca,1-0,Rio Ave
+28/02/15,PRL,Rio Ave,0-2,Sporting Braga
+09/03/15,PRL,Rio Ave,1-1,Nacional
+15/03/15,PRL,Penafiel,0-2,Rio Ave
+21/03/15,PRL,Rio Ave,2-1,Benfica
+03/04/15,PRL,Académica,0-0,Rio Ave
+07/04/15,TDP,Sporting Braga,3-0,Rio Ave
+11/04/15,PRL,Rio Ave,1-3,Porto
+19/04/15,PRL,Gil Vicente,0-0,Rio Ave
+25/04/15,PRL,Rio Ave,1-1,Vitoria Guimaraes
+30/04/15,TDP,Rio Ave,1-1,Sporting Braga
+04/05/15,PRL,Belenenses,1-3,Rio Ave
+09/05/15,PRL,Rio Ave,0-0,Paços Ferreira
+17/05/15,PRL,Marítimo,4-0,Rio Ave
+23/05/15,PRL,Rio Ave,0-1,Sporting Lisbon
+15/07/15,CLF,Rio Ave,1-0,Vitória Guimarães II
+18/07/15,CLF,Porto,CANC,Rio Ave
+22/07/15,CLF,Desportivo Aves,1-0,Rio Ave
+23/07/15,CLF,Gil Vicente,3-1,Rio Ave
+25/07/15,CLF,Rio Ave,1-2,Moreirense
+29/07/15,CLF,Rio Ave,0-0,Sporting Braga
+01/08/15,CLF,Rio Ave,0-0,Paços Ferreira
+05/08/15,CLF,Rio Ave,1-1,Real Valladolid
+08/08/15,CLF,Académica,1-1,Rio Ave
+15/08/15,PRL,Belenenses,3-3,Rio Ave
+21/08/15,PRL,Rio Ave,1-0,Sporting Braga
+29/08/15,PRL,Vitória Setúbal,2-2,Rio Ave
+13/09/15,PRL,Rio Ave,1-2,Sporting Lisbon
+15/12/13,PRL,Rio Ave,1-3,Porto
+21/12/13,PRL,Paços Ferreira,0-0,Rio Ave
+29/12/13,TDL,Rio Ave,2-0,Paços Ferreira
+04/01/14,TDP,Rio Ave,1-0,Vitória Setúbal
+11/01/14,PRL,Rio Ave,1-1,Marítimo
+15/01/14,TDL,Rio Ave,1-1,Vitória Setúbal
+19/01/14,PRL,Rio Ave,1-0,Belenenses
+26/01/14,TDL,Sporting Covilhã,1-3,Rio Ave
+01/02/14,PRL,Vitória Setúbal,2-0,Rio Ave
+06/02/14,TDP,Rio Ave,1-0,Académica
+09/02/14,PRL,Rio Ave,1-1,Arouca
+13/02/14,TDL,Rio Ave,2-1,Sporting Braga
+16/02/14,PRL,Vitoria Guimaraes,1-0,Rio Ave
+22/02/14,PRL,Rio Ave,1-2,Sporting Lisbon
+02/03/14,PRL,Nacional,1-1,Rio Ave
+07/03/14,PRL,Rio Ave,0-0,Académica
+15/03/14,PRL,Gil Vicente,1-2,Rio Ave
+21/03/14,PRL,Rio Ave,1-1,Sporting Braga
+26/03/14,TDP,Sporting Braga,0-0,Rio Ave
+30/03/14,PRL,Estoril,0-1,Rio Ave
+07/04/14,PRL,Benfica,4-0,Rio Ave
+12/04/14,PRL,Rio Ave,1-2,Olhanense
+16/04/14,TDP,Rio Ave,2-0,Sporting Braga
+21/04/14,PRL,Porto,3-0,Rio Ave
+04/05/14,PRL,Rio Ave,0-0,Paços Ferreira
+07/05/14,TDL,Rio Ave,0-2,Benfica
+11/05/14,PRL,Marítimo,1-0,Rio Ave
+18/05/14,TDP,Benfica,1-0,Rio Ave
+09/07/14,CLF,Freamunde,1-0,Rio Ave
+16/07/14,CLF,Gil Vicente,1-2,Rio Ave
+31/07/14,UEL,IFK Göteborg,0-1,Rio Ave
+07/08/14,UEL,Rio Ave,0-0,IFK Göteborg
+10/08/14,SUC,Benfica,P0-0P,Rio Ave
+17/08/14,PRL,Rio Ave,2-0,Vitória Setúbal
+21/08/14,UEL,Elfsborg,2-1,Rio Ave
+24/08/14,PRL,Estoril,1-5,Rio Ave
+28/08/14,UEL,Rio Ave,1-0,Elfsborg
+01/09/14,PRL,Rio Ave,4-0,Boavista
+13/09/14,PRL,Moreirense,1-1,Rio Ave
+18/09/14,UEL,Rio Ave,0-3,Dinamo Kiev
+21/09/14,PRL,Rio Ave,1-2,Arouca
+24/09/14,TDL,Chaves,1-1,Rio Ave
+27/09/14,PRL,Sporting Braga,3-0,Rio Ave
+02/10/14,UEL,AaB,1-0,Rio Ave
+05/10/14,PRL,Nacional,0-0,Rio Ave
+19/10/14,TDP,Coimbrões,0-1,Rio Ave
+23/10/14,UEL,FCSB,2-1,Rio Ave
+27/10/14,PRL,Rio Ave,3-2,Penafiel
+31/10/14,PRL,Benfica,1-0,Rio Ave
+06/11/14,UEL,Rio Ave,2-2,FCSB

@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+13/05/23,FIL,Rubin Kazan,3-2,Akron
+20/05/23,FIL,Baltika,0-1,Rubin Kazan
+27/05/23,FIL,Rubin Kazan,2-0,Dynamo Makhachkala
+03/06/23,FIL,Rodina Moskva,0-0,Rubin Kazan
+04/07/23,CLF,Rubin Kazan,5-1,KAMAZ
+08/07/23,CLF,Torpedo Moskva,1-1,Rubin Kazan
+22/07/23,PRL,Lokomotiv Moscow,2-2,Rubin Kazan
+26/07/23,CUP,Rostov,1-0,Rubin Kazan
+30/07/23,PRL,Rubin Kazan,1-1,Orenburg
+05/08/23,PRL,Rubin Kazan,1-4,Spartak Moscow
+08/08/23,CUP,Rubin Kazan,0-1,Lokomotiv Moscow
+12/08/23,PRL,Rostov,3-0,Rubin Kazan
+18/08/23,PRL,Rubin Kazan,2-1,Krylya Sovetov
+26/08/23,PRL,Rubin Kazan,2-2,Dinamo Moscow
+29/08/23,CUP,Rubin Kazan,2-1,Ural
+02/09/23,PRL,Nizhny Novgorod,2-1,Rubin Kazan
+17/09/23,PRL,Rubin Kazan,0-3,Zenit
+20/09/23,CUP,Rubin Kazan,P1-1P,Rostov
+25/09/23,PRL,Fakel,0-1,Rubin Kazan
+30/09/23,PRL,Rubin Kazan,0-2,Krasnodar
+03/10/23,CUP,Ural,2-0,Rubin Kazan
+08/10/23,PRL,Akhmat Grozny,0-1,Rubin Kazan
+21/10/23,PRL,Rubin Kazan,0-0,CSKA Moscow
+27/10/23,PRL,Rubin Kazan,1-0,Baltika
+01/11/23,CUP,Lokomotiv Moscow,3-0,Rubin Kazan
+06/11/23,PRL,Ural,0-1,Rubin Kazan
+12/11/23,PRL,Sochi,0-2,Rubin Kazan
+26/11/23,PRL,Rubin Kazan,1-0,Fakel
+04/12/23,PRL,Dinamo Moscow,1-0,Rubin Kazan
+10/12/23,PRL,Baltika,0-1,Rubin Kazan
+22/01/24,CLF,Rubin Kazan,5-2,Napredak
+26/01/24,CLF,Rubin Kazan,3-1,Slavia Sofia
+01/02/24,CLF,Botev Plovdiv,1-0,Rubin Kazan
+03/02/24,CLF,Rubin Kazan,0-2,Volgar Astrakhan
+06/02/24,CLF,Arda,2-1,Rubin Kazan
+09/02/24,CLF,Rubin Kazan,1-2,St. Pölten
+15/02/24,CLF,Rubin Kazan,2-0,Gangwon
+22/02/24,CLF,Rubin Kazan,1-4,Rodina Moskva
+02/03/24,PRL,Krasnodar,1-1,Rubin Kazan
+09/03/24,PRL,Rubin Kazan,0-1,Nizhny Novgorod
+31/03/24,PRL,Rubin Kazan,2-1,Akhmat Grozny
+08/04/24,PRL,Orenburg,3-0,Rubin Kazan
+14/04/24,PRL,Krylya Sovetov,2-0,Rubin Kazan
+20/04/24,PRL,Rubin Kazan,1-1,Lokomotiv Moscow
+24/04/24,PRL,Zenit,0-2,Rubin Kazan
+29/04/24,PRL,Rubin Kazan,1-1,Ural
+06/05/24,PRL,CSKA Moscow,19:30,Rubin Kazan
+11/05/24,PRL,Rubin Kazan,13:00,Rostov
+19/05/24,PRL,Spartak Moscow,13:15,Rubin Kazan
+25/05/24,PRL,Rubin Kazan,15:30,Sochi
+30/04/22,PRL,Rubin Kazan,0-6,Sochi
+08/05/22,PRL,Lokomotiv Moscow,1-0,Rubin Kazan
+15/05/22,PRL,Ural,3-0,Rubin Kazan
+21/05/22,PRL,Rubin Kazan,1-2,Ufa
+20/06/22,CLF,Rubin Kazan,1-0,Akron
+24/06/22,CLF,Rubin Kazan,5-0,KAMAZ
+28/06/22,CLF,Rubin Kazan,CANC,Krylya Sovetov
+05/07/22,CLF,Dinamo Moscow,2-0,Rubin Kazan
+10/07/22,CLF,Rubin Kazan,1-4,Ufa
+17/07/22,FIL,Rubin Kazan,2-0,Rodina Moskva
+24/07/22,FIL,Yenisey,3-2,Rubin Kazan
+01/08/22,FIL,Rubin Kazan,0-0,Ufa
+08/08/22,FIL,Neftekhimik,2-2,Rubin Kazan
+15/08/22,FIL,Rubin Kazan,3-0,Kuban Krasnodar
+21/08/22,FIL,Volga Ulyanovsk,1-2,Rubin Kazan
+28/08/22,FIL,Rubin Kazan,1-1,KAMAZ
+04/09/22,FIL,Rubin Kazan,2-2,Alaniya Vladikavkaz
+11/09/22,FIL,Veles,1-2,Rubin Kazan
+18/09/22,FIL,Rubin Kazan,3-2,Volgar Astrakhan
+25/09/22,FIL,Shinnik,1-0,Rubin Kazan
+01/10/22,FIL,Rubin Kazan,1-2,Arsenal Tula
+05/10/22,CUP,Volga Ulyanovsk,2-1,Rubin Kazan
+09/10/22,FIL,SKA Khabarovsk,1-2,Rubin Kazan
+16/10/22,FIL,Rubin Kazan,5-2,Krasnodar II
+23/10/22,FIL,Akron,0-0,Rubin Kazan
+30/10/22,FIL,Rubin Kazan,3-3,Baltika
+06/11/22,FIL,Dynamo Makhachkala,0-1,Rubin Kazan
+13/11/22,FIL,Rubin Kazan,0-0,Yenisey
+20/11/22,FIL,Ufa,1-2,Rubin Kazan
+27/11/22,FIL,Rubin Kazan,2-0,Neftekhimik
+18/01/23,CLF,Akron,2-4,Rubin Kazan
+21/01/23,CLF,Beroe,0-2,Rubin Kazan
+28/01/23,CLF,Rubin Kazan,2-1,Krylya Sovetov
+01/02/23,CLF,Rubin Kazan,6-0,Navbahor
+05/02/23,CLF,Ufa,0-2,Rubin Kazan
+13/02/23,CLF,Krasnodar II,CANC,Rubin Kazan
+16/02/23,CLF,Akhmat Grozny,1-1,Rubin Kazan
+19/02/23,CLF,CSKA Moscow,0-2,Rubin Kazan
+20/02/23,CLF,Rubin Kazan,CANC,Neftekhimik
+27/02/23,CLF,Rubin Kazan,2-1,Shinnik
+06/03/23,FIL,Kuban Krasnodar,1-2,Rubin Kazan
+12/03/23,FIL,Rubin Kazan,1-0,Volga Ulyanovsk
+18/03/23,FIL,KAMAZ,0-0,Rubin Kazan
+25/03/23,FIL,Alaniya Vladikavkaz,0-0,Rubin Kazan
+02/04/23,FIL,Rubin Kazan,1-1,Veles
+07/04/23,FIL,Volgar Astrakhan,0-0,Rubin Kazan
+15/04/23,FIL,Rubin Kazan,3-0,Shinnik
+21/04/23,FIL,Arsenal Tula,0-1,Rubin Kazan
+29/04/23,FIL,Rubin Kazan,3-1,SKA Khabarovsk
+06/05/23,FIL,Krasnodar II,0-1,Rubin Kazan
+16/05/21,PRL,Rubin Kazan,1-1,Rotor Volgograd
+24/06/21,CLF,Rubin Kazan,2-1,Nizhny Novgorod
+27/06/21,CLF,Ural,CANC,Rubin Kazan
+02/07/21,CLF,Nizhny Novgorod,0-3,Rubin Kazan
+05/07/21,CLF,Rubin Kazan,CANC,Ural
+10/07/21,CLF,Rubin Kazan,1-0,Khimki
+14/07/21,CLF,Rubin Kazan,0-4,Spartak Moscow
+17/07/21,CLF,Rubin Kazan,1-3,Sochi
+24/07/21,PRL,Rubin Kazan,1-0,Spartak Moscow
+30/07/21,PRL,Arsenal Tula,0-3,Rubin Kazan
+05/08/21,UEC,Rakow Czestochowa,0-0,Rubin Kazan
+08/08/21,PRL,Rubin Kazan,2-1,Akhmat Grozny
+12/08/21,UEC,Rubin Kazan,E0-1E,Rakow Czestochowa
+15/08/21,PRL,Rubin Kazan,1-1,Krylya Sovetov
+22/08/21,PRL,Khimki,1-1,Rubin Kazan
+27/08/21,PRL,Krasnodar,2-0,Rubin Kazan
+06/09/21,CLF,Rubin Kazan,1-3,Krasnodar
+13/09/21,PRL,Rubin Kazan,4-0,Ural
+20/09/21,PRL,Rubin Kazan,1-3,Zenit
+26/09/21,PRL,Dinamo Moscow,2-0,Rubin Kazan
+02/10/21,PRL,Rubin Kazan,0-1,Nizhny Novgorod
+09/10/21,CLF,Krasnodar,2-1,Rubin Kazan
+16/10/21,PRL,Rubin Kazan,2-2,Lokomotiv Moscow
+24/10/21,PRL,Ufa,1-1,Rubin Kazan
+30/10/21,PRL,Rubin Kazan,1-0,CSKA Moscow
+07/11/21,PRL,Rostov,5-1,Rubin Kazan
+21/11/21,PRL,Sochi,1-2,Rubin Kazan
+28/11/21,PRL,Rubin Kazan,2-3,Dinamo Moscow
+05/12/21,PRL,Nizhny Novgorod,2-1,Rubin Kazan
+11/12/21,PRL,Krylya Sovetov,2-0,Rubin Kazan
+20/01/22,CLF,Rubin Kazan,4-4,Fakel
+23/01/22,CLF,Rubin Kazan,0-0,Wisła Płock
+02/02/22,CLF,Rubin Kazan,CANC,Sochi
+05/02/22,CLF,Khimki,0-0,Rubin Kazan
+08/02/22,CLF,Rubin Kazan,2-2,Dinamo Batumi
+14/02/22,CLF,Rubin Kazan,5-0,Krylya Sovetov
+17/02/22,CLF,Rubin Kazan,2-2,Dinamo Moscow
+20/02/22,CLF,Rubin Kazan,CANC,Astana
+20/02/22,CLF,CSKA Moscow,1-1,Rubin Kazan
+28/02/22,PRL,Zenit,3-2,Rubin Kazan
+03/03/22,CUP,Rubin Kazan,2-1,Rotor Volgograd
+07/03/22,PRL,Akhmat Grozny,1-2,Rubin Kazan
+14/03/22,PRL,Rubin Kazan,1-2,Rostov
+20/03/22,PRL,CSKA Moscow,6-1,Rubin Kazan
+26/03/22,CLF,Rubin Kazan,0-5,Krylya Sovetov
+01/04/22,PRL,Rubin Kazan,2-3,Khimki
+09/04/22,PRL,Rubin Kazan,0-1,Krasnodar
+16/04/22,PRL,Spartak Moscow,1-1,Rubin Kazan
+20/04/22,CUP,Yenisey,3-1,Rubin Kazan
+24/04/22,PRL,Rubin Kazan,1-0,Arsenal Tula
+20/06/20,PRL,Ural,1-2,Rubin Kazan
+27/06/20,PRL,Rubin Kazan,0-2,Lokomotiv Moscow
+01/07/20,PRL,Ufa,0-0,Rubin Kazan
+05/07/20,PRL,Rubin Kazan,1-0,Orenburg
+09/07/20,PRL,Rubin Kazan,1-0,Krasnodar
+12/07/20,PRL,CSKA Moscow,1-1,Rubin Kazan
+16/07/20,PRL,Rubin Kazan,0-0,Rostov
+22/07/20,PRL,Rubin Kazan,1-2,Spartak Moscow
+03/08/20,CLF,Rubin Kazan,1-1,KAMAZ
+11/08/20,PRL,Rubin Kazan,0-2,Lokomotiv Moscow
+15/08/20,PRL,Rubin Kazan,1-1,Ural
+18/08/20,PRL,Sochi,3-2,Rubin Kazan
+22/08/20,PRL,CSKA Moscow,1-2,Rubin Kazan
+26/08/20,PRL,Rubin Kazan,3-0,Ufa
+30/08/20,PRL,Rubin Kazan,2-2,Tambov
+13/09/20,PRL,Dinamo Moscow,0-1,Rubin Kazan
+16/09/20,CUP,Chernomorets,2-4,Rubin Kazan
+20/09/20,PRL,Rubin Kazan,0-2,Spartak Moscow
+27/09/20,PRL,Rotor Volgograd,1-3,Rubin Kazan
+04/10/20,PRL,Rubin Kazan,1-1,Akhmat Grozny
+11/10/20,CLF,Ural,1-1,Rubin Kazan
+17/10/20,PRL,Krasnodar,3-1,Rubin Kazan
+24/10/20,PRL,Zenit,1-2,Rubin Kazan
+31/10/20,PRL,Rubin Kazan,3-1,Arsenal Tula
+04/11/20,CUP,SKA Khabarovsk,1-0,Rubin Kazan
+08/11/20,PRL,Khimki,2-0,Rubin Kazan
+22/11/20,PRL,Rubin Kazan,0-2,Rostov
+29/11/20,PRL,Rubin Kazan,1-0,CSKA Moscow
+05/12/20,PRL,Lokomotiv Moscow,3-1,Rubin Kazan
+13/12/20,PRL,Tambov,0-1,Rubin Kazan
+17/12/20,PRL,Akhmat Grozny,0-0,Rubin Kazan
+21/01/21,CLF,Rubin Kazan,5-2,Partizan
+24/01/21,CLF,Rubin Kazan,3-2,Sochi
+02/02/21,CLF,Rubin Kazan,2-2,Khimki
+05/02/21,CLF,Rubin Kazan,2-3,Dinamo Moscow
+08/02/21,CLF,Tom Tomsk,3-2,Rubin Kazan
+09/02/21,CLF,Rubin Kazan,3-1,Nizhny Novgorod
+15/02/21,CLF,Rubin Kazan,0-0,Ural
+18/02/21,CLF,Rubin Kazan,3-0,Rotor Volgograd
+21/02/21,CLF,Rubin Kazan,1-0,Kairat
+28/02/21,PRL,Spartak Moscow,0-2,Rubin Kazan
+08/03/21,PRL,Rubin Kazan,2-1,Zenit
+14/03/21,PRL,Ufa,0-3,Rubin Kazan
+19/03/21,PRL,Rubin Kazan,1-3,Khimki
+03/04/21,PRL,Rubin Kazan,1-0,Sochi
+10/04/21,PRL,Rostov,0-1,Rubin Kazan
+18/04/21,PRL,Ural,0-1,Rubin Kazan
+25/04/21,PRL,Rubin Kazan,0-1,Krasnodar
+01/05/21,PRL,Rubin Kazan,2-0,Dinamo Moscow
+08/05/21,PRL,Arsenal Tula,2-4,Rubin Kazan
+09/03/19,PRL,CSKA Moscow,3-0,Rubin Kazan
+16/03/19,PRL,Rubin Kazan,0-2,Rostov
+30/03/19,PRL,Yenisey,1-1,Rubin Kazan
+07/04/19,PRL,Rubin Kazan,0-0,Arsenal Tula
+12/04/19,PRL,Krylya Sovetov,1-0,Rubin Kazan
+21/04/19,PRL,Ural,2-1,Rubin Kazan
+24/04/19,PRL,Rubin Kazan,1-1,Ufa
+29/04/19,PRL,Spartak Moscow,1-1,Rubin Kazan
+03/05/19,PRL,Rubin Kazan,2-0,Orenburg
+10/05/19,PRL,Lokomotiv Moscow,4-0,Rubin Kazan
+20/05/19,PRL,Rubin Kazan,0-0,Anzhi
+26/05/19,PRL,Krasnodar,1-0,Rubin Kazan
+20/06/19,CLF,Rubin Kazan,1-2,Neftekhimik
+27/06/19,CLF,Rubin Kazan,4-1,Mordovia Saransk
+30/06/19,CLF,Rubin Kazan,0-1,Nizhny Novgorod
+03/07/19,CLF,Basel,CANC,Rubin Kazan
+05/07/19,CLF,Rubin Kazan,0-0,Tambov
+09/07/19,CLF,CSKA Moscow,4-0,Rubin Kazan
+15/07/19,PRL,Lokomotiv Moscow,1-1,Rubin Kazan
+21/07/19,PRL,Dinamo Moscow,0-1,Rubin Kazan
+29/07/19,PRL,Rubin Kazan,1-0,Akhmat Grozny
+04/08/19,PRL,Rubin Kazan,0-1,CSKA Moscow
+10/08/19,PRL,Krasnodar,1-0,Rubin Kazan
+18/08/19,PRL,Rubin Kazan,1-0,Arsenal Tula
+25/08/19,PRL,Rostov,2-1,Rubin Kazan
+31/08/19,PRL,Rubin Kazan,0-3,Sochi
+15/09/19,PRL,Orenburg,2-1,Rubin Kazan
+21/09/19,PRL,Zenit,5-0,Rubin Kazan
+25/09/19,CUP,Khimki,3-0,Rubin Kazan
+29/09/19,PRL,Rubin Kazan,0-0,Ufa
+05/10/19,PRL,Rubin Kazan,2-1,Tambov
+19/10/19,PRL,Spartak Moscow,0-0,Rubin Kazan
+25/10/19,PRL,Rubin Kazan,0-0,Ural
+04/11/19,PRL,Krylya Sovetov,0-0,Rubin Kazan
+09/11/19,PRL,Rubin Kazan,0-1,Dinamo Moscow
+23/11/19,PRL,Rubin Kazan,1-2,Zenit
+30/11/19,PRL,Akhmat Grozny,1-1,Rubin Kazan
+08/12/19,PRL,Sochi,1-1,Rubin Kazan
+21/01/20,CLF,Lechia Gdańsk,0-1,Rubin Kazan
+25/01/20,CLF,Rubin Kazan,2-1,Slovan Bratislava
+03/02/20,CLF,OB,1-0,Rubin Kazan
+06/02/20,CLF,Rubin Kazan,3-0,Vojvodina
+09/02/20,CLF,Rubin Kazan,4-1,Spartaks Jūrmala
+16/02/20,CLF,Slavia,0-5,Rubin Kazan
+19/02/20,CLF,Rubin Kazan,2-3,Kairat
+22/02/20,CLF,Rubin Kazan,2-0,Sheriff
+01/03/20,PRL,Tambov,0-0,Rubin Kazan
+08/03/20,PRL,Rubin Kazan,0-1,Krylya Sovetov
+14/03/20,PRL,Arsenal Tula,0-1,Rubin Kazan
+08/06/20,CLF,Rubin Kazan,3-1,Krylya Sovetov
+25/02/18,CLF,Rubin Kazan,4-1,Rosenborg
+02/03/18,PRL,Anzhi,1-1,Rubin Kazan
+10/03/18,PRL,Tosno,0-1,Rubin Kazan
+17/03/18,PRL,Rubin Kazan,1-2,Spartak Moscow
+01/04/18,PRL,Ural,1-1,Rubin Kazan
+07/04/18,PRL,Rubin Kazan,3-2,Akhmat Grozny
+14/04/18,PRL,Amkar Perm,0-3,Rubin Kazan
+21/04/18,PRL,Rubin Kazan,1-1,Rostov
+30/04/18,PRL,Dinamo Moscow,0-0,Rubin Kazan
+07/05/18,PRL,Rubin Kazan,0-0,Ufa
+13/05/18,PRL,Krasnodar,1-1,Rubin Kazan
+26/06/18,CLF,Proleter Novi Sad,0-2,Rubin Kazan
+30/06/18,CLF,Radnik Surdulica,1-0,Rubin Kazan
+10/07/18,CLF,Admira,0-1,Rubin Kazan
+14/07/18,CLF,Rubin Kazan,0-1,Hajduk Split
+17/07/18,CLF,Rubin Kazan,1-0,Maccabi Petah Tikva
+20/07/18,CLF,Rubin Kazan,0-0,Reading
+29/07/18,PRL,Rubin Kazan,2-1,Krasnodar
+03/08/18,PRL,Dinamo Moscow,1-1,Rubin Kazan
+13/08/18,PRL,Rubin Kazan,0-1,Zenit
+18/08/18,PRL,Akhmat Grozny,1-1,Rubin Kazan
+25/08/18,PRL,Rubin Kazan,1-1,CSKA Moscow
+31/08/18,PRL,Rostov,1-1,Rubin Kazan
+15/09/18,PRL,Rubin Kazan,1-0,Yenisey
+22/09/18,PRL,Arsenal Tula,2-2,Rubin Kazan
+26/09/18,CUP,Khimki,E0-1E,Rubin Kazan
+01/10/18,PRL,Rubin Kazan,2-1,Krylya Sovetov
+06/10/18,PRL,Rubin Kazan,1-0,Ural
+20/10/18,PRL,Ufa,0-0,Rubin Kazan
+25/10/18,CUP,Rubin Kazan,1-0,Dinamo Moscow
+29/10/18,PRL,Rubin Kazan,1-1,Spartak Moscow
+05/11/18,PRL,Orenburg,1-0,Rubin Kazan
+11/11/18,PRL,Rubin Kazan,0-0,Lokomotiv Moscow
+24/11/18,PRL,Anzhi,1-1,Rubin Kazan
+30/11/18,PRL,Rubin Kazan,1-1,Dinamo Moscow
+05/12/18,CUP,Lokomotiv Moscow,1-0,Rubin Kazan
+09/12/18,PRL,Zenit,1-2,Rubin Kazan
+13/01/19,CLF,Rubin Kazan,2-0,Diósgyőr
+17/01/19,CLF,Rubin Kazan,2-2,Viitorul
+27/01/19,CLF,Tromsø,1-0,Rubin Kazan
+30/01/19,CLF,Rubin Kazan,2-2,Slovan Bratislava
+02/02/19,CLF,Zlín,0-0,Rubin Kazan
+05/02/19,CLF,Radnički Niš,0-0,Rubin Kazan
+10/02/19,CLF,Olimpija,CANC,Rubin Kazan
+13/02/19,CLF,Rubin Kazan,2-1,Shakhtyor Soligorsk
+16/02/19,CLF,Rubin Kazan,0-1,Orenburg
+19/02/19,CLF,Rubin Kazan,0-1,Tobol
+23/02/19,CLF,Rubin Kazan,2-2,Dinamo Moscow
+02/03/19,PRL,Rubin Kazan,1-0,Akhmat Grozny
+06/03/19,CUP,Rubin Kazan,0-1,Lokomotiv Moscow
+13/02/17,CLF,Rubin Kazan,4-2,Spartak Moscow
+21/02/17,CLF,Sarpsborg 08,0-0,Rubin Kazan
+23/02/17,CLF,Mjøndalen,0-1,Rubin Kazan
+24/02/17,CLF,Rubin Kazan,CANC,Start
+01/03/17,CUP,Rubin Kazan,1-0,Sibir
+06/03/17,PRL,Anzhi,0-1,Rubin Kazan
+11/03/17,PRL,Rubin Kazan,0-0,Orenburg
+18/03/17,PRL,Ural,1-0,Rubin Kazan
+02/04/17,PRL,Rubin Kazan,0-2,Zenit
+06/04/17,CUP,Ural,2-1,Rubin Kazan
+10/04/17,PRL,Tom Tomsk,2-2,Rubin Kazan
+15/04/17,PRL,Rubin Kazan,0-1,Krasnodar
+23/04/17,PRL,Krylya Sovetov,0-0,Rubin Kazan
+26/04/17,PRL,Rubin Kazan,0-1,Akhmat Grozny
+29/04/17,PRL,Lokomotiv Moscow,0-1,Rubin Kazan
+07/05/17,PRL,Rubin Kazan,2-1,Ufa
+14/05/17,PRL,Rostov,4-2,Rubin Kazan
+17/05/17,PRL,Rubin Kazan,0-2,CSKA Moscow
+21/05/17,PRL,Amkar Perm,1-2,Rubin Kazan
+16/06/17,CLF,Rubin Kazan,CANC,Maribor
+20/06/17,CLF,Rubin Kazan,2-0,Celje
+28/06/17,CLF,Austria Vienna,1-1,Rubin Kazan
+02/07/17,CLF,Rubin Kazan,CANC,Brøndby
+02/07/17,CLF,Rubin Kazan,1-1,Utrecht
+08/07/17,CLF,Rubin Kazan,0-4,Arminia Bielefeld
+16/07/17,PRL,Rubin Kazan,1-2,Krasnodar
+22/07/17,PRL,Zenit,2-1,Rubin Kazan
+29/07/17,PRL,Rubin Kazan,2-1,Arsenal Tula
+06/08/17,PRL,CSKA Moscow,1-2,Rubin Kazan
+09/08/17,PRL,Rubin Kazan,1-1,Lokomotiv Moscow
+13/08/17,PRL,SKA Khabarovsk,1-1,Rubin Kazan
+19/08/17,PRL,Rubin Kazan,6-0,Anzhi
+26/08/17,PRL,Rubin Kazan,1-0,Tosno
+09/09/17,PRL,Spartak Moscow,1-0,Rubin Kazan
+17/09/17,PRL,Rubin Kazan,0-1,Ural
+20/09/17,CUP,Orenburg,0-2,Rubin Kazan
+25/09/17,PRL,Akhmat Grozny,1-0,Rubin Kazan
+30/09/17,PRL,Rubin Kazan,0-1,Amkar Perm
+15/10/17,PRL,Rostov,0-1,Rubin Kazan
+21/10/17,PRL,Rubin Kazan,0-0,Dinamo Moscow
+25/10/17,CUP,Rubin Kazan,1-2,Krylya Sovetov
+30/10/17,PRL,Ufa,2-1,Rubin Kazan
+05/11/17,PRL,Rubin Kazan,0-0,Zenit
+18/11/17,PRL,Arsenal Tula,0-0,Rubin Kazan
+26/11/17,PRL,Rubin Kazan,0-1,CSKA Moscow
+02/12/17,PRL,Lokomotiv Moscow,1-0,Rubin Kazan
+09/12/17,PRL,Rubin Kazan,3-1,SKA Khabarovsk
+15/02/18,CLF,Rubin Kazan,0-1,Sarpsborg 08
+18/02/18,CLF,Valerenga,0-3,Rubin Kazan
+21/02/18,CLF,Rubin Kazan,1-1,Lillestrøm
+26/11/15,UEL,Rubin Kazan,2-0,Sion
+30/11/15,PRL,Rubin Kazan,2-2,Spartak Moscow
+04/12/15,PRL,Rostov,1-0,Rubin Kazan
+10/12/15,UEL,Bordeaux,2-2,Rubin Kazan
+28/01/16,CLF,Rubin Kazan,0-1,Górnik Łęczna
+08/02/16,CLF,Rubin Kazan,2-1,Lovech
+11/02/16,CLF,Linense,1-3,Rubin Kazan
+14/02/16,CLF,Rubin Kazan,1-1,Amkar Perm
+21/02/16,CLF,Sarpsborg 08,0-1,Rubin Kazan
+24/02/16,CLF,Brann,0-0,Rubin Kazan
+27/02/16,CLF,Rubin Kazan,0-0,Krylya Sovetov
+05/03/16,PRL,Rubin Kazan,1-0,Kuban Krasnodar
+13/03/16,PRL,Zenit,4-2,Rubin Kazan
+20/03/16,PRL,Rubin Kazan,1-1,Mordovia Saransk
+03/04/16,PRL,Lokomotiv Moscow,1-0,Rubin Kazan
+09/04/16,PRL,Rubin Kazan,4-1,Dinamo Moscow
+18/04/16,PRL,Ural,0-1,Rubin Kazan
+23/04/16,PRL,Rubin Kazan,0-1,Akhmat Grozny
+01/05/16,PRL,Ufa,1-1,Rubin Kazan
+07/05/16,PRL,Rubin Kazan,1-1,Krasnodar
+11/05/16,PRL,Rubin Kazan,1-2,Anzhi
+15/05/16,PRL,Krylya Sovetov,1-1,Rubin Kazan
+21/05/16,PRL,Rubin Kazan,0-1,CSKA Moscow
+01/07/16,CLF,Rapid Vienna,1-0,Rubin Kazan
+10/07/16,CLF,Sparta Prague,0-2,Rubin Kazan
+16/07/16,CLF,Vitesse,2-1,Rubin Kazan
+20/07/16,CLF,West Ham United,0-3,Rubin Kazan
+23/07/16,CLF,Norwich City,2-1,Rubin Kazan
+01/08/16,PRL,Rubin Kazan,0-0,Amkar Perm
+06/08/16,PRL,Arsenal Tula,1-0,Rubin Kazan
+13/08/16,PRL,Rubin Kazan,1-1,Spartak Moscow
+19/08/16,PRL,Rubin Kazan,1-2,Anzhi
+27/08/16,PRL,Orenburg,1-1,Rubin Kazan
+12/09/16,PRL,Rubin Kazan,3-1,Ural
+19/09/16,PRL,Zenit,4-1,Rubin Kazan
+22/09/16,CUP,Chita,0-1,Rubin Kazan
+26/09/16,PRL,Rubin Kazan,2-1,Tom Tomsk
+02/10/16,PRL,Krasnodar,1-0,Rubin Kazan
+15/10/16,PRL,Rubin Kazan,3-0,Krylya Sovetov
+22/10/16,PRL,Akhmat Grozny,3-1,Rubin Kazan
+26/10/16,CUP,Rubin Kazan,E1-0E,SKA Khabarovsk
+31/10/16,PRL,Rubin Kazan,2-0,Lokomotiv Moscow
+05/11/16,PRL,Ufa,2-3,Rubin Kazan
+18/11/16,PRL,Rubin Kazan,0-0,Rostov
+26/11/16,PRL,CSKA Moscow,0-0,Rubin Kazan
+30/11/16,PRL,Rubin Kazan,1-0,Arsenal Tula
+05/12/16,PRL,Spartak Moscow,2-1,Rubin Kazan
+26/01/17,CLF,CSKA Sofia,2-4,Rubin Kazan
+04/02/17,CLF,Rubin Kazan,1-2,Osijek
+05/02/17,CLF,Shonan Bellmare,1-2,Rubin Kazan
+09/11/14,PRL,Krasnodar,2-0,Rubin Kazan
+22/11/14,PRL,Ural,1-3,Rubin Kazan
+30/11/14,PRL,Rubin Kazan,1-1,Dinamo Moscow
+03/12/14,PRL,Rubin Kazan,0-1,Zenit
+08/12/14,PRL,Mordovia Saransk,0-1,Rubin Kazan
+09/02/15,CLF,Rubin Kazan,4-2,Sparta Prague
+03/03/15,CUP,Lokomotiv Moscow,P0-0P,Rubin Kazan
+09/03/15,PRL,Rubin Kazan,1-0,Arsenal Tula
+15/03/15,PRL,Rubin Kazan,2-1,Akhmat Grozny
+21/03/15,PRL,Rubin Kazan,2-0,Rostov
+28/03/15,CLF,1860 München,1-1,Rubin Kazan
+04/04/15,PRL,Amkar Perm,0-3,Rubin Kazan
+07/04/15,PRL,Rubin Kazan,1-2,Krasnodar
+12/04/15,PRL,Zenit,1-1,Rubin Kazan
+18/04/15,PRL,Rubin Kazan,2-1,Ural
+26/04/15,PRL,Spartak Moscow,1-0,Rubin Kazan
+03/05/15,PRL,Torpedo Moskva,2-2,Rubin Kazan
+08/05/15,PRL,Rubin Kazan,1-0,Kuban Krasnodar
+16/05/15,PRL,Lokomotiv Moscow,3-0,Rubin Kazan
+25/05/15,PRL,CSKA Moscow,3-0,Rubin Kazan
+30/05/15,PRL,Ufa,1-1,Rubin Kazan
+30/06/15,CLF,FCSB,2-1,Rubin Kazan
+04/07/15,CLF,Eintracht Braunschweig,3-1,Rubin Kazan
+08/07/15,CLF,Rubin Kazan,2-2,Karlsruhe
+12/07/15,CLF,RB Leipzig,1-0,Rubin Kazan
+18/07/15,PRL,CSKA Moscow,1-0,Rubin Kazan
+26/07/15,PRL,Rubin Kazan,0-2,Amkar Perm
+30/07/15,UEL,Sturm Graz,2-3,Rubin Kazan
+03/08/15,PRL,Spartak Moscow,1-0,Rubin Kazan
+06/08/15,UEL,Rubin Kazan,1-1,Sturm Graz
+10/08/15,PRL,Rubin Kazan,0-3,Rostov
+15/08/15,PRL,Kuban Krasnodar,0-1,Rubin Kazan
+20/08/15,UEL,Rabotnički,1-1,Rubin Kazan
+24/08/15,PRL,Rubin Kazan,1-3,Zenit
+27/08/15,UEL,Rubin Kazan,1-0,Rabotnički
+30/08/15,PRL,Mordovia Saransk,2-1,Rubin Kazan
+12/09/15,PRL,Rubin Kazan,3-1,Lokomotiv Moscow
+17/09/15,UEL,Sion,2-1,Rubin Kazan
+21/09/15,PRL,Dinamo Moscow,0-0,Rubin Kazan
+24/09/15,CUP,SKA Khabarovsk,2-0,Rubin Kazan
+27/09/15,PRL,Rubin Kazan,1-2,Ural
+01/10/15,UEL,Rubin Kazan,0-0,Bordeaux
+04/10/15,PRL,Akhmat Grozny,2-1,Rubin Kazan
+17/10/15,PRL,Rubin Kazan,3-1,Ufa
+22/10/15,UEL,Liverpool,1-1,Rubin Kazan
+25/10/15,PRL,Krasnodar,2-1,Rubin Kazan
+01/11/15,PRL,Anzhi,1-2,Rubin Kazan
+05/11/15,UEL,Rubin Kazan,0-1,Liverpool
+08/11/15,PRL,Rubin Kazan,2-0,Krylya Sovetov
+21/11/15,PRL,Amkar Perm,1-2,Rubin Kazan
+26/09/13,PRL,Rubin Kazan,2-2,Dinamo Moscow
+29/09/13,PRL,Krasnodar,1-0,Rubin Kazan
+03/10/13,UEL,Rubin Kazan,4-0,Zulte Waregem
+06/10/13,PRL,Rubin Kazan,5-1,Anzhi
+20/10/13,PRL,Volga,2-1,Rubin Kazan
+24/10/13,UEL,Wigan Athletic,1-1,Rubin Kazan
+27/10/13,PRL,Rubin Kazan,1-2,Lokomotiv Moscow
+30/10/13,CUP,Luch Vladivostok,4-2,Rubin Kazan
+03/11/13,PRL,Rostov,0-0,Rubin Kazan
+07/11/13,UEL,Rubin Kazan,1-0,Wigan Athletic
+10/11/13,PRL,Rubin Kazan,0-1,Krasnodar
+23/11/13,PRL,Tom Tomsk,0-1,Rubin Kazan
+28/11/13,UEL,Rubin Kazan,1-1,Maribor
+02/12/13,PRL,Rubin Kazan,3-0,Amkar Perm
+07/12/13,PRL,Lokomotiv Moscow,0-0,Rubin Kazan
+12/12/13,UEL,Zulte Waregem,0-2,Rubin Kazan
+19/01/14,CLF,Dynamo Dresden,3-0,Rubin Kazan
+05/02/14,CLF,Lyubimets 2000,0-3,Rubin Kazan
+08/02/14,CLF,CFR Cluj,1-2,Rubin Kazan
+11/02/14,CLF,Rubin Kazan,1-1,Dnipro
+20/02/14,UEL,Real Betis,1-1,Rubin Kazan
+27/02/14,UEL,Rubin Kazan,0-2,Real Betis
+09/03/14,PRL,Anzhi,1-0,Rubin Kazan
+16/03/14,PRL,Rubin Kazan,3-1,Volga
+23/03/14,PRL,Dinamo Moscow,0-0,Rubin Kazan
+30/03/14,PRL,Rubin Kazan,1-2,Rostov
+06/04/14,PRL,Zenit,6-2,Rubin Kazan
+13/04/14,PRL,Rubin Kazan,0-2,Kuban Krasnodar
+20/04/14,PRL,Rubin Kazan,2-1,Spartak Moscow
+27/04/14,PRL,CSKA Moscow,2-1,Rubin Kazan
+04/05/14,PRL,Rubin Kazan,1-0,Ural
+10/05/14,PRL,Krylya Sovetov,0-4,Rubin Kazan
+15/05/14,PRL,Rubin Kazan,1-1,Akhmat Grozny
+07/06/14,CLF,Rubin Kazan,1-0,Neftekhimik
+08/06/14,CLF,Rubin Kazan,1-2,Sevastopol
+12/07/14,CLF,Watford,0-0,Rubin Kazan
+01/08/14,PRL,Rubin Kazan,0-4,Spartak Moscow
+09/08/14,PRL,Akhmat Grozny,1-1,Rubin Kazan
+13/08/14,PRL,Arsenal Tula,0-0,Rubin Kazan
+17/08/14,PRL,Rubin Kazan,1-1,Lokomotiv Moscow
+23/08/14,PRL,Rubin Kazan,2-1,CSKA Moscow
+31/08/14,PRL,Rubin Kazan,1-1,Ufa
+13/09/14,PRL,Rostov,1-2,Rubin Kazan
+20/09/14,PRL,Kuban Krasnodar,2-1,Rubin Kazan
+24/09/14,CUP,Luch Vladivostok,0-2,Rubin Kazan
+29/09/14,PRL,Rubin Kazan,2-1,Torpedo Moskva
+20/10/14,PRL,Rubin Kazan,5-0,Mordovia Saransk
+27/10/14,PRL,Dinamo Moscow,0-2,Rubin Kazan
+30/10/14,CUP,Rubin Kazan,E2-0E,Spartak Moscow
+03/11/14,PRL,Rubin Kazan,1-1,Amkar Perm

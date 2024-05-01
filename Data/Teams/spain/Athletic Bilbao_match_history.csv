@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+29/07/23,CLF,Athletic Bilbao,1-2,Gimnástica Torrelavega
+01/08/23,CLF,Celtic,3-2,Athletic Bilbao
+03/08/23,CLF,Athletic Bilbao,1-1,Eibar
+06/08/23,CLF,Manchester United,1-1,Athletic Bilbao
+12/08/23,LAL,Athletic Bilbao,0-2,Real Madrid
+19/08/23,LAL,Osasuna,0-2,Athletic Bilbao
+27/08/23,LAL,Athletic Bilbao,4-2,Real Betis
+03/09/23,LAL,Mallorca,0-0,Athletic Bilbao
+16/09/23,LAL,Athletic Bilbao,3-0,Cadiz
+22/09/23,LAL,Alaves,0-2,Athletic Bilbao
+27/09/23,LAL,Athletic Bilbao,2-2,Getafe
+30/09/23,LAL,Real Sociedad,3-0,Athletic Bilbao
+06/10/23,LAL,Athletic Bilbao,3-0,Almeria
+22/10/23,LAL,Barcelona,1-0,Athletic Bilbao
+29/10/23,LAL,Athletic Bilbao,2-2,Valencia
+01/11/23,CDR,Rubí,1-2,Athletic Bilbao
+05/11/23,LAL,Villarreal,2-3,Athletic Bilbao
+10/11/23,LAL,Athletic Bilbao,4-3,Celta Vigo
+27/11/23,LAL,Girona,1-1,Athletic Bilbao
+02/12/23,LAL,Athletic Bilbao,4-0,Rayo Vallecano
+07/12/23,CDR,Cayón,0-3,Athletic Bilbao
+11/12/23,LAL,Granada,1-1,Athletic Bilbao
+16/12/23,LAL,Athletic Bilbao,2-0,Atletico Madrid
+20/12/23,LAL,Athletic Bilbao,1-0,Las Palmas
+04/01/24,LAL,Sevilla,0-2,Athletic Bilbao
+07/01/24,CDR,Eibar,0-3,Athletic Bilbao
+13/01/24,LAL,Athletic Bilbao,2-1,Real Sociedad
+16/01/24,CDR,Athletic Bilbao,2-0,Alaves
+20/01/24,LAL,Valencia,1-0,Athletic Bilbao
+24/01/24,CDR,Athletic Bilbao,E4-2E,Barcelona
+28/01/24,LAL,Cadiz,0-0,Athletic Bilbao
+02/02/24,LAL,Athletic Bilbao,4-0,Mallorca
+07/02/24,CDR,Atletico Madrid,0-1,Athletic Bilbao
+12/02/24,LAL,Almeria,0-0,Athletic Bilbao
+19/02/24,LAL,Athletic Bilbao,3-2,Girona
+25/02/24,LAL,Real Betis,3-1,Athletic Bilbao
+29/02/24,CDR,Athletic Bilbao,3-0,Atletico Madrid
+03/03/24,LAL,Athletic Bilbao,0-0,Barcelona
+10/03/24,LAL,Las Palmas,0-2,Athletic Bilbao
+16/03/24,LAL,Athletic Bilbao,2-0,Alaves
+31/03/24,LAL,Real Madrid,2-0,Athletic Bilbao
+06/04/24,CDR,Athletic Bilbao,P1-1P,Mallorca
+14/04/24,LAL,Athletic Bilbao,1-1,Villarreal
+19/04/24,LAL,Athletic Bilbao,1-1,Granada
+27/04/24,LAL,Atletico Madrid,3-1,Athletic Bilbao
+03/05/24,LAL,Getafe,21:00,Athletic Bilbao
+11/05/24,LAL,Athletic Bilbao,21:00,Osasuna
+15/05/24,LAL,Celta Vigo,22:00,Athletic Bilbao
+19/05/24,LAL,Athletic Bilbao,-,Sevilla
+26/05/24,LAL,Rayo Vallecano,-,Athletic Bilbao
+29/08/22,LAL,Cadiz,0-4,Athletic Bilbao
+04/09/22,LAL,Athletic Bilbao,0-1,Espanyol
+11/09/22,LAL,Elche,1-4,Athletic Bilbao
+17/09/22,LAL,Athletic Bilbao,3-2,Rayo Vallecano
+30/09/22,LAL,Athletic Bilbao,4-0,Almeria
+08/10/22,LAL,Sevilla,1-1,Athletic Bilbao
+15/10/22,LAL,Athletic Bilbao,0-1,Atletico Madrid
+18/10/22,LAL,Getafe,2-2,Athletic Bilbao
+23/10/22,LAL,Barcelona,4-0,Athletic Bilbao
+30/10/22,LAL,Athletic Bilbao,1-0,Villarreal
+04/11/22,LAL,Girona,2-1,Athletic Bilbao
+08/11/22,LAL,Athletic Bilbao,3-0,Real Valladolid
+13/11/22,CDR,Alzira,0-2,Athletic Bilbao
+06/12/22,CLF,Athletic Bilbao,2-0,Real Valladolid
+11/12/22,CLF,Athletic Bilbao,2-0,Guadalajara
+15/12/22,CLF,Burgos,0-3,Athletic Bilbao
+17/12/22,CLF,Udinese,0-1,Athletic Bilbao
+20/12/22,CDR,Sestao River,0-1,Athletic Bilbao
+29/12/22,LAL,Real Betis,0-0,Athletic Bilbao
+05/01/23,CDR,Eldense,1-6,Athletic Bilbao
+09/01/23,LAL,Athletic Bilbao,0-0,Osasuna
+14/01/23,LAL,Real Sociedad,3-1,Athletic Bilbao
+18/01/23,CDR,Athletic Bilbao,1-0,Espanyol
+22/01/23,LAL,Athletic Bilbao,0-2,Real Madrid
+26/01/23,CDR,Valencia,1-3,Athletic Bilbao
+29/01/23,LAL,Celta Vigo,1-0,Athletic Bilbao
+03/02/23,LAL,Athletic Bilbao,4-1,Cadiz
+11/02/23,LAL,Valencia,1-2,Athletic Bilbao
+19/02/23,LAL,Atletico Madrid,1-0,Athletic Bilbao
+26/02/23,LAL,Athletic Bilbao,2-3,Girona
+01/03/23,CDR,Osasuna,1-0,Athletic Bilbao
+05/03/23,LAL,Rayo Vallecano,0-0,Athletic Bilbao
+12/03/23,LAL,Athletic Bilbao,0-1,Barcelona
+17/03/23,LAL,Real Valladolid,1-3,Athletic Bilbao
+01/04/23,LAL,Athletic Bilbao,0-0,Getafe
+04/04/23,CDR,Athletic Bilbao,1-1,Osasuna
+08/04/23,LAL,Espanyol,1-2,Athletic Bilbao
+15/04/23,LAL,Athletic Bilbao,2-0,Real Sociedad
+22/04/23,LAL,Almeria,1-2,Athletic Bilbao
+27/04/23,LAL,Athletic Bilbao,0-1,Sevilla
+01/05/23,LAL,Mallorca,1-1,Athletic Bilbao
+04/05/23,LAL,Athletic Bilbao,0-1,Real Betis
+13/05/23,LAL,Villarreal,5-1,Athletic Bilbao
+20/05/23,LAL,Athletic Bilbao,2-1,Celta Vigo
+25/05/23,LAL,Osasuna,2-0,Athletic Bilbao
+28/05/23,LAL,Athletic Bilbao,0-1,Elche
+04/06/23,LAL,Real Madrid,1-1,Athletic Bilbao
+16/07/23,CLF,Guadalajara,2-0,Athletic Bilbao
+20/07/23,CLF,Necaxa,0-2,Athletic Bilbao
+27/07/23,CLF,Racing Santander,0-0,Athletic Bilbao
+11/09/21,LAL,Athletic Bilbao,2-0,Mallorca
+18/09/21,LAL,Atletico Madrid,0-0,Athletic Bilbao
+21/09/21,LAL,Athletic Bilbao,1-2,Rayo Vallecano
+25/09/21,LAL,Valencia,1-1,Athletic Bilbao
+01/10/21,LAL,Athletic Bilbao,1-0,Alaves
+23/10/21,LAL,Athletic Bilbao,2-1,Villarreal
+26/10/21,LAL,Espanyol,1-1,Athletic Bilbao
+31/10/21,LAL,Real Sociedad,1-1,Athletic Bilbao
+05/11/21,LAL,Athletic Bilbao,0-1,Cadiz
+19/11/21,LAL,Levante,0-0,Athletic Bilbao
+26/11/21,LAL,Athletic Bilbao,2-2,Granada
+01/12/21,LAL,Real Madrid,1-0,Athletic Bilbao
+06/12/21,LAL,Getafe,0-0,Athletic Bilbao
+11/12/21,LAL,Athletic Bilbao,0-1,Sevilla
+19/12/21,LAL,Athletic Bilbao,3-2,Real Betis
+22/12/21,LAL,Athletic Bilbao,1-2,Real Madrid
+03/01/22,LAL,Osasuna,1-3,Athletic Bilbao
+06/01/22,CDR,Mancha Real,0-2,Athletic Bilbao
+09/01/22,LAL,Alaves,0-0,Athletic Bilbao
+13/01/22,SUC,Atletico Madrid,1-2,Athletic Bilbao
+16/01/22,SUC,Athletic Bilbao,0-2,Real Madrid
+20/01/22,CDR,Athletic Bilbao,E3-2E,Barcelona
+23/01/22,LAL,Rayo Vallecano,0-1,Athletic Bilbao
+03/02/22,CDR,Athletic Bilbao,1-0,Real Madrid
+07/02/22,LAL,Athletic Bilbao,2-1,Espanyol
+10/02/22,CDR,Athletic Bilbao,1-1,Valencia
+14/02/22,LAL,Mallorca,3-2,Athletic Bilbao
+20/02/22,LAL,Athletic Bilbao,4-0,Real Sociedad
+27/02/22,LAL,Barcelona,4-0,Athletic Bilbao
+02/03/22,CDR,Valencia,1-0,Athletic Bilbao
+07/03/22,LAL,Athletic Bilbao,3-1,Levante
+13/03/22,LAL,Real Betis,1-0,Athletic Bilbao
+18/03/22,LAL,Athletic Bilbao,1-1,Getafe
+03/04/22,LAL,Athletic Bilbao,2-1,Elche
+09/04/22,LAL,Villarreal,1-1,Athletic Bilbao
+17/04/22,LAL,Athletic Bilbao,0-2,Celta Vigo
+21/04/22,LAL,Cadiz,2-3,Athletic Bilbao
+30/04/22,LAL,Athletic Bilbao,2-0,Atletico Madrid
+07/05/22,LAL,Athletic Bilbao,0-0,Valencia
+10/05/22,LAL,Granada,1-0,Athletic Bilbao
+15/05/22,LAL,Athletic Bilbao,2-0,Osasuna
+22/05/22,LAL,Sevilla,1-0,Athletic Bilbao
+21/07/22,CLF,Bochum,1-4,Athletic Bilbao
+23/07/22,CLF,Mainz,1-1,Athletic Bilbao
+30/07/22,CLF,Newcastle United,2-1,Athletic Bilbao
+31/07/22,CLF,Mirandes,0-3,Athletic Bilbao
+05/08/22,CLF,Athletic Bilbao,1-0,Real Sociedad
+06/08/22,CLF,Athletic Bilbao,1-1,Alaves
+15/08/22,LAL,Athletic Bilbao,0-0,Mallorca
+21/08/22,LAL,Athletic Bilbao,1-0,Valencia
+08/11/20,LAL,Real Valladolid,2-1,Athletic Bilbao
+23/11/20,LAL,Athletic Bilbao,4-0,Real Betis
+29/11/20,LAL,Getafe,1-1,Athletic Bilbao
+04/12/20,LAL,Athletic Bilbao,0-2,Celta Vigo
+12/12/20,LAL,Valencia,2-2,Athletic Bilbao
+15/12/20,LAL,Real Madrid,3-1,Athletic Bilbao
+18/12/20,LAL,Athletic Bilbao,2-0,Huesca
+22/12/20,LAL,Villarreal,1-1,Athletic Bilbao
+31/12/20,LAL,Athletic Bilbao,0-1,Real Sociedad
+03/01/21,LAL,Athletic Bilbao,1-0,Elche
+06/01/21,LAL,Athletic Bilbao,2-3,Barcelona
+14/01/21,SUC,Real Madrid,1-2,Athletic Bilbao
+17/01/21,SUC,Barcelona,E2-3E,Athletic Bilbao
+21/01/21,CDR,Ibiza,1-2,Athletic Bilbao
+25/01/21,LAL,Athletic Bilbao,5-1,Getafe
+28/01/21,CDR,Alcoyano,1-2,Athletic Bilbao
+31/01/21,LAL,Barcelona,2-1,Athletic Bilbao
+04/02/21,CDR,Real Betis,P1-1P,Athletic Bilbao
+07/02/21,LAL,Athletic Bilbao,1-1,Valencia
+11/02/21,CDR,Athletic Bilbao,1-1,Levante
+15/02/21,LAL,Cadiz,0-4,Athletic Bilbao
+21/02/21,LAL,Athletic Bilbao,1-1,Villarreal
+26/02/21,LAL,Levante,1-1,Athletic Bilbao
+04/03/21,CDR,Levante,E1-2E,Athletic Bilbao
+07/03/21,LAL,Athletic Bilbao,2-1,Granada
+10/03/21,LAL,Atletico Madrid,2-1,Athletic Bilbao
+14/03/21,LAL,Celta Vigo,0-0,Athletic Bilbao
+20/03/21,LAL,Athletic Bilbao,1-1,Eibar
+03/04/21,CDR,Athletic Bilbao,0-1,Real Sociedad
+07/04/21,LAL,Real Sociedad,1-1,Athletic Bilbao
+10/04/21,LAL,Athletic Bilbao,0-0,Alaves
+17/04/21,CDR,Athletic Bilbao,0-4,Barcelona
+21/04/21,LAL,Real Betis,0-0,Athletic Bilbao
+25/04/21,LAL,Athletic Bilbao,2-1,Atletico Madrid
+28/04/21,LAL,Athletic Bilbao,2-2,Real Valladolid
+03/05/21,LAL,Sevilla,0-1,Athletic Bilbao
+08/05/21,LAL,Athletic Bilbao,2-2,Osasuna
+12/05/21,LAL,Huesca,1-0,Athletic Bilbao
+16/05/21,LAL,Athletic Bilbao,0-1,Real Madrid
+22/05/21,LAL,Elche,2-0,Athletic Bilbao
+17/07/21,CLF,St.Gallen,2-1,Athletic Bilbao
+20/07/21,CLF,Athletic Bilbao,1-0,Dinamo Kiev
+24/07/21,CLF,Athletic Bilbao,0-1,Mirandes
+24/07/21,CLF,Borussia Dortmund,0-2,Athletic Bilbao
+31/07/21,CLF,Union Berlin,2-1,Athletic Bilbao
+07/08/21,CLF,Southampton,1-3,Athletic Bilbao
+08/08/21,CLF,Liverpool,1-1,Athletic Bilbao
+16/08/21,LAL,Elche,0-0,Athletic Bilbao
+21/08/21,LAL,Athletic Bilbao,1-1,Barcelona
+28/08/21,LAL,Celta Vigo,0-1,Athletic Bilbao
+06/10/19,LAL,Celta Vigo,1-0,Athletic Bilbao
+20/10/19,LAL,Athletic Bilbao,1-1,Real Valladolid
+26/10/19,LAL,Atletico Madrid,2-0,Athletic Bilbao
+30/10/19,LAL,Athletic Bilbao,3-0,Espanyol
+03/11/19,LAL,Villarreal,0-0,Athletic Bilbao
+10/11/19,LAL,Athletic Bilbao,2-1,Levante
+15/11/19,CLF,Athletic Bilbao,4-1,Eibar
+24/11/19,LAL,Osasuna,1-2,Athletic Bilbao
+01/12/19,LAL,Athletic Bilbao,2-0,Granada
+08/12/19,LAL,Real Betis,3-2,Athletic Bilbao
+14/12/19,LAL,Athletic Bilbao,0-0,Eibar
+17/12/19,CDR,Intercity,0-3,Athletic Bilbao
+22/12/19,LAL,Real Madrid,0-0,Athletic Bilbao
+03/01/20,LAL,Sevilla,1-1,Athletic Bilbao
+11/01/20,CDR,Sestao River,0-4,Athletic Bilbao
+19/01/20,LAL,Athletic Bilbao,1-1,Celta Vigo
+22/01/20,CDR,Elche,P1-1P,Athletic Bilbao
+25/01/20,LAL,Espanyol,1-1,Athletic Bilbao
+28/01/20,CDR,Tenerife,P3-3P,Athletic Bilbao
+02/02/20,LAL,Athletic Bilbao,0-2,Getafe
+06/02/20,CDR,Athletic Bilbao,1-0,Barcelona
+09/02/20,LAL,Real Sociedad,2-1,Athletic Bilbao
+12/02/20,CDR,Athletic Bilbao,1-0,Granada
+16/02/20,LAL,Athletic Bilbao,0-1,Osasuna
+23/02/20,LAL,Alaves,2-1,Athletic Bilbao
+01/03/20,LAL,Athletic Bilbao,1-0,Villarreal
+05/03/20,CDR,Granada,2-1,Athletic Bilbao
+08/03/20,LAL,Real Valladolid,1-4,Athletic Bilbao
+14/06/20,LAL,Athletic Bilbao,1-1,Atletico Madrid
+17/06/20,LAL,Eibar,2-2,Athletic Bilbao
+20/06/20,LAL,Athletic Bilbao,1-0,Real Betis
+23/06/20,LAL,Barcelona,1-0,Athletic Bilbao
+27/06/20,LAL,Athletic Bilbao,3-1,Mallorca
+01/07/20,LAL,Valencia,0-2,Athletic Bilbao
+05/07/20,LAL,Athletic Bilbao,0-1,Real Madrid
+09/07/20,LAL,Athletic Bilbao,1-2,Sevilla
+12/07/20,LAL,Levante,1-2,Athletic Bilbao
+16/07/20,LAL,Athletic Bilbao,0-2,Leganes
+19/07/20,LAL,Granada,4-0,Athletic Bilbao
+29/08/20,CLF,UD Logroñés,3-1,Athletic Bilbao
+04/09/20,CLF,Real Oviedo,2-2,Athletic Bilbao
+05/09/20,CLF,Athletic Bilbao,2-2,Eibar
+12/09/20,LAL,Granada,2-0,Athletic Bilbao
+27/09/20,LAL,Eibar,1-2,Athletic Bilbao
+01/10/20,LAL,Athletic Bilbao,0-1,Cadiz
+04/10/20,LAL,Alaves,1-0,Athletic Bilbao
+08/10/20,CLF,Real Valladolid,P2-2P,Athletic Bilbao
+18/10/20,LAL,Athletic Bilbao,2-0,Levante
+24/10/20,LAL,Osasuna,1-0,Athletic Bilbao
+31/10/20,LAL,Athletic Bilbao,2-1,Sevilla
+05/11/18,LAL,Espanyol,1-0,Athletic Bilbao
+10/11/18,LAL,Atletico Madrid,3-2,Athletic Bilbao
+14/11/18,CLF,Deportivo La Coruña,P2-2P,Athletic Bilbao
+25/11/18,LAL,Athletic Bilbao,1-1,Getafe
+28/11/18,CDR,Athletic Bilbao,4-0,Huesca
+03/12/18,LAL,Levante,3-0,Athletic Bilbao
+06/12/18,CDR,Huesca,0-4,Athletic Bilbao
+10/12/18,LAL,Athletic Bilbao,1-0,Girona
+17/12/18,LAL,Alaves,0-0,Athletic Bilbao
+22/12/18,LAL,Athletic Bilbao,1-1,Real Valladolid
+07/01/19,LAL,Celta Vigo,1-2,Athletic Bilbao
+10/01/19,CDR,Athletic Bilbao,1-3,Sevilla
+13/01/19,LAL,Athletic Bilbao,2-0,Sevilla
+16/01/19,CDR,Sevilla,0-1,Athletic Bilbao
+20/01/19,LAL,Villarreal,1-1,Athletic Bilbao
+27/01/19,LAL,Athletic Bilbao,1-0,Real Betis
+02/02/19,LAL,Real Sociedad,2-1,Athletic Bilbao
+10/02/19,LAL,Athletic Bilbao,0-0,Barcelona
+18/02/19,LAL,Huesca,0-1,Athletic Bilbao
+23/02/19,LAL,Athletic Bilbao,1-0,Eibar
+03/03/19,LAL,Valencia,2-0,Athletic Bilbao
+08/03/19,LAL,Athletic Bilbao,1-1,Espanyol
+16/03/19,LAL,Athletic Bilbao,2-0,Atletico Madrid
+21/03/19,CLF,Athletic Bilbao,3-3,Eibar
+29/03/19,LAL,Girona,1-2,Athletic Bilbao
+03/04/19,LAL,Athletic Bilbao,3-2,Levante
+07/04/19,LAL,Getafe,1-0,Athletic Bilbao
+14/04/19,LAL,Athletic Bilbao,3-2,Rayo Vallecano
+21/04/19,LAL,Real Madrid,3-0,Athletic Bilbao
+24/04/19,LAL,Leganes,0-1,Athletic Bilbao
+27/04/19,LAL,Athletic Bilbao,1-1,Alaves
+05/05/19,LAL,Real Valladolid,1-0,Athletic Bilbao
+12/05/19,LAL,Athletic Bilbao,3-1,Celta Vigo
+18/05/19,LAL,Sevilla,2-0,Athletic Bilbao
+20/07/19,CLF,Arenas Getxo,1-6,Athletic Bilbao
+27/07/19,CLF,Paderborn,3-3,Athletic Bilbao
+28/07/19,CLF,Borussia M'gladbach,0-2,Athletic Bilbao
+01/08/19,CLF,Numancia,1-1,Athletic Bilbao
+03/08/19,CLF,West Ham United,P2-2P,Athletic Bilbao
+04/08/19,CLF,Racing Santander,2-1,Athletic Bilbao
+07/08/19,CLF,Roma,2-2,Athletic Bilbao
+08/08/19,CLF,Mirandes,1-2,Athletic Bilbao
+16/08/19,LAL,Athletic Bilbao,1-0,Barcelona
+24/08/19,LAL,Getafe,1-1,Athletic Bilbao
+30/08/19,LAL,Athletic Bilbao,2-0,Real Sociedad
+05/09/19,CLF,Athletic Bilbao,2-1,Toulouse
+13/09/19,LAL,Mallorca,0-0,Athletic Bilbao
+22/09/19,LAL,Athletic Bilbao,2-0,Alaves
+25/09/19,LAL,Leganes,1-1,Athletic Bilbao
+28/09/19,LAL,Athletic Bilbao,0-1,Valencia
+23/11/17,UEL,Athletic Bilbao,3-2,Hertha Berlin
+26/11/17,LAL,Deportivo La Coruña,2-2,Athletic Bilbao
+29/11/17,CDR,Athletic Bilbao,0-1,Formentera
+02/12/17,LAL,Athletic Bilbao,0-0,Real Madrid
+07/12/17,UEL,Zorya,0-2,Athletic Bilbao
+10/12/17,LAL,Levante,1-2,Athletic Bilbao
+16/12/17,LAL,Athletic Bilbao,0-0,Real Sociedad
+22/12/17,LAL,Real Betis,0-2,Athletic Bilbao
+07/01/18,LAL,Athletic Bilbao,2-0,Alaves
+14/01/18,LAL,Espanyol,1-1,Athletic Bilbao
+19/01/18,LAL,Getafe,2-2,Athletic Bilbao
+22/01/18,CLF,Athletic Bilbao,0-0,Rudeš
+26/01/18,LAL,Athletic Bilbao,1-1,Eibar
+04/02/18,LAL,Girona,2-0,Athletic Bilbao
+09/02/18,LAL,Athletic Bilbao,0-0,Las Palmas
+15/02/18,UEL,Spartak Moscow,1-3,Athletic Bilbao
+18/02/18,LAL,Atletico Madrid,2-0,Athletic Bilbao
+22/02/18,UEL,Athletic Bilbao,1-2,Spartak Moscow
+25/02/18,LAL,Athletic Bilbao,2-1,Malaga
+28/02/18,LAL,Athletic Bilbao,1-1,Valencia
+03/03/18,LAL,Sevilla,2-0,Athletic Bilbao
+08/03/18,UEL,Marseille,3-1,Athletic Bilbao
+11/03/18,LAL,Athletic Bilbao,2-0,Leganes
+15/03/18,UEL,Athletic Bilbao,1-2,Marseille
+18/03/18,LAL,Barcelona,2-0,Athletic Bilbao
+31/03/18,LAL,Athletic Bilbao,1-1,Celta Vigo
+09/04/18,LAL,Villarreal,1-3,Athletic Bilbao
+14/04/18,LAL,Athletic Bilbao,2-3,Deportivo La Coruña
+18/04/18,LAL,Real Madrid,1-1,Athletic Bilbao
+23/04/18,LAL,Athletic Bilbao,1-3,Levante
+28/04/18,LAL,Real Sociedad,3-1,Athletic Bilbao
+05/05/18,LAL,Athletic Bilbao,2-0,Real Betis
+12/05/18,LAL,Alaves,3-1,Athletic Bilbao
+20/05/18,LAL,Athletic Bilbao,0-1,Espanyol
+23/05/18,CLF,Santutxu,0-4,Athletic Bilbao
+19/07/18,CLF,Amorebieta,0-3,Athletic Bilbao
+22/07/18,CLF,Barakaldo,0-5,Athletic Bilbao
+04/08/18,CLF,Athletic Bilbao,1-0,Real Sociedad
+11/08/18,CLF,Hannover 96,2-0,Athletic Bilbao
+12/08/18,CLF,Augsburg,0-1,Athletic Bilbao
+20/08/18,LAL,Athletic Bilbao,2-1,Leganes
+27/08/18,LAL,Athletic Bilbao,2-2,Huesca
+15/09/18,LAL,Athletic Bilbao,1-1,Real Madrid
+23/09/18,LAL,Real Betis,2-2,Athletic Bilbao
+26/09/18,LAL,Athletic Bilbao,0-3,Villarreal
+29/09/18,LAL,Barcelona,1-1,Athletic Bilbao
+05/10/18,LAL,Athletic Bilbao,1-3,Real Sociedad
+21/10/18,LAL,Eibar,1-1,Athletic Bilbao
+24/10/18,LAL,Rayo Vallecano,1-1,Athletic Bilbao
+27/10/18,LAL,Athletic Bilbao,0-0,Valencia
+16/02/17,UEL,Athletic Bilbao,3-2,APOEL
+19/02/17,LAL,Valencia,2-0,Athletic Bilbao
+23/02/17,UEL,APOEL,2-0,Athletic Bilbao
+26/02/17,LAL,Athletic Bilbao,3-1,Granada
+02/03/17,LAL,Sevilla,1-0,Athletic Bilbao
+05/03/17,LAL,Athletic Bilbao,1-0,Malaga
+12/03/17,LAL,Real Sociedad,0-2,Athletic Bilbao
+18/03/17,LAL,Athletic Bilbao,1-2,Real Madrid
+01/04/17,LAL,Osasuna,1-2,Athletic Bilbao
+04/04/17,LAL,Athletic Bilbao,2-0,Espanyol
+07/04/17,LAL,Villarreal,3-1,Athletic Bilbao
+14/04/17,LAL,Athletic Bilbao,5-1,Las Palmas
+24/04/17,LAL,Eibar,0-1,Athletic Bilbao
+27/04/17,LAL,Athletic Bilbao,2-1,Real Betis
+30/04/17,LAL,Celta Vigo,0-3,Athletic Bilbao
+07/05/17,LAL,Alaves,1-0,Athletic Bilbao
+14/05/17,LAL,Athletic Bilbao,1-1,Leganes
+21/05/17,LAL,Atletico Madrid,3-1,Athletic Bilbao
+12/07/17,CLF,Basel,3-2,Athletic Bilbao
+15/07/17,CLF,Sion,0-2,Athletic Bilbao
+17/07/17,CLF,Fenerbahce,0-0,Athletic Bilbao
+21/07/17,CLF,Club Brugge,0-2,Athletic Bilbao
+22/07/17,CLF,Athletic Bilbao,1-2,Real Valladolid
+27/07/17,UEL,Dinamo Bucureşti,1-1,Athletic Bilbao
+29/07/17,CLF,Athletic Bilbao,3-0,Reus Deportiu
+31/07/17,CLF,Portugalete,0-2,Athletic Bilbao
+02/08/17,CLF,Burgos,CANC,Athletic Bilbao
+03/08/17,UEL,Athletic Bilbao,3-0,Dinamo Bucureşti
+05/08/17,CLF,Numancia,CANC,Athletic Bilbao
+05/08/17,CLF,Liverpool,3-1,Athletic Bilbao
+12/08/17,CLF,Athletic Bilbao,2-2,Alaves
+17/08/17,UEL,Panathinaikos,2-3,Athletic Bilbao
+20/08/17,LAL,Athletic Bilbao,0-0,Getafe
+24/08/17,UEL,Athletic Bilbao,1-0,Panathinaikos
+27/08/17,LAL,Eibar,0-1,Athletic Bilbao
+10/09/17,LAL,Athletic Bilbao,2-0,Girona
+14/09/17,UEL,Hertha Berlin,0-0,Athletic Bilbao
+17/09/17,LAL,Las Palmas,1-0,Athletic Bilbao
+20/09/17,LAL,Athletic Bilbao,1-2,Atletico Madrid
+23/09/17,LAL,Malaga,3-3,Athletic Bilbao
+28/09/17,UEL,Athletic Bilbao,0-1,Zorya
+01/10/17,LAL,Valencia,3-2,Athletic Bilbao
+14/10/17,LAL,Athletic Bilbao,1-0,Sevilla
+19/10/17,UEL,Östersunds FK,2-2,Athletic Bilbao
+22/10/17,LAL,Leganes,1-0,Athletic Bilbao
+25/10/17,CDR,Formentera,1-1,Athletic Bilbao
+28/10/17,LAL,Athletic Bilbao,0-2,Barcelona
+02/11/17,UEL,Athletic Bilbao,1-0,Östersunds FK
+05/11/17,LAL,Celta Vigo,3-1,Athletic Bilbao
+19/11/17,LAL,Athletic Bilbao,1-1,Villarreal
+10/04/16,LAL,Athletic Bilbao,1-0,Rayo Vallecano
+14/04/16,UEL,Sevilla,P1-2P,Athletic Bilbao
+17/04/16,LAL,Malaga,0-1,Athletic Bilbao
+20/04/16,LAL,Athletic Bilbao,0-1,Atletico Madrid
+24/04/16,LAL,Levante,2-2,Athletic Bilbao
+01/05/16,LAL,Athletic Bilbao,2-1,Celta Vigo
+08/05/16,LAL,Las Palmas,0-0,Athletic Bilbao
+14/05/16,LAL,Athletic Bilbao,3-1,Sevilla
+20/07/16,CLF,Huesca,1-1,Athletic Bilbao
+23/07/16,CLF,Bordeaux,2-2,Athletic Bilbao
+27/07/16,CLF,Athletic Bilbao,1-1,Sporting Gijon
+30/07/16,CLF,Nantes,0-0,Athletic Bilbao
+07/08/16,CLF,Southampton,1-0,Athletic Bilbao
+09/08/16,CLF,Borussia Dortmund,0-1,Athletic Bilbao
+12/08/16,CLF,Hoffenheim II,CANC,Athletic Bilbao
+12/08/16,CLF,Hoffenheim,1-1,Athletic Bilbao
+14/08/16,CLF,Schalke 04,3-2,Athletic Bilbao
+21/08/16,LAL,Sporting Gijon,2-1,Athletic Bilbao
+28/08/16,LAL,Athletic Bilbao,0-1,Barcelona
+11/09/16,LAL,Deportivo La Coruña,0-1,Athletic Bilbao
+15/09/16,UEL,Sassuolo,3-0,Athletic Bilbao
+18/09/16,LAL,Athletic Bilbao,2-1,Valencia
+21/09/16,LAL,Granada,1-2,Athletic Bilbao
+24/09/16,LAL,Athletic Bilbao,3-1,Sevilla
+29/09/16,UEL,Athletic Bilbao,1-0,Rapid Vienna
+02/10/16,LAL,Malaga,2-1,Athletic Bilbao
+06/10/16,CLF,Sestao River,0-4,Athletic Bilbao
+16/10/16,LAL,Athletic Bilbao,3-2,Real Sociedad
+20/10/16,UEL,Genk,2-0,Athletic Bilbao
+23/10/16,LAL,Real Madrid,2-1,Athletic Bilbao
+30/10/16,LAL,Athletic Bilbao,1-1,Osasuna
+03/11/16,UEL,Athletic Bilbao,5-3,Genk
+06/11/16,LAL,Espanyol,0-0,Athletic Bilbao
+20/11/16,LAL,Athletic Bilbao,1-0,Villarreal
+24/11/16,UEL,Athletic Bilbao,3-2,Sassuolo
+28/11/16,LAL,Las Palmas,3-1,Athletic Bilbao
+01/12/16,CDR,Racing Santander,1-2,Athletic Bilbao
+04/12/16,LAL,Athletic Bilbao,3-1,Eibar
+08/12/16,UEL,Rapid Vienna,1-1,Athletic Bilbao
+11/12/16,LAL,Real Betis,1-0,Athletic Bilbao
+19/12/16,LAL,Athletic Bilbao,2-1,Celta Vigo
+22/12/16,CDR,Athletic Bilbao,3-0,Racing Santander
+05/01/17,CDR,Athletic Bilbao,2-1,Barcelona
+08/01/17,LAL,Athletic Bilbao,0-0,Alaves
+11/01/17,CDR,Barcelona,3-1,Athletic Bilbao
+14/01/17,LAL,Leganes,0-0,Athletic Bilbao
+22/01/17,LAL,Athletic Bilbao,2-2,Atletico Madrid
+29/01/17,LAL,Athletic Bilbao,2-1,Sporting Gijon
+04/02/17,LAL,Barcelona,3-0,Athletic Bilbao
+11/02/17,LAL,Athletic Bilbao,2-1,Deportivo La Coruña
+20/08/15,UEL,Zilina,3-2,Athletic Bilbao
+23/08/15,LAL,Athletic Bilbao,0-1,Barcelona
+27/08/15,UEL,Athletic Bilbao,1-0,Zilina
+30/08/15,LAL,Eibar,2-0,Athletic Bilbao
+13/09/15,LAL,Athletic Bilbao,3-1,Getafe
+17/09/15,UEL,Athletic Bilbao,3-1,Augsburg
+20/09/15,LAL,Villarreal,3-1,Athletic Bilbao
+23/09/15,LAL,Athletic Bilbao,1-2,Real Madrid
+27/09/15,LAL,Real Sociedad,0-0,Athletic Bilbao
+01/10/15,UEL,AZ,2-1,Athletic Bilbao
+04/10/15,LAL,Athletic Bilbao,3-1,Valencia
+18/10/15,LAL,Deportivo La Coruña,2-2,Athletic Bilbao
+22/10/15,UEL,Partizan,0-2,Athletic Bilbao
+26/10/15,LAL,Athletic Bilbao,3-0,Sporting Gijon
+01/11/15,LAL,Real Betis,1-3,Athletic Bilbao
+05/11/15,UEL,Athletic Bilbao,5-1,Partizan
+08/11/15,LAL,Athletic Bilbao,2-1,Espanyol
+22/11/15,LAL,Granada,2-0,Athletic Bilbao
+26/11/15,UEL,Augsburg,2-3,Athletic Bilbao
+29/11/15,LAL,Rayo Vallecano,0-3,Athletic Bilbao
+03/12/15,CDR,Linense,0-2,Athletic Bilbao
+06/12/15,LAL,Athletic Bilbao,0-0,Malaga
+10/12/15,UEL,Athletic Bilbao,2-2,AZ
+13/12/15,LAL,Atletico Madrid,2-1,Athletic Bilbao
+16/12/15,CDR,Athletic Bilbao,6-0,Linense
+20/12/15,LAL,Athletic Bilbao,2-0,Levante
+30/12/15,LAL,Celta Vigo,0-1,Athletic Bilbao
+03/01/16,LAL,Athletic Bilbao,2-2,Las Palmas
+06/01/16,CDR,Athletic Bilbao,3-2,Villarreal
+09/01/16,LAL,Sevilla,2-0,Athletic Bilbao
+13/01/16,CDR,Villarreal,0-1,Athletic Bilbao
+17/01/16,LAL,Barcelona,6-0,Athletic Bilbao
+20/01/16,CDR,Athletic Bilbao,1-2,Barcelona
+24/01/16,LAL,Athletic Bilbao,5-2,Eibar
+27/01/16,CDR,Barcelona,3-1,Athletic Bilbao
+30/01/16,LAL,Getafe,0-1,Athletic Bilbao
+06/02/16,LAL,Athletic Bilbao,0-0,Villarreal
+13/02/16,LAL,Real Madrid,4-2,Athletic Bilbao
+18/02/16,UEL,Marseille,0-1,Athletic Bilbao
+21/02/16,LAL,Athletic Bilbao,0-1,Real Sociedad
+25/02/16,UEL,Athletic Bilbao,1-1,Marseille
+28/02/16,LAL,Valencia,0-3,Athletic Bilbao
+02/03/16,LAL,Athletic Bilbao,4-1,Deportivo La Coruña
+06/03/16,LAL,Sporting Gijon,0-2,Athletic Bilbao
+10/03/16,UEL,Athletic Bilbao,1-0,Valencia
+13/03/16,LAL,Athletic Bilbao,3-1,Real Betis
+17/03/16,UEL,Valencia,2-1,Athletic Bilbao
+20/03/16,LAL,Espanyol,2-1,Athletic Bilbao
+03/04/16,LAL,Athletic Bilbao,1-1,Granada
+07/04/16,UEL,Athletic Bilbao,1-2,Sevilla

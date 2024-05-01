@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+23/07/23,PLS,Fulham,3-2,Brentford
+27/07/23,PLS,Fulham,0-2,Aston Villa
+30/07/23,PLS,Chelsea,2-0,Fulham
+05/08/23,CLF,Fulham,2-1,Hoffenheim
+12/08/23,PRL,Everton,0-1,Fulham
+19/08/23,PRL,Fulham,0-3,Brentford
+26/08/23,PRL,Arsenal,2-2,Fulham
+29/08/23,LEC,Fulham,P1-1P,Tottenham Hotspur
+02/09/23,PRL,Manchester City,5-1,Fulham
+16/09/23,PRL,Fulham,1-0,Luton Town
+23/09/23,PRL,Crystal Palace,0-0,Fulham
+27/09/23,LEC,Fulham,2-1,Norwich City
+02/10/23,PRL,Fulham,0-2,Chelsea
+07/10/23,PRL,Fulham,3-1,Sheffield United
+23/10/23,PRL,Tottenham Hotspur,2-0,Fulham
+29/10/23,PRL,Brighton & Hove Albion,1-1,Fulham
+01/11/23,LEC,Ipswich Town,1-3,Fulham
+04/11/23,PRL,Fulham,0-1,Manchester United
+12/11/23,PRL,Aston Villa,3-1,Fulham
+27/11/23,PRL,Fulham,3-2,Wolverhampton Wanderers
+03/12/23,PRL,Liverpool,4-3,Fulham
+06/12/23,PRL,Fulham,5-0,Nottingham Forest
+10/12/23,PRL,Fulham,5-0,West Ham United
+16/12/23,PRL,Newcastle United,3-0,Fulham
+19/12/23,LEC,Everton,P1-1P,Fulham
+23/12/23,PRL,Fulham,0-2,Burnley
+26/12/23,PRL,AFC Bournemouth,3-0,Fulham
+31/12/23,PRL,Fulham,2-1,Arsenal
+05/01/24,FAC,Fulham,1-0,Rotherham United
+10/01/24,LEC,Liverpool,2-1,Fulham
+13/01/24,PRL,Chelsea,1-0,Fulham
+24/01/24,LEC,Fulham,1-1,Liverpool
+27/01/24,FAC,Fulham,0-2,Newcastle United
+30/01/24,PRL,Fulham,0-0,Everton
+03/02/24,PRL,Burnley,2-2,Fulham
+10/02/24,PRL,Fulham,3-1,AFC Bournemouth
+17/02/24,PRL,Fulham,1-2,Aston Villa
+24/02/24,PRL,Manchester United,1-2,Fulham
+02/03/24,PRL,Fulham,3-0,Brighton & Hove Albion
+09/03/24,PRL,Wolverhampton Wanderers,2-1,Fulham
+16/03/24,PRL,Fulham,3-0,Tottenham Hotspur
+30/03/24,PRL,Sheffield United,3-3,Fulham
+02/04/24,PRL,Nottingham Forest,3-1,Fulham
+06/04/24,PRL,Fulham,0-1,Newcastle United
+14/04/24,PRL,West Ham United,0-2,Fulham
+21/04/24,PRL,Fulham,1-3,Liverpool
+27/04/24,PRL,Fulham,1-1,Crystal Palace
+04/05/24,PRL,Brentford,16:00,Fulham
+11/05/24,PRL,Fulham,13:30,Manchester City
+19/05/24,PRL,Luton Town,17:00,Fulham
+07/05/22,CHA,Sheffield United,4-0,Fulham
+16/07/22,CLF,Nice,0-2,Fulham
+17/07/22,CLF,Benfica,5-1,Fulham
+24/07/22,CLF,Estoril,1-3,Fulham
+31/07/22,CLF,Fulham,1-1,Villarreal
+06/08/22,PRL,Fulham,2-2,Liverpool
+13/08/22,PRL,Wolverhampton Wanderers,0-0,Fulham
+20/08/22,PRL,Fulham,3-2,Brentford
+23/08/22,LEC,Crawley Town,2-0,Fulham
+27/08/22,PRL,Arsenal,2-1,Fulham
+30/08/22,PRL,Fulham,2-1,Brighton & Hove Albion
+03/09/22,PRL,Tottenham Hotspur,2-1,Fulham
+16/09/22,PRL,Nottingham Forest,2-3,Fulham
+01/10/22,PRL,Fulham,1-4,Newcastle United
+09/10/22,PRL,West Ham United,3-1,Fulham
+15/10/22,PRL,Fulham,2-2,AFC Bournemouth
+20/10/22,PRL,Fulham,3-0,Aston Villa
+23/10/22,PRL,Leeds United,2-3,Fulham
+29/10/22,PRL,Fulham,0-0,Everton
+05/11/22,PRL,Manchester City,2-1,Fulham
+13/11/22,PRL,Fulham,1-2,Manchester United
+17/12/22,CLF,Fulham,1-1,West Ham United
+26/12/22,PRL,Crystal Palace,0-3,Fulham
+31/12/22,PRL,Fulham,2-1,Southampton
+03/01/23,PRL,Leicester City,0-1,Fulham
+07/01/23,FAC,Hull City,0-2,Fulham
+12/01/23,PRL,Fulham,2-1,Chelsea
+15/01/23,PRL,Newcastle United,1-0,Fulham
+23/01/23,PRL,Fulham,0-1,Tottenham Hotspur
+28/01/23,FAC,Fulham,1-1,Sunderland
+03/02/23,PRL,Chelsea,0-0,Fulham
+08/02/23,FAC,Sunderland,2-3,Fulham
+11/02/23,PRL,Fulham,2-0,Nottingham Forest
+18/02/23,PRL,Brighton & Hove Albion,0-1,Fulham
+24/02/23,PRL,Fulham,1-1,Wolverhampton Wanderers
+28/02/23,FAC,Fulham,2-0,Leeds United
+06/03/23,PRL,Brentford,3-2,Fulham
+12/03/23,PRL,Fulham,0-3,Arsenal
+19/03/23,FAC,Manchester United,3-1,Fulham
+01/04/23,PRL,AFC Bournemouth,2-1,Fulham
+08/04/23,PRL,Fulham,0-1,West Ham United
+15/04/23,PRL,Everton,1-3,Fulham
+22/04/23,PRL,Fulham,2-1,Leeds United
+25/04/23,PRL,Aston Villa,1-0,Fulham
+30/04/23,PRL,Fulham,1-2,Manchester City
+03/05/23,PRL,Liverpool,1-0,Fulham
+08/05/23,PRL,Fulham,5-3,Leicester City
+13/05/23,PRL,Southampton,0-2,Fulham
+20/05/23,PRL,Fulham,2-2,Crystal Palace
+28/05/23,PRL,Manchester United,2-1,Fulham
+31/07/21,CLF,Fulham,1-0,Charlton Athletic
+08/08/21,CHA,Fulham,1-1,Middlesbrough
+14/08/21,CHA,Huddersfield Town,1-5,Fulham
+17/08/21,CHA,Millwall,1-2,Fulham
+21/08/21,CHA,Fulham,2-0,Hull City
+24/08/21,LEC,Birmingham City,0-2,Fulham
+28/08/21,CHA,Fulham,3-0,Stoke City
+11/09/21,CHA,Blackpool,1-0,Fulham
+15/09/21,CHA,Birmingham City,1-4,Fulham
+18/09/21,CHA,Fulham,1-2,Reading
+21/09/21,LEC,Fulham,P0-0P,Leeds United
+25/09/21,CHA,Bristol City,1-1,Fulham
+29/09/21,CHA,Fulham,3-1,Swansea City
+02/10/21,CHA,Coventry City,4-1,Fulham
+16/10/21,CHA,Fulham,4-1,Queens Park Rangers
+20/10/21,CHA,Fulham,2-0,Cardiff City
+24/10/21,CHA,Nottingham Forest,0-4,Fulham
+30/10/21,CHA,Fulham,3-0,West Bromwich Albion
+03/11/21,CHA,Blackburn Rovers,0-7,Fulham
+06/11/21,CHA,Peterborough United,0-1,Fulham
+20/11/21,CHA,Fulham,4-1,Barnsley
+24/11/21,CHA,Fulham,0-0,Derby County
+27/11/21,CHA,Preston North End,1-1,Fulham
+03/12/21,CHA,Fulham,1-1,AFC Bournemouth
+11/12/21,CHA,Luton Town,1-1,Fulham
+20/12/21,CHA,Fulham,0-1,Sheffield United
+08/01/22,FAC,Bristol City,E0-1E,Fulham
+11/01/22,CHA,Reading,0-7,Fulham
+15/01/22,CHA,Fulham,6-2,Bristol City
+18/01/22,CHA,Fulham,6-2,Birmingham City
+22/01/22,CHA,Stoke City,2-3,Fulham
+29/01/22,CHA,Fulham,1-1,Blackpool
+05/02/22,FAC,Manchester City,4-1,Fulham
+08/02/22,CHA,Fulham,3-0,Millwall
+12/02/22,CHA,Hull City,0-1,Fulham
+19/02/22,CHA,Fulham,1-2,Huddersfield Town
+23/02/22,CHA,Fulham,2-1,Peterborough United
+26/02/22,CHA,Cardiff City,0-1,Fulham
+05/03/22,CHA,Fulham,2-0,Blackburn Rovers
+08/03/22,CHA,Swansea City,1-5,Fulham
+12/03/22,CHA,Barnsley,1-1,Fulham
+15/03/22,CHA,West Bromwich Albion,1-0,Fulham
+02/04/22,CHA,Queens Park Rangers,0-2,Fulham
+06/04/22,CHA,Middlesbrough,0-1,Fulham
+10/04/22,CHA,Fulham,1-3,Coventry City
+15/04/22,CHA,Derby County,2-1,Fulham
+19/04/22,CHA,Fulham,3-0,Preston North End
+23/04/22,CHA,AFC Bournemouth,1-1,Fulham
+26/04/22,CHA,Fulham,0-1,Nottingham Forest
+02/05/22,CHA,Fulham,7-0,Luton Town
+14/07/20,CHA,West Bromwich Albion,0-0,Fulham
+18/07/20,CHA,Fulham,5-3,Sheffield Wednesday
+22/07/20,CHA,Wigan Athletic,1-1,Fulham
+27/07/20,CHA,Cardiff City,0-2,Fulham
+30/07/20,CHA,Fulham,1-2,Cardiff City
+04/08/20,CHA,Brentford,E1-2E,Fulham
+29/08/20,CLF,Fulham,2-2,Milton Keynes Dons
+12/09/20,PRL,Fulham,0-3,Arsenal
+16/09/20,LEC,Ipswich Town,0-1,Fulham
+19/09/20,PRL,Leeds United,4-3,Fulham
+23/09/20,LEC,Fulham,2-0,Sheffield Wednesday
+28/09/20,PRL,Fulham,0-3,Aston Villa
+01/10/20,LEC,Brentford,3-0,Fulham
+04/10/20,PRL,Wolverhampton Wanderers,1-0,Fulham
+18/10/20,PRL,Sheffield United,1-1,Fulham
+24/10/20,PRL,Fulham,1-2,Crystal Palace
+02/11/20,PRL,Fulham,2-0,West Bromwich Albion
+07/11/20,PRL,West Ham United,1-0,Fulham
+22/11/20,PRL,Fulham,2-3,Everton
+30/11/20,PRL,Leicester City,1-2,Fulham
+05/12/20,PRL,Manchester City,2-0,Fulham
+13/12/20,PRL,Fulham,1-1,Liverpool
+16/12/20,PRL,Fulham,0-0,Brighton & Hove Albion
+19/12/20,PRL,Newcastle United,1-1,Fulham
+26/12/20,PRL,Fulham,0-0,Southampton
+09/01/21,FAC,Queens Park Rangers,E0-2E,Fulham
+13/01/21,PRL,Tottenham Hotspur,1-1,Fulham
+16/01/21,PRL,Fulham,0-1,Chelsea
+20/01/21,PRL,Fulham,1-2,Manchester United
+24/01/21,FAC,Fulham,0-3,Burnley
+27/01/21,PRL,Brighton & Hove Albion,0-0,Fulham
+30/01/21,PRL,West Bromwich Albion,2-2,Fulham
+03/02/21,PRL,Fulham,0-2,Leicester City
+06/02/21,PRL,Fulham,0-0,West Ham United
+14/02/21,PRL,Everton,0-2,Fulham
+17/02/21,PRL,Burnley,1-1,Fulham
+20/02/21,PRL,Fulham,1-0,Sheffield United
+28/02/21,PRL,Crystal Palace,0-0,Fulham
+04/03/21,PRL,Fulham,0-1,Tottenham Hotspur
+07/03/21,PRL,Liverpool,0-1,Fulham
+13/03/21,PRL,Fulham,0-3,Manchester City
+19/03/21,PRL,Fulham,1-2,Leeds United
+04/04/21,PRL,Aston Villa,3-1,Fulham
+09/04/21,PRL,Fulham,0-1,Wolverhampton Wanderers
+18/04/21,PRL,Arsenal,1-1,Fulham
+01/05/21,PRL,Chelsea,2-0,Fulham
+10/05/21,PRL,Fulham,0-2,Burnley
+15/05/21,PRL,Southampton,3-1,Fulham
+18/05/21,PRL,Manchester United,1-1,Fulham
+23/05/21,PRL,Fulham,0-2,Newcastle United
+16/07/19,CLF,Porto,1-0,Fulham
+20/07/19,CLF,Fulham,2-1,Brighton & Hove Albion
+23/07/19,CLF,Oxford United,1-1,Fulham
+27/07/19,CLF,Fulham,0-1,West Ham United
+03/08/19,CHA,Barnsley,1-0,Fulham
+10/08/19,CHA,Fulham,2-0,Blackburn Rovers
+16/08/19,CHA,Huddersfield Town,1-2,Fulham
+21/08/19,CHA,Fulham,4-0,Millwall
+24/08/19,CHA,Fulham,1-2,Nottingham Forest
+27/08/19,LEC,Fulham,0-1,Southampton
+30/08/19,CHA,Cardiff City,1-1,Fulham
+14/09/19,CHA,Fulham,1-1,West Bromwich Albion
+21/09/19,CHA,Sheffield Wednesday,1-1,Fulham
+27/09/19,CHA,Fulham,2-0,Wigan Athletic
+01/10/19,CHA,Reading,1-4,Fulham
+05/10/19,CHA,Fulham,2-2,Charlton Athletic
+19/10/19,CHA,Stoke City,2-0,Fulham
+23/10/19,CHA,Fulham,3-2,Luton Town
+26/10/19,CHA,Middlesbrough,0-0,Fulham
+02/11/19,CHA,Fulham,0-3,Hull City
+09/11/19,CHA,Birmingham City,0-1,Fulham
+22/11/19,CHA,Fulham,2-1,Queens Park Rangers
+26/11/19,CHA,Fulham,3-0,Derby County
+29/11/19,CHA,Swansea City,1-2,Fulham
+07/12/19,CHA,Fulham,1-2,Bristol City
+10/12/19,CHA,Preston North End,2-1,Fulham
+14/12/19,CHA,Brentford,1-0,Fulham
+21/12/19,CHA,Fulham,2-1,Leeds United
+26/12/19,CHA,Luton Town,3-3,Fulham
+29/12/19,CHA,Fulham,1-0,Stoke City
+01/01/20,CHA,Fulham,1-2,Reading
+04/01/20,FAC,Fulham,2-1,Aston Villa
+11/01/20,CHA,Hull City,0-1,Fulham
+17/01/20,CHA,Fulham,1-0,Middlesbrough
+22/01/20,CHA,Charlton Athletic,0-0,Fulham
+26/01/20,FAC,Manchester City,4-0,Fulham
+01/02/20,CHA,Fulham,3-2,Huddersfield Town
+08/02/20,CHA,Blackburn Rovers,0-1,Fulham
+12/02/20,CHA,Millwall,1-1,Fulham
+15/02/20,CHA,Fulham,0-3,Barnsley
+21/02/20,CHA,Derby County,1-1,Fulham
+26/02/20,CHA,Fulham,1-0,Swansea City
+29/02/20,CHA,Fulham,2-0,Preston North End
+07/03/20,CHA,Bristol City,1-1,Fulham
+20/06/20,CHA,Fulham,0-2,Brentford
+27/06/20,CHA,Leeds United,3-0,Fulham
+30/06/20,CHA,Queens Park Rangers,1-2,Fulham
+04/07/20,CHA,Fulham,1-0,Birmingham City
+07/07/20,CHA,Nottingham Forest,0-1,Fulham
+10/07/20,CHA,Fulham,2-0,Cardiff City
+14/07/18,CLF,Fulham,0-0,Reading
+18/07/18,CLF,Fenerbahce,3-0,Fulham
+21/07/18,CLF,Lyon,4-0,Fulham
+01/08/18,CLF,Fulham,0-1,Sampdoria
+04/08/18,CLF,Fulham,2-2,Celta Vigo
+11/08/18,PRL,Fulham,0-2,Crystal Palace
+18/08/18,PRL,Tottenham Hotspur,3-1,Fulham
+26/08/18,PRL,Fulham,4-2,Burnley
+28/08/18,LEC,Fulham,2-0,Exeter City
+01/09/18,PRL,Brighton & Hove Albion,2-2,Fulham
+08/09/18,CLF,Fulham,1-0,ATK
+15/09/18,PRL,Manchester City,3-0,Fulham
+22/09/18,PRL,Fulham,1-1,Watford
+25/09/18,LEC,Millwall,1-3,Fulham
+29/09/18,PRL,Everton,3-0,Fulham
+07/10/18,PRL,Fulham,1-5,Arsenal
+20/10/18,PRL,Cardiff City,4-2,Fulham
+27/10/18,PRL,Fulham,0-3,AFC Bournemouth
+01/11/18,LEC,Manchester City,2-0,Fulham
+05/11/18,PRL,Huddersfield Town,1-0,Fulham
+11/11/18,PRL,Liverpool,2-0,Fulham
+24/11/18,PRL,Fulham,3-2,Southampton
+02/12/18,PRL,Chelsea,2-0,Fulham
+05/12/18,PRL,Fulham,1-1,Leicester City
+08/12/18,PRL,Manchester United,4-1,Fulham
+15/12/18,PRL,Fulham,0-2,West Ham United
+22/12/18,PRL,Newcastle United,0-0,Fulham
+26/12/18,PRL,Fulham,1-1,Wolverhampton Wanderers
+29/12/18,PRL,Fulham,1-0,Huddersfield Town
+01/01/19,PRL,Arsenal,4-1,Fulham
+06/01/19,FAC,Fulham,1-2,Oldham Athletic
+12/01/19,PRL,Burnley,2-1,Fulham
+20/01/19,PRL,Fulham,1-2,Tottenham Hotspur
+29/01/19,PRL,Fulham,4-2,Brighton & Hove Albion
+02/02/19,PRL,Crystal Palace,2-0,Fulham
+09/02/19,PRL,Fulham,0-3,Manchester United
+22/02/19,PRL,West Ham United,3-1,Fulham
+27/02/19,PRL,Southampton,2-0,Fulham
+03/03/19,PRL,Fulham,1-2,Chelsea
+09/03/19,PRL,Leicester City,3-1,Fulham
+17/03/19,PRL,Fulham,1-2,Liverpool
+30/03/19,PRL,Fulham,0-2,Manchester City
+02/04/19,PRL,Watford,4-1,Fulham
+13/04/19,PRL,Fulham,2-0,Everton
+20/04/19,PRL,AFC Bournemouth,0-1,Fulham
+27/04/19,PRL,Fulham,1-0,Cardiff City
+04/05/19,PRL,Wolverhampton Wanderers,1-0,Fulham
+12/05/19,PRL,Fulham,0-4,Newcastle United
+06/07/19,CLF,Fulham,1-3,Cambridge United
+12/07/19,CLF,Burnley,1-0,Fulham
+15/08/17,CHA,Leeds United,0-0,Fulham
+19/08/17,CHA,Fulham,0-1,Sheffield Wednesday
+22/08/17,LEC,Fulham,0-1,Bristol Rovers
+26/08/17,CHA,Ipswich Town,0-2,Fulham
+09/09/17,CHA,Fulham,1-1,Cardiff City
+13/09/17,CHA,Fulham,2-1,Hull City
+16/09/17,CHA,Burton Albion,2-1,Fulham
+23/09/17,CHA,Fulham,1-1,Middlesbrough
+26/09/17,CHA,Nottingham Forest,1-3,Fulham
+29/09/17,CHA,Queens Park Rangers,1-2,Fulham
+14/10/17,CHA,Fulham,2-2,Preston North End
+21/10/17,CHA,Aston Villa,2-1,Fulham
+28/10/17,CHA,Fulham,1-1,Bolton Wanderers
+31/10/17,CHA,Fulham,0-2,Bristol City
+03/11/17,CHA,Wolverhampton Wanderers,2-0,Fulham
+18/11/17,CHA,Fulham,1-1,Derby County
+21/11/17,CHA,Sheffield United,4-5,Fulham
+25/11/17,CHA,Fulham,1-0,Millwall
+02/12/17,CHA,Brentford,3-1,Fulham
+09/12/17,CHA,Fulham,1-0,Birmingham City
+16/12/17,CHA,Sunderland,1-0,Fulham
+23/12/17,CHA,Fulham,2-1,Barnsley
+26/12/17,CHA,Cardiff City,2-4,Fulham
+30/12/17,CHA,Hull City,2-2,Fulham
+02/01/18,CHA,Fulham,4-1,Ipswich Town
+06/01/18,FAC,Fulham,0-1,Southampton
+13/01/18,CHA,Middlesbrough,0-1,Fulham
+20/01/18,CHA,Fulham,6-0,Burton Albion
+27/01/18,CHA,Barnsley,1-3,Fulham
+03/02/18,CHA,Fulham,2-0,Nottingham Forest
+10/02/18,CHA,Bolton Wanderers,1-1,Fulham
+17/02/18,CHA,Fulham,2-0,Aston Villa
+21/02/18,CHA,Bristol City,1-1,Fulham
+24/02/18,CHA,Fulham,2-0,Wolverhampton Wanderers
+03/03/18,CHA,Derby County,1-2,Fulham
+06/03/18,CHA,Fulham,3-0,Sheffield United
+10/03/18,CHA,Preston North End,1-2,Fulham
+17/03/18,CHA,Fulham,2-2,Queens Park Rangers
+30/03/18,CHA,Norwich City,0-2,Fulham
+03/04/18,CHA,Fulham,2-0,Leeds United
+07/04/18,CHA,Sheffield Wednesday,0-1,Fulham
+10/04/18,CHA,Fulham,1-0,Reading
+14/04/18,CHA,Fulham,1-1,Brentford
+20/04/18,CHA,Millwall,0-3,Fulham
+27/04/18,CHA,Fulham,2-1,Sunderland
+06/05/18,CHA,Birmingham City,3-1,Fulham
+11/05/18,CHA,Derby County,1-0,Fulham
+14/05/18,CHA,Fulham,2-0,Derby County
+26/05/18,CHA,Aston Villa,0-1,Fulham
+07/07/18,CLF,Crawley Town,2-4,Fulham
+27/09/16,CHA,Nottingham Forest,1-1,Fulham
+01/10/16,CHA,Fulham,1-2,Queens Park Rangers
+15/10/16,CHA,Barnsley,2-4,Fulham
+18/10/16,CHA,Fulham,2-2,Norwich City
+22/10/16,CHA,Aston Villa,1-0,Fulham
+29/10/16,CHA,Fulham,5-0,Huddersfield Town
+04/11/16,CHA,Brentford,0-2,Fulham
+19/11/16,CHA,Fulham,1-1,Sheffield Wednesday
+26/11/16,CHA,Brighton & Hove Albion,2-1,Fulham
+03/12/16,CHA,Fulham,5-0,Reading
+10/12/16,CHA,Wolverhampton Wanderers,4-4,Fulham
+13/12/16,CHA,Fulham,2-1,Rotherham United
+17/12/16,CHA,Fulham,2-2,Derby County
+26/12/16,CHA,Ipswich Town,0-2,Fulham
+02/01/17,CHA,Fulham,1-2,Brighton & Hove Albion
+08/01/17,FAC,Cardiff City,1-2,Fulham
+14/01/17,CHA,Fulham,2-0,Barnsley
+21/01/17,CHA,Queens Park Rangers,1-1,Fulham
+24/01/17,CHA,Reading,1-0,Fulham
+29/01/17,FAC,Fulham,4-1,Hull City
+01/02/17,CHA,Burton Albion,0-2,Fulham
+04/02/17,CHA,Birmingham City,1-0,Fulham
+11/02/17,CHA,Fulham,3-2,Wigan Athletic
+14/02/17,CHA,Fulham,3-2,Nottingham Forest
+19/02/17,FAC,Fulham,0-3,Tottenham Hotspur
+22/02/17,CHA,Bristol City,0-2,Fulham
+25/02/17,CHA,Cardiff City,2-2,Fulham
+04/03/17,CHA,Fulham,3-1,Preston North End
+07/03/17,CHA,Fulham,1-1,Leeds United
+11/03/17,CHA,Newcastle United,1-3,Fulham
+14/03/17,CHA,Fulham,2-2,Blackburn Rovers
+18/03/17,CHA,Fulham,1-3,Wolverhampton Wanderers
+01/04/17,CHA,Rotherham United,0-1,Fulham
+04/04/17,CHA,Derby County,4-2,Fulham
+08/04/17,CHA,Fulham,3-1,Ipswich Town
+14/04/17,CHA,Norwich City,1-3,Fulham
+17/04/17,CHA,Fulham,3-1,Aston Villa
+22/04/17,CHA,Huddersfield Town,1-4,Fulham
+29/04/17,CHA,Fulham,1-1,Brentford
+07/05/17,CHA,Sheffield Wednesday,1-2,Fulham
+13/05/17,CHA,Fulham,1-1,Reading
+16/05/17,CHA,Reading,1-0,Fulham
+05/07/17,CLF,Piast Gliwice,0-1,Fulham
+08/07/17,CLF,Zlín,2-2,Fulham
+20/07/17,CLF,West Ham United,2-1,Fulham
+22/07/17,CLF,Darmstadt,2-2,Fulham
+29/07/17,CLF,Fulham,0-3,Wolfsburg
+05/08/17,CHA,Fulham,1-1,Norwich City
+08/08/17,LEC,Wycombe Wanderers,0-2,Fulham
+12/08/17,CHA,Reading,1-1,Fulham
+03/11/15,CHA,Burnley,3-1,Fulham
+07/11/15,CHA,Fulham,2-5,Birmingham City
+21/11/15,CHA,Milton Keynes Dons,1-1,Fulham
+28/11/15,CHA,Fulham,1-1,Preston North End
+05/12/15,CHA,Nottingham Forest,3-0,Fulham
+12/12/15,CHA,Fulham,2-2,Brentford
+15/12/15,CHA,Fulham,1-2,Ipswich Town
+19/12/15,CHA,Bolton Wanderers,2-2,Fulham
+26/12/15,CHA,Derby County,2-0,Fulham
+29/12/15,CHA,Fulham,4-1,Rotherham United
+02/01/16,CHA,Fulham,0-1,Sheffield Wednesday
+09/01/16,FAC,Sheffield Wednesday,2-1,Fulham
+12/01/16,CHA,Wolverhampton Wanderers,3-2,Fulham
+16/01/16,CHA,Huddersfield Town,1-1,Fulham
+23/01/16,CHA,Fulham,0-1,Hull City
+06/02/16,CHA,Fulham,1-1,Derby County
+13/02/16,CHA,Queens Park Rangers,1-3,Fulham
+16/02/16,CHA,Blackburn Rovers,3-0,Fulham
+20/02/16,CHA,Fulham,3-0,Charlton Athletic
+23/02/16,CHA,Leeds United,1-1,Fulham
+27/02/16,CHA,Fulham,0-2,Middlesbrough
+05/03/16,CHA,Reading,2-2,Fulham
+08/03/16,CHA,Fulham,2-3,Burnley
+12/03/16,CHA,Fulham,1-2,Bristol City
+19/03/16,CHA,Birmingham City,1-1,Fulham
+02/04/16,CHA,Fulham,2-1,Milton Keynes Dons
+05/04/16,CHA,Preston North End,1-2,Fulham
+09/04/16,CHA,Fulham,2-1,Cardiff City
+15/04/16,CHA,Brighton & Hove Albion,5-0,Fulham
+19/04/16,CHA,Ipswich Town,1-1,Fulham
+23/04/16,CHA,Fulham,1-3,Nottingham Forest
+30/04/16,CHA,Brentford,3-0,Fulham
+07/05/16,CHA,Fulham,1-0,Bolton Wanderers
+09/07/16,CLF,Cork City,0-3,Fulham
+19/07/16,CLF,Fulham,3-0,Brighton & Hove Albion
+23/07/16,CLF,Real Betis,2-1,Fulham
+25/07/16,CLF,Nacional,0-0,Fulham
+30/07/16,CLF,Fulham,3-1,Crystal Palace
+05/08/16,CHA,Fulham,1-0,Newcastle United
+09/08/16,LEC,Leyton Orient,2-3,Fulham
+13/08/16,CHA,Preston North End,1-2,Fulham
+16/08/16,CHA,Leeds United,1-1,Fulham
+20/08/16,CHA,Fulham,2-2,Cardiff City
+24/08/16,LEC,Fulham,E2-1E,Middlesbrough
+27/08/16,CHA,Blackburn Rovers,0-1,Fulham
+10/09/16,CHA,Fulham,0-1,Birmingham City
+13/09/16,CHA,Fulham,1-1,Burton Albion
+17/09/16,CHA,Wigan Athletic,0-0,Fulham
+21/09/16,LEC,Fulham,1-2,Bristol City
+24/09/16,CHA,Fulham,0-4,Bristol City
+26/12/14,CHA,AFC Bournemouth,2-0,Fulham
+29/12/14,CHA,Fulham,0-2,Brighton & Hove Albion
+03/01/15,FAC,Fulham,0-0,Wolverhampton Wanderers
+10/01/15,CHA,Cardiff City,1-0,Fulham
+13/01/15,FAC,Wolverhampton Wanderers,P3-3P,Fulham
+17/01/15,CHA,Fulham,2-1,Reading
+21/01/15,CHA,Fulham,3-2,Nottingham Forest
+24/01/15,FAC,Sunderland,0-0,Fulham
+31/01/15,CHA,Blackburn Rovers,2-1,Fulham
+03/02/15,FAC,Fulham,1-3,Sunderland
+07/02/15,CHA,Fulham,1-1,Birmingham City
+10/02/15,CHA,Bolton Wanderers,3-1,Fulham
+14/02/15,CHA,Fulham,1-2,Ipswich Town
+21/02/15,CHA,Millwall,0-0,Fulham
+24/02/15,CHA,Wolverhampton Wanderers,3-0,Fulham
+28/02/15,CHA,Fulham,2-0,Derby County
+03/03/15,CHA,Watford,1-0,Fulham
+06/03/15,CHA,Fulham,1-5,AFC Bournemouth
+14/03/15,CHA,Sheffield Wednesday,1-1,Fulham
+18/03/15,CHA,Fulham,0-3,Leeds United
+21/03/15,CHA,Huddersfield Town,0-2,Fulham
+03/04/15,CHA,Fulham,1-4,Brentford
+07/04/15,CHA,Charlton Athletic,1-1,Fulham
+10/04/15,CHA,Fulham,2-2,Wigan Athletic
+15/04/15,CHA,Fulham,1-1,Rotherham United
+18/04/15,CHA,Blackpool,0-1,Fulham
+25/04/15,CHA,Fulham,4-3,Middlesbrough
+02/05/15,CHA,Norwich City,4-2,Fulham
+11/07/15,CLF,Aston Villa,1-3,Fulham
+18/07/15,CLF,Crawley Town,1-3,Fulham
+22/07/15,CLF,Hertha Berlin,2-2,Fulham
+25/07/15,CLF,Eintracht Frankfurt,0-1,Fulham
+01/08/15,CLF,Fulham,1-1,Crystal Palace
+08/08/15,CHA,Cardiff City,1-1,Fulham
+11/08/15,LEC,Wycombe Wanderers,0-1,Fulham
+15/08/15,CHA,Fulham,1-2,Brighton & Hove Albion
+19/08/15,CHA,Hull City,2-1,Fulham
+22/08/15,CHA,Fulham,1-1,Huddersfield Town
+25/08/15,LEC,Fulham,3-0,Sheffield United
+29/08/15,CHA,Rotherham United,1-3,Fulham
+13/09/15,CHA,Fulham,2-1,Blackburn Rovers
+19/09/15,CHA,Sheffield Wednesday,3-2,Fulham
+22/09/15,LEC,Fulham,0-1,Stoke City
+25/09/15,CHA,Fulham,4-0,Queens Park Rangers
+29/09/15,CHA,Fulham,0-3,Wolverhampton Wanderers
+04/10/15,CHA,Charlton Athletic,2-2,Fulham
+17/10/15,CHA,Middlesbrough,0-0,Fulham
+21/10/15,CHA,Fulham,1-1,Leeds United
+24/10/15,CHA,Fulham,4-2,Reading
+31/10/15,CHA,Bristol City,1-4,Fulham

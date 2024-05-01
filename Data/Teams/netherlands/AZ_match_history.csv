@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+22/07/23,CLF,Club Brugge,1-2,AZ
+29/07/23,CLF,Southampton,0-1,AZ
+05/08/23,CLF,AZ,1-0,Bologna
+10/08/23,UEC,FC Santa Coloma,0-1,AZ
+13/08/23,ERE,AZ,5-1,Go Ahead Eagles
+17/08/23,UEC,AZ,2-0,FC Santa Coloma
+20/08/23,ERE,RKC Waalwijk,1-3,AZ
+24/08/23,UEC,AZ,1-1,Brann
+31/08/23,UEC,Brann,P3-3P,AZ
+03/09/23,ERE,Vitesse,0-2,AZ
+17/09/23,ERE,AZ,2-0,Sparta Rotterdam
+21/09/23,UEC,Zrinjski,4-3,AZ
+24/09/23,ERE,PEC Zwolle,0-3,AZ
+28/09/23,ERE,AZ,1-1,Heracles
+01/10/23,ERE,AZ,4-0,Fortuna Sittard
+05/10/23,UEC,AZ,1-0,Legia Warsaw
+08/10/23,ERE,Ajax,1-2,AZ
+21/10/23,ERE,AZ,3-0,Heerenveen
+26/10/23,UEC,AZ,1-4,Aston Villa
+04/11/23,ERE,Excelsior,1-1,AZ
+09/11/23,UEC,Aston Villa,2-1,AZ
+12/11/23,ERE,Feyenoord,1-0,AZ
+26/11/23,ERE,AZ,3-0,Volendam
+30/11/23,UEC,AZ,1-0,Zrinjski
+03/12/23,ERE,Utrecht,1-1,AZ
+06/12/23,ERE,AZ,1-2,NEC
+09/12/23,ERE,AZ,4-1,Almere City
+14/12/23,UEC,Legia Warsaw,2-0,AZ
+17/12/23,ERE,AZ,0-4,PSV
+20/12/23,KNB,HHC,E2-3E,AZ
+13/01/24,ERE,Twente,2-1,AZ
+16/01/24,KNB,AZ,P3-3P,Quick Boys
+20/01/24,ERE,AZ,2-2,PEC Zwolle
+28/01/24,ERE,Heerenveen,2-2,AZ
+04/02/24,ERE,AZ,0-1,Feyenoord
+07/02/24,KNB,Feyenoord,2-0,AZ
+10/02/24,ERE,Almere City,0-0,AZ
+17/02/24,ERE,Fortuna Sittard,1-2,AZ
+25/02/24,ERE,AZ,2-0,Ajax
+02/03/24,ERE,Sparta Rotterdam,1-1,AZ
+10/03/24,ERE,AZ,4-0,Excelsior
+17/03/24,ERE,Volendam,0-4,AZ
+30/03/24,ERE,AZ,2-0,Vitesse
+03/04/24,ERE,Heracles,5-0,AZ
+06/04/24,ERE,PSV,5-1,AZ
+13/04/24,ERE,AZ,3-2,RKC Waalwijk
+28/04/24,ERE,NEC,0-3,AZ
+05/05/24,ERE,AZ,16:45,Twente
+12/05/24,ERE,Go Ahead Eagles,14:30,AZ
+19/05/24,ERE,AZ,14:30,Utrecht
+01/09/22,ERE,AZ,1-1,NEC
+04/09/22,ERE,Emmen,0-3,AZ
+08/09/22,UEC,Dnipro-1,0-1,AZ
+11/09/22,ERE,AZ,1-1,Twente
+15/09/22,UEC,AZ,4-1,Vaduz
+18/09/22,ERE,AZ,2-1,Ajax
+01/10/22,ERE,Groningen,1-4,AZ
+06/10/22,UEC,AZ,3-2,Apollon
+09/10/22,ERE,Utrecht,1-2,AZ
+13/10/22,UEC,Apollon,1-0,AZ
+16/10/22,ERE,AZ,1-3,Feyenoord
+23/10/22,ERE,Excelsior,2-1,AZ
+27/10/22,UEC,Vaduz,1-2,AZ
+30/10/22,ERE,AZ,2-1,Volendam
+03/11/22,UEC,AZ,2-1,Dnipro-1
+06/11/22,ERE,RKC Waalwijk,3-1,AZ
+12/11/22,ERE,PSV,0-1,AZ
+22/12/22,CLF,Valencia,1-3,AZ
+29/12/22,CLF,Atalanta,0-1,AZ
+07/01/23,ERE,AZ,1-1,Vitesse
+11/01/23,KNB,Excelsior,1-4,AZ
+14/01/23,ERE,Heerenveen,0-2,AZ
+22/01/23,ERE,AZ,3-1,Fortuna Sittard
+25/01/23,ERE,Go Ahead Eagles,1-4,AZ
+28/01/23,ERE,AZ,5-5,Utrecht
+04/02/23,ERE,Volendam,1-1,AZ
+07/02/23,KNB,AZ,E1-2E,Utrecht
+10/02/23,ERE,AZ,5-0,Excelsior
+18/02/23,ERE,Feyenoord,2-1,AZ
+25/02/23,ERE,AZ,2-1,Cambuur
+03/03/23,ERE,Vitesse,0-1,AZ
+07/03/23,UEC,Lazio,1-2,AZ
+11/03/23,ERE,AZ,1-0,Groningen
+16/03/23,UEC,AZ,2-1,Lazio
+19/03/23,ERE,Twente,2-1,AZ
+01/04/23,ERE,AZ,1-1,Heerenveen
+08/04/23,ERE,AZ,0-1,Sparta Rotterdam
+13/04/23,UEC,Anderlecht,2-0,AZ
+16/04/23,ERE,Fortuna Sittard,0-3,AZ
+20/04/23,UEC,AZ,P2-0P,Anderlecht
+23/04/23,ERE,AZ,3-0,RKC Waalwijk
+06/05/23,ERE,Ajax,0-0,AZ
+11/05/23,UEC,West Ham United,2-1,AZ
+14/05/23,ERE,AZ,5-1,Emmen
+18/05/23,UEC,AZ,0-1,West Ham United
+21/05/23,ERE,NEC,0-3,AZ
+28/05/23,ERE,AZ,1-2,PSV
+08/07/23,CLF,AZ,3-3,Shakhtar Donetsk
+15/07/23,CLF,AZ,4-0,Lech Poznań
+19/07/23,CLF,AZ,1-1,Norwich City
+28/11/21,ERE,Vitesse,0-0,AZ
+02/12/21,ERE,AZ,2-1,Fortuna Sittard
+05/12/21,ERE,AZ,3-1,Sparta Rotterdam
+09/12/21,UEC,AZ,1-0,Randers
+12/12/21,ERE,Ajax,1-2,AZ
+15/12/21,KNB,AZ,4-1,Heracles
+18/12/21,ERE,AZ,4-1,Willem II
+21/12/21,ERE,AZ,1-0,Groningen
+07/01/22,CLF,Gent,0-1,AZ
+16/01/22,ERE,Fortuna Sittard,1-2,AZ
+19/01/22,KNB,Twente,1-2,AZ
+22/01/22,ERE,AZ,0-0,Cambuur
+05/02/22,ERE,PSV,1-2,AZ
+09/02/22,KNB,RKC Waalwijk,0-4,AZ
+13/02/22,ERE,Go Ahead Eagles,1-4,AZ
+19/02/22,ERE,AZ,2-1,Heracles
+27/02/22,ERE,AZ,2-1,Feyenoord
+03/03/22,KNB,AZ,0-2,Ajax
+06/03/22,ERE,NEC,1-3,AZ
+10/03/22,UEC,Bodø / Glimt,2-1,AZ
+13/03/22,ERE,AZ,0-1,Twente
+17/03/22,UEC,AZ,2-2,Bodø / Glimt
+20/03/22,ERE,Willem II,2-2,AZ
+02/04/22,ERE,AZ,3-1,Vitesse
+10/04/22,ERE,PEC Zwolle,2-1,AZ
+23/04/22,ERE,AZ,2-1,Heerenveen
+30/04/22,ERE,Sparta Rotterdam,1-1,AZ
+08/05/22,ERE,AZ,2-2,Ajax
+11/05/22,ERE,Utrecht,2-2,AZ
+15/05/22,ERE,AZ,1-3,RKC Waalwijk
+19/05/22,ERE,Heerenveen,3-2,AZ
+22/05/22,ERE,AZ,2-0,Heerenveen
+26/05/22,ERE,Vitesse,2-1,AZ
+29/05/22,ERE,AZ,6-1,Vitesse
+02/07/22,CLF,Almere City,CANC,AZ
+02/07/22,CLF,AZ,3-1,PEC Zwolle
+06/07/22,CLF,AZ,2-2,PAOK
+09/07/22,CLF,Olympiakos,1-0,AZ
+16/07/22,CLF,Westerlo,0-1,AZ
+20/07/22,CLF,VVV,CANC,AZ
+21/07/22,UEC,AZ,1-0,Tuzla City
+24/07/22,CLF,AZ,1-0,Bologna
+28/07/22,UEC,Tuzla City,0-4,AZ
+04/08/22,UEC,Dundee United,1-0,AZ
+07/08/22,ERE,AZ,2-0,Go Ahead Eagles
+11/08/22,UEC,AZ,7-0,Dundee United
+14/08/22,ERE,Sparta Rotterdam,2-3,AZ
+18/08/22,UEC,AZ,4-0,Gil Vicente
+25/08/22,UEC,Gil Vicente,1-2,AZ
+28/08/22,ERE,Cambuur,0-1,AZ
+27/12/20,ERE,Utrecht,2-2,AZ
+09/01/21,ERE,PEC Zwolle,1-1,AZ
+13/01/21,ERE,PSV,1-3,AZ
+16/01/21,ERE,AZ,2-1,ADO Den Haag
+20/01/21,KNB,AZ,0-1,Ajax
+24/01/21,ERE,Feyenoord,2-3,AZ
+27/01/21,ERE,AZ,0-1,Utrecht
+31/01/21,ERE,AZ,0-3,Ajax
+06/02/21,ERE,Emmen,0-1,AZ
+14/02/21,ERE,AZ,3-1,Heerenveen
+20/02/21,ERE,VVV,1-4,AZ
+28/02/21,ERE,AZ,4-2,Feyenoord
+07/03/21,ERE,Vitesse,2-1,AZ
+13/03/21,ERE,AZ,4-1,Twente
+21/03/21,ERE,AZ,2-0,PSV
+03/04/21,ERE,Willem II,0-1,AZ
+10/04/21,ERE,AZ,2-0,Sparta Rotterdam
+25/04/21,ERE,Ajax,2-0,AZ
+01/05/21,ERE,RKC Waalwijk,1-3,AZ
+08/05/21,ERE,AZ,1-0,Fortuna Sittard
+13/05/21,ERE,Groningen,0-0,AZ
+16/05/21,ERE,AZ,5-0,Heracles
+03/07/21,CLF,AZ,4-1,NEC
+07/07/21,CLF,AZ,3-0,TOP Oss
+14/07/21,CLF,Genk,1-1,AZ
+17/07/21,CLF,RB Leipzig,1-0,AZ
+25/07/21,CLF,AZ,3-0,Panathinaikos
+25/07/21,CLF,AZ,CANC,Panaitolikos
+28/07/21,CLF,AZ,2-0,OFI
+31/07/21,CLF,AZ,1-0,Real Sociedad
+08/08/21,CLF,AZ,2-1,Torino
+14/08/21,ERE,RKC Waalwijk,1-0,AZ
+18/08/21,UEL,Celtic,2-0,AZ
+26/08/21,UEL,AZ,2-1,Celtic
+29/08/21,ERE,Heerenveen,1-3,AZ
+11/09/21,ERE,AZ,0-3,PSV
+16/09/21,UEC,Randers,2-2,AZ
+19/09/21,ERE,Heracles,3-2,AZ
+23/09/21,ERE,Twente,3-1,AZ
+26/09/21,ERE,AZ,5-0,Go Ahead Eagles
+30/09/21,UEC,AZ,1-0,Jablonec
+03/10/21,ERE,Cambuur,1-3,AZ
+17/10/21,ERE,AZ,5-1,Utrecht
+21/10/21,UEC,CFR Cluj,0-1,AZ
+24/10/21,ERE,Groningen,2-0,AZ
+30/10/21,ERE,AZ,3-2,PEC Zwolle
+04/11/21,UEC,AZ,2-0,CFR Cluj
+07/11/21,ERE,Feyenoord,1-0,AZ
+20/11/21,ERE,AZ,1-1,NEC
+25/11/21,UEC,Jablonec,1-1,AZ
+10/01/20,CLF,Mechelen,1-5,AZ
+18/01/20,ERE,AZ,1-3,Willem II
+21/01/20,KNB,TOP Oss,0-2,AZ
+25/01/20,ERE,Heerenveen,1-2,AZ
+31/01/20,ERE,AZ,4-0,RKC Waalwijk
+12/02/20,KNB,AZ,1-3,NAC Breda
+15/02/20,ERE,Twente,2-0,AZ
+20/02/20,UEL,AZ,1-1,LASK
+23/02/20,ERE,AZ,2-0,PEC Zwolle
+27/02/20,UEL,LASK,2-0,AZ
+01/03/20,ERE,Ajax,0-2,AZ
+07/03/20,ERE,AZ,4-0,ADO Den Haag
+15/03/20,ERE,VVV,CANC,AZ
+22/03/20,ERE,Groningen,CANC,AZ
+04/04/20,ERE,AZ,CANC,Vitesse
+08/04/20,ERE,AZ,CANC,Feyenoord
+11/04/20,ERE,Heracles,CANC,AZ
+21/04/20,ERE,AZ,CANC,PSV
+25/04/20,ERE,Fortuna Sittard,CANC,AZ
+03/05/20,ERE,AZ,CANC,Utrecht
+10/05/20,ERE,Emmen,CANC,AZ
+25/07/20,CLF,AZ,0-1,Genk
+01/08/20,CLF,Utrecht,1-0,AZ
+05/08/20,CLF,AZ,0-1,PEC Zwolle
+08/08/20,CLF,AZ,2-1,Lille
+15/08/20,CLF,AZ,0-2,Monaco
+20/08/20,CLF,AZ,CANC,Fortuna Sittard
+26/08/20,UCL,AZ,E3-1E,Viktoria Plzen
+29/08/20,CLF,ADO Den Haag,1-0,AZ
+03/09/20,CLF,AZ,1-1,Gent
+15/09/20,UCL,Dinamo Kiev,2-0,AZ
+19/09/20,ERE,AZ,1-1,PEC Zwolle
+26/09/20,ERE,Fortuna Sittard,3-3,AZ
+04/10/20,ERE,Sparta Rotterdam,4-4,AZ
+17/10/20,ERE,AZ,2-2,VVV
+22/10/20,UEL,Napoli,0-1,AZ
+25/10/20,ERE,ADO Den Haag,2-2,AZ
+29/10/20,UEL,AZ,4-1,Rijeka
+01/11/20,ERE,AZ,3-0,RKC Waalwijk
+05/11/20,UEL,Real Sociedad,1-0,AZ
+08/11/20,ERE,Heerenveen,0-3,AZ
+22/11/20,ERE,AZ,1-0,Emmen
+26/11/20,UEL,AZ,0-0,Real Sociedad
+29/11/20,ERE,Heracles,1-2,AZ
+03/12/20,UEL,AZ,1-1,Napoli
+06/12/20,ERE,AZ,1-2,Groningen
+10/12/20,UEL,Rijeka,2-1,AZ
+13/12/20,ERE,Twente,1-3,AZ
+20/12/20,ERE,AZ,5-3,Willem II
+23/12/20,ERE,AZ,3-1,Vitesse
+03/03/19,ERE,AZ,4-2,Fortuna Sittard
+10/03/19,ERE,PEC Zwolle,0-0,AZ
+17/03/19,ERE,AZ,1-0,Ajax
+21/03/19,CLF,AZ,0-1,Malmö
+30/03/19,ERE,AZ,1-0,Groningen
+02/04/19,ERE,Vitesse,2-2,AZ
+06/04/19,ERE,De Graafschap,1-1,AZ
+13/04/19,ERE,AZ,2-3,ADO Den Haag
+20/04/19,ERE,Feyenoord,2-1,AZ
+23/04/19,ERE,AZ,2-1,Heracles
+12/05/19,ERE,AZ,1-0,PSV
+15/05/19,ERE,Excelsior,4-2,AZ
+22/06/19,CLF,AZ,3-1,Eendracht Aalst
+29/06/19,CLF,AZ,0-3,Oleksandria
+03/07/19,CLF,AZ,1-0,PAOK
+06/07/19,CLF,AZ,5-2,Club Brugge
+13/07/19,CLF,Telstar,3-0,AZ
+17/07/19,CLF,Gent,2-0,AZ
+25/07/19,UEL,AZ,0-0,Häcken
+27/07/19,CLF,AZ,0-1,Beerschot
+01/08/19,UEL,Häcken,0-3,AZ
+04/08/19,ERE,AZ,4-0,Fortuna Sittard
+08/08/19,UEL,Mariupol',0-0,AZ
+11/08/19,ERE,RKC Waalwijk,0-2,AZ
+15/08/19,UEL,AZ,4-0,Mariupol'
+18/08/19,ERE,AZ,0-0,Groningen
+22/08/19,UEL,AZ,1-1,Antwerp
+29/08/19,UEL,Antwerp,E1-4E,AZ
+01/09/19,ERE,Vitesse,2-1,AZ
+14/09/19,ERE,AZ,5-1,Sparta Rotterdam
+19/09/19,UEL,Partizan,2-2,AZ
+22/09/19,ERE,ADO Den Haag,0-1,AZ
+26/09/19,ERE,Feyenoord,0-3,AZ
+29/09/19,ERE,AZ,2-0,Heracles
+03/10/19,UEL,AZ,0-0,Manchester United
+06/10/19,ERE,Willem II,1-1,AZ
+19/10/19,ERE,AZ,2-4,Heerenveen
+24/10/19,UEL,AZ,6-0,Astana
+27/10/19,ERE,PSV,0-4,AZ
+02/11/19,ERE,AZ,3-0,Twente
+07/11/19,UEL,Astana,0-5,AZ
+10/11/19,ERE,AZ,3-0,Emmen
+23/11/19,ERE,Utrecht,0-3,AZ
+28/11/19,UEL,AZ,2-2,Partizan
+01/12/19,ERE,AZ,1-0,VVV
+07/12/19,ERE,PEC Zwolle,0-3,AZ
+12/12/19,UEL,Manchester United,4-0,AZ
+15/12/19,ERE,AZ,1-0,Ajax
+18/12/19,KNB,AZ,3-0,Groene Ster
+21/12/19,ERE,Sparta Rotterdam,3-0,AZ
+24/02/18,ERE,AZ,2-1,Sparta Rotterdam
+28/02/18,KNB,AZ,4-0,Twente
+03/03/18,ERE,Excelsior,1-2,AZ
+11/03/18,ERE,Feyenoord,2-1,AZ
+18/03/18,ERE,AZ,3-2,Groningen
+31/03/18,ERE,ADO Den Haag,0-3,AZ
+07/04/18,ERE,AZ,2-3,PSV
+13/04/18,ERE,Heracles,0-3,AZ
+18/04/18,ERE,AZ,4-3,Vitesse
+22/04/18,KNB,AZ,0-3,Feyenoord
+29/04/18,ERE,Ajax,3-0,AZ
+06/05/18,ERE,AZ,6-0,PEC Zwolle
+07/07/18,CLF,AZ,1-1,Midtjylland
+14/07/18,CLF,AZ,2-0,Lokeren
+18/07/18,CLF,AZ,2-0,Panathinaikos
+22/07/18,CLF,Zulte Waregem,0-1,AZ
+26/07/18,UEL,Kairat,2-0,AZ
+02/08/18,UEL,AZ,2-1,Kairat
+04/08/18,CLF,AZ,2-3,Excelsior
+12/08/18,ERE,AZ,5-0,NAC Breda
+19/08/18,ERE,Emmen,1-4,AZ
+26/08/18,ERE,AZ,0-0,Vitesse
+02/09/18,ERE,Heracles,3-2,AZ
+16/09/18,ERE,AZ,1-1,Feyenoord
+23/09/18,ERE,Groningen,1-3,AZ
+27/09/18,KNB,Alcides,0-6,AZ
+30/09/18,ERE,AZ,2-2,PEC Zwolle
+07/10/18,ERE,Ajax,5-0,AZ
+20/10/18,ERE,Utrecht,2-1,AZ
+28/10/18,ERE,AZ,2-3,Heerenveen
+31/10/18,KNB,AZ,2-0,VVV
+03/11/18,ERE,AZ,1-0,De Graafschap
+11/11/18,ERE,ADO Den Haag,0-1,AZ
+25/11/18,ERE,VVV,2-2,AZ
+01/12/18,ERE,AZ,0-2,Willem II
+07/12/18,ERE,Fortuna Sittard,0-3,AZ
+15/12/18,ERE,AZ,2-1,Excelsior
+18/12/18,KNB,AZ,5-0,PEC Zwolle
+22/12/18,ERE,PSV,3-1,AZ
+11/01/19,CLF,Slovacko,1-1,AZ
+11/01/19,CLF,Fenerbahce,3-2,AZ
+15/01/19,CLF,De Graafschap,2-2,AZ
+19/01/19,ERE,AZ,3-0,Utrecht
+22/01/19,KNB,AZ,2-0,Vitesse
+27/01/19,ERE,Heerenveen,0-2,AZ
+02/02/19,ERE,AZ,5-0,Emmen
+08/02/19,ERE,NAC Breda,0-3,AZ
+16/02/19,ERE,AZ,3-0,VVV
+24/02/19,ERE,Willem II,2-1,AZ
+28/02/19,KNB,Willem II,P1-1P,AZ
+12/03/17,ERE,Feyenoord,5-2,AZ
+19/03/17,ERE,AZ,4-0,ADO Den Haag
+01/04/17,ERE,AZ,0-0,Groningen
+05/04/17,ERE,Ajax,4-1,AZ
+09/04/17,ERE,AZ,1-1,Roda JC
+14/04/17,ERE,Heracles,1-2,AZ
+22/04/17,ERE,AZ,2-1,Twente
+30/04/17,KNB,AZ,0-2,Vitesse
+07/05/17,ERE,NEC,2-1,AZ
+14/05/17,ERE,AZ,2-3,Utrecht
+17/05/17,ERE,Groningen,1-4,AZ
+20/05/17,ERE,AZ,4-1,Groningen
+25/05/17,ERE,AZ,3-0,Utrecht
+28/05/17,ERE,Utrecht,P3-0P,AZ
+06/07/17,CLF,Oleksandria,1-3,AZ
+15/07/17,CLF,Club Brugge,1-3,AZ
+20/07/17,CLF,Panathinaikos,2-1,AZ
+26/07/17,CLF,AZ,3-0,Malaga
+28/07/17,CLF,Whitby Town,P1-1P,AZ
+29/07/17,CLF,AZ,4-0,Cambuur
+12/08/17,ERE,PSV,3-2,AZ
+19/08/17,ERE,AZ,2-0,ADO Den Haag
+26/08/17,ERE,Vitesse,1-2,AZ
+10/09/17,ERE,AZ,2-1,NAC Breda
+15/09/17,ERE,Sparta Rotterdam,0-2,AZ
+19/09/17,KNB,MVV,2-3,AZ
+24/09/17,ERE,AZ,0-2,Excelsior
+01/10/17,ERE,AZ,0-4,Feyenoord
+15/10/17,ERE,Groningen,1-1,AZ
+22/10/17,ERE,AZ,3-0,Utrecht
+26/10/17,KNB,Almere City,0-4,AZ
+29/10/17,ERE,Heerenveen,1-2,AZ
+04/11/17,ERE,AZ,3-2,Willem II
+08/11/17,CLF,Cambuur,1-5,AZ
+19/11/17,ERE,Roda JC,0-1,AZ
+24/11/17,ERE,AZ,2-0,Twente
+03/12/17,ERE,VVV,0-2,AZ
+09/12/17,ERE,AZ,5-0,Heracles
+12/12/17,ERE,PEC Zwolle,1-1,AZ
+17/12/17,ERE,AZ,1-2,Ajax
+20/12/17,KNB,Fortuna Sittard,2-4,AZ
+23/12/17,ERE,AZ,3-1,Heerenveen
+12/01/18,CLF,AZ,2-2,St.Gallen
+19/01/18,ERE,Utrecht,1-1,AZ
+28/01/18,ERE,Willem II,0-2,AZ
+31/01/18,KNB,AZ,4-1,PEC Zwolle
+04/02/18,ERE,AZ,2-2,Roda JC
+07/02/18,ERE,Twente,0-4,AZ
+10/02/18,ERE,AZ,0-0,VVV
+17/02/18,ERE,NAC Breda,1-3,AZ
+16/07/16,CLF,AZ,4-0,Almere City
+16/07/16,CLF,AZ,3-0,Telstar
+20/07/16,CLF,AZ,5-0,Fleetwood Town
+20/07/16,CLF,SDV Barneveld,0-5,AZ
+23/07/16,CLF,AZ,3-0,Hertha Berlin
+28/07/16,UEL,AZ,1-0,PAS Giannina
+29/07/16,CLF,AZ,3-2,Emmen
+04/08/16,UEL,PAS Giannina,1-2,AZ
+07/08/16,ERE,AZ,2-2,Heerenveen
+14/08/16,ERE,PSV,1-0,AZ
+18/08/16,UEL,Vojvodina,0-3,AZ
+21/08/16,ERE,Utrecht,1-2,AZ
+25/08/16,UEL,AZ,0-0,Vojvodina
+28/08/16,ERE,AZ,2-0,NEC
+10/09/16,ERE,AZ,2-0,Willem II
+15/09/16,UEL,AZ,1-1,Dundalk
+18/09/16,ERE,PEC Zwolle,0-2,AZ
+21/09/16,KNB,Lienden,1-4,AZ
+24/09/16,ERE,AZ,2-2,Go Ahead Eagles
+29/09/16,UEL,Zenit,5-0,AZ
+02/10/16,ERE,Sparta Rotterdam,1-1,AZ
+15/10/16,ERE,AZ,2-2,Vitesse
+20/10/16,UEL,AZ,1-2,Maccabi Tel Aviv
+23/10/16,ERE,Groningen,2-0,AZ
+26/10/16,KNB,AZ,1-0,Emmen
+30/10/16,ERE,ADO Den Haag,0-1,AZ
+03/11/16,UEL,Maccabi Tel Aviv,0-0,AZ
+06/11/16,ERE,AZ,2-2,Ajax
+12/11/16,CLF,Besiktas,1-4,AZ
+20/11/16,ERE,Roda JC,1-1,AZ
+24/11/16,UEL,Dundalk,0-1,AZ
+27/11/16,ERE,AZ,5-1,Heracles
+03/12/16,ERE,Excelsior,3-3,AZ
+08/12/16,UEL,AZ,3-2,Zenit
+11/12/16,ERE,AZ,0-4,Feyenoord
+14/12/16,KNB,AZ,2-0,ASWH
+17/12/16,ERE,Twente,1-2,AZ
+07/01/17,CLF,Augsburg,1-1,AZ
+13/01/17,ERE,Go Ahead Eagles,1-3,AZ
+21/01/17,ERE,AZ,1-1,Sparta Rotterdam
+25/01/17,KNB,AZ,1-0,Heerenveen
+29/01/17,ERE,Vitesse,2-1,AZ
+04/02/17,ERE,AZ,2-4,PSV
+12/02/17,ERE,Heerenveen,1-2,AZ
+16/02/17,UEL,AZ,1-4,Lyon
+19/02/17,ERE,Willem II,1-1,AZ
+23/02/17,UEL,Lyon,7-1,AZ
+26/02/17,ERE,AZ,1-1,PEC Zwolle
+02/03/17,KNB,AZ,P0-0P,Cambuur
+05/03/17,ERE,AZ,1-1,Excelsior
+15/08/15,ERE,Excelsior,2-2,AZ
+20/08/15,UEL,Astra,3-2,AZ
+23/08/15,ERE,AZ,0-0,Willem II
+27/08/15,UEL,AZ,2-0,Astra
+30/08/15,ERE,AZ,0-1,Roda JC
+12/09/15,ERE,De Graafschap,1-3,AZ
+17/09/15,UEL,Partizan,3-2,AZ
+20/09/15,ERE,Groningen,2-0,AZ
+23/09/15,KNB,AZ,6-1,VVV
+26/09/15,ERE,AZ,3-1,Heracles
+01/10/15,UEL,AZ,2-1,Athletic Bilbao
+04/10/15,ERE,AZ,3-1,Twente
+10/10/15,CLF,Mechelen,2-1,AZ
+17/10/15,ERE,Cambuur,1-1,AZ
+22/10/15,UEL,AZ,0-1,Augsburg
+25/10/15,ERE,Feyenoord,3-1,AZ
+29/10/15,KNB,Telstar,0-1,AZ
+01/11/15,ERE,AZ,2-4,NEC
+05/11/15,UEL,Augsburg,4-1,AZ
+08/11/15,ERE,Vitesse,0-2,AZ
+21/11/15,ERE,AZ,3-1,Heerenveen
+26/11/15,UEL,AZ,1-2,Partizan
+29/11/15,ERE,PSV,3-0,AZ
+04/12/15,ERE,AZ,0-1,ADO Den Haag
+10/12/15,UEL,Athletic Bilbao,2-2,AZ
+13/12/15,ERE,PEC Zwolle,2-1,AZ
+16/12/15,KNB,Kozakken Boys,1-3,AZ
+19/12/15,ERE,AZ,2-2,Utrecht
+07/01/16,CLF,Club Brugge,2-2,AZ
+16/01/16,ERE,Roda JC,0-1,AZ
+24/01/16,ERE,AZ,4-2,Feyenoord
+27/01/16,ERE,AZ,3-1,Cambuur
+30/01/16,ERE,NEC,0-3,AZ
+02/02/16,KNB,AZ,1-0,HHC
+06/02/16,ERE,AZ,1-0,Vitesse
+13/02/16,ERE,Heracles,3-6,AZ
+20/02/16,ERE,AZ,4-1,Groningen
+28/02/16,ERE,Ajax,4-1,AZ
+03/03/16,KNB,Feyenoord,3-1,AZ
+06/03/16,ERE,AZ,2-0,Excelsior
+12/03/16,ERE,Willem II,0-2,AZ
+20/03/16,ERE,Twente,2-2,AZ
+02/04/16,ERE,AZ,2-4,PSV
+10/04/16,ERE,Heerenveen,4-2,AZ
+16/04/16,ERE,AZ,5-1,PEC Zwolle
+21/04/16,ERE,ADO Den Haag,1-2,AZ
+01/05/16,ERE,AZ,4-1,De Graafschap
+08/05/16,ERE,Utrecht,1-3,AZ
+02/07/16,CLF,SVW '27,1-5,AZ
+09/07/16,CLF,AZ,8-1,Volendam

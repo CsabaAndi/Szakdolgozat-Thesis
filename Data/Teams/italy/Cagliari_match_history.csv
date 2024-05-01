@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+27/05/23,SEB,Cagliari,2-1,Venezia
+30/05/23,SEB,Cagliari,3-2,Parma
+03/06/23,SEB,Parma,0-0,Cagliari
+08/06/23,SEB,Cagliari,1-1,Bari
+11/06/23,SEB,Bari,0-1,Cagliari
+21/07/23,CLF,Olbia,0-2,Cagliari
+29/07/23,CLF,Cagliari,3-0,Juventus II
+02/08/23,CLF,Cagliari,2-1,Como
+05/08/23,CLF,Brest,1-1,Cagliari
+12/08/23,COI,Cagliari,E2-1E,Palermo
+21/08/23,SEA,Torino,0-0,Cagliari
+28/08/23,SEA,Cagliari,0-2,Inter Milan
+02/09/23,SEA,Bologna,2-1,Cagliari
+17/09/23,SEA,Cagliari,0-0,Udinese
+24/09/23,SEA,Atalanta,2-0,Cagliari
+27/09/23,SEA,Cagliari,1-3,AC Milan
+02/10/23,SEA,Fiorentina,3-0,Cagliari
+08/10/23,SEA,Cagliari,1-4,Roma
+22/10/23,SEA,Salernitana,2-2,Cagliari
+29/10/23,SEA,Cagliari,4-3,Frosinone
+01/11/23,COI,Udinese,E1-2E,Cagliari
+05/11/23,SEA,Cagliari,2-1,Genoa
+11/11/23,SEA,Juventus,2-1,Cagliari
+26/11/23,SEA,Cagliari,1-1,Monza
+02/12/23,SEA,Lazio,1-0,Cagliari
+11/12/23,SEA,Cagliari,2-1,Sassuolo
+16/12/23,SEA,Napoli,2-1,Cagliari
+23/12/23,SEA,Verona,2-0,Cagliari
+30/12/23,SEA,Cagliari,0-0,Empoli
+02/01/24,COI,AC Milan,4-1,Cagliari
+06/01/24,SEA,Lecce,1-1,Cagliari
+14/01/24,SEA,Cagliari,2-1,Bologna
+21/01/24,SEA,Frosinone,3-1,Cagliari
+26/01/24,SEA,Cagliari,1-2,Torino
+05/02/24,SEA,Roma,4-0,Cagliari
+10/02/24,SEA,Cagliari,1-3,Lazio
+18/02/24,SEA,Udinese,1-1,Cagliari
+25/02/24,SEA,Cagliari,1-1,Napoli
+03/03/24,SEA,Empoli,0-1,Cagliari
+09/03/24,SEA,Cagliari,4-2,Salernitana
+16/03/24,SEA,Monza,1-0,Cagliari
+01/04/24,SEA,Cagliari,1-1,Verona
+07/04/24,SEA,Cagliari,2-1,Atalanta
+14/04/24,SEA,Inter Milan,2-2,Cagliari
+19/04/24,SEA,Cagliari,2-2,Juventus
+29/04/24,SEA,Genoa,3-0,Cagliari
+05/05/24,SEA,Cagliari,12:30,Lecce
+11/05/24,SEA,AC Milan,20:45,Cagliari
+19/05/24,SEA,Sassuolo,-,Cagliari
+26/05/24,SEA,Cagliari,-,Fiorentina
+09/04/22,SEA,Cagliari,1-2,Juventus
+16/04/22,SEA,Cagliari,1-0,Sassuolo
+24/04/22,SEA,Genoa,1-0,Cagliari
+30/04/22,SEA,Cagliari,1-2,Verona
+08/05/22,SEA,Salernitana,1-1,Cagliari
+15/05/22,SEA,Cagliari,1-3,Inter Milan
+22/05/22,SEA,Venezia,0-0,Cagliari
+23/07/22,CLF,Olbia,0-3,Cagliari
+27/07/22,CLF,Strasbourg,1-2,Cagliari
+31/07/22,CLF,Leeds United,6-2,Cagliari
+05/08/22,COI,Cagliari,3-2,Perugia
+13/08/22,SEB,Como,1-1,Cagliari
+21/08/22,SEB,Cagliari,2-1,Cittadella
+27/08/22,SEB,SPAL,1-0,Cagliari
+02/09/22,SEB,Cagliari,1-0,Modena
+10/09/22,SEB,Benevento,0-2,Cagliari
+17/09/22,SEB,Cagliari,0-1,Bari
+01/10/22,SEB,Cagliari,1-4,Venezia
+07/10/22,SEB,Genoa,0-0,Cagliari
+15/10/22,SEB,Cagliari,2-1,Brescia
+20/10/22,COI,Bologna,1-0,Cagliari
+24/10/22,SEB,Ascoli,2-1,Cagliari
+29/10/22,SEB,Cagliari,1-1,Reggina
+05/11/22,SEB,Südtirol,2-2,Cagliari
+12/11/22,SEB,Cagliari,1-1,Pisa
+27/11/22,SEB,Frosinone,2-2,Cagliari
+03/12/22,SEB,Cagliari,1-1,Parma
+07/12/22,SEB,Ternana,1-0,Cagliari
+11/12/22,SEB,Cagliari,3-2,Perugia
+18/12/22,SEB,Palermo,2-1,Cagliari
+26/12/22,SEB,Cagliari,2-0,Cosenza
+14/01/23,SEB,Cagliari,2-0,Como
+21/01/23,SEB,Cittadella,0-0,Cagliari
+27/01/23,SEB,Cagliari,2-1,SPAL
+03/02/23,SEB,Modena,2-0,Cagliari
+11/02/23,SEB,Cagliari,1-0,Benevento
+18/02/23,SEB,Bari,1-1,Cagliari
+25/02/23,SEB,Venezia,0-0,Cagliari
+01/03/23,SEB,Cagliari,0-0,Genoa
+05/03/23,SEB,Brescia,1-1,Cagliari
+10/03/23,SEB,Cagliari,4-1,Ascoli
+18/03/23,SEB,Reggina,0-4,Cagliari
+01/04/23,SEB,Cagliari,1-1,Südtirol
+10/04/23,SEB,Pisa,0-0,Cagliari
+15/04/23,SEB,Cagliari,0-0,Frosinone
+22/04/23,SEB,Parma,2-1,Cagliari
+30/04/23,SEB,Cagliari,2-1,Ternana
+05/05/23,SEB,Perugia,0-5,Cagliari
+13/05/23,SEB,Cagliari,2-1,Palermo
+19/05/23,SEB,Cosenza,0-1,Cagliari
+14/03/21,SEA,Cagliari,1-3,Juventus
+20/03/21,SEA,Spezia,2-1,Cagliari
+03/04/21,SEA,Cagliari,0-2,Verona
+11/04/21,SEA,Inter Milan,1-0,Cagliari
+17/04/21,SEA,Cagliari,4-3,Parma
+21/04/21,SEA,Udinese,0-1,Cagliari
+25/04/21,SEA,Cagliari,3-2,Roma
+02/05/21,SEA,Napoli,1-1,Cagliari
+09/05/21,SEA,Benevento,1-3,Cagliari
+12/05/21,SEA,Cagliari,0-0,Fiorentina
+16/05/21,SEA,AC Milan,0-0,Cagliari
+22/05/21,SEA,Cagliari,0-1,Genoa
+24/07/21,CLF,Vicenza,0-3,Cagliari
+31/07/21,CLF,Augsburg,3-1,Cagliari
+04/08/21,CLF,Olbia,0-3,Cagliari
+07/08/21,CLF,Mallorca,1-0,Cagliari
+14/08/21,COI,Cagliari,3-1,Pisa
+23/08/21,SEA,Cagliari,2-2,Spezia
+29/08/21,SEA,AC Milan,4-1,Cagliari
+12/09/21,SEA,Cagliari,2-3,Genoa
+19/09/21,SEA,Lazio,2-2,Cagliari
+22/09/21,SEA,Cagliari,0-2,Empoli
+26/09/21,SEA,Napoli,2-0,Cagliari
+01/10/21,SEA,Cagliari,1-1,Venezia
+17/10/21,SEA,Cagliari,3-1,Sampdoria
+24/10/21,SEA,Fiorentina,3-0,Cagliari
+27/10/21,SEA,Cagliari,1-2,Roma
+01/11/21,SEA,Bologna,2-0,Cagliari
+06/11/21,SEA,Cagliari,1-2,Atalanta
+21/11/21,SEA,Sassuolo,2-2,Cagliari
+26/11/21,SEA,Cagliari,1-1,Salernitana
+30/11/21,SEA,Verona,0-0,Cagliari
+06/12/21,SEA,Cagliari,1-1,Torino
+12/12/21,SEA,Inter Milan,4-0,Cagliari
+15/12/21,COI,Cagliari,3-1,Cittadella
+18/12/21,SEA,Cagliari,0-4,Udinese
+21/12/21,SEA,Juventus,2-0,Cagliari
+06/01/22,SEA,Sampdoria,1-2,Cagliari
+11/01/22,SEA,Cagliari,2-1,Bologna
+16/01/22,SEA,Roma,1-0,Cagliari
+19/01/22,COI,Sassuolo,1-0,Cagliari
+23/01/22,SEA,Cagliari,1-1,Fiorentina
+06/02/22,SEA,Atalanta,1-2,Cagliari
+13/02/22,SEA,Empoli,1-1,Cagliari
+21/02/22,SEA,Cagliari,1-1,Napoli
+27/02/22,SEA,Torino,1-2,Cagliari
+05/03/22,SEA,Cagliari,0-3,Lazio
+12/03/22,SEA,Spezia,2-0,Cagliari
+19/03/22,SEA,Cagliari,0-1,AC Milan
+03/04/22,SEA,Udinese,5-1,Cagliari
+19/01/20,SEA,Brescia,2-2,Cagliari
+26/01/20,SEA,Inter Milan,1-1,Cagliari
+01/02/20,SEA,Cagliari,2-2,Parma
+09/02/20,SEA,Genoa,1-0,Cagliari
+16/02/20,SEA,Cagliari,0-1,Napoli
+01/03/20,SEA,Cagliari,3-4,Roma
+20/06/20,SEA,Verona,2-1,Cagliari
+23/06/20,SEA,SPAL,0-1,Cagliari
+27/06/20,SEA,Cagliari,4-2,Torino
+01/07/20,SEA,Bologna,1-1,Cagliari
+05/07/20,SEA,Cagliari,0-1,Atalanta
+08/07/20,SEA,Fiorentina,0-0,Cagliari
+12/07/20,SEA,Cagliari,0-0,Lecce
+15/07/20,SEA,Sampdoria,3-0,Cagliari
+18/07/20,SEA,Cagliari,1-1,Sassuolo
+23/07/20,SEA,Lazio,2-1,Cagliari
+26/07/20,SEA,Cagliari,0-1,Udinese
+29/07/20,SEA,Cagliari,2-0,Juventus
+01/08/20,SEA,AC Milan,3-0,Cagliari
+04/09/20,CLF,Cagliari,1-0,Olbia
+12/09/20,CLF,Cagliari,2-2,Roma
+20/09/20,SEA,Sassuolo,1-1,Cagliari
+26/09/20,SEA,Cagliari,0-2,Lazio
+04/10/20,SEA,Atalanta,5-2,Cagliari
+18/10/20,SEA,Torino,2-3,Cagliari
+25/10/20,SEA,Cagliari,4-2,Crotone
+28/10/20,COI,Cagliari,1-0,Cremonese
+31/10/20,SEA,Bologna,3-2,Cagliari
+07/11/20,SEA,Cagliari,2-0,Sampdoria
+21/11/20,SEA,Juventus,2-0,Cagliari
+25/11/20,COI,Cagliari,2-1,Verona
+29/11/20,SEA,Cagliari,2-2,Spezia
+06/12/20,SEA,Verona,1-1,Cagliari
+13/12/20,SEA,Cagliari,1-3,Inter Milan
+16/12/20,SEA,Parma,0-0,Cagliari
+20/12/20,SEA,Cagliari,1-1,Udinese
+23/12/20,SEA,Roma,3-2,Cagliari
+03/01/21,SEA,Cagliari,1-4,Napoli
+06/01/21,SEA,Cagliari,1-2,Benevento
+10/01/21,SEA,Fiorentina,1-0,Cagliari
+14/01/21,COI,Atalanta,3-1,Cagliari
+18/01/21,SEA,Cagliari,0-2,AC Milan
+24/01/21,SEA,Genoa,1-0,Cagliari
+31/01/21,SEA,Cagliari,1-1,Sassuolo
+07/02/21,SEA,Lazio,1-0,Cagliari
+14/02/21,SEA,Cagliari,0-1,Atalanta
+19/02/21,SEA,Cagliari,0-1,Torino
+28/02/21,SEA,Crotone,0-2,Cagliari
+03/03/21,SEA,Cagliari,1-0,Bologna
+07/03/21,SEA,Sampdoria,2-2,Cagliari
+14/01/19,COI,Cagliari,0-2,Atalanta
+20/01/19,SEA,Cagliari,2-2,Empoli
+26/01/19,SEA,Sassuolo,3-0,Cagliari
+04/02/19,SEA,Cagliari,0-1,Atalanta
+10/02/19,SEA,AC Milan,3-0,Cagliari
+16/02/19,SEA,Cagliari,2-1,Parma
+24/02/19,SEA,Sampdoria,1-0,Cagliari
+01/03/19,SEA,Cagliari,2-1,Inter Milan
+10/03/19,SEA,Bologna,2-0,Cagliari
+15/03/19,SEA,Cagliari,2-1,Fiorentina
+29/03/19,SEA,Chievo,0-3,Cagliari
+02/04/19,SEA,Cagliari,0-2,Juventus
+07/04/19,SEA,Cagliari,2-1,SPAL
+14/04/19,SEA,Torino,1-1,Cagliari
+20/04/19,SEA,Cagliari,1-0,Frosinone
+27/04/19,SEA,Roma,3-0,Cagliari
+05/05/19,SEA,Napoli,2-1,Cagliari
+11/05/19,SEA,Cagliari,1-2,Lazio
+18/05/19,SEA,Genoa,1-1,Cagliari
+26/05/19,SEA,Cagliari,1-2,Udinese
+21/07/19,CLF,Cagliari,1-1,FeralpiSalò
+24/07/19,CLF,Cagliari,2-1,Chievo
+27/07/19,CLF,Cagliari,1-1,Leeds United
+03/08/19,CLF,Freiburg,0-1,Cagliari
+03/08/19,CLF,Freiburg,4-1,Cagliari
+07/08/19,CLF,Fenerbahce,2-2,Cagliari
+09/08/19,CLF,Catania,1-1,Cagliari
+18/08/19,COI,Cagliari,2-1,Chievo
+25/08/19,SEA,Cagliari,0-1,Brescia
+01/09/19,SEA,Cagliari,1-2,Inter Milan
+15/09/19,SEA,Parma,1-3,Cagliari
+20/09/19,SEA,Cagliari,3-1,Genoa
+25/09/19,SEA,Napoli,0-1,Cagliari
+29/09/19,SEA,Cagliari,1-1,Verona
+06/10/19,SEA,Roma,1-1,Cagliari
+11/10/19,CLF,Cagliari,3-1,Pogon Szczecin
+20/10/19,SEA,Cagliari,2-0,SPAL
+27/10/19,SEA,Torino,1-1,Cagliari
+30/10/19,SEA,Cagliari,3-2,Bologna
+03/11/19,SEA,Atalanta,0-2,Cagliari
+10/11/19,SEA,Cagliari,5-2,Fiorentina
+25/11/19,SEA,Lecce,2-2,Cagliari
+02/12/19,SEA,Cagliari,4-3,Sampdoria
+05/12/19,COI,Cagliari,2-1,Sampdoria
+08/12/19,SEA,Sassuolo,2-2,Cagliari
+16/12/19,SEA,Cagliari,1-2,Lazio
+21/12/19,SEA,Udinese,2-1,Cagliari
+06/01/20,SEA,Juventus,4-0,Cagliari
+11/01/20,SEA,Cagliari,0-2,AC Milan
+14/01/20,COI,Inter Milan,4-1,Cagliari
+03/12/17,SEA,Bologna,1-1,Cagliari
+09/12/17,SEA,Cagliari,2-2,Sampdoria
+16/12/17,SEA,Roma,1-0,Cagliari
+22/12/17,SEA,Cagliari,0-1,Fiorentina
+30/12/17,SEA,Atalanta,1-2,Cagliari
+06/01/18,SEA,Cagliari,0-1,Juventus
+21/01/18,SEA,Cagliari,1-2,AC Milan
+28/01/18,SEA,Crotone,1-1,Cagliari
+04/02/18,SEA,Cagliari,2-0,SPAL
+11/02/18,SEA,Sassuolo,0-0,Cagliari
+17/02/18,SEA,Chievo,2-1,Cagliari
+26/02/18,SEA,Cagliari,0-5,Napoli
+11/03/18,SEA,Cagliari,2-2,Lazio
+18/03/18,SEA,Benevento,1-2,Cagliari
+31/03/18,SEA,Cagliari,0-4,Torino
+03/04/18,SEA,Genoa,2-1,Cagliari
+08/04/18,SEA,Verona,1-0,Cagliari
+14/04/18,SEA,Cagliari,2-1,Udinese
+17/04/18,SEA,Inter Milan,4-0,Cagliari
+22/04/18,SEA,Cagliari,0-0,Bologna
+29/04/18,SEA,Sampdoria,4-1,Cagliari
+06/05/18,SEA,Cagliari,0-1,Roma
+13/05/18,SEA,Fiorentina,0-1,Cagliari
+20/05/18,SEA,Cagliari,1-0,Atalanta
+26/07/18,CLF,Cagliari,1-0,Cremonese
+01/08/18,CLF,Fenerbahce,2-1,Cagliari
+04/08/18,CLF,Trabzonspor,0-0,Cagliari
+08/08/18,CLF,Cagliari,0-1,Atletico Madrid
+12/08/18,COI,Cagliari,2-1,Palermo
+19/08/18,SEA,Empoli,2-0,Cagliari
+26/08/18,SEA,Cagliari,2-2,Sassuolo
+02/09/18,SEA,Atalanta,0-1,Cagliari
+06/09/18,CLF,Cagliari,1-0,Olbia
+16/09/18,SEA,Cagliari,1-1,AC Milan
+22/09/18,SEA,Parma,2-0,Cagliari
+26/09/18,SEA,Cagliari,0-0,Sampdoria
+29/09/18,SEA,Inter Milan,2-0,Cagliari
+06/10/18,SEA,Cagliari,2-0,Bologna
+21/10/18,SEA,Fiorentina,1-1,Cagliari
+28/10/18,SEA,Cagliari,2-1,Chievo
+03/11/18,SEA,Juventus,3-1,Cagliari
+10/11/18,SEA,SPAL,2-2,Cagliari
+26/11/18,SEA,Cagliari,0-0,Torino
+02/12/18,SEA,Frosinone,1-1,Cagliari
+05/12/18,COI,Chievo,1-2,Cagliari
+08/12/18,SEA,Cagliari,2-2,Roma
+16/12/18,SEA,Cagliari,0-1,Napoli
+22/12/18,SEA,Lazio,3-1,Cagliari
+26/12/18,SEA,Cagliari,1-0,Genoa
+29/12/18,SEA,Udinese,2-0,Cagliari
+31/10/16,SEA,Cagliari,2-1,Palermo
+05/11/16,SEA,Torino,5-1,Cagliari
+19/11/16,SEA,Chievo,1-0,Cagliari
+27/11/16,SEA,Cagliari,2-1,Udinese
+30/11/16,COI,Sampdoria,3-0,Cagliari
+04/12/16,SEA,Pescara,1-1,Cagliari
+11/12/16,SEA,Cagliari,0-5,Napoli
+17/12/16,SEA,Empoli,2-0,Cagliari
+22/12/16,SEA,Cagliari,4-3,Sassuolo
+08/01/17,SEA,AC Milan,1-0,Cagliari
+15/01/17,SEA,Cagliari,4-1,Genoa
+22/01/17,SEA,Roma,1-0,Cagliari
+29/01/17,SEA,Cagliari,1-1,Bologna
+05/02/17,SEA,Atalanta,2-0,Cagliari
+12/02/17,SEA,Cagliari,0-2,Juventus
+19/02/17,SEA,Sampdoria,1-1,Cagliari
+26/02/17,SEA,Crotone,1-2,Cagliari
+05/03/17,SEA,Cagliari,1-5,Inter Milan
+12/03/17,SEA,Fiorentina,1-0,Cagliari
+19/03/17,SEA,Cagliari,0-0,Lazio
+02/04/17,SEA,Palermo,1-3,Cagliari
+09/04/17,SEA,Cagliari,2-3,Torino
+15/04/17,SEA,Cagliari,4-0,Chievo
+23/04/17,SEA,Udinese,2-1,Cagliari
+30/04/17,SEA,Cagliari,1-0,Pescara
+06/05/17,SEA,Napoli,3-1,Cagliari
+14/05/17,SEA,Cagliari,3-2,Empoli
+21/05/17,SEA,Sassuolo,6-2,Cagliari
+28/05/17,SEA,Cagliari,2-1,AC Milan
+22/07/17,CLF,Brescia,2-2,Cagliari
+29/07/17,CLF,Cagliari,0-1,Olbia
+05/08/17,CLF,Crotone,2-2,Cagliari
+07/08/17,CLF,Fenerbahce,1-0,Cagliari
+12/08/17,COI,Cagliari,P1-1P,Palermo
+19/08/17,SEA,Juventus,3-0,Cagliari
+27/08/17,SEA,AC Milan,2-1,Cagliari
+31/08/17,CLF,Cagliari,CANC,Tortolì
+10/09/17,SEA,Cagliari,1-0,Crotone
+17/09/17,SEA,SPAL,0-2,Cagliari
+20/09/17,SEA,Cagliari,0-1,Sassuolo
+24/09/17,SEA,Cagliari,0-2,Chievo
+01/10/17,SEA,Napoli,3-0,Cagliari
+15/10/17,SEA,Cagliari,2-3,Genoa
+22/10/17,SEA,Lazio,3-0,Cagliari
+25/10/17,SEA,Cagliari,2-1,Benevento
+29/10/17,SEA,Torino,2-1,Cagliari
+05/11/17,SEA,Cagliari,2-1,Verona
+19/11/17,SEA,Udinese,0-1,Cagliari
+25/11/17,SEA,Cagliari,1-3,Inter Milan
+28/11/17,COI,Cagliari,1-2,Pordenone
+02/11/15,SEB,Cagliari,2-0,Vicenza
+07/11/15,SEB,Cagliari,2-1,Modena
+15/11/15,SEB,Spezia,0-3,Cagliari
+23/11/15,SEB,Cagliari,3-0,Ascoli
+28/11/15,SEB,Brescia,4-0,Cagliari
+03/12/15,COI,Sassuolo,0-1,Cagliari
+06/12/15,SEB,Cagliari,1-1,Como
+09/12/15,SEB,Virtus Lanciano,1-3,Cagliari
+12/12/15,SEB,Livorno,1-1,Cagliari
+15/12/15,COI,Inter Milan,3-0,Cagliari
+19/12/15,SEB,Cagliari,2-1,Bari
+24/12/15,SEB,Salernitana,0-2,Cagliari
+27/12/15,SEB,Cagliari,3-0,Pro Vercelli
+18/01/16,SEB,Crotone,3-1,Cagliari
+23/01/16,SEB,Cagliari,1-0,Ternana
+29/01/16,SEB,Avellino,1-2,Cagliari
+06/02/16,SEB,Cagliari,1-0,Virtus Entella
+13/02/16,SEB,Latina,1-3,Cagliari
+20/02/16,SEB,Cagliari,2-1,Pescara
+26/02/16,SEB,Cesena,2-0,Cagliari
+29/02/16,SEB,Cagliari,0-1,Novara
+05/03/16,SEB,Trapani,2-2,Cagliari
+14/03/16,SEB,Cagliari,0-2,Perugia
+19/03/16,SEB,Vicenza,0-2,Cagliari
+26/03/16,SEB,Modena,1-2,Cagliari
+02/04/16,SEB,Cagliari,1-2,Spezia
+09/04/16,SEB,Ascoli,2-1,Cagliari
+16/04/16,SEB,Cagliari,6-0,Brescia
+19/04/16,SEB,Como,1-1,Cagliari
+23/04/16,SEB,Cagliari,1-1,Virtus Lanciano
+30/04/16,SEB,Cagliari,2-2,Livorno
+06/05/16,SEB,Bari,0-3,Cagliari
+14/05/16,SEB,Cagliari,3-0,Salernitana
+20/05/16,SEB,Pro Vercelli,1-2,Cagliari
+20/07/16,CLF,Akhmat Grozny,1-0,Cagliari
+28/07/16,CLF,Cagliari,3-0,Pistoiese
+06/08/16,CLF,Cagliari,2-0,Marítimo
+07/08/16,CLF,Las Palmas,1-0,Cagliari
+10/08/16,CLF,Cagliari,1-1,Hamburg
+15/08/16,COI,Cagliari,5-1,SPAL
+21/08/16,SEA,Genoa,3-1,Cagliari
+28/08/16,SEA,Cagliari,2-2,Roma
+11/09/16,SEA,Bologna,2-1,Cagliari
+18/09/16,SEA,Cagliari,3-0,Atalanta
+21/09/16,SEA,Juventus,4-0,Cagliari
+26/09/16,SEA,Cagliari,2-1,Sampdoria
+02/10/16,SEA,Cagliari,2-1,Crotone
+16/10/16,SEA,Inter Milan,1-2,Cagliari
+23/10/16,SEA,Cagliari,3-5,Fiorentina
+26/10/16,SEA,Lazio,4-1,Cagliari
+25/10/14,SEA,Empoli,0-4,Cagliari
+29/10/14,SEA,Cagliari,1-1,AC Milan
+03/11/14,SEA,Lazio,4-2,Cagliari
+09/11/14,SEA,Cagliari,1-1,Genoa
+23/11/14,SEA,Napoli,3-3,Cagliari
+30/11/14,SEA,Cagliari,0-4,Fiorentina
+04/12/14,COI,Cagliari,P4-4P,Modena
+08/12/14,SEA,Cagliari,0-2,Chievo
+14/12/14,SEA,Parma,0-0,Cagliari
+18/12/14,SEA,Cagliari,1-3,Juventus
+06/01/15,SEA,Palermo,5-0,Cagliari
+11/01/15,SEA,Cagliari,2-1,Cesena
+14/01/15,COI,Parma,2-1,Cagliari
+18/01/15,SEA,Udinese,2-2,Cagliari
+24/01/15,SEA,Cagliari,2-1,Sassuolo
+01/02/15,SEA,Atalanta,2-1,Cagliari
+08/02/15,SEA,Cagliari,1-2,Roma
+15/02/15,SEA,Torino,1-1,Cagliari
+23/02/15,SEA,Cagliari,1-2,Inter Milan
+01/03/15,SEA,Cagliari,1-2,Verona
+07/03/15,SEA,Sampdoria,2-0,Cagliari
+14/03/15,SEA,Cagliari,1-1,Empoli
+21/03/15,SEA,AC Milan,3-1,Cagliari
+04/04/15,SEA,Cagliari,1-3,Lazio
+11/04/15,SEA,Genoa,2-0,Cagliari
+19/04/15,SEA,Cagliari,0-3,Napoli
+26/04/15,SEA,Fiorentina,1-3,Cagliari
+29/04/15,SEA,Chievo,1-0,Cagliari
+04/05/15,SEA,Cagliari,4-0,Parma
+09/05/15,SEA,Juventus,1-1,Cagliari
+17/05/15,SEA,Cagliari,0-1,Palermo
+24/05/15,SEA,Cesena,0-1,Cagliari
+31/05/15,SEA,Cagliari,4-3,Udinese
+22/07/15,CLF,Cagliari,23-0,FBC Calangianus 1905
+25/07/15,CLF,Cagliari,6-0,Lanusei
+01/08/15,CLF,Cagliari,CANC,Gazélec Ajaccio
+09/08/15,COI,Cagliari,5-0,Virtus Entella
+15/08/15,COI,Trapani,P1-1P,Cagliari
+18/08/15,CLF,Hamburg,4-1,Cagliari
+28/08/15,CLF,Cagliari,3-1,Olbia
+07/09/15,SEB,Cagliari,4-0,Crotone
+12/09/15,SEB,Ternana,1-1,Cagliari
+19/09/15,SEB,Cagliari,2-1,Avellino
+22/09/15,SEB,Virtus Entella,1-3,Cagliari
+26/09/15,SEB,Cagliari,3-2,Latina
+03/10/15,SEB,Pescara,1-0,Cagliari
+11/10/15,SEB,Cagliari,3-1,Cesena
+17/10/15,SEB,Novara,1-0,Cagliari
+24/10/15,SEB,Cagliari,4-1,Trapani
+27/10/15,SEB,Perugia,0-0,Cagliari
+03/08/13,CLF,Cagliari,1-0,Gazélec Ajaccio
+17/08/13,COI,Cagliari,E1-2E,Frosinone
+25/08/13,SEA,Cagliari,2-1,Atalanta
+01/09/13,SEA,AC Milan,3-1,Cagliari
+15/09/13,SEA,Fiorentina,1-1,Cagliari
+21/09/13,SEA,Cagliari,2-2,Sampdoria
+25/09/13,SEA,Livorno,1-1,Cagliari
+29/09/13,SEA,Cagliari,1-1,Inter Milan
+06/10/13,SEA,Udinese,2-0,Cagliari
+19/10/13,SEA,Cagliari,2-1,Catania
+27/10/13,SEA,Lazio,2-0,Cagliari
+30/10/13,SEA,Cagliari,0-3,Bologna
+03/11/13,SEA,Verona,2-1,Cagliari
+10/11/13,SEA,Cagliari,2-1,Torino
+25/11/13,SEA,Roma,0-0,Cagliari
+01/12/13,SEA,Cagliari,2-2,Sassuolo
+08/12/13,SEA,Cagliari,2-1,Genoa
+15/12/13,SEA,Parma,0-0,Cagliari
+21/12/13,SEA,Cagliari,1-1,Napoli
+05/01/14,SEA,Chievo,0-0,Cagliari
+12/01/14,SEA,Cagliari,1-4,Juventus
+19/01/14,SEA,Atalanta,1-0,Cagliari
+26/01/14,SEA,Cagliari,1-2,AC Milan
+01/02/14,SEA,Cagliari,1-0,Fiorentina
+09/02/14,SEA,Sampdoria,1-0,Cagliari
+16/02/14,SEA,Cagliari,1-2,Livorno
+23/02/14,SEA,Inter Milan,1-1,Cagliari
+02/03/14,SEA,Cagliari,3-0,Udinese
+08/03/14,SEA,Catania,1-1,Cagliari
+16/03/14,SEA,Cagliari,0-2,Lazio
+23/03/14,SEA,Bologna,1-0,Cagliari
+26/03/14,SEA,Cagliari,1-0,Verona
+30/03/14,SEA,Torino,2-1,Cagliari
+06/04/14,SEA,Cagliari,1-3,Roma
+12/04/14,SEA,Sassuolo,1-1,Cagliari
+19/04/14,SEA,Genoa,1-2,Cagliari
+27/04/14,SEA,Cagliari,1-0,Parma
+06/05/14,SEA,Napoli,3-0,Cagliari
+11/05/14,SEA,Cagliari,0-1,Chievo
+18/05/14,SEA,Juventus,3-0,Cagliari
+27/07/14,CLF,Cagliari,8-0,Asiago Team
+06/08/14,CLF,Cagliari,1-1,Apollon
+23/08/14,COI,Cagliari,2-0,Catania
+31/08/14,SEA,Sassuolo,1-1,Cagliari
+14/09/14,SEA,Cagliari,1-2,Atalanta
+21/09/14,SEA,Roma,2-0,Cagliari
+24/09/14,SEA,Cagliari,1-2,Torino
+28/09/14,SEA,Inter Milan,1-4,Cagliari
+04/10/14,SEA,Verona,1-0,Cagliari
+19/10/14,SEA,Cagliari,2-2,Sampdoria

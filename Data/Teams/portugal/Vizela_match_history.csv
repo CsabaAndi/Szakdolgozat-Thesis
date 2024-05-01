@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+01/04/23,PRL,Vizela,3-1,Casa Pia
+07/04/23,PRL,Santa Clara,0-1,Vizela
+17/04/23,PRL,Vizela,1-1,Boavista
+23/04/23,PRL,Arouca,1-0,Vizela
+29/04/23,PRL,Vizela,1-2,Paços Ferreira
+07/05/23,PRL,Vitoria Guimaraes,3-0,Vizela
+13/05/23,PRL,Vizela,0-0,Famalicão
+19/05/23,PRL,Marítimo,1-0,Vizela
+26/05/23,PRL,Vizela,1-2,Sporting Lisbon
+15/07/23,CLF,Vizela,2-2,Caldas
+22/07/23,TDL,Vizela,2-1,Marítimo
+28/07/23,TDL,AVS,1-0,Vizela
+12/08/23,PRL,Sporting Lisbon,3-2,Vizela
+20/08/23,PRL,Vizela,2-2,Arouca
+27/08/23,PRL,Vitoria Guimaraes,2-0,Vizela
+01/09/23,PRL,Vizela,1-0,Gil Vicente
+16/09/23,PRL,Vizela,1-2,Benfica
+23/09/23,PRL,Estoril,2-2,Vizela
+30/09/23,PRL,Vizela,2-3,Portimonense
+07/10/23,PRL,Farense,0-0,Vizela
+21/10/23,TDP,Atlético CP,0-1,Vizela
+29/10/23,PRL,Vizela,0-2,Porto
+05/11/23,PRL,Casa Pia,0-1,Vizela
+11/11/23,PRL,Vizela,0-0,Famalicão
+24/11/23,TDP,Vizela,E2-1E,Estrela
+01/12/23,PRL,Chaves,2-1,Vizela
+08/12/23,PRL,Vizela,1-3,Sporting Braga
+16/12/23,PRL,Rio Ave,1-1,Vizela
+23/12/23,PRL,Vizela,0-0,Moreirense
+06/01/24,PRL,Estrela,1-1,Vizela
+10/01/24,TDP,Vizela,1-0,Arouca
+14/01/24,PRL,Vizela,1-4,Boavista
+18/01/24,PRL,Vizela,2-5,Sporting Lisbon
+28/01/24,PRL,Arouca,5-0,Vizela
+04/02/24,PRL,Vizela,0-1,Vitoria Guimaraes
+08/02/24,TDP,Vizela,1-2,Benfica
+13/02/24,PRL,Gil Vicente,0-1,Vizela
+18/02/24,PRL,Benfica,6-1,Vizela
+25/02/24,PRL,Vizela,3-3,Estoril
+03/03/24,PRL,Portimonense,0-0,Vizela
+09/03/24,PRL,Vizela,2-1,Farense
+16/03/24,PRL,Porto,4-1,Vizela
+31/03/24,PRL,Vizela,0-4,Casa Pia
+06/04/24,PRL,Famalicão,3-2,Vizela
+15/04/24,PRL,Vizela,0-1,Chaves
+20/04/24,PRL,Sporting Braga,2-1,Vizela
+27/04/24,PRL,Vizela,1-1,Rio Ave
+03/05/24,PRL,Moreirense,21:15,Vizela
+11/05/24,PRL,Vizela,16:30,Estrela
+19/05/24,PRL,Boavista,-,Vizela
+22/01/22,PRL,Tondela,2-3,Vizela
+30/01/22,PRL,Vizela,3-2,Vitoria Guimaraes
+06/02/22,PRL,Boavista,2-2,Vizela
+13/02/22,PRL,Vizela,0-1,Gil Vicente
+19/02/22,PRL,Paços Ferreira,2-1,Vizela
+27/02/22,PRL,Vizela,1-1,Portimonense
+06/03/22,PRL,Santa Clara,3-1,Vizela
+11/03/22,PRL,Benfica,1-1,Vizela
+18/03/22,PRL,Vizela,1-1,Famalicão
+02/04/22,PRL,Estoril,1-2,Vizela
+10/04/22,PRL,Vizela,0-1,Sporting Braga
+16/04/22,PRL,Belenenses,1-0,Vizela
+22/04/22,PRL,Vizela,2-1,Arouca
+30/04/22,PRL,Porto,4-2,Vizela
+08/05/22,PRL,Vizela,1-1,Marítimo
+14/05/22,PRL,Moreirense,4-1,Vizela
+15/07/22,CLF,Vizela,1-3,Torreense
+27/07/22,CLF,Vizela,2-3,Gil Vicente
+30/07/22,CLF,Penafiel,2-0,Vizela
+30/07/22,CLF,Paços Ferreira,1-2,Vizela
+06/08/22,PRL,Rio Ave,0-1,Vizela
+14/08/22,PRL,Vizela,0-1,Porto
+20/08/22,PRL,Chaves,1-1,Vizela
+29/08/22,PRL,Vizela,2-2,Gil Vicente
+02/09/22,PRL,Benfica,2-1,Vizela
+12/09/22,PRL,Vizela,0-1,Estoril
+18/09/22,PRL,Sporting Braga,2-0,Vizela
+01/10/22,PRL,Vizela,1-0,Portimonense
+09/10/22,PRL,Casa Pia,0-1,Vizela
+15/10/22,TDP,Penafiel,P3-3P,Vizela
+23/10/22,PRL,Vizela,0-1,Santa Clara
+30/10/22,PRL,Boavista,2-2,Vizela
+05/11/22,PRL,Vizela,0-1,Arouca
+09/11/22,TDP,Vitoria Guimaraes,E2-1E,Vizela
+13/11/22,PRL,Paços Ferreira,0-2,Vizela
+22/11/22,TDL,Vizela,2-2,Chaves
+05/12/22,TDL,Mafra,1-1,Vizela
+16/12/22,TDL,Porto,4-0,Vizela
+30/12/22,PRL,Vizela,3-0,Vitoria Guimaraes
+06/01/23,PRL,Famalicão,2-1,Vizela
+14/01/23,PRL,Vizela,3-0,Marítimo
+20/01/23,PRL,Sporting Lisbon,2-1,Vizela
+29/01/23,PRL,Vizela,3-1,Rio Ave
+05/02/23,PRL,Porto,2-0,Vizela
+10/02/23,PRL,Vizela,0-0,Chaves
+17/02/23,PRL,Gil Vicente,1-1,Vizela
+25/02/23,PRL,Vizela,0-2,Benfica
+04/03/23,PRL,Estoril,0-3,Vizela
+11/03/23,PRL,Vizela,0-4,Sporting Braga
+18/03/23,PRL,Portimonense,0-1,Vizela
+03/01/21,SEL,Feirense,1-2,Vizela
+10/01/21,SEL,Vizela,2-1,Cova Piedade
+16/01/21,SEL,Vizela,3-1,Penafiel
+26/01/21,SEL,Vilafranquense,1-1,Vizela
+30/01/21,SEL,Oliveirense,0-3,Vizela
+07/02/21,SEL,Vizela,0-0,Porto II
+13/02/21,SEL,Sporting Covilhã,0-0,Vizela
+20/02/21,SEL,Vizela,3-1,Casa Pia
+26/02/21,SEL,Chaves,2-2,Vizela
+06/03/21,SEL,Vizela,2-0,Mafra
+13/03/21,SEL,Académica,1-3,Vizela
+21/03/21,SEL,Vizela,1-1,Arouca
+29/03/21,SEL,Leixões,0-4,Vizela
+03/04/21,SEL,Vizela,1-1,Estoril
+12/04/21,SEL,Academico Viseu,1-3,Vizela
+19/04/21,SEL,Vizela,1-0,Benfica II
+24/04/21,SEL,Varzim,0-3,Vizela
+02/05/21,SEL,Vizela,1-1,Feirense
+09/05/21,SEL,Cova Piedade,1-1,Vizela
+16/05/21,SEL,Penafiel,1-2,Vizela
+22/05/21,SEL,Vizela,5-2,Vilafranquense
+03/07/21,CLF,Vizela,2-3,Gil Vicente
+06/07/21,CLF,Vizela,3-4,Sporting Braga
+09/07/21,CLF,Vizela,1-2,Paços Ferreira
+14/07/21,CLF,Vizela,CANC,Boavista
+17/07/21,CLF,Vizela,0-0,Estoril
+18/07/21,CLF,Vizela,0-1,Marítimo
+24/07/21,TDL,Estrela,2-1,Vizela
+06/08/21,PRL,Sporting Lisbon,3-0,Vizela
+14/08/21,PRL,Vizela,2-1,Tondela
+22/08/21,PRL,Vitoria Guimaraes,4-0,Vizela
+28/08/21,PRL,Vizela,1-1,Boavista
+12/09/21,PRL,Gil Vicente,2-2,Vizela
+19/09/21,PRL,Vizela,1-1,Paços Ferreira
+26/09/21,PRL,Portimonense,0-0,Vizela
+02/10/21,PRL,Vizela,1-1,Santa Clara
+17/10/21,TDP,Vitória Setúbal,0-2,Vizela
+24/10/21,PRL,Vizela,0-1,Benfica
+31/10/21,PRL,Famalicão,1-1,Vizela
+06/11/21,PRL,Vizela,1-1,Estoril
+20/11/21,TDP,Vizela,2-0,Estrela
+30/11/21,PRL,Sporting Braga,4-1,Vizela
+13/12/21,PRL,Arouca,1-4,Vizela
+19/12/21,PRL,Vizela,0-4,Porto
+23/12/21,TDP,Vizela,1-0,Sporting Braga
+28/12/21,PRL,Marítimo,2-0,Vizela
+02/01/22,PRL,Vizela,2-0,Belenenses
+08/01/22,PRL,Vizela,0-1,Moreirense
+12/01/22,TDP,Vizela,1-3,Porto
+16/01/22,PRL,Vizela,0-2,Sporting Lisbon
+15/09/19,CDP,Fafe,0-2,Vizela
+22/09/19,CDP,Vizela,2-1,Berço
+29/09/19,TDP,Vizela,6-1,Fontinhas
+06/10/19,CDP,Vitória Guimarães II,1-0,Vizela
+13/10/19,CDP,Vizela,2-1,Oliveirense
+20/10/19,TDP,Casa Pia,1-3,Vizela
+27/10/19,CDP,Chaves II,1-3,Vizela
+03/11/19,CDP,Vizela,6-1,Cerveira
+10/11/19,CDP,Bragança,1-2,Vizela
+16/11/19,CDP,Vizela,0-0,AR São Martinho
+23/11/19,TDP,Vizela,1-2,Benfica
+01/12/19,CDP,União Madeira,0-2,Vizela
+08/12/19,CDP,Vizela,5-0,Câmara de Lobos
+15/12/19,CDP,Montalegre,1-0,Vizela
+22/12/19,CDP,Vizela,3-0,Mirandela
+05/01/20,CDP,Merelinense,2-2,Vizela
+12/01/20,CDP,Vizela,3-3,Maria da Fonte
+19/01/20,CDP,Vizela,3-5,Marítimo II
+26/01/20,CDP,Sporting Braga II,1-3,Vizela
+02/02/20,CDP,Vizela,5-0,Juventude P Salgadas
+08/02/20,CDP,Vizela,1-0,Fafe
+16/02/20,CDP,Berço,0-1,Vizela
+22/02/20,CDP,Vizela,4-1,Vitória Guimarães II
+01/03/20,CDP,Oliveirense,0-6,Vizela
+08/03/20,CDP,Vizela,1-0,Chaves II
+15/03/20,CDP,Cerveira,CANC,Vizela
+22/03/20,CDP,Vizela,CANC,Bragança
+29/03/20,CDP,AR São Martinho,CANC,Vizela
+05/04/20,CDP,Vizela,CANC,União Madeira
+11/04/20,CDP,Câmara de Lobos,CANC,Vizela
+19/04/20,CDP,Vizela,CANC,Montalegre
+26/04/20,CDP,Mirandela,CANC,Vizela
+03/05/20,CDP,Vizela,CANC,Merelinense
+10/05/20,CDP,Maria da Fonte,CANC,Vizela
+04/09/20,CLF,Santa Clara,1-3,Vizela
+12/09/20,SEL,Vizela,2-1,Oliveirense
+19/09/20,SEL,Porto II,4-1,Vizela
+22/09/20,SEL,Vizela,2-1,Sporting Covilhã
+27/09/20,SEL,Casa Pia,1-1,Vizela
+05/10/20,SEL,Vizela,1-1,Chaves
+11/10/20,TDP,Câmara de Lobos,0-2,Vizela
+17/10/20,SEL,Mafra,2-0,Vizela
+24/10/20,SEL,Vizela,1-3,Académica
+01/11/20,SEL,Arouca,2-1,Vizela
+07/11/20,SEL,Vizela,2-1,Leixões
+22/11/20,TDP,Vizela,E0-1E,Boavista
+29/11/20,SEL,Estoril,2-2,Vizela
+05/12/20,SEL,Vizela,1-0,Academico Viseu
+20/12/20,SEL,Benfica II,1-1,Vizela
+29/12/20,SEL,Vizela,1-0,Varzim
+31/03/18,CDP,Vizela,2-0,Montalegre
+07/04/18,CDP,Câmara de Lobos,0-3,Vizela
+15/04/18,CDP,Vizela,3-0,Minas de Argozelo
+22/04/18,CDP,Atlético Arcos,0-2,Vizela
+06/05/18,CDP,Vilafranquense,0-1,Vizela
+13/05/18,CDP,Vizela,E0-2E,Vilafranquense
+21/07/18,CLF,Vizela,0-1,Sporting Braga II
+25/07/18,CLF,Vizela,0-1,Vitória Guimarães II
+12/08/18,CDP,Gil Vicente,1-0,Vizela
+19/08/18,CDP,Vizela,6-0,Vilaverdense
+26/08/18,CDP,Chaves II,0-1,Vizela
+02/09/18,CDP,Vizela,4-0,Os Limianos
+09/09/18,TDP,Trofense,1-0,Vizela
+16/09/18,CDP,Oliveirense,0-10,Vizela
+23/09/18,CDP,Vizela,2-0,Caçadores das Taipas
+07/10/18,CDP,Vizela,2-0,Merelinense
+14/10/18,CDP,Juventude P Salgadas,0-3,Vizela
+28/10/18,CDP,Vizela,2-1,Mirandela
+04/11/18,CDP,Maria da Fonte,0-3,Vizela
+11/11/18,CDP,Vizela,3-0,Montalegre
+18/11/18,CDP,Mirandês,0-3,Vizela
+02/12/18,CDP,Vizela,0-0,Torcatense
+09/12/18,CDP,Felgueiras 1932,0-3,Vizela
+16/12/18,CDP,Vizela,2-2,Trofense
+06/01/19,CDP,AR São Martinho,0-0,Vizela
+13/01/19,CDP,Vizela,1-2,Fafe
+19/01/19,CDP,Vizela,0-0,Gil Vicente
+27/01/19,CDP,Vilaverdense,0-2,Vizela
+03/02/19,CDP,Vizela,4-1,Chaves II
+10/02/19,CDP,Os Limianos,0-0,Vizela
+17/02/19,CDP,Vizela,3-1,Oliveirense
+24/02/19,CDP,Caçadores das Taipas,0-1,Vizela
+03/03/19,CDP,Merelinense,0-1,Vizela
+10/03/19,CDP,Vizela,0-1,Juventude P Salgadas
+17/03/19,CDP,Mirandela,0-3,Vizela
+24/03/19,CDP,Vizela,3-0,Maria da Fonte
+31/03/19,CDP,Montalegre,1-2,Vizela
+07/04/19,CDP,Vizela,3-0,Mirandês
+14/04/19,CDP,Torcatense,1-1,Vizela
+20/04/19,CDP,Vizela,3-1,Felgueiras 1932
+28/04/19,CDP,Trofense,0-1,Vizela
+05/05/19,CDP,Vizela,0-1,AR São Martinho
+12/05/19,CDP,Fafe,1-1,Vizela
+25/05/19,CDP,Vilafranquense,2-0,Vizela
+02/06/19,CDP,Vizela,3-1,Vilafranquense
+27/07/19,CLF,Chaves,0-0,Vizela
+18/08/19,CDP,Marítimo II,0-2,Vizela
+25/08/19,CDP,Vizela,2-0,Sporting Braga II
+01/09/19,CDP,Juventude P Salgadas,1-4,Vizela
+08/09/19,TDP,Pedras Rubras,0-3,Vizela
+28/01/17,SEL,Vizela,3-1,Desportivo Aves
+03/02/17,SEL,Benfica II,2-1,Vizela
+09/02/17,SEL,Vizela,2-1,Sporting CP II
+15/02/17,SEL,Sporting Braga II,5-0,Vizela
+19/02/17,SEL,Vizela,1-1,Leixões
+26/02/17,SEL,Santa Clara,0-0,Vizela
+05/03/17,SEL,Vizela,0-1,Académica
+11/03/17,SEL,Penafiel,3-0,Vizela
+15/03/17,SEL,Vizela,1-1,Sporting Covilhã
+19/03/17,SEL,Porto II,0-0,Vizela
+26/03/17,SEL,União Madeira,1-1,Vizela
+02/04/17,SEL,Vizela,2-1,Portimonense
+10/04/17,SEL,Vitória Guimarães II,2-0,Vizela
+15/04/17,SEL,Vizela,1-1,Olhanense
+23/04/17,SEL,Vizela,0-1,Fafe
+30/04/17,SEL,Famalicão,2-0,Vizela
+07/05/17,SEL,Vizela,2-3,Cova Piedade
+14/05/17,SEL,Vizela,1-1,Freamunde
+21/05/17,SEL,Varzim,0-3,Vizela
+22/07/17,CLF,Sporting Braga II,2-3,Vizela
+20/08/17,CDP,Bragança,0-2,Vizela
+27/08/17,CDP,Vizela,2-1,Oliveirense
+03/09/17,TDP,Vizela,E3-0E,Mondinense
+10/09/17,CDP,Merelinense,2-2,Vizela
+17/09/17,CDP,Vizela,0-0,Vilaverdense
+24/09/17,TDP,Vizela,2-1,Sporting Covilhã
+30/09/17,CDP,AR São Martinho,0-1,Vizela
+08/10/17,CDP,Vizela,1-0,Juventude P Salgadas
+15/10/17,TDP,Vizela,3-1,Sintrense
+22/10/17,CDP,Vizela,1-0,Arões
+29/10/17,CDP,Mirandela,1-2,Vizela
+05/11/17,CDP,Vizela,3-0,Mondinense
+12/11/17,CDP,Fafe,0-1,Vizela
+19/11/17,TDP,Vizela,P2-2P,Vilaverdense
+26/11/17,CDP,Vizela,5-0,Torcatense
+03/12/17,CDP,Montalegre,0-1,Vizela
+10/12/17,CDP,Vizela,2-0,Câmara de Lobos
+17/12/17,CDP,Minas de Argozelo,0-2,Vizela
+07/01/18,CDP,Vizela,4-0,Atlético Arcos
+14/01/18,CDP,Vizela,1-1,Bragança
+21/01/18,CDP,Oliveirense,1-1,Vizela
+28/01/18,CDP,Vizela,2-1,Merelinense
+04/02/18,CDP,Vilaverdense,0-0,Vizela
+11/02/18,CDP,Vizela,0-0,AR São Martinho
+18/02/18,CDP,Juventude P Salgadas,0-2,Vizela
+25/02/18,CDP,Arões,0-2,Vizela
+04/03/18,CDP,Vizela,2-2,Mirandela
+11/03/18,CDP,Mondinense,0-1,Vizela
+18/03/18,CDP,Vizela,0-1,Fafe
+25/03/18,CDP,Torcatense,1-3,Vizela
+14/02/16,CDP,Bragança,0-2,Vizela
+21/02/16,CDP,Vizela,0-2,Fafe
+28/02/16,CDP,Pedras Rubras,0-0,Vizela
+06/03/16,CDP,Vizela,1-0,Estarreja
+13/03/16,CDP,Gondomar,1-3,Vizela
+20/03/16,CDP,Vilaverdense,2-2,Vizela
+26/03/16,CDP,Vizela,1-1,Anadia
+03/04/16,CDP,Vizela,2-1,Bragança
+10/04/16,CDP,Fafe,1-1,Vizela
+17/04/16,CDP,Vizela,1-0,Pedras Rubras
+24/04/16,CDP,Estarreja,0-1,Vizela
+30/04/16,CDP,Vizela,2-1,Gondomar
+08/05/16,CDP,Vizela,1-0,Vilaverdense
+15/05/16,CDP,Anadia,2-3,Vizela
+05/06/16,CDP,Vizela,P0-0P,Cova Piedade
+13/07/16,CLF,Varzim,1-1,Vizela
+20/07/16,CLF,União Madeira,1-0,Vizela
+20/07/16,CLF,Vizela,0-1,Penafiel
+23/07/16,CLF,Desportivo Aves,3-0,Vizela
+31/07/16,TDL,Fafe,0-1,Vizela
+06/08/16,SEL,Academico Viseu,0-1,Vizela
+13/08/16,SEL,Vizela,2-2,Gil Vicente
+20/08/16,SEL,Desportivo Aves,2-2,Vizela
+24/08/16,SEL,Vizela,1-2,Benfica II
+29/08/16,SEL,Sporting CP II,1-2,Vizela
+04/09/16,SEL,Académica,0-1,Vizela
+10/09/16,SEL,Vizela,0-0,Sporting Braga II
+17/09/16,SEL,Leixões,0-0,Vizela
+25/09/16,TDP,Ginásio de Alcobaça,0-2,Vizela
+02/10/16,SEL,Vizela,1-0,Penafiel
+09/10/16,SEL,Vizela,0-0,Santa Clara
+16/10/16,TDP,Vizela,1-0,Moreirense
+19/10/16,SEL,Sporting Covilhã,1-1,Vizela
+23/10/16,SEL,Vizela,1-1,Porto II
+26/10/16,TDL,Vizela,1-0,Gil Vicente
+30/10/16,SEL,Portimonense,2-1,Vizela
+06/11/16,SEL,Vizela,1-1,Vitória Guimarães II
+13/11/16,SEL,Olhanense,1-0,Vizela
+20/11/16,TDP,Vizela,0-1,Penafiel
+27/11/16,SEL,Vizela,1-1,União Madeira
+05/12/16,SEL,Fafe,1-1,Vizela
+11/12/16,SEL,Vizela,3-2,Famalicão
+17/12/16,SEL,Cova Piedade,0-0,Vizela
+22/12/16,SEL,Freamunde,1-0,Vizela
+30/12/16,TDL,Vizela,1-2,Vitoria Guimaraes
+03/01/17,TDL,Benfica,4-0,Vizela
+07/01/17,SEL,Vizela,1-2,Varzim
+10/01/17,TDL,Paços Ferreira,2-2,Vizela
+14/01/17,SEL,Vizela,1-1,Academico Viseu
+22/01/17,SEL,Gil Vicente,1-0,Vizela
+12/10/14,CDP,Felgueiras 1932,0-1,Vizela
+19/10/14,TDP,Casa Pia,E1-4E,Vizela
+26/10/14,CDP,Vila Real,0-2,Vizela
+02/11/14,CDP,Vizela,2-0,Amarante
+09/11/14,CDP,Ribeirão,0-3,Vizela
+16/11/14,CDP,Tirsense,1-1,Vizela
+23/11/14,TDP,Vizela,P2-2P,Operário
+30/11/14,CDP,Vizela,0-1,Famalicão
+07/12/14,CDP,Santa Eulália,1-1,Vizela
+14/12/14,CDP,Vizela,1-0,Varzim
+17/12/14,TDP,Vizela,2-3,Sporting Lisbon
+21/12/14,CDP,Oliveirense,1-0,Vizela
+28/12/14,CDP,Vizela,2-1,Felgueiras 1932
+04/01/15,CDP,Vizela,3-0,Vila Real
+11/01/15,CDP,Amarante,0-2,Vizela
+18/01/15,CDP,Vizela,1-0,Ribeirão
+15/02/15,CDP,Vizela,3-2,Santa Eulália
+22/02/15,CDP,Vila Real,1-2,Vizela
+01/03/15,CDP,Vizela,3-0,Oliveirense
+08/03/15,CDP,Ribeirão,1-1,Vizela
+15/03/15,CDP,Amarante,1-1,Vizela
+22/03/15,CDP,Vizela,1-1,Felgueiras 1932
+28/03/15,CDP,Tirsense,1-2,Vizela
+12/04/15,CDP,Santa Eulália,1-1,Vizela
+19/04/15,CDP,Vizela,1-1,Vila Real
+26/04/15,CDP,Oliveirense,2-1,Vizela
+03/05/15,CDP,Vizela,5-2,Ribeirão
+10/05/15,CDP,Vizela,2-2,Amarante
+17/05/15,CDP,Felgueiras 1932,2-0,Vizela
+24/05/15,CDP,Vizela,0-0,Tirsense
+09/08/15,CLF,Vizela,1-2,Moreirense
+23/08/15,CDP,Vizela,1-1,Fafe
+30/08/15,CDP,AR São Martinho,0-1,Vizela
+06/09/15,TDP,Fafe,1-0,Vizela
+13/09/15,CDP,Vizela,0-3,Mondinense
+20/09/15,CDP,Trofense,1-1,Vizela
+03/10/15,CDP,Vizela,1-0,Varzim II
+10/10/15,CDP,Oliveirense,1-0,Vizela
+25/10/15,CDP,Vizela,2-0,Torcatense
+31/10/15,CDP,Vizela,4-1,Arões
+08/11/15,CDP,Felgueiras 1932,0-2,Vizela
+15/11/15,CDP,Fafe,1-2,Vizela
+29/11/15,CDP,Vizela,0-0,AR São Martinho
+06/12/15,CDP,Mondinense,0-1,Vizela
+13/12/15,CDP,Vizela,1-2,Trofense
+20/12/15,CDP,Varzim II,1-4,Vizela
+03/01/16,CDP,Vizela,2-1,Oliveirense
+10/01/16,CDP,Torcatense,1-1,Vizela
+17/01/16,CDP,Arões,0-0,Vizela
+23/01/16,CDP,Vizela,1-0,Felgueiras 1932
+03/03/13,CDP,Vizela,1-1,Chaves
+10/03/13,CDP,Padroense,1-2,Vizela
+17/03/13,CDP,Vizela,1-1,Mirandela
+24/03/13,CDP,Os Limianos,3-2,Vizela
+30/03/13,CDP,Vizela,1-1,Ribeirão
+07/04/13,CDP,Fafe,2-3,Vizela
+14/04/13,CDP,Vizela,2-0,Infesta
+21/04/13,CDP,Tirsense,0-1,Vizela
+28/04/13,CDP,Vizela,2-3,Varzim
+24/08/13,CDP,Joane,3-1,Vizela
+01/09/13,TDP,Vizela,2-0,Pampilhosa
+08/09/13,CDP,Vizela,2-0,Oliveirense
+15/09/13,CDP,Ribeirão,1-1,Vizela
+22/09/13,TDP,Oliveirense,1-0,Vizela
+28/09/13,CDP,Vizela,2-1,Varzim
+06/10/13,CDP,Felgueiras 1932,1-0,Vizela
+13/10/13,CDP,Vizela,1-1,Famalicão
+27/10/13,CDP,Lixa,2-4,Vizela
+03/11/13,CDP,Tirsense,0-0,Vizela
+16/11/13,CDP,Vizela,0-1,Vitória Guimarães II
+24/11/13,CDP,Vizela,2-0,Joane
+01/12/13,CDP,Oliveirense,0-1,Vizela
+08/12/13,CDP,Vizela,1-0,Ribeirão
+15/12/13,CDP,Varzim,1-3,Vizela
+22/12/13,CDP,Vizela,0-0,Felgueiras 1932
+29/12/13,CDP,Famalicão,1-1,Vizela
+12/01/14,CDP,Vizela,2-0,Lixa
+19/01/14,CDP,Vizela,2-0,Tirsense
+26/01/14,CDP,Vitória Guimarães II,4-0,Vizela
+16/02/14,CDP,Freamunde,1-0,Vizela
+23/02/14,CDP,Vizela,3-0,Os Limianos
+02/03/14,CDP,São João Ver,2-1,Vizela
+09/03/14,CDP,Vizela,2-1,Vitória Guimarães II
+16/03/14,CDP,Vizela,0-0,Cesarense
+23/03/14,CDP,Boavista,1-4,Vizela
+30/03/14,CDP,Vizela,5-1,Bragança
+06/04/14,CDP,Vizela,1-0,Freamunde
+13/04/14,CDP,Os Limianos,2-3,Vizela
+19/04/14,CDP,Vizela,1-1,São João Ver
+27/04/14,CDP,Vitória Guimarães II,2-1,Vizela
+04/05/14,CDP,Cesarense,0-1,Vizela
+11/05/14,CDP,Vizela,2-0,Boavista
+24/05/14,CDP,Bragança,1-1,Vizela
+24/08/14,CDP,Vizela,2-0,Tirsense
+31/08/14,CDP,Famalicão,1-0,Vizela
+06/09/14,TDP,Vizela,3-1,Cerveira
+14/09/14,CDP,Vizela,3-0,Santa Eulália
+21/09/14,CDP,Varzim,1-1,Vizela
+28/09/14,TDP,Vizela,E4-3E,Sousense
+05/10/14,CDP,Vizela,2-0,Oliveirense
+16/10/11,TDP,Vizela,P2-2P,Fafe
+23/10/11,CDP,Vizela,2-0,Marítimo II
+30/10/11,CDP,Ribeirão,1-2,Vizela
+06/11/11,CDP,Vizela,2-1,Ribeira Brava
+13/11/11,CDP,Fafe,1-0,Vizela
+20/11/11,TDP,Belenenses,2-0,Vizela
+27/11/11,CDP,Vizela,2-0,Oliveirense
+08/12/11,CDP,Tirsense,2-2,Vizela
+11/12/11,CDP,Vizela,2-2,Mirandela
+18/12/11,CDP,Vizela,3-3,Macedo Cavaleiros
+08/01/12,CDP,Famalicão,2-1,Vizela
+15/01/12,CDP,Vizela,0-1,Chaves
+22/01/12,CDP,Vizela,0-3,Os Limianos
+29/01/12,CDP,Camacha,0-0,Vizela
+05/02/12,CDP,Vizela,0-0,Lousada
+12/02/12,CDP,Varzim,1-0,Vizela
+19/02/12,CDP,Vizela,4-4,Merelinense
+26/02/12,CDP,Marítimo II,3-2,Vizela
+04/03/12,CDP,Vizela,1-1,Ribeirão
+11/03/12,CDP,Ribeira Brava,1-1,Vizela
+18/03/12,CDP,Vizela,1-0,Fafe
+25/03/12,CDP,Oliveirense,0-3,Vizela
+01/04/12,CDP,Vizela,0-1,Tirsense
+07/04/12,CDP,Mirandela,7-2,Vizela
+15/04/12,CDP,Macedo Cavaleiros,0-1,Vizela
+22/04/12,CDP,Vizela,1-1,Famalicão
+29/04/12,CDP,Chaves,3-4,Vizela
+26/08/12,TDP,Angrense,1-2,Vizela
+02/09/12,CDP,Vizela,0-0,Amarante
+16/09/12,TDP,Belenenses,4-0,Vizela
+23/09/12,CDP,Boavista,1-1,Vizela
+30/09/12,CDP,Vizela,2-1,Gondomar
+07/10/12,CDP,Joane,0-0,Vizela
+14/10/12,CDP,Vizela,1-0,Famalicão
+28/10/12,CDP,Vilaverdense,1-0,Vizela
+04/11/12,CDP,Chaves,1-0,Vizela
+11/11/12,CDP,Vizela,3-1,Padroense
+25/11/12,CDP,Mirandela,2-0,Vizela
+09/12/12,CDP,Vizela,2-1,Os Limianos
+16/12/12,CDP,Ribeirão,3-0,Vizela
+22/12/12,CDP,Vizela,1-0,Fafe
+29/12/12,CDP,Infesta,1-5,Vizela
+06/01/13,CDP,Vizela,4-0,Tirsense
+13/01/13,CDP,Varzim,0-0,Vizela
+20/01/13,CDP,Amarante,0-0,Vizela
+27/01/13,CDP,Vizela,1-1,Boavista
+03/02/13,CDP,Gondomar,0-1,Vizela
+10/02/13,CDP,Vizela,3-2,Joane
+17/02/13,CDP,Famalicão,0-1,Vizela
+24/02/13,CDP,Vizela,1-2,Vilaverdense

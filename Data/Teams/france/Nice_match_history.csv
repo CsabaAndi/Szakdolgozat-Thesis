@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+20/04/23,UEC,Nice,E1-2E,Basel
+23/04/23,LI1,Nice,1-2,Clermont
+30/04/23,LI1,Troyes,0-1,Nice
+06/05/23,LI1,Nice,2-1,Rennes
+13/05/23,LI1,Strasbourg,2-0,Nice
+21/05/23,LI1,Nice,0-0,Toulouse
+27/05/23,LI1,Montpellier,2-3,Nice
+03/06/23,LI1,Nice,3-1,Lyon
+14/07/23,CLF,Lausanne-Sport,3-1,Nice
+29/07/23,CLF,Sporting Braga,2-0,Nice
+05/08/23,CLF,Nice,1-1,Villarreal
+06/08/23,CLF,Fiorentina,2-1,Nice
+11/08/23,LI1,Nice,1-1,Lille
+20/08/23,LI1,Lorient,1-1,Nice
+27/08/23,LI1,Nice,0-0,Lyon
+03/09/23,LI1,Nice,2-0,Strasbourg
+15/09/23,LI1,PSG,2-3,Nice
+22/09/23,LI1,Monaco,0-1,Nice
+01/10/23,LI1,Nice,0-0,Brest
+07/10/23,LI1,Metz,0-1,Nice
+21/10/23,LI1,Nice,1-0,Marseille
+27/10/23,LI1,Clermont,0-1,Nice
+05/11/23,LI1,Nice,2-0,Rennes
+10/11/23,LI1,Montpellier,0-0,Nice
+26/11/23,LI1,Nice,1-0,Toulouse
+02/12/23,LI1,Nantes,1-0,Nice
+10/12/23,LI1,Nice,2-1,Reims
+16/12/23,LI1,Le Havre,3-1,Nice
+20/12/23,LI1,Nice,2-0,Lens
+06/01/24,CDF,Nice,P0-0P,Auxerre
+13/01/24,LI1,Rennes,2-0,Nice
+20/01/24,CDF,Bordeaux,2-3,Nice
+27/01/24,LI1,Nice,1-0,Metz
+04/02/24,LI1,Brest,0-0,Nice
+07/02/24,CDF,Montpellier,1-4,Nice
+11/02/24,LI1,Nice,2-3,Monaco
+16/02/24,LI1,Lyon,1-0,Nice
+25/02/24,LI1,Nice,0-0,Clermont
+03/03/24,LI1,Toulouse,2-1,Nice
+08/03/24,LI1,Nice,1-2,Montpellier
+13/03/24,CDF,PSG,3-1,Nice
+16/03/24,LI1,Lens,1-3,Nice
+31/03/24,LI1,Nice,1-2,Nantes
+07/04/24,LI1,Reims,0-0,Nice
+19/04/24,LI1,Nice,3-0,Lorient
+24/04/24,LI1,Marseille,2-2,Nice
+28/04/24,LI1,Strasbourg,1-3,Nice
+10/05/24,LI1,Nice,21:00,Le Havre
+15/05/24,LI1,Nice,21:00,PSG
+19/05/24,LI1,Lille,21:00,Nice
+23/07/22,CLF,Roma,1-1,Nice
+30/07/22,CLF,Nice,1-0,Torino
+07/08/22,LI1,Toulouse,1-1,Nice
+14/08/22,LI1,Nice,1-1,Strasbourg
+18/08/22,UEC,Maccabi Tel Aviv,1-0,Nice
+21/08/22,LI1,Clermont,1-0,Nice
+25/08/22,UEC,Nice,E2-0E,Maccabi Tel Aviv
+28/08/22,LI1,Nice,0-3,Marseille
+31/08/22,LI1,Lille,1-2,Nice
+04/09/22,LI1,Nice,0-1,Monaco
+08/09/22,UEC,Nice,1-1,FC Cologne
+11/09/22,LI1,Ajaccio,0-1,Nice
+15/09/22,UEC,Partizan,1-1,Nice
+18/09/22,LI1,Nice,0-1,Angers
+01/10/22,LI1,PSG,2-1,Nice
+06/10/22,UEC,Slovacko,0-1,Nice
+09/10/22,LI1,Nice,3-2,Troyes
+13/10/22,UEC,Nice,1-2,Slovacko
+16/10/22,LI1,Auxerre,1-1,Nice
+23/10/22,LI1,Nice,1-1,Nantes
+27/10/22,UEC,Nice,2-1,Partizan
+30/10/22,LI1,Lorient,1-2,Nice
+03/11/22,UEC,FC Cologne,2-2,Nice
+06/11/22,LI1,Nice,1-0,Brest
+11/11/22,LI1,Lyon,1-1,Nice
+07/12/22,CLF,Sturm Graz,CANC,Nice
+08/12/22,CLF,Standard Liège,1-4,Nice
+10/12/22,CLF,Nice,CANC,Girona
+16/12/22,CLF,Nice,0-3,Atalanta
+21/12/22,CLF,Tottenham Hotspur,1-1,Nice
+29/12/22,LI1,Nice,0-0,Lens
+02/01/23,LI1,Rennes,2-1,Nice
+07/01/23,CDF,Le Puy Foot,1-0,Nice
+11/01/23,LI1,Nice,6-1,Montpellier
+15/01/23,LI1,Reims,0-0,Nice
+29/01/23,LI1,Nice,1-0,Lille
+01/02/23,LI1,Lens,0-1,Nice
+05/02/23,LI1,Marseille,1-3,Nice
+10/02/23,LI1,Nice,3-0,Ajaccio
+18/02/23,LI1,Nice,0-0,Reims
+26/02/23,LI1,Monaco,0-3,Nice
+03/03/23,LI1,Nice,1-1,Auxerre
+09/03/23,UEC,Sheriff,0-1,Nice
+12/03/23,LI1,Nantes,2-2,Nice
+16/03/23,UEC,Nice,3-1,Sheriff
+19/03/23,LI1,Nice,1-1,Lorient
+02/04/23,LI1,Angers,1-1,Nice
+08/04/23,LI1,Nice,0-2,PSG
+13/04/23,UEC,Basel,2-2,Nice
+16/04/23,LI1,Brest,1-0,Nice
+31/07/21,CLF,Nice,1-1,AC Milan
+08/08/21,LI1,Nice,0-0,Reims
+14/08/21,LI1,Lille,0-4,Nice
+28/08/21,LI1,Nice,4-0,Bordeaux
+12/09/21,LI1,Nantes,0-2,Nice
+19/09/21,LI1,Nice,2-2,Monaco
+22/09/21,LI1,Lorient,1-0,Nice
+25/09/21,LI1,Saint-Etienne,0-3,Nice
+02/10/21,LI1,Nice,2-1,Brest
+17/10/21,LI1,Troyes,1-0,Nice
+24/10/21,LI1,Nice,3-2,Lyon
+27/10/21,LI1,Nice,1-1,Marseille
+31/10/21,LI1,Angers,1-2,Nice
+07/11/21,LI1,Nice,0-1,Montpellier
+21/11/21,LI1,Clermont,1-2,Nice
+27/11/21,LI1,Nice,0-1,Metz
+01/12/21,LI1,PSG,0-0,Nice
+05/12/21,LI1,Nice,0-3,Strasbourg
+12/12/21,LI1,Rennes,1-2,Nice
+19/12/21,CDF,Cholet,0-1,Nice
+22/12/21,LI1,Nice,2-1,Lens
+01/01/22,CDF,Nice,CANC,Paris FC / Lyon
+09/01/22,LI1,Brest,0-3,Nice
+14/01/22,LI1,Nice,2-1,Nantes
+23/01/22,LI1,Metz,0-2,Nice
+31/01/22,CDF,PSG,P0-0P,Nice
+06/02/22,LI1,Nice,0-1,Clermont
+09/02/22,CDF,Nice,4-1,Marseille
+12/02/22,LI1,Lyon,2-0,Nice
+20/02/22,LI1,Nice,1-0,Angers
+26/02/22,LI1,Strasbourg,0-0,Nice
+01/03/22,CDF,Nice,2-0,Versailles
+05/03/22,LI1,Nice,1-0,PSG
+12/03/22,LI1,Montpellier,0-0,Nice
+20/03/22,LI1,Marseille,2-1,Nice
+02/04/22,LI1,Nice,1-1,Rennes
+10/04/22,LI1,Lens,3-0,Nice
+17/04/22,LI1,Nice,2-1,Lorient
+20/04/22,LI1,Monaco,1-0,Nice
+24/04/22,LI1,Nice,1-0,Troyes
+01/05/22,LI1,Bordeaux,0-1,Nice
+07/05/22,CDF,Nice,0-1,Nantes
+11/05/22,LI1,Nice,4-2,Saint-Etienne
+14/05/22,LI1,Nice,1-3,Lille
+21/05/22,LI1,Reims,2-3,Nice
+02/07/22,CLF,Nice,CANC,Lausanne-Sport
+09/07/22,CLF,Nice,1-1,Cercle Brugge
+15/07/22,CLF,Benfica,3-0,Nice
+16/07/22,CLF,Nice,0-2,Fulham
+20/07/22,CLF,Nice,CANC,Sporting Braga
+12/09/20,LI1,Montpellier,3-1,Nice
+20/09/20,LI1,Nice,0-3,PSG
+27/09/20,LI1,Bordeaux,0-0,Nice
+03/10/20,LI1,Nice,2-1,Nantes
+18/10/20,LI1,Saint-Etienne,1-3,Nice
+22/10/20,UEL,Bayer Leverkusen,6-2,Nice
+25/10/20,LI1,Nice,1-1,Lille
+29/10/20,UEL,Nice,1-0,Hapoel Be'er Sheva
+01/11/20,LI1,Angers,0-3,Nice
+05/11/20,UEL,Slavia Prague,3-2,Nice
+08/11/20,LI1,Nice,1-2,Monaco
+26/11/20,UEL,Nice,1-3,Slavia Prague
+29/11/20,LI1,Nice,1-3,Dijon
+03/12/20,UEL,Nice,2-3,Bayer Leverkusen
+06/12/20,LI1,Reims,0-0,Nice
+10/12/20,UEL,Hapoel Be'er Sheva,1-0,Nice
+13/12/20,LI1,Nice,0-1,Rennes
+16/12/20,LI1,Nîmes,0-2,Nice
+19/12/20,LI1,Nice,1-4,Lyon
+23/12/20,LI1,Nice,2-2,Lorient
+06/01/21,LI1,Brest,2-0,Nice
+09/01/21,LI1,Metz,1-1,Nice
+17/01/21,LI1,Nice,0-3,Bordeaux
+23/01/21,LI1,Lens,0-1,Nice
+31/01/21,LI1,Nice,0-1,Saint-Etienne
+03/02/21,LI1,Monaco,2-1,Nice
+07/02/21,LI1,Nice,3-0,Angers
+10/02/21,CDF,Nîmes,1-3,Nice
+13/02/21,LI1,PSG,2-1,Nice
+17/02/21,LI1,Marseille,3-2,Nice
+21/02/21,LI1,Nice,1-2,Metz
+26/02/21,LI1,Rennes,1-2,Nice
+03/03/21,LI1,Nice,2-1,Nîmes
+08/03/21,CDF,Nice,0-2,Monaco
+14/03/21,LI1,Lorient,1-1,Nice
+20/03/21,LI1,Nice,3-0,Marseille
+04/04/21,LI1,Nantes,1-2,Nice
+11/04/21,LI1,Nice,0-0,Reims
+18/04/21,LI1,Dijon,2-0,Nice
+25/04/21,LI1,Nice,3-1,Montpellier
+01/05/21,LI1,Lille,2-0,Nice
+09/05/21,LI1,Nice,3-2,Brest
+16/05/21,LI1,Nice,0-2,Strasbourg
+23/05/21,LI1,Lyon,2-3,Nice
+03/07/21,CLF,Nice,1-1,Rodez
+10/07/21,CLF,Nice,0-3,Lausanne-Sport
+16/07/21,CLF,Bastia,1-0,Nice
+17/07/21,CLF,Nice,2-1,Dinamo Kiev
+21/07/21,CLF,Saint-Etienne,CANC,Nice
+24/07/21,CLF,Nice,0-2,Union Berlin
+01/09/19,LI1,Rennes,1-2,Nice
+14/09/19,LI1,Montpellier,2-1,Nice
+21/09/19,LI1,Nice,2-1,Dijon
+24/09/19,LI1,Monaco,3-1,Nice
+28/09/19,LI1,Nice,1-1,Lille
+05/10/19,LI1,Nantes,1-0,Nice
+18/10/19,LI1,Nice,1-4,PSG
+26/10/19,LI1,Strasbourg,1-0,Nice
+30/10/19,CDL,Le Mans,3-2,Nice
+03/11/19,LI1,Nice,2-0,Reims
+08/11/19,LI1,Nice,1-1,Bordeaux
+23/11/19,LI1,Lyon,2-1,Nice
+30/11/19,LI1,Nice,3-1,Angers
+04/12/19,LI1,Saint-Etienne,4-1,Nice
+07/12/19,LI1,Nice,4-1,Metz
+14/12/19,LI1,Brest,0-0,Nice
+21/12/19,LI1,Nice,3-0,Toulouse
+05/01/20,CDF,Nice,2-0,Fréjus St-Raphaël
+11/01/20,LI1,Angers,1-1,Nice
+18/01/20,CDF,Nice,2-1,Red Star
+24/01/20,LI1,Nice,1-1,Rennes
+30/01/20,CDF,Nice,1-2,Lyon
+02/02/20,LI1,Nice,2-1,Lyon
+05/02/20,LI1,Reims,1-1,Nice
+08/02/20,LI1,Nice,1-3,Nîmes
+15/02/20,LI1,Toulouse,0-2,Nice
+21/02/20,LI1,Nice,2-2,Brest
+01/03/20,LI1,Bordeaux,1-1,Nice
+07/03/20,LI1,Nice,2-1,Monaco
+15/03/20,LI1,PSG,CANC,Nice
+21/03/20,LI1,Nice,CANC,Montpellier
+05/04/20,LI1,Dijon,CANC,Nice
+11/04/20,LI1,Nice,CANC,Strasbourg
+18/04/20,LI1,Lille,CANC,Nice
+26/04/20,LI1,Marseille,CANC,Nice
+02/05/20,LI1,Nice,CANC,Nantes
+09/05/20,LI1,Metz,CANC,Nice
+16/05/20,LI1,Nice,CANC,Saint-Etienne
+23/05/20,LI1,Amiens SC,CANC,Nice
+04/07/20,CLF,Lyon,1-0,Nice
+10/07/20,CLF,Saint-Etienne,4-1,Nice
+16/07/20,CLF,Nice,1-1,Celtic
+18/07/20,CLF,Nice,0-2,Rangers
+25/07/20,CLF,Standard Liège,1-2,Nice
+01/08/20,CLF,DAC 1904,0-6,Nice
+08/08/20,CLF,Salzburg,4-1,Nice
+15/08/20,CLF,Nice,3-2,Rennes
+23/08/20,LI1,Nice,2-1,Lens
+29/08/20,LI1,Strasbourg,0-2,Nice
+04/09/20,CLF,Nice,2-3,Monaco
+18/08/18,LI1,Caen,1-1,Nice
+25/08/18,LI1,Nice,0-4,Dijon
+31/08/18,LI1,Lyon,0-1,Nice
+14/09/18,LI1,Nice,2-1,Rennes
+22/09/18,LI1,Montpellier,1-0,Nice
+25/09/18,LI1,Nantes,1-2,Nice
+29/09/18,LI1,Nice,0-3,PSG
+05/10/18,LI1,Toulouse,1-1,Nice
+21/10/18,LI1,Nice,0-1,Marseille
+28/10/18,LI1,Bordeaux,0-1,Nice
+31/10/18,CDL,Nice,3-2,Auxerre
+03/11/18,LI1,Nice,1-0,Amiens SC
+10/11/18,LI1,Nîmes,0-1,Nice
+25/11/18,LI1,Nice,2-0,Lille
+01/12/18,LI1,Guingamp,0-0,Nice
+04/12/18,LI1,Nice,0-0,Angers
+16/12/18,LI1,Nice,1-1,Saint-Etienne
+19/12/18,CDL,Nice,P0-0P,Guingamp
+22/12/18,LI1,Strasbourg,2-0,Nice
+06/01/19,CDF,Toulouse,4-1,Nice
+12/01/19,LI1,Nice,1-0,Bordeaux
+16/01/19,LI1,Monaco,1-1,Nice
+19/01/19,LI1,Reims,1-1,Nice
+26/01/19,LI1,Nice,2-0,Nîmes
+01/02/19,LI1,Lille,4-0,Nice
+10/02/19,LI1,Nice,1-0,Lyon
+16/02/19,LI1,Angers,3-0,Nice
+23/02/19,LI1,Amiens SC,1-0,Nice
+03/03/19,LI1,Nice,1-0,Strasbourg
+10/03/19,LI1,Marseille,1-0,Nice
+15/03/19,LI1,Nice,1-1,Toulouse
+31/03/19,LI1,Dijon,0-1,Nice
+07/04/19,LI1,Nice,1-0,Montpellier
+14/04/19,LI1,Rennes,0-0,Nice
+20/04/19,LI1,Nice,0-1,Caen
+28/04/19,LI1,Nice,3-0,Guingamp
+04/05/19,LI1,PSG,1-1,Nice
+11/05/19,LI1,Nice,1-1,Nantes
+18/05/19,LI1,Saint-Etienne,3-0,Nice
+24/05/19,LI1,Nice,2-0,Monaco
+07/07/19,CLF,PSV,2-3,Nice
+13/07/19,CLF,Nice,1-3,Thun
+21/07/19,CLF,Standard Liège,2-1,Nice
+24/07/19,CLF,Boavista,0-2,Nice
+27/07/19,CLF,Cardiff City,1-0,Nice
+30/07/19,CLF,Burnley,6-1,Nice
+03/08/19,CLF,Wolfsburg,8-1,Nice
+10/08/19,LI1,Nice,2-1,Amiens SC
+17/08/19,LI1,Nîmes,1-2,Nice
+28/08/19,LI1,Nice,1-2,Marseille
+14/09/17,UEL,Zulte Waregem,1-5,Nice
+17/09/17,LI1,Rennes,0-1,Nice
+22/09/17,LI1,Nice,2-2,Angers
+28/09/17,UEL,Nice,3-0,Vitesse
+01/10/17,LI1,Nice,2-4,Marseille
+15/10/17,LI1,Montpellier,2-0,Nice
+19/10/17,UEL,Nice,1-3,Lazio
+22/10/17,LI1,Nice,1-2,Strasbourg
+27/10/17,LI1,PSG,3-0,Nice
+02/11/17,UEL,Lazio,1-0,Nice
+05/11/17,LI1,Nice,1-0,Dijon
+19/11/17,LI1,Caen,1-1,Nice
+23/11/17,UEL,Nice,3-1,Zulte Waregem
+26/11/17,LI1,Nice,0-5,Lyon
+29/11/17,LI1,Toulouse,1-2,Nice
+02/12/17,LI1,Nice,3-1,Metz
+07/12/17,UEL,Vitesse,1-0,Nice
+10/12/17,LI1,Nantes,1-2,Nice
+13/12/17,CDL,Lille,P1-1P,Nice
+17/12/17,LI1,Nice,1-0,Bordeaux
+20/12/17,LI1,Lille,1-1,Nice
+06/01/18,CDF,Toulouse,1-0,Nice
+09/01/18,CDL,Nice,1-2,Monaco
+13/01/18,LI1,Nice,1-0,Amiens SC
+16/01/18,LI1,Monaco,2-2,Nice
+21/01/18,LI1,Nice,1-0,Saint-Etienne
+27/01/18,LI1,Metz,2-1,Nice
+03/02/18,LI1,Nice,0-1,Toulouse
+10/02/18,LI1,Dijon,3-2,Nice
+15/02/18,UEL,Nice,2-3,Lokomotiv Moscow
+18/02/18,LI1,Nice,1-1,Nantes
+22/02/18,UEL,Lokomotiv Moscow,1-0,Nice
+25/02/18,LI1,Bordeaux,0-0,Nice
+02/03/18,LI1,Nice,2-1,Lille
+11/03/18,LI1,Guingamp,2-5,Nice
+18/03/18,LI1,Nice,1-2,PSG
+01/04/18,LI1,Troyes,0-2,Nice
+08/04/18,LI1,Nice,1-1,Rennes
+13/04/18,LI1,Angers,1-1,Nice
+22/04/18,LI1,Nice,1-0,Montpellier
+28/04/18,LI1,Strasbourg,1-1,Nice
+06/05/18,LI1,Marseille,2-1,Nice
+12/05/18,LI1,Nice,4-1,Caen
+19/05/18,LI1,Lyon,3-2,Nice
+07/07/18,CLF,Stade Nyonnais,2-4,Nice
+14/07/18,CLF,Nice,0-1,Sporting Lisbon
+21/07/18,CLF,Sporting Charleroi,2-2,Nice
+28/07/18,CLF,Torino,1-0,Nice
+04/08/18,CLF,Saint-Etienne,3-0,Nice
+11/08/18,LI1,Nice,0-1,Reims
+14/10/16,LI1,Nice,2-0,Lyon
+20/10/16,UEL,Salzburg,0-1,Nice
+23/10/16,LI1,Metz,2-4,Nice
+30/10/16,LI1,Nice,4-1,Nantes
+03/11/16,UEL,Nice,0-2,Salzburg
+06/11/16,LI1,Caen,1-0,Nice
+20/11/16,LI1,Saint-Etienne,0-1,Nice
+24/11/16,UEL,Schalke 04,2-0,Nice
+27/11/16,LI1,Nice,1-1,Bastia
+30/11/16,LI1,Guingamp,0-1,Nice
+04/12/16,LI1,Nice,3-0,Toulouse
+08/12/16,UEL,Nice,2-1,Krasnodar
+11/12/16,LI1,PSG,2-2,Nice
+14/12/16,CDL,Bordeaux,3-2,Nice
+18/12/16,LI1,Nice,2-1,Dijon
+21/12/16,LI1,Bordeaux,0-0,Nice
+08/01/17,CDF,Lorient,2-1,Nice
+15/01/17,LI1,Nice,0-0,Metz
+20/01/17,LI1,Bastia,1-1,Nice
+29/01/17,LI1,Nice,3-1,Guingamp
+04/02/17,LI1,Monaco,3-0,Nice
+08/02/17,LI1,Nice,1-0,Saint-Etienne
+12/02/17,LI1,Rennes,2-2,Nice
+18/02/17,LI1,Lorient,0-1,Nice
+24/02/17,LI1,Nice,2-1,Montpellier
+04/03/17,LI1,Dijon,0-1,Nice
+10/03/17,LI1,Nice,2-2,Caen
+18/03/17,LI1,Nantes,1-1,Nice
+02/04/17,LI1,Nice,2-1,Bordeaux
+07/04/17,LI1,Lille,1-2,Nice
+15/04/17,LI1,Nice,3-1,Nancy
+23/04/17,LI1,Toulouse,1-1,Nice
+30/04/17,LI1,Nice,3-1,PSG
+07/05/17,LI1,Marseille,2-1,Nice
+14/05/17,LI1,Nice,0-2,Angers
+20/05/17,LI1,Lyon,3-3,Nice
+01/07/17,CLF,Stade Nyonnais,0-4,Nice
+07/07/17,CLF,Servette,1-3,Nice
+13/07/17,CLF,Gent,2-3,Nice
+16/07/17,CLF,Slavia Prague,4-1,Nice
+20/07/17,CLF,Borussia M'gladbach,1-2,Nice
+26/07/17,UCL,Nice,1-1,Ajax
+02/08/17,UCL,Ajax,2-2,Nice
+05/08/17,LI1,Saint-Etienne,1-0,Nice
+11/08/17,LI1,Nice,1-2,Troyes
+16/08/17,UCL,Napoli,2-0,Nice
+19/08/17,LI1,Nice,2-0,Guingamp
+22/08/17,UCL,Nice,0-2,Napoli
+26/08/17,LI1,Amiens SC,3-0,Nice
+09/09/17,LI1,Nice,4-0,Monaco
+23/09/15,LI1,Nice,6-1,Bordeaux
+27/09/15,LI1,Saint-Etienne,1-4,Nice
+18/10/15,LI1,Rennes,1-4,Nice
+24/10/15,LI1,Gazélec Ajaccio,3-1,Nice
+28/10/15,CDL,Caen,1-2,Nice
+01/11/15,LI1,Nice,0-0,Lille
+04/11/15,LI1,Nice,1-2,Nantes
+08/11/15,LI1,Marseille,0-1,Nice
+20/11/15,LI1,Nice,3-0,Lyon
+28/11/15,LI1,Toulouse,2-0,Nice
+01/12/15,LI1,Lorient,0-0,Nice
+04/12/15,LI1,Nice,0-3,PSG
+12/12/15,LI1,Reims,1-1,Nice
+15/12/15,CDL,Guingamp,P2-2P,Nice
+18/12/15,LI1,Nice,1-0,Montpellier
+04/01/16,CDF,Nice,P2-2P,Rennes
+10/01/16,LI1,Lille,1-1,Nice
+15/01/16,LI1,Nice,2-1,Angers
+23/01/16,LI1,Nice,2-1,Lorient
+31/01/16,LI1,Caen,2-0,Nice
+03/02/16,LI1,Nice,1-0,Toulouse
+06/02/16,LI1,Monaco,1-0,Nice
+14/02/16,LI1,Nice,1-1,Marseille
+19/02/16,LI1,Bordeaux,0-0,Nice
+26/02/16,LI1,Nice,0-2,Bastia
+05/03/16,LI1,Nice,2-1,Troyes
+12/03/16,LI1,Montpellier,0-2,Nice
+20/03/16,LI1,Nice,3-0,Gazélec Ajaccio
+02/04/16,LI1,PSG,4-1,Nice
+10/04/16,LI1,Nice,3-0,Rennes
+15/04/16,LI1,Lyon,1-1,Nice
+22/04/16,LI1,Nice,2-0,Reims
+30/04/16,LI1,Nantes,1-0,Nice
+07/05/16,LI1,Nice,2-0,Saint-Etienne
+14/05/16,LI1,Guingamp,2-3,Nice
+16/07/16,CLF,Nice,1-1,Servette
+22/07/16,CLF,Etoile du Sahel,2-1,Nice
+29/07/16,CLF,Nice,1-2,Toulouse
+01/08/16,CLF,Napoli,3-0,Nice
+05/08/16,CLF,Sporting Lisbon,0-0,Nice
+14/08/16,LI1,Nice,1-0,Rennes
+20/08/16,LI1,Angers,0-1,Nice
+27/08/16,LI1,Nice,1-1,Lille
+11/09/16,LI1,Nice,3-2,Marseille
+15/09/16,UEL,Nice,0-1,Schalke 04
+18/09/16,LI1,Montpellier,1-1,Nice
+21/09/16,LI1,Nice,4-0,Monaco
+25/09/16,LI1,Nancy,0-1,Nice
+29/09/16,UEL,Krasnodar,5-2,Nice
+02/10/16,LI1,Nice,2-1,Lorient
+23/08/14,LI1,Nice,1-3,Bordeaux
+29/08/14,LI1,Marseille,4-0,Nice
+13/09/14,LI1,Nice,1-0,Metz
+20/09/14,LI1,Nantes,2-1,Nice
+24/09/14,LI1,Nice,1-0,Lille
+27/09/14,LI1,Monaco,0-1,Nice
+04/10/14,LI1,Nice,1-1,Montpellier
+18/10/14,LI1,Nice,0-1,Bastia
+26/10/14,LI1,Guingamp,2-7,Nice
+29/10/14,CDL,Nice,P3-3P,Metz
+01/11/14,LI1,Nice,1-3,Lyon
+08/11/14,LI1,Evian TG,1-0,Nice
+22/11/14,LI1,Nice,0-0,Reims
+29/11/14,LI1,PSG,1-0,Nice
+03/12/14,LI1,Nice,1-2,Rennes
+06/12/14,LI1,Caen,2-3,Nice
+14/12/14,LI1,Nice,0-0,Saint-Etienne
+19/12/14,LI1,Lens,2-0,Nice
+03/01/15,CDF,Valenciennes,2-0,Nice
+10/01/15,LI1,Nice,3-1,Lorient
+16/01/15,LI1,Bordeaux,1-2,Nice
+23/01/15,LI1,Nice,2-1,Marseille
+31/01/15,LI1,Metz,0-0,Nice
+08/02/15,LI1,Nice,0-0,Nantes
+14/02/15,LI1,Lille,0-0,Nice
+20/02/15,LI1,Nice,0-1,Monaco
+01/03/15,LI1,Montpellier,2-1,Nice
+07/03/15,LI1,Bastia,2-1,Nice
+13/03/15,LI1,Nice,1-2,Guingamp
+21/03/15,LI1,Lyon,1-2,Nice
+04/04/15,LI1,Nice,2-2,Evian TG
+12/04/15,LI1,Reims,0-1,Nice
+18/04/15,LI1,Nice,1-3,PSG
+25/04/15,LI1,Rennes,2-1,Nice
+02/05/15,LI1,Nice,1-1,Caen
+10/05/15,LI1,Saint-Etienne,5-0,Nice
+16/05/15,LI1,Nice,2-1,Lens
+23/05/15,LI1,Toulouse,2-3,Nice
+11/07/15,CLF,Lausanne-Sport,1-4,Nice
+17/07/15,CLF,Zulte Waregem,2-1,Nice
+21/07/15,CLF,Fréjus St-Raphaël,0-1,Nice
+26/07/15,CLF,Besiktas,2-2,Nice
+28/07/15,CLF,Galatasaray,0-4,Nice
+02/08/15,CLF,Nice,3-2,Napoli
+08/08/15,LI1,Nice,1-2,Monaco
+15/08/15,LI1,Troyes,3-3,Nice
+22/08/15,LI1,Nice,2-1,Caen
+29/08/15,LI1,Angers,1-1,Nice
+12/09/15,LI1,Nice,0-1,Guingamp
+19/09/15,LI1,Bastia,1-3,Nice

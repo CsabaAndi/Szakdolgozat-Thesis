@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+08/10/23,PRL,Brighton & Hove Albion,2-2,Liverpool
+21/10/23,PRL,Liverpool,2-0,Everton
+26/10/23,UEL,Liverpool,5-1,Toulouse
+29/10/23,PRL,Liverpool,3-0,Nottingham Forest
+01/11/23,LEC,AFC Bournemouth,1-2,Liverpool
+05/11/23,PRL,Luton Town,1-1,Liverpool
+09/11/23,UEL,Toulouse,3-2,Liverpool
+12/11/23,PRL,Liverpool,3-0,Brentford
+25/11/23,PRL,Manchester City,1-1,Liverpool
+30/11/23,UEL,Liverpool,4-0,LASK
+03/12/23,PRL,Liverpool,4-3,Fulham
+06/12/23,PRL,Sheffield United,0-2,Liverpool
+09/12/23,PRL,Crystal Palace,1-2,Liverpool
+14/12/23,UEL,Union Saint-Gilloise,2-1,Liverpool
+17/12/23,PRL,Liverpool,0-0,Manchester United
+20/12/23,LEC,Liverpool,5-1,West Ham United
+23/12/23,PRL,Liverpool,1-1,Arsenal
+26/12/23,PRL,Burnley,0-2,Liverpool
+01/01/24,PRL,Liverpool,4-2,Newcastle United
+07/01/24,FAC,Arsenal,0-2,Liverpool
+10/01/24,LEC,Liverpool,2-1,Fulham
+21/01/24,PRL,AFC Bournemouth,0-4,Liverpool
+24/01/24,LEC,Fulham,1-1,Liverpool
+28/01/24,FAC,Liverpool,5-2,Norwich City
+31/01/24,PRL,Liverpool,4-1,Chelsea
+04/02/24,PRL,Arsenal,3-1,Liverpool
+10/02/24,PRL,Liverpool,3-1,Burnley
+17/02/24,PRL,Brentford,1-4,Liverpool
+21/02/24,PRL,Liverpool,4-1,Luton Town
+25/02/24,LEC,Chelsea,E0-1E,Liverpool
+28/02/24,FAC,Liverpool,3-0,Southampton
+02/03/24,PRL,Nottingham Forest,0-1,Liverpool
+07/03/24,UEL,Sparta Prague,1-5,Liverpool
+10/03/24,PRL,Liverpool,1-1,Manchester City
+14/03/24,UEL,Liverpool,6-1,Sparta Prague
+17/03/24,FAC,Manchester United,E4-3E,Liverpool
+31/03/24,PRL,Liverpool,2-1,Brighton & Hove Albion
+04/04/24,PRL,Liverpool,3-1,Sheffield United
+07/04/24,PRL,Manchester United,2-2,Liverpool
+11/04/24,UEL,Liverpool,0-3,Atalanta
+14/04/24,PRL,Liverpool,0-1,Crystal Palace
+18/04/24,UEL,Atalanta,0-1,Liverpool
+21/04/24,PRL,Fulham,1-3,Liverpool
+24/04/24,PRL,Everton,2-0,Liverpool
+27/04/24,PRL,West Ham United,2-2,Liverpool
+05/05/24,PRL,Liverpool,17:30,Tottenham Hotspur
+13/05/24,PRL,Aston Villa,21:00,Liverpool
+19/05/24,PRL,Liverpool,17:00,Wolverhampton Wanderers
+31/07/24,CLF,Liverpool,-,Arsenal
+04/08/24,CLF,Manchester United,01:30,Liverpool
+06/11/22,PRL,Tottenham Hotspur,1-2,Liverpool
+09/11/22,LEC,Liverpool,P0-0P,Derby County
+12/11/22,PRL,Liverpool,3-1,Southampton
+11/12/22,CLF,Liverpool,P1-3P,Lyon
+16/12/22,CLF,Liverpool,P4-1P,AC Milan
+22/12/22,LEC,Manchester City,3-2,Liverpool
+26/12/22,PRL,Aston Villa,1-3,Liverpool
+30/12/22,PRL,Liverpool,2-1,Leicester City
+02/01/23,PRL,Brentford,3-1,Liverpool
+07/01/23,FAC,Liverpool,2-2,Wolverhampton Wanderers
+14/01/23,PRL,Brighton & Hove Albion,3-0,Liverpool
+17/01/23,FAC,Wolverhampton Wanderers,0-1,Liverpool
+21/01/23,PRL,Liverpool,0-0,Chelsea
+29/01/23,FAC,Brighton & Hove Albion,2-1,Liverpool
+04/02/23,PRL,Wolverhampton Wanderers,3-0,Liverpool
+13/02/23,PRL,Liverpool,2-0,Everton
+18/02/23,PRL,Newcastle United,0-2,Liverpool
+21/02/23,UCL,Liverpool,2-5,Real Madrid
+25/02/23,PRL,Crystal Palace,0-0,Liverpool
+01/03/23,PRL,Liverpool,2-0,Wolverhampton Wanderers
+05/03/23,PRL,Liverpool,7-0,Manchester United
+11/03/23,PRL,AFC Bournemouth,1-0,Liverpool
+15/03/23,UCL,Real Madrid,1-0,Liverpool
+01/04/23,PRL,Manchester City,4-1,Liverpool
+04/04/23,PRL,Chelsea,0-0,Liverpool
+09/04/23,PRL,Liverpool,2-2,Arsenal
+17/04/23,PRL,Leeds United,1-6,Liverpool
+22/04/23,PRL,Liverpool,3-2,Nottingham Forest
+26/04/23,PRL,West Ham United,1-2,Liverpool
+30/04/23,PRL,Liverpool,4-3,Tottenham Hotspur
+03/05/23,PRL,Liverpool,1-0,Fulham
+06/05/23,PRL,Liverpool,1-0,Brentford
+15/05/23,PRL,Leicester City,0-3,Liverpool
+20/05/23,PRL,Liverpool,1-1,Aston Villa
+28/05/23,PRL,Southampton,4-4,Liverpool
+19/07/23,CLF,Karlsruhe,2-4,Liverpool
+24/07/23,CLF,Greuther Fürth,4-4,Liverpool
+30/07/23,CLF,Liverpool,4-0,Leicester City
+02/08/23,CLF,Liverpool,3-4,Bayern Munich
+07/08/23,CLF,Liverpool,3-1,Darmstadt
+13/08/23,PRL,Chelsea,1-1,Liverpool
+19/08/23,PRL,Liverpool,3-1,AFC Bournemouth
+27/08/23,PRL,Newcastle United,1-2,Liverpool
+03/09/23,PRL,Liverpool,3-0,Aston Villa
+16/09/23,PRL,Wolverhampton Wanderers,1-3,Liverpool
+21/09/23,UEL,LASK,1-3,Liverpool
+24/09/23,PRL,Liverpool,3-1,West Ham United
+27/09/23,LEC,Liverpool,3-1,Leicester City
+30/09/23,PRL,Tottenham Hotspur,2-1,Liverpool
+05/10/23,UEL,Liverpool,2-0,Union Saint-Gilloise
+16/02/22,UCL,Inter Milan,0-2,Liverpool
+19/02/22,PRL,Liverpool,3-1,Norwich City
+23/02/22,PRL,Liverpool,6-0,Leeds United
+27/02/22,LEC,Chelsea,P0-0P,Liverpool
+02/03/22,FAC,Liverpool,2-1,Norwich City
+05/03/22,PRL,Liverpool,1-0,West Ham United
+08/03/22,UCL,Liverpool,0-1,Inter Milan
+12/03/22,PRL,Brighton & Hove Albion,0-2,Liverpool
+16/03/22,PRL,Arsenal,0-2,Liverpool
+20/03/22,FAC,Nottingham Forest,0-1,Liverpool
+02/04/22,PRL,Liverpool,2-0,Watford
+05/04/22,UCL,Benfica,1-3,Liverpool
+10/04/22,PRL,Manchester City,2-2,Liverpool
+13/04/22,UCL,Liverpool,3-3,Benfica
+16/04/22,FAC,Manchester City,2-3,Liverpool
+19/04/22,PRL,Liverpool,4-0,Manchester United
+24/04/22,PRL,Liverpool,2-0,Everton
+27/04/22,UCL,Liverpool,2-0,Villarreal
+30/04/22,PRL,Newcastle United,0-1,Liverpool
+03/05/22,UCL,Villarreal,2-3,Liverpool
+07/05/22,PRL,Liverpool,1-1,Tottenham Hotspur
+10/05/22,PRL,Aston Villa,1-2,Liverpool
+14/05/22,FAC,Chelsea,P0-0P,Liverpool
+17/05/22,PRL,Southampton,1-2,Liverpool
+22/05/22,PRL,Liverpool,3-1,Wolverhampton Wanderers
+28/05/22,UCL,Liverpool,0-1,Real Madrid
+12/07/22,CLF,Manchester United,4-0,Liverpool
+15/07/22,CLF,Liverpool,2-0,Crystal Palace
+21/07/22,CLF,RB Leipzig,0-5,Liverpool
+27/07/22,CLF,Salzburg,1-0,Liverpool
+30/07/22,COS,Liverpool,3-1,Manchester City
+31/07/22,CLF,Liverpool,0-3,Strasbourg
+06/08/22,PRL,Fulham,2-2,Liverpool
+15/08/22,PRL,Liverpool,1-1,Crystal Palace
+22/08/22,PRL,Manchester United,2-1,Liverpool
+27/08/22,PRL,Liverpool,9-0,AFC Bournemouth
+31/08/22,PRL,Liverpool,2-1,Newcastle United
+03/09/22,PRL,Everton,0-0,Liverpool
+07/09/22,UCL,Napoli,4-1,Liverpool
+13/09/22,UCL,Liverpool,2-1,Ajax
+01/10/22,PRL,Liverpool,3-3,Brighton & Hove Albion
+04/10/22,UCL,Liverpool,2-0,Rangers
+09/10/22,PRL,Arsenal,3-2,Liverpool
+12/10/22,UCL,Rangers,1-7,Liverpool
+16/10/22,PRL,Liverpool,1-0,Manchester City
+19/10/22,PRL,Liverpool,1-0,West Ham United
+22/10/22,PRL,Nottingham Forest,1-0,Liverpool
+26/10/22,UCL,Ajax,0-3,Liverpool
+29/10/22,PRL,Liverpool,1-2,Leeds United
+01/11/22,UCL,Liverpool,2-0,Napoli
+10/04/21,PRL,Liverpool,2-1,Aston Villa
+14/04/21,UCL,Liverpool,0-0,Real Madrid
+19/04/21,PRL,Leeds United,1-1,Liverpool
+24/04/21,PRL,Liverpool,1-1,Newcastle United
+08/05/21,PRL,Liverpool,2-0,Southampton
+13/05/21,PRL,Manchester United,2-4,Liverpool
+16/05/21,PRL,West Bromwich Albion,1-2,Liverpool
+19/05/21,PRL,Burnley,0-3,Liverpool
+23/05/21,PRL,Liverpool,2-0,Crystal Palace
+23/07/21,CLF,Liverpool,1-0,Mainz
+29/07/21,CLF,Hertha Berlin,4-3,Liverpool
+08/08/21,CLF,Liverpool,1-1,Athletic Bilbao
+09/08/21,CLF,Liverpool,3-1,Osasuna
+14/08/21,PRL,Norwich City,0-3,Liverpool
+21/08/21,PRL,Liverpool,2-0,Burnley
+28/08/21,PRL,Liverpool,1-1,Chelsea
+12/09/21,PRL,Leeds United,0-3,Liverpool
+15/09/21,UCL,Liverpool,3-2,AC Milan
+18/09/21,PRL,Liverpool,3-0,Crystal Palace
+21/09/21,LEC,Norwich City,0-3,Liverpool
+25/09/21,PRL,Brentford,3-3,Liverpool
+28/09/21,UCL,Porto,1-5,Liverpool
+03/10/21,PRL,Liverpool,2-2,Manchester City
+16/10/21,PRL,Watford,0-5,Liverpool
+19/10/21,UCL,Atletico Madrid,2-3,Liverpool
+24/10/21,PRL,Manchester United,0-5,Liverpool
+27/10/21,LEC,Preston North End,0-2,Liverpool
+30/10/21,PRL,Liverpool,2-2,Brighton & Hove Albion
+03/11/21,UCL,Liverpool,2-0,Atletico Madrid
+07/11/21,PRL,West Ham United,3-2,Liverpool
+20/11/21,PRL,Liverpool,4-0,Arsenal
+24/11/21,UCL,Liverpool,2-0,Porto
+27/11/21,PRL,Liverpool,4-0,Southampton
+01/12/21,PRL,Everton,1-4,Liverpool
+04/12/21,PRL,Wolverhampton Wanderers,0-1,Liverpool
+07/12/21,UCL,AC Milan,1-2,Liverpool
+11/12/21,PRL,Liverpool,1-0,Aston Villa
+16/12/21,PRL,Liverpool,3-1,Newcastle United
+19/12/21,PRL,Tottenham Hotspur,2-2,Liverpool
+22/12/21,LEC,Liverpool,P3-3P,Leicester City
+28/12/21,PRL,Leicester City,1-0,Liverpool
+02/01/22,PRL,Chelsea,2-2,Liverpool
+09/01/22,FAC,Liverpool,4-1,Shrewsbury Town
+13/01/22,LEC,Liverpool,0-0,Arsenal
+16/01/22,PRL,Liverpool,3-0,Brentford
+20/01/22,LEC,Arsenal,0-2,Liverpool
+23/01/22,PRL,Crystal Palace,1-3,Liverpool
+06/02/22,FAC,Liverpool,3-1,Cardiff City
+10/02/22,PRL,Liverpool,2-0,Leicester City
+13/02/22,PRL,Burnley,0-1,Liverpool
+15/07/20,PRL,Arsenal,2-1,Liverpool
+22/07/20,PRL,Liverpool,5-3,Chelsea
+26/07/20,PRL,Newcastle United,1-3,Liverpool
+22/08/20,CLF,Liverpool,3-0,Stuttgart
+25/08/20,CLF,Salzburg,2-2,Liverpool
+29/08/20,COS,Arsenal,P1-1P,Liverpool
+05/09/20,CLF,Liverpool,7-2,Blackpool
+12/09/20,PRL,Liverpool,4-3,Leeds United
+20/09/20,PRL,Chelsea,0-2,Liverpool
+24/09/20,LEC,Lincoln City,2-7,Liverpool
+28/09/20,PRL,Liverpool,3-1,Arsenal
+01/10/20,LEC,Liverpool,P0-0P,Arsenal
+04/10/20,PRL,Aston Villa,7-2,Liverpool
+17/10/20,PRL,Everton,2-2,Liverpool
+21/10/20,UCL,Ajax,0-1,Liverpool
+24/10/20,PRL,Liverpool,2-1,Sheffield United
+27/10/20,UCL,Liverpool,2-0,Midtjylland
+31/10/20,PRL,Liverpool,2-1,West Ham United
+03/11/20,UCL,Atalanta,0-5,Liverpool
+08/11/20,PRL,Manchester City,1-1,Liverpool
+22/11/20,PRL,Liverpool,3-0,Leicester City
+25/11/20,UCL,Liverpool,0-2,Atalanta
+28/11/20,PRL,Brighton & Hove Albion,1-1,Liverpool
+01/12/20,UCL,Liverpool,1-0,Ajax
+06/12/20,PRL,Liverpool,4-0,Wolverhampton Wanderers
+09/12/20,UCL,Midtjylland,1-1,Liverpool
+13/12/20,PRL,Fulham,1-1,Liverpool
+16/12/20,PRL,Liverpool,2-1,Tottenham Hotspur
+19/12/20,PRL,Crystal Palace,0-7,Liverpool
+27/12/20,PRL,Liverpool,1-1,West Bromwich Albion
+30/12/20,PRL,Newcastle United,0-0,Liverpool
+04/01/21,PRL,Southampton,1-0,Liverpool
+08/01/21,FAC,Aston Villa,1-4,Liverpool
+17/01/21,PRL,Liverpool,0-0,Manchester United
+21/01/21,PRL,Liverpool,0-1,Burnley
+24/01/21,FAC,Manchester United,3-2,Liverpool
+28/01/21,PRL,Tottenham Hotspur,1-3,Liverpool
+31/01/21,PRL,West Ham United,1-3,Liverpool
+03/02/21,PRL,Liverpool,0-1,Brighton & Hove Albion
+07/02/21,PRL,Liverpool,1-4,Manchester City
+13/02/21,PRL,Leicester City,3-1,Liverpool
+16/02/21,UCL,RB Leipzig,0-2,Liverpool
+20/02/21,PRL,Liverpool,0-2,Everton
+28/02/21,PRL,Sheffield United,0-2,Liverpool
+04/03/21,PRL,Liverpool,0-1,Chelsea
+07/03/21,PRL,Liverpool,0-1,Fulham
+10/03/21,UCL,Liverpool,2-0,RB Leipzig
+15/03/21,PRL,Wolverhampton Wanderers,0-1,Liverpool
+03/04/21,PRL,Arsenal,0-3,Liverpool
+06/04/21,UCL,Real Madrid,3-1,Liverpool
+24/08/19,PRL,Liverpool,3-1,Arsenal
+31/08/19,PRL,Burnley,0-3,Liverpool
+14/09/19,PRL,Liverpool,3-1,Newcastle United
+17/09/19,UCL,Napoli,2-0,Liverpool
+22/09/19,PRL,Chelsea,1-2,Liverpool
+25/09/19,LEC,Milton Keynes Dons,0-2,Liverpool
+28/09/19,PRL,Sheffield United,0-1,Liverpool
+02/10/19,UCL,Liverpool,4-3,Salzburg
+05/10/19,PRL,Liverpool,2-1,Leicester City
+20/10/19,PRL,Manchester United,1-1,Liverpool
+23/10/19,UCL,Genk,1-4,Liverpool
+27/10/19,PRL,Liverpool,2-1,Tottenham Hotspur
+30/10/19,LEC,Liverpool,P5-5P,Arsenal
+02/11/19,PRL,Aston Villa,1-2,Liverpool
+05/11/19,UCL,Liverpool,2-1,Genk
+10/11/19,PRL,Liverpool,3-1,Manchester City
+23/11/19,PRL,Crystal Palace,1-2,Liverpool
+27/11/19,UCL,Liverpool,1-1,Napoli
+30/11/19,PRL,Liverpool,2-1,Brighton & Hove Albion
+04/12/19,PRL,Liverpool,5-2,Everton
+07/12/19,PRL,AFC Bournemouth,0-3,Liverpool
+10/12/19,UCL,Salzburg,0-2,Liverpool
+14/12/19,PRL,Liverpool,2-0,Watford
+17/12/19,LEC,Aston Villa,5-0,Liverpool
+18/12/19,FCW,Monterrey,1-2,Liverpool
+21/12/19,FCW,Liverpool,E1-0E,Flamengo
+26/12/19,PRL,Leicester City,0-4,Liverpool
+29/12/19,PRL,Liverpool,1-0,Wolverhampton Wanderers
+02/01/20,PRL,Liverpool,2-0,Sheffield United
+05/01/20,FAC,Liverpool,1-0,Everton
+11/01/20,PRL,Tottenham Hotspur,0-1,Liverpool
+19/01/20,PRL,Liverpool,2-0,Manchester United
+23/01/20,PRL,Wolverhampton Wanderers,1-2,Liverpool
+26/01/20,FAC,Shrewsbury Town,2-2,Liverpool
+29/01/20,PRL,West Ham United,0-2,Liverpool
+01/02/20,PRL,Liverpool,4-0,Southampton
+04/02/20,FAC,Liverpool,1-0,Shrewsbury Town
+15/02/20,PRL,Norwich City,0-1,Liverpool
+18/02/20,UCL,Atletico Madrid,1-0,Liverpool
+24/02/20,PRL,Liverpool,3-2,West Ham United
+29/02/20,PRL,Watford,3-0,Liverpool
+03/03/20,FAC,Chelsea,2-0,Liverpool
+07/03/20,PRL,Liverpool,2-1,AFC Bournemouth
+11/03/20,UCL,Liverpool,E2-3E,Atletico Madrid
+21/06/20,PRL,Everton,0-0,Liverpool
+24/06/20,PRL,Liverpool,4-0,Crystal Palace
+02/07/20,PRL,Manchester City,4-0,Liverpool
+05/07/20,PRL,Liverpool,2-0,Aston Villa
+08/07/20,PRL,Brighton & Hove Albion,1-3,Liverpool
+11/07/20,PRL,Liverpool,1-1,Burnley
+06/11/18,UCL,Red Star Belgrade,2-0,Liverpool
+11/11/18,PRL,Liverpool,2-0,Fulham
+24/11/18,PRL,Watford,0-3,Liverpool
+28/11/18,UCL,PSG,2-1,Liverpool
+02/12/18,PRL,Liverpool,1-0,Everton
+05/12/18,PRL,Burnley,1-3,Liverpool
+08/12/18,PRL,AFC Bournemouth,0-4,Liverpool
+11/12/18,UCL,Liverpool,1-0,Napoli
+16/12/18,PRL,Liverpool,3-1,Manchester United
+21/12/18,PRL,Wolverhampton Wanderers,0-2,Liverpool
+26/12/18,PRL,Liverpool,4-0,Newcastle United
+29/12/18,PRL,Liverpool,5-1,Arsenal
+03/01/19,PRL,Manchester City,2-1,Liverpool
+07/01/19,FAC,Wolverhampton Wanderers,2-1,Liverpool
+12/01/19,PRL,Brighton & Hove Albion,0-1,Liverpool
+19/01/19,PRL,Liverpool,4-3,Crystal Palace
+30/01/19,PRL,Liverpool,1-1,Leicester City
+04/02/19,PRL,West Ham United,1-1,Liverpool
+09/02/19,PRL,Liverpool,3-0,AFC Bournemouth
+19/02/19,UCL,Liverpool,0-0,Bayern Munich
+24/02/19,PRL,Manchester United,0-0,Liverpool
+27/02/19,PRL,Liverpool,5-0,Watford
+03/03/19,PRL,Everton,0-0,Liverpool
+10/03/19,PRL,Liverpool,4-2,Burnley
+13/03/19,UCL,Bayern Munich,1-3,Liverpool
+17/03/19,PRL,Fulham,1-2,Liverpool
+31/03/19,PRL,Liverpool,2-1,Tottenham Hotspur
+05/04/19,PRL,Southampton,1-3,Liverpool
+09/04/19,UCL,Liverpool,2-0,Porto
+14/04/19,PRL,Liverpool,2-0,Chelsea
+17/04/19,UCL,Porto,1-4,Liverpool
+21/04/19,PRL,Cardiff City,0-2,Liverpool
+26/04/19,PRL,Liverpool,5-0,Huddersfield Town
+01/05/19,UCL,Barcelona,3-0,Liverpool
+04/05/19,PRL,Newcastle United,2-3,Liverpool
+07/05/19,UCL,Liverpool,4-0,Barcelona
+12/05/19,PRL,Liverpool,2-0,Wolverhampton Wanderers
+01/06/19,UCL,Tottenham Hotspur,0-2,Liverpool
+11/07/19,CLF,Tranmere Rovers,0-6,Liverpool
+14/07/19,CLF,Bradford City,1-3,Liverpool
+20/07/19,CLF,Liverpool,2-3,Borussia Dortmund
+22/07/19,CLF,Liverpool,1-2,Sevilla
+25/07/19,CLF,Liverpool,2-2,Sporting Lisbon
+28/07/19,CLF,Liverpool,0-3,Napoli
+31/07/19,CLF,Liverpool,3-1,Lyon
+04/08/19,COS,Liverpool,P1-1P,Manchester City
+06/08/19,CLF,Liverpool,CANC,Schalke 04
+09/08/19,PRL,Liverpool,4-1,Norwich City
+14/08/19,USC,Liverpool,P2-2P,Chelsea
+17/08/19,PRL,Southampton,1-2,Liverpool
+01/01/18,PRL,Burnley,1-2,Liverpool
+05/01/18,FAC,Liverpool,2-1,Everton
+14/01/18,PRL,Liverpool,4-3,Manchester City
+22/01/18,PRL,Swansea City,1-0,Liverpool
+27/01/18,FAC,Liverpool,2-3,West Bromwich Albion
+30/01/18,PRL,Huddersfield Town,0-3,Liverpool
+04/02/18,PRL,Liverpool,2-2,Tottenham Hotspur
+11/02/18,PRL,Southampton,0-2,Liverpool
+14/02/18,UCL,Porto,0-5,Liverpool
+24/02/18,PRL,Liverpool,4-1,West Ham United
+03/03/18,PRL,Liverpool,2-0,Newcastle United
+06/03/18,UCL,Liverpool,0-0,Porto
+10/03/18,PRL,Manchester United,2-1,Liverpool
+17/03/18,PRL,Liverpool,5-0,Watford
+31/03/18,PRL,Crystal Palace,1-2,Liverpool
+04/04/18,UCL,Liverpool,3-0,Manchester City
+07/04/18,PRL,Everton,0-0,Liverpool
+10/04/18,UCL,Manchester City,1-2,Liverpool
+14/04/18,PRL,Liverpool,3-0,AFC Bournemouth
+21/04/18,PRL,West Bromwich Albion,2-2,Liverpool
+24/04/18,UCL,Liverpool,5-2,Roma
+28/04/18,PRL,Liverpool,0-0,Stoke City
+02/05/18,UCL,Roma,4-2,Liverpool
+06/05/18,PRL,Chelsea,1-0,Liverpool
+13/05/18,PRL,Liverpool,4-0,Brighton & Hove Albion
+26/05/18,UCL,Real Madrid,3-1,Liverpool
+07/07/18,CLF,Chester,0-7,Liverpool
+10/07/18,CLF,Tranmere Rovers,2-3,Liverpool
+14/07/18,CLF,Bury,0-0,Liverpool
+19/07/18,CLF,Blackburn Rovers,0-2,Liverpool
+22/07/18,ICC,Liverpool,1-3,Borussia Dortmund
+26/07/18,ICC,Manchester City,1-2,Liverpool
+28/07/18,ICC,Manchester United,1-4,Liverpool
+04/08/18,CLF,Liverpool,5-0,Napoli
+07/08/18,CLF,Liverpool,3-1,Torino
+12/08/18,PRL,Liverpool,4-0,West Ham United
+20/08/18,PRL,Crystal Palace,0-2,Liverpool
+25/08/18,PRL,Liverpool,1-0,Brighton & Hove Albion
+01/09/18,PRL,Leicester City,1-2,Liverpool
+15/09/18,PRL,Tottenham Hotspur,1-2,Liverpool
+18/09/18,UCL,Liverpool,3-2,PSG
+22/09/18,PRL,Liverpool,3-0,Southampton
+26/09/18,LEC,Liverpool,1-2,Chelsea
+29/09/18,PRL,Chelsea,1-1,Liverpool
+03/10/18,UCL,Napoli,1-0,Liverpool
+07/10/18,PRL,Liverpool,0-0,Manchester City
+20/10/18,PRL,Huddersfield Town,0-1,Liverpool
+24/10/18,UCL,Liverpool,4-0,Red Star Belgrade
+27/10/18,PRL,Liverpool,4-1,Cardiff City
+03/11/18,PRL,Arsenal,1-1,Liverpool
+12/03/17,PRL,Liverpool,2-1,Burnley
+19/03/17,PRL,Manchester City,1-1,Liverpool
+01/04/17,PRL,Liverpool,3-1,Everton
+05/04/17,PRL,Liverpool,2-2,AFC Bournemouth
+08/04/17,PRL,Stoke City,1-2,Liverpool
+16/04/17,PRL,West Bromwich Albion,0-1,Liverpool
+23/04/17,PRL,Liverpool,1-2,Crystal Palace
+01/05/17,PRL,Watford,0-1,Liverpool
+07/05/17,PRL,Liverpool,0-0,Southampton
+14/05/17,PRL,West Ham United,0-4,Liverpool
+21/05/17,PRL,Liverpool,3-0,Middlesbrough
+24/05/17,CLF,Sydney,0-3,Liverpool
+12/07/17,CLF,Tranmere Rovers,0-4,Liverpool
+14/07/17,CLF,Wigan Athletic,1-1,Liverpool
+19/07/17,PLA,Liverpool,2-0,Crystal Palace
+22/07/17,PLA,Liverpool,2-1,Leicester City
+29/07/17,CLF,Hertha Berlin,0-3,Liverpool
+01/08/17,AUC,Bayern Munich,0-3,Liverpool
+02/08/17,AUC,Liverpool,P1-1P,Atletico Madrid
+05/08/17,CLF,Liverpool,3-1,Athletic Bilbao
+12/08/17,PRL,Watford,3-3,Liverpool
+15/08/17,UCL,Hoffenheim,1-2,Liverpool
+19/08/17,PRL,Liverpool,1-0,Crystal Palace
+23/08/17,UCL,Liverpool,4-2,Hoffenheim
+27/08/17,PRL,Liverpool,4-0,Arsenal
+09/09/17,PRL,Manchester City,5-0,Liverpool
+13/09/17,UCL,Liverpool,2-2,Sevilla
+16/09/17,PRL,Liverpool,1-1,Burnley
+19/09/17,LEC,Leicester City,2-0,Liverpool
+23/09/17,PRL,Leicester City,2-3,Liverpool
+26/09/17,UCL,Spartak Moscow,1-1,Liverpool
+01/10/17,PRL,Newcastle United,1-1,Liverpool
+14/10/17,PRL,Liverpool,0-0,Manchester United
+17/10/17,UCL,Maribor,0-7,Liverpool
+22/10/17,PRL,Tottenham Hotspur,4-1,Liverpool
+28/10/17,PRL,Liverpool,3-0,Huddersfield Town
+01/11/17,UCL,Liverpool,3-0,Maribor
+04/11/17,PRL,West Ham United,1-4,Liverpool
+18/11/17,PRL,Liverpool,3-0,Southampton
+21/11/17,UCL,Sevilla,3-3,Liverpool
+25/11/17,PRL,Liverpool,1-1,Chelsea
+29/11/17,PRL,Stoke City,0-3,Liverpool
+02/12/17,PRL,Brighton & Hove Albion,1-5,Liverpool
+06/12/17,UCL,Liverpool,7-0,Spartak Moscow
+10/12/17,PRL,Liverpool,1-1,Everton
+13/12/17,PRL,Liverpool,0-0,West Bromwich Albion
+17/12/17,PRL,AFC Bournemouth,0-4,Liverpool
+22/12/17,PRL,Arsenal,3-3,Liverpool
+26/12/17,PRL,Liverpool,5-0,Swansea City
+30/12/17,PRL,Liverpool,2-1,Leicester City
+05/05/16,UEL,Liverpool,3-0,Villarreal
+08/05/16,PRL,Liverpool,2-0,Watford
+11/05/16,PRL,Liverpool,1-1,Chelsea
+15/05/16,PRL,West Bromwich Albion,1-1,Liverpool
+18/05/16,UEL,Liverpool,1-3,Sevilla
+08/07/16,CLF,Tranmere Rovers,0-1,Liverpool
+13/07/16,CLF,Fleetwood Town,0-5,Liverpool
+17/07/16,CLF,Wigan Athletic,0-2,Liverpool
+20/07/16,CLF,Huddersfield Town,0-2,Liverpool
+28/07/16,ICC,Chelsea,1-0,Liverpool
+31/07/16,ICC,Liverpool,2-0,AC Milan
+02/08/16,CLF,Liverpool,1-2,Roma
+06/08/16,ICC,Liverpool,4-0,Barcelona
+07/08/16,CLF,Mainz,4-0,Liverpool
+14/08/16,PRL,Arsenal,3-4,Liverpool
+20/08/16,PRL,Burnley,2-0,Liverpool
+23/08/16,LEC,Burton Albion,0-5,Liverpool
+27/08/16,PRL,Tottenham Hotspur,1-1,Liverpool
+10/09/16,PRL,Liverpool,4-1,Leicester City
+16/09/16,PRL,Chelsea,1-2,Liverpool
+20/09/16,LEC,Derby County,0-3,Liverpool
+24/09/16,PRL,Liverpool,5-1,Hull City
+01/10/16,PRL,Swansea City,1-2,Liverpool
+17/10/16,PRL,Liverpool,0-0,Manchester United
+22/10/16,PRL,Liverpool,2-1,West Bromwich Albion
+25/10/16,LEC,Liverpool,2-1,Tottenham Hotspur
+29/10/16,PRL,Crystal Palace,2-4,Liverpool
+06/11/16,PRL,Liverpool,6-1,Watford
+19/11/16,PRL,Southampton,0-0,Liverpool
+26/11/16,PRL,Liverpool,2-0,Sunderland
+29/11/16,LEC,Liverpool,2-0,Leeds United
+04/12/16,PRL,AFC Bournemouth,4-3,Liverpool
+11/12/16,PRL,Liverpool,2-2,West Ham United
+14/12/16,PRL,Middlesbrough,0-3,Liverpool
+19/12/16,PRL,Everton,0-1,Liverpool
+27/12/16,PRL,Liverpool,4-1,Stoke City
+31/12/16,PRL,Liverpool,1-0,Manchester City
+02/01/17,PRL,Sunderland,2-2,Liverpool
+08/01/17,FAC,Liverpool,0-0,Plymouth Argyle
+11/01/17,LEC,Southampton,1-0,Liverpool
+15/01/17,PRL,Manchester United,1-1,Liverpool
+18/01/17,FAC,Plymouth Argyle,0-1,Liverpool
+21/01/17,PRL,Liverpool,2-3,Swansea City
+25/01/17,LEC,Liverpool,0-1,Southampton
+28/01/17,FAC,Liverpool,1-2,Wolverhampton Wanderers
+31/01/17,PRL,Liverpool,1-1,Chelsea
+04/02/17,PRL,Hull City,2-0,Liverpool
+11/02/17,PRL,Liverpool,2-0,Tottenham Hotspur
+27/02/17,PRL,Leicester City,3-1,Liverpool
+04/03/17,PRL,Liverpool,3-1,Arsenal

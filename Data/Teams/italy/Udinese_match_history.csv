@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+04/06/23,SEA,Udinese,0-1,Juventus
+19/07/23,CLF,ASK Klagenfurt,1-5,Udinese
+22/07/23,CLF,Udinese,2-0,Pafos
+25/07/23,CLF,Udinese,2-1,RB Leipzig
+29/07/23,CLF,Udinese,0-1,Union Berlin
+04/08/23,CLF,Udinese,2-1,Al Rayyan
+05/08/23,CLF,Udinese,2-1,Al Rayyan
+11/08/23,COI,Udinese,4-1,Catanzaro
+20/08/23,SEA,Udinese,0-3,Juventus
+28/08/23,SEA,Salernitana,1-1,Udinese
+02/09/23,SEA,Udinese,0-0,Frosinone
+17/09/23,SEA,Cagliari,0-0,Udinese
+24/09/23,SEA,Udinese,0-2,Fiorentina
+27/09/23,SEA,Napoli,4-1,Udinese
+01/10/23,SEA,Udinese,2-2,Genoa
+06/10/23,SEA,Empoli,0-0,Udinese
+14/10/23,CLF,Rijeka,1-1,Udinese
+23/10/23,SEA,Udinese,1-1,Lecce
+29/10/23,SEA,Monza,1-1,Udinese
+01/11/23,COI,Udinese,E1-2E,Cagliari
+04/11/23,SEA,AC Milan,0-1,Udinese
+12/11/23,SEA,Udinese,1-1,Atalanta
+18/11/23,CLF,Udinese,1-1,Istra 1961
+26/11/23,SEA,Roma,3-1,Udinese
+03/12/23,SEA,Udinese,3-3,Verona
+09/12/23,SEA,Inter Milan,4-0,Udinese
+17/12/23,SEA,Udinese,2-2,Sassuolo
+23/12/23,SEA,Torino,1-1,Udinese
+30/12/23,SEA,Udinese,3-0,Bologna
+07/01/24,SEA,Udinese,1-2,Lazio
+14/01/24,SEA,Fiorentina,2-2,Udinese
+20/01/24,SEA,Udinese,2-3,AC Milan
+27/01/24,SEA,Atalanta,2-0,Udinese
+03/02/24,SEA,Udinese,0-0,Monza
+12/02/24,SEA,Juventus,0-1,Udinese
+18/02/24,SEA,Udinese,1-1,Cagliari
+24/02/24,SEA,Genoa,2-0,Udinese
+02/03/24,SEA,Udinese,1-1,Salernitana
+11/03/24,SEA,Lazio,1-2,Udinese
+16/03/24,SEA,Udinese,0-2,Torino
+25/03/24,CLF,Udinese,2-3,Padova
+01/04/24,SEA,Sassuolo,1-1,Udinese
+08/04/24,SEA,Udinese,1-2,Inter Milan
+20/04/24,SEA,Verona,1-0,Udinese
+25/04/24,SEA,Udinese,1-2,Roma
+28/04/24,SEA,Bologna,1-1,Udinese
+06/05/24,SEA,Udinese,20:45,Napoli
+13/05/24,SEA,Lecce,18:30,Udinese
+19/05/24,SEA,Udinese,-,Empoli
+26/05/24,SEA,Frosinone,-,Udinese
+16/07/22,CLF,Udinese,3-3,Union Berlin
+17/07/22,CLF,Udinese,CANC,Schalke 04
+17/07/22,CLF,Udinese,3-0,Ilirija
+21/07/22,CLF,Udinese,1-2,Bayer Leverkusen
+25/07/22,CLF,Udinese,2-1,Pafos
+29/07/22,CLF,Udinese,1-3,Chelsea
+05/08/22,COI,Udinese,2-1,FeralpiSalò
+13/08/22,SEA,AC Milan,4-2,Udinese
+20/08/22,SEA,Udinese,0-0,Salernitana
+26/08/22,SEA,Monza,1-2,Udinese
+31/08/22,SEA,Udinese,1-0,Fiorentina
+04/09/22,SEA,Udinese,4-0,Roma
+11/09/22,SEA,Sassuolo,1-3,Udinese
+18/09/22,SEA,Udinese,3-1,Inter Milan
+03/10/22,SEA,Verona,1-2,Udinese
+09/10/22,SEA,Udinese,2-2,Atalanta
+16/10/22,SEA,Lazio,0-0,Udinese
+19/10/22,COI,Udinese,2-3,Monza
+23/10/22,SEA,Udinese,1-2,Torino
+30/10/22,SEA,Cremonese,0-0,Udinese
+04/11/22,SEA,Udinese,1-1,Lecce
+08/11/22,SEA,Spezia,1-1,Udinese
+12/11/22,SEA,Napoli,3-2,Udinese
+03/12/22,CLF,Udinese,1-1,Tabor Sežana
+10/12/22,CLF,Udinese,1-3,West Ham United
+17/12/22,CLF,Udinese,0-1,Athletic Bilbao
+23/12/22,CLF,Udinese,2-0,Lecce
+29/12/22,CLF,Cremonese,1-3,Udinese
+04/01/23,SEA,Udinese,1-1,Empoli
+07/01/23,SEA,Juventus,1-0,Udinese
+15/01/23,SEA,Udinese,1-2,Bologna
+22/01/23,SEA,Sampdoria,0-1,Udinese
+30/01/23,SEA,Udinese,1-1,Verona
+05/02/23,SEA,Torino,1-0,Udinese
+12/02/23,SEA,Udinese,2-2,Sassuolo
+18/02/23,SEA,Inter Milan,3-1,Udinese
+26/02/23,SEA,Udinese,2-2,Spezia
+04/03/23,SEA,Atalanta,0-0,Udinese
+11/03/23,SEA,Empoli,0-1,Udinese
+18/03/23,SEA,Udinese,3-1,AC Milan
+02/04/23,SEA,Bologna,3-0,Udinese
+08/04/23,SEA,Udinese,2-2,Monza
+16/04/23,SEA,Roma,3-0,Udinese
+23/04/23,SEA,Udinese,3-0,Cremonese
+28/04/23,SEA,Lecce,1-0,Udinese
+04/05/23,SEA,Udinese,1-1,Napoli
+08/05/23,SEA,Udinese,2-0,Sampdoria
+14/05/23,SEA,Fiorentina,2-0,Udinese
+21/05/23,SEA,Udinese,0-1,Lazio
+27/05/23,SEA,Salernitana,3-2,Udinese
+23/05/21,SEA,Inter Milan,5-1,Udinese
+17/07/21,CLF,Udinese,4-1,Bilje
+28/07/21,CLF,Udinese,2-3,Sturm Graz
+31/07/21,CLF,Lens,4-1,Udinese
+06/08/21,CLF,Udinese,4-0,Cjarlins Muzane
+07/08/21,CLF,Udinese,1-0,Empoli
+13/08/21,COI,Udinese,3-1,Ascoli
+22/08/21,SEA,Udinese,2-2,Juventus
+27/08/21,SEA,Udinese,3-0,Venezia
+04/09/21,CLF,Udinese,4-1,Dolomiti Bellunesi
+12/09/21,SEA,Spezia,0-1,Udinese
+20/09/21,SEA,Udinese,0-4,Napoli
+23/09/21,SEA,Roma,1-0,Udinese
+26/09/21,SEA,Udinese,0-1,Fiorentina
+03/10/21,SEA,Sampdoria,3-3,Udinese
+09/10/21,CLF,Udinese,2-1,Tabor Sežana
+17/10/21,SEA,Udinese,1-1,Bologna
+24/10/21,SEA,Atalanta,1-1,Udinese
+27/10/21,SEA,Udinese,1-1,Verona
+31/10/21,SEA,Inter Milan,2-0,Udinese
+07/11/21,SEA,Udinese,3-2,Sassuolo
+13/11/21,CLF,Udinese,2-2,Koper
+22/11/21,SEA,Torino,2-1,Udinese
+28/11/21,SEA,Udinese,0-0,Genoa
+02/12/21,SEA,Lazio,4-4,Udinese
+06/12/21,SEA,Empoli,3-1,Udinese
+11/12/21,SEA,Udinese,1-1,AC Milan
+14/12/21,COI,Udinese,4-0,Crotone
+18/12/21,SEA,Cagliari,0-4,Udinese
+09/01/22,SEA,Udinese,2-6,Atalanta
+15/01/22,SEA,Juventus,2-0,Udinese
+18/01/22,COI,Lazio,E1-0E,Udinese
+22/01/22,SEA,Genoa,0-0,Udinese
+06/02/22,SEA,Udinese,2-0,Torino
+13/02/22,SEA,Verona,4-0,Udinese
+20/02/22,SEA,Udinese,1-1,Lazio
+25/02/22,SEA,AC Milan,1-1,Udinese
+05/03/22,SEA,Udinese,2-1,Sampdoria
+13/03/22,SEA,Udinese,1-1,Roma
+19/03/22,SEA,Napoli,2-1,Udinese
+03/04/22,SEA,Udinese,5-1,Cagliari
+10/04/22,SEA,Venezia,1-2,Udinese
+16/04/22,SEA,Udinese,4-1,Empoli
+20/04/22,SEA,Udinese,0-1,Salernitana
+24/04/22,SEA,Bologna,2-2,Udinese
+27/04/22,SEA,Fiorentina,0-4,Udinese
+01/05/22,SEA,Udinese,1-2,Inter Milan
+07/05/22,SEA,Sassuolo,1-1,Udinese
+14/05/22,SEA,Udinese,2-3,Spezia
+22/05/22,SEA,Salernitana,0-4,Udinese
+12/07/20,SEA,Udinese,1-3,Sampdoria
+15/07/20,SEA,Udinese,0-0,Lazio
+19/07/20,SEA,Napoli,2-1,Udinese
+23/07/20,SEA,Udinese,2-1,Juventus
+26/07/20,SEA,Cagliari,0-1,Udinese
+29/07/20,SEA,Udinese,1-2,Lecce
+02/08/20,SEA,Sassuolo,0-1,Udinese
+29/08/20,CLF,Udinese,3-2,Vicenza
+03/09/20,CLF,Udinese,3-0,Legnago Salus
+13/09/20,CLF,Udinese,0-1,Venezia
+19/09/20,CLF,Udinese,0-1,SPAL
+27/09/20,SEA,Verona,1-0,Udinese
+30/09/20,SEA,Udinese,0-2,Spezia
+03/10/20,SEA,Udinese,0-1,Roma
+18/10/20,SEA,Udinese,3-2,Parma
+25/10/20,SEA,Fiorentina,3-2,Udinese
+28/10/20,COI,Udinese,3-1,Vicenza
+01/11/20,SEA,Udinese,1-2,AC Milan
+06/11/20,SEA,Sassuolo,0-0,Udinese
+22/11/20,SEA,Udinese,1-0,Genoa
+25/11/20,COI,Udinese,E0-1E,Fiorentina
+29/11/20,SEA,Lazio,1-3,Udinese
+12/12/20,SEA,Torino,2-3,Udinese
+15/12/20,SEA,Udinese,0-0,Crotone
+20/12/20,SEA,Cagliari,1-1,Udinese
+23/12/20,SEA,Udinese,0-2,Benevento
+03/01/21,SEA,Juventus,4-1,Udinese
+06/01/21,SEA,Bologna,2-2,Udinese
+10/01/21,SEA,Udinese,1-2,Napoli
+16/01/21,SEA,Sampdoria,2-1,Udinese
+20/01/21,SEA,Udinese,1-1,Atalanta
+23/01/21,SEA,Udinese,0-0,Inter Milan
+31/01/21,SEA,Spezia,0-1,Udinese
+07/02/21,SEA,Udinese,2-0,Verona
+14/02/21,SEA,Roma,3-0,Udinese
+21/02/21,SEA,Parma,2-2,Udinese
+28/02/21,SEA,Udinese,1-0,Fiorentina
+03/03/21,SEA,AC Milan,1-1,Udinese
+06/03/21,SEA,Udinese,2-0,Sassuolo
+13/03/21,SEA,Genoa,1-1,Udinese
+21/03/21,SEA,Udinese,0-1,Lazio
+03/04/21,SEA,Atalanta,3-2,Udinese
+10/04/21,SEA,Udinese,0-1,Torino
+17/04/21,SEA,Crotone,1-2,Udinese
+21/04/21,SEA,Udinese,0-1,Cagliari
+25/04/21,SEA,Benevento,2-4,Udinese
+02/05/21,SEA,Udinese,1-2,Juventus
+08/05/21,SEA,Udinese,1-1,Bologna
+11/05/21,SEA,Napoli,5-1,Udinese
+16/05/21,SEA,Udinese,0-1,Sampdoria
+07/04/19,SEA,Udinese,3-2,Empoli
+13/04/19,SEA,Roma,1-0,Udinese
+17/04/19,SEA,Lazio,2-0,Udinese
+20/04/19,SEA,Udinese,1-1,Sassuolo
+29/04/19,SEA,Atalanta,2-0,Udinese
+04/05/19,SEA,Udinese,0-0,Inter Milan
+12/05/19,SEA,Frosinone,1-3,Udinese
+18/05/19,SEA,Udinese,3-2,SPAL
+26/05/19,SEA,Cagliari,1-2,Udinese
+20/07/19,CLF,Udinese,1-2,Ravenna
+23/07/19,CLF,Udinese,CANC,Fenerbahce
+24/07/19,CLF,Udinese,2-3,Al Hilal
+27/07/19,CLF,Borussia Dortmund,4-1,Udinese
+02/08/19,CLF,Besiktas,0-2,Udinese
+12/08/19,CLF,Udinese,9-2,San Luigi
+18/08/19,COI,Udinese,3-1,Südtirol
+25/08/19,SEA,Udinese,1-0,AC Milan
+01/09/19,SEA,Udinese,1-3,Parma
+06/09/19,CLF,Udinese,2-0,Pordenone
+14/09/19,SEA,Inter Milan,1-0,Udinese
+21/09/19,SEA,Udinese,0-1,Brescia
+24/09/19,SEA,Verona,0-0,Udinese
+29/09/19,SEA,Udinese,1-0,Bologna
+06/10/19,SEA,Fiorentina,1-0,Udinese
+20/10/19,SEA,Udinese,1-0,Torino
+27/10/19,SEA,Atalanta,7-1,Udinese
+30/10/19,SEA,Udinese,0-4,Roma
+03/11/19,SEA,Genoa,1-3,Udinese
+10/11/19,SEA,Udinese,0-0,SPAL
+24/11/19,SEA,Sampdoria,2-1,Udinese
+01/12/19,SEA,Lazio,3-0,Udinese
+04/12/19,COI,Udinese,4-0,Bologna
+07/12/19,SEA,Udinese,1-1,Napoli
+15/12/19,SEA,Juventus,3-1,Udinese
+21/12/19,SEA,Udinese,2-1,Cagliari
+06/01/20,SEA,Lecce,0-1,Udinese
+12/01/20,SEA,Udinese,3-0,Sassuolo
+15/01/20,COI,Juventus,4-0,Udinese
+19/01/20,SEA,AC Milan,3-2,Udinese
+26/01/20,SEA,Parma,2-0,Udinese
+02/02/20,SEA,Udinese,0-2,Inter Milan
+09/02/20,SEA,Brescia,1-1,Udinese
+16/02/20,SEA,Udinese,0-0,Verona
+22/02/20,SEA,Bologna,1-1,Udinese
+08/03/20,SEA,Udinese,0-0,Fiorentina
+23/06/20,SEA,Torino,1-0,Udinese
+28/06/20,SEA,Udinese,2-3,Atalanta
+02/07/20,SEA,Roma,0-2,Udinese
+05/07/20,SEA,Udinese,2-2,Genoa
+09/07/20,SEA,SPAL,0-3,Udinese
+23/03/18,CLF,Domzale,1-0,Udinese
+31/03/18,SEA,Atalanta,2-0,Udinese
+03/04/18,SEA,Udinese,0-2,Fiorentina
+08/04/18,SEA,Udinese,1-2,Lazio
+14/04/18,SEA,Cagliari,2-1,Udinese
+18/04/18,SEA,Napoli,4-2,Udinese
+22/04/18,SEA,Udinese,1-2,Crotone
+29/04/18,SEA,Benevento,3-3,Udinese
+06/05/18,SEA,Udinese,0-4,Inter Milan
+13/05/18,SEA,Verona,0-1,Udinese
+20/05/18,SEA,Udinese,1-0,Bologna
+17/07/18,CLF,Gorica,0-2,Udinese
+20/07/18,CLF,Ufa,1-2,Udinese
+24/07/18,CLF,Wolfsberger AC,0-2,Udinese
+28/07/18,CLF,Leicester City,1-2,Udinese
+01/08/18,CLF,Udinese,1-1,Al Hilal
+04/08/18,CLF,Udinese,1-2,Hannover 96
+11/08/18,COI,Udinese,E1-2E,Benevento
+19/08/18,SEA,Parma,2-2,Udinese
+26/08/18,SEA,Udinese,1-0,Sampdoria
+02/09/18,SEA,Fiorentina,1-0,Udinese
+07/09/18,CLF,Udinese,0-0,Celje
+16/09/18,SEA,Udinese,1-1,Torino
+23/09/18,SEA,Chievo,0-2,Udinese
+26/09/18,SEA,Udinese,1-2,Lazio
+30/09/18,SEA,Bologna,2-1,Udinese
+06/10/18,SEA,Udinese,0-2,Juventus
+20/10/18,SEA,Udinese,0-3,Napoli
+28/10/18,SEA,Genoa,2-2,Udinese
+04/11/18,SEA,Udinese,0-1,AC Milan
+11/11/18,SEA,Empoli,2-1,Udinese
+24/11/18,SEA,Udinese,1-0,Roma
+02/12/18,SEA,Sassuolo,0-0,Udinese
+09/12/18,SEA,Udinese,1-3,Atalanta
+15/12/18,SEA,Inter Milan,1-0,Udinese
+22/12/18,SEA,Udinese,1-1,Frosinone
+26/12/18,SEA,SPAL,0-0,Udinese
+29/12/18,SEA,Udinese,2-0,Cagliari
+13/01/19,CLF,Udinese,1-0,Padova
+19/01/19,SEA,Udinese,1-2,Parma
+26/01/19,SEA,Sampdoria,4-0,Udinese
+03/02/19,SEA,Udinese,1-1,Fiorentina
+10/02/19,SEA,Torino,1-0,Udinese
+17/02/19,SEA,Udinese,1-0,Chievo
+23/02/19,CLF,Udinese,6-0,Radomlje
+03/03/19,SEA,Udinese,2-1,Bologna
+08/03/19,SEA,Juventus,4-1,Udinese
+17/03/19,SEA,Napoli,4-2,Udinese
+30/03/19,SEA,Udinese,2-0,Genoa
+02/04/19,SEA,AC Milan,1-1,Udinese
+19/02/17,SEA,Udinese,1-2,Sassuolo
+26/02/17,SEA,Lazio,1-0,Udinese
+05/03/17,SEA,Udinese,1-1,Juventus
+12/03/17,SEA,Pescara,1-3,Udinese
+19/03/17,SEA,Udinese,4-1,Palermo
+02/04/17,SEA,Torino,2-2,Udinese
+09/04/17,SEA,Udinese,3-0,Genoa
+15/04/17,SEA,Napoli,3-0,Udinese
+23/04/17,SEA,Udinese,2-1,Cagliari
+30/04/17,SEA,Bologna,4-0,Udinese
+07/05/17,SEA,Udinese,1-1,Atalanta
+14/05/17,SEA,Crotone,1-0,Udinese
+21/05/17,SEA,Udinese,1-1,Sampdoria
+28/05/17,SEA,Inter Milan,5-2,Udinese
+19/07/17,CLF,Udinese,4-1,Al Ahli
+23/07/17,CLF,Udinese,2-2,Kayserispor
+26/07/17,CLF,Huddersfield Town,1-2,Udinese
+30/07/17,CLF,Hannover 96,1-1,Udinese
+09/08/17,CLF,Udinese,P1-1P,Celta Vigo
+12/08/17,COI,Udinese,3-2,Frosinone
+20/08/17,SEA,Udinese,1-2,Chievo
+27/08/17,SEA,SPAL,3-2,Udinese
+10/09/17,SEA,Udinese,1-0,Genoa
+17/09/17,SEA,AC Milan,2-1,Udinese
+20/09/17,SEA,Udinese,2-3,Torino
+23/09/17,SEA,Roma,3-1,Udinese
+30/09/17,SEA,Udinese,4-0,Sampdoria
+15/10/17,SEA,Fiorentina,2-1,Udinese
+22/10/17,SEA,Udinese,2-6,Juventus
+25/10/17,SEA,Sassuolo,0-1,Udinese
+29/10/17,SEA,Udinese,2-1,Atalanta
+19/11/17,SEA,Udinese,0-1,Cagliari
+26/11/17,SEA,Udinese,0-1,Napoli
+30/11/17,COI,Udinese,8-3,Perugia
+04/12/17,SEA,Crotone,0-3,Udinese
+10/12/17,SEA,Udinese,2-0,Benevento
+16/12/17,SEA,Inter Milan,1-3,Udinese
+19/12/17,COI,Napoli,1-0,Udinese
+23/12/17,SEA,Udinese,4-0,Verona
+30/12/17,SEA,Bologna,1-2,Udinese
+05/01/18,SEA,Chievo,1-1,Udinese
+21/01/18,SEA,Udinese,1-1,SPAL
+24/01/18,SEA,Lazio,3-0,Udinese
+28/01/18,SEA,Genoa,0-1,Udinese
+04/02/18,SEA,Udinese,1-1,AC Milan
+11/02/18,SEA,Torino,2-0,Udinese
+17/02/18,SEA,Udinese,0-2,Roma
+25/02/18,SEA,Sampdoria,2-1,Udinese
+11/03/18,SEA,Juventus,2-0,Udinese
+17/03/18,SEA,Udinese,1-2,Sassuolo
+03/02/16,SEA,Empoli,1-1,Udinese
+07/02/16,SEA,AC Milan,1-1,Udinese
+14/02/16,SEA,Udinese,0-1,Bologna
+18/02/16,CLF,Udinese,CANC,Akhmat Grozny
+21/02/16,SEA,Genoa,2-1,Udinese
+28/02/16,SEA,Udinese,2-0,Verona
+06/03/16,SEA,Frosinone,2-0,Udinese
+13/03/16,SEA,Udinese,1-2,Roma
+20/03/16,SEA,Sassuolo,1-1,Udinese
+03/04/16,SEA,Udinese,3-1,Napoli
+10/04/16,SEA,Sampdoria,2-0,Udinese
+17/04/16,SEA,Udinese,0-0,Chievo
+20/04/16,SEA,Udinese,2-1,Fiorentina
+23/04/16,SEA,Inter Milan,3-1,Udinese
+30/04/16,SEA,Udinese,1-5,Torino
+08/05/16,SEA,Atalanta,1-1,Udinese
+15/05/16,SEA,Udinese,1-2,Carpi
+23/07/16,CLF,CSKA Sofia,0-0,Udinese
+24/07/16,CLF,Udinese,3-0,Al Ain
+28/07/16,CLF,Feldkirchen Kärnten,0-6,Udinese
+02/08/16,CLF,Al Hilal,0-1,Udinese
+03/08/16,CLF,Udinese,0-0,Middlesbrough
+10/08/16,CLF,Udinese,2-1,El Jaish
+13/08/16,COI,Udinese,2-3,Spezia
+20/08/16,SEA,Roma,4-0,Udinese
+28/08/16,SEA,Udinese,2-0,Empoli
+03/09/16,CLF,Udinese,3-1,Olimpija
+11/09/16,SEA,AC Milan,0-1,Udinese
+18/09/16,SEA,Udinese,1-2,Chievo
+21/09/16,SEA,Udinese,2-2,Fiorentina
+25/09/16,SEA,Sassuolo,1-0,Udinese
+01/10/16,SEA,Udinese,0-3,Lazio
+15/10/16,SEA,Juventus,2-1,Udinese
+23/10/16,SEA,Udinese,3-1,Pescara
+27/10/16,SEA,Palermo,1-3,Udinese
+31/10/16,SEA,Udinese,2-2,Torino
+06/11/16,SEA,Genoa,1-1,Udinese
+19/11/16,SEA,Udinese,1-2,Napoli
+27/11/16,SEA,Cagliari,2-1,Udinese
+05/12/16,SEA,Udinese,1-0,Bologna
+11/12/16,SEA,Atalanta,1-3,Udinese
+18/12/16,SEA,Udinese,2-0,Crotone
+22/12/16,SEA,Sampdoria,0-0,Udinese
+08/01/17,SEA,Udinese,1-2,Inter Milan
+15/01/17,SEA,Udinese,0-1,Roma
+22/01/17,SEA,Empoli,1-0,Udinese
+29/01/17,SEA,Udinese,2-1,AC Milan
+05/02/17,SEA,Chievo,0-0,Udinese
+11/02/17,SEA,Fiorentina,3-0,Udinese
+16/02/17,CLF,Udinese,4-2,Akhmat Grozny
+15/02/15,SEA,Udinese,0-1,Lazio
+01/03/15,SEA,Cesena,1-0,Udinese
+08/03/15,SEA,Udinese,3-2,Torino
+15/03/15,SEA,Atalanta,0-0,Udinese
+22/03/15,SEA,Udinese,2-2,Fiorentina
+27/03/15,CLF,RB Leipzig,2-2,Udinese
+04/04/15,SEA,Genoa,1-1,Udinese
+08/04/15,SEA,Parma,1-0,Udinese
+12/04/15,SEA,Udinese,1-3,Palermo
+19/04/15,SEA,Chievo,1-1,Udinese
+25/04/15,SEA,Udinese,2-1,AC Milan
+28/04/15,SEA,Udinese,1-2,Inter Milan
+03/05/15,SEA,Verona,0-1,Udinese
+10/05/15,SEA,Udinese,1-4,Sampdoria
+17/05/15,SEA,Roma,2-1,Udinese
+24/05/15,SEA,Udinese,0-1,Sassuolo
+31/05/15,SEA,Cagliari,4-3,Udinese
+14/07/15,CLF,Udinese,1-1,Schalke 04
+18/07/15,CLF,Ingolstadt,1-0,Udinese
+22/07/15,CLF,Panathinaikos,1-2,Udinese
+25/07/15,CLF,Galatasaray,CANC,Udinese
+01/08/15,CLF,Bastia,3-2,Udinese
+05/08/15,CLF,Al Hilal,0-1,Udinese
+08/08/15,CLF,Granada,2-0,Udinese
+16/08/15,COI,Udinese,3-1,Novara
+23/08/15,SEA,Juventus,0-1,Udinese
+30/08/15,SEA,Udinese,0-1,Palermo
+13/09/15,SEA,Lazio,2-0,Udinese
+19/09/15,SEA,Udinese,1-2,Empoli
+22/09/15,SEA,Udinese,2-3,AC Milan
+27/09/15,SEA,Bologna,1-2,Udinese
+04/10/15,SEA,Udinese,1-1,Genoa
+18/10/15,SEA,Verona,1-1,Udinese
+25/10/15,SEA,Udinese,1-0,Frosinone
+28/10/15,SEA,Roma,3-1,Udinese
+01/11/15,SEA,Udinese,0-0,Sassuolo
+08/11/15,SEA,Napoli,1-0,Udinese
+13/11/15,CLF,Olimpija,3-3,Udinese
+22/11/15,SEA,Udinese,1-0,Sampdoria
+29/11/15,SEA,Chievo,2-3,Udinese
+02/12/15,COI,Udinese,3-1,Atalanta
+06/12/15,SEA,Fiorentina,3-0,Udinese
+12/12/15,SEA,Udinese,0-4,Inter Milan
+17/12/15,COI,Lazio,2-1,Udinese
+20/12/15,SEA,Torino,0-1,Udinese
+06/01/16,SEA,Udinese,2-1,Atalanta
+09/01/16,SEA,Carpi,2-1,Udinese
+17/01/16,SEA,Udinese,0-4,Juventus
+24/01/16,SEA,Palermo,4-1,Udinese
+31/01/16,SEA,Udinese,0-0,Lazio
+11/02/14,COI,Fiorentina,2-0,Udinese
+16/02/14,SEA,Genoa,3-3,Udinese
+23/02/14,SEA,Udinese,1-1,Atalanta
+25/02/14,CLF,Udinese,1-1,Gorica
+02/03/14,SEA,Cagliari,3-0,Udinese
+08/03/14,SEA,Udinese,1-0,AC Milan
+17/03/14,SEA,Roma,3-2,Udinese
+23/03/14,SEA,Udinese,1-0,Sassuolo
+27/03/14,SEA,Inter Milan,0-0,Udinese
+31/03/14,SEA,Udinese,1-0,Catania
+06/04/14,SEA,Fiorentina,2-1,Udinese
+14/04/14,SEA,Udinese,0-2,Juventus
+19/04/14,SEA,Udinese,1-1,Napoli
+27/04/14,SEA,Torino,2-0,Udinese
+04/05/14,SEA,Udinese,5-3,Livorno
+10/05/14,SEA,Verona,2-2,Udinese
+17/05/14,SEA,Udinese,3-3,Sampdoria
+19/07/14,CLF,St. Pauli,0-0,Udinese
+24/07/14,CLF,Udinese,2-3,Dinamo Moscow
+26/07/14,CLF,Udinese,2-1,Trapani
+02/08/14,CLF,Watford,2-2,Udinese
+03/08/14,CLF,Mura,2-1,Udinese
+17/08/14,CLF,Udinese,CANC,Bursaspor
+21/08/14,HYF,UAE,1-2,Udinese
+24/08/14,COI,Udinese,5-1,Ternana
+31/08/14,SEA,Udinese,2-0,Empoli
+13/09/14,SEA,Juventus,2-0,Udinese
+21/09/14,SEA,Udinese,1-0,Napoli
+25/09/14,SEA,Lazio,0-1,Udinese
+29/09/14,SEA,Udinese,4-2,Parma
+05/10/14,SEA,Udinese,1-1,Cesena
+10/10/14,CLF,Wolfsberger AC,3-3,Udinese
+19/10/14,SEA,Torino,1-0,Udinese
+26/10/14,SEA,Udinese,2-0,Atalanta
+29/10/14,SEA,Fiorentina,3-0,Udinese
+02/11/14,SEA,Udinese,2-4,Genoa
+09/11/14,SEA,Palermo,1-1,Udinese
+23/11/14,SEA,Udinese,1-1,Chievo
+30/11/14,SEA,AC Milan,2-0,Udinese
+03/12/14,COI,Udinese,E4-2E,Cesena
+07/12/14,SEA,Inter Milan,1-2,Udinese
+14/12/14,SEA,Udinese,1-2,Verona
+21/12/14,SEA,Sampdoria,2-2,Udinese
+06/01/15,SEA,Udinese,0-1,Roma
+10/01/15,SEA,Sassuolo,1-1,Udinese
+18/01/15,SEA,Udinese,2-2,Cagliari
+22/01/15,COI,Napoli,P2-2P,Udinese
+26/01/15,SEA,Empoli,1-2,Udinese
+01/02/15,SEA,Udinese,0-0,Juventus
+08/02/15,SEA,Napoli,3-1,Udinese

@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+07/05/23,FDA,Westerlo,3-5,Cercle Brugge
+13/05/23,FDA,Cercle Brugge,0-4,Gent
+20/05/23,FDA,Gent,2-2,Cercle Brugge
+27/05/23,FDA,Standard Liège,0-4,Cercle Brugge
+03/06/23,FDA,Cercle Brugge,2-0,Westerlo
+07/07/23,CLF,Servette,2-0,Cercle Brugge
+15/07/23,CLF,Cercle Brugge,3-0,Monaco
+22/07/23,CLF,Lille,7-2,Cercle Brugge
+30/07/23,FDA,Antwerp,1-0,Cercle Brugge
+05/08/23,FDA,Cercle Brugge,2-0,Sporting Charleroi
+13/08/23,FDA,Cercle Brugge,0-1,Genk
+19/08/23,FDA,Standard Liège,0-1,Cercle Brugge
+27/08/23,FDA,Sint-Truiden,0-2,Cercle Brugge
+02/09/23,FDA,Cercle Brugge,2-1,Westerlo
+16/09/23,FDA,RWDM,2-1,Cercle Brugge
+24/09/23,FDA,Cercle Brugge,0-2,Union Saint-Gilloise
+29/09/23,FDA,Kortrijk,2-1,Cercle Brugge
+07/10/23,FDA,Cercle Brugge,3-2,OH Leuven
+13/10/23,CLF,Cercle Brugge,3-1,Deinze
+22/10/23,FDA,Cercle Brugge,2-0,Gent
+28/10/23,FDA,Mechelen,0-2,Cercle Brugge
+31/10/23,CUP,Cercle Brugge,P2-2P,Zulte Waregem
+05/11/23,FDA,Cercle Brugge,0-3,Anderlecht
+12/11/23,FDA,Club Brugge,0-0,Cercle Brugge
+25/11/23,FDA,Cercle Brugge,2-0,AS Eupen
+03/12/23,FDA,Union Saint-Gilloise,2-1,Cercle Brugge
+09/12/23,FDA,Cercle Brugge,1-3,Antwerp
+16/12/23,FDA,OH Leuven,1-2,Cercle Brugge
+20/12/23,FDA,Cercle Brugge,3-0,Kortrijk
+27/12/23,FDA,Anderlecht,2-0,Cercle Brugge
+20/01/24,FDA,Genk,1-1,Cercle Brugge
+26/01/24,FDA,Cercle Brugge,1-1,Standard Liège
+30/01/24,FDA,Westerlo,4-2,Cercle Brugge
+04/02/24,FDA,Cercle Brugge,4-1,Sint-Truiden
+11/02/24,FDA,Gent,1-2,Cercle Brugge
+18/02/24,FDA,Cercle Brugge,1-1,Club Brugge
+25/02/24,FDA,AS Eupen,0-2,Cercle Brugge
+02/03/24,FDA,Cercle Brugge,2-3,Mechelen
+09/03/24,FDA,Sporting Charleroi,0-0,Cercle Brugge
+17/03/24,FDA,Cercle Brugge,4-0,RWDM
+01/04/24,FDA,Cercle Brugge,1-1,Club Brugge
+07/04/24,FDA,Union Saint-Gilloise,2-3,Cercle Brugge
+13/04/24,FDA,Genk,1-1,Cercle Brugge
+21/04/24,FDA,Cercle Brugge,0-1,Antwerp
+24/04/24,FDA,Anderlecht,3-0,Cercle Brugge
+28/04/24,FDA,Cercle Brugge,1-1,Anderlecht
+04/05/24,FDA,Cercle Brugge,20:45,Genk
+12/05/24,FDA,Antwerp,18:30,Cercle Brugge
+19/05/24,FDA,Cercle Brugge,13:30,Union Saint-Gilloise
+26/05/24,FDA,Club Brugge,18:30,Cercle Brugge
+19/02/22,FDA,Cercle Brugge,2-0,Beerschot
+26/02/22,FDA,Mechelen,2-2,Cercle Brugge
+05/03/22,FDA,Cercle Brugge,2-2,Genk
+12/03/22,FDA,Cercle Brugge,2-0,Kortrijk
+19/03/22,FDA,Sporting Charleroi,5-0,Cercle Brugge
+24/03/22,CLF,Monaco,CANC,Cercle Brugge
+03/04/22,FDA,Cercle Brugge,2-2,Gent
+09/04/22,FDA,Antwerp,1-1,Cercle Brugge
+25/06/22,CLF,Monaco,1-0,Cercle Brugge
+02/07/22,CLF,PSV,2-2,Cercle Brugge
+09/07/22,CLF,Nice,1-1,Cercle Brugge
+16/07/22,CLF,Dender,0-5,Cercle Brugge
+24/07/22,FDA,Westerlo,2-0,Cercle Brugge
+30/07/22,FDA,Cercle Brugge,1-0,Anderlecht
+07/08/22,FDA,Standard Liège,2-0,Cercle Brugge
+13/08/22,FDA,Cercle Brugge,0-0,Mechelen
+20/08/22,FDA,Genk,2-1,Cercle Brugge
+27/08/22,FDA,Cercle Brugge,1-1,Zulte Waregem
+02/09/22,FDA,Club Brugge,4-0,Cercle Brugge
+11/09/22,FDA,Cercle Brugge,0-2,Antwerp
+17/09/22,FDA,Cercle Brugge,2-2,KV Oostende
+02/10/22,FDA,Gent,3-4,Cercle Brugge
+09/10/22,FDA,Union Saint-Gilloise,2-1,Cercle Brugge
+15/10/22,FDA,Cercle Brugge,5-1,AS Eupen
+18/10/22,FDA,RFC Seraing,0-1,Cercle Brugge
+21/10/22,FDA,Cercle Brugge,4-1,Sporting Charleroi
+29/10/22,FDA,Kortrijk,1-1,Cercle Brugge
+05/11/22,FDA,Cercle Brugge,2-1,OH Leuven
+09/11/22,CUP,Cercle Brugge,3-1,Beerschot
+12/11/22,FDA,Sint-Truiden,0-1,Cercle Brugge
+02/12/22,CLF,Monaco,CANC,Cercle Brugge
+20/12/22,CUP,Gent,E2-0E,Cercle Brugge
+23/12/22,FDA,Mechelen,1-1,Cercle Brugge
+07/01/23,FDA,Cercle Brugge,0-1,Westerlo
+15/01/23,FDA,Sporting Charleroi,2-1,Cercle Brugge
+18/01/23,FDA,Cercle Brugge,1-1,Union Saint-Gilloise
+21/01/23,FDA,KV Oostende,1-2,Cercle Brugge
+29/01/23,FDA,Cercle Brugge,3-2,Gent
+04/02/23,FDA,Cercle Brugge,1-1,Standard Liège
+10/02/23,FDA,OH Leuven,0-0,Cercle Brugge
+19/02/23,FDA,Cercle Brugge,2-2,Club Brugge
+25/02/23,FDA,AS Eupen,2-2,Cercle Brugge
+04/03/23,FDA,Cercle Brugge,3-1,RFC Seraing
+12/03/23,FDA,Anderlecht,2-0,Cercle Brugge
+17/03/23,FDA,Cercle Brugge,1-1,Genk
+01/04/23,FDA,Cercle Brugge,2-0,Kortrijk
+09/04/23,FDA,Antwerp,2-1,Cercle Brugge
+15/04/23,FDA,Cercle Brugge,3-1,Sint-Truiden
+23/04/23,FDA,Zulte Waregem,2-3,Cercle Brugge
+29/04/23,FDA,Cercle Brugge,0-0,Standard Liège
+06/02/21,FDA,Cercle Brugge,0-1,Mechelen
+09/02/21,CUP,Cercle Brugge,3-1,KV Oostende
+14/02/21,FDA,Cercle Brugge,0-0,Anderlecht
+20/02/21,FDA,Excel Mouscron,1-2,Cercle Brugge
+27/02/21,FDA,Cercle Brugge,2-0,SK Beveren
+03/03/21,CUP,Anderlecht,1-0,Cercle Brugge
+07/03/21,FDA,Genk,2-0,Cercle Brugge
+21/03/21,FDA,Gent,1-0,Cercle Brugge
+04/04/21,FDA,Cercle Brugge,2-1,Beerschot
+10/04/21,FDA,Cercle Brugge,3-0,OH Leuven
+18/04/21,FDA,KV Oostende,1-1,Cercle Brugge
+26/06/21,CLF,Dunkerque,1-1,Cercle Brugge
+02/07/21,CLF,Zulte Waregem,1-2,Cercle Brugge
+03/07/21,CLF,Standard Liège,3-2,Cercle Brugge
+10/07/21,CLF,Monaco,3-1,Cercle Brugge
+17/07/21,CLF,Strasbourg,CANC,Cercle Brugge
+27/07/21,FDA,Beerschot,0-1,Cercle Brugge
+31/07/21,FDA,Cercle Brugge,1-1,OH Leuven
+04/08/21,CLF,Toekomst Menen,1-1,Cercle Brugge
+06/08/21,FDA,Club Brugge,1-1,Cercle Brugge
+15/08/21,FDA,Cercle Brugge,1-2,Anderlecht
+21/08/21,FDA,RFC Seraing,2-1,Cercle Brugge
+28/08/21,FDA,Cercle Brugge,0-1,Sint-Truiden
+02/09/21,CLF,Utrecht,3-1,Cercle Brugge
+11/09/21,FDA,Zulte Waregem,2-4,Cercle Brugge
+17/09/21,FDA,Cercle Brugge,1-2,AS Eupen
+26/09/21,FDA,Gent,2-1,Cercle Brugge
+02/10/21,FDA,Cercle Brugge,0-3,Union Saint-Gilloise
+16/10/21,FDA,KV Oostende,2-1,Cercle Brugge
+23/10/21,FDA,Cercle Brugge,1-1,Standard Liège
+28/10/21,CUP,Cercle Brugge,3-0,Tienen
+31/10/21,FDA,Cercle Brugge,0-1,Antwerp
+07/11/21,FDA,Genk,1-1,Cercle Brugge
+12/11/21,CLF,Cercle Brugge,5-1,Excel Mouscron
+20/11/21,FDA,Cercle Brugge,1-2,Sporting Charleroi
+27/11/21,FDA,Cercle Brugge,3-1,Mechelen
+01/12/21,CUP,Mechelen,E2-1E,Cercle Brugge
+04/12/21,FDA,Kortrijk,0-2,Cercle Brugge
+11/12/21,FDA,Sint-Truiden,1-2,Cercle Brugge
+14/12/21,FDA,Cercle Brugge,2-0,RFC Seraing
+18/12/21,FDA,Union Saint-Gilloise,3-2,Cercle Brugge
+26/12/21,FDA,Cercle Brugge,2-0,Club Brugge
+08/01/22,CLF,Union Saint-Gilloise,4-1,Cercle Brugge
+08/01/22,CLF,Werder Bremen,CANC,Cercle Brugge
+16/01/22,FDA,AS Eupen,0-2,Cercle Brugge
+23/01/22,FDA,Cercle Brugge,3-1,Zulte Waregem
+26/01/22,FDA,Anderlecht,0-2,Cercle Brugge
+29/01/22,FDA,Cercle Brugge,0-1,KV Oostende
+05/02/22,FDA,Standard Liège,1-1,Cercle Brugge
+12/02/22,FDA,OH Leuven,3-2,Cercle Brugge
+23/11/19,FDA,SK Beveren,1-1,Cercle Brugge
+01/12/19,FDA,Standard Liège,2-1,Cercle Brugge
+07/12/19,FDA,Cercle Brugge,1-2,Genk
+14/12/19,FDA,Sporting Charleroi,3-0,Cercle Brugge
+21/12/19,FDA,Cercle Brugge,2-0,Zulte Waregem
+26/12/19,FDA,Kortrijk,1-0,Cercle Brugge
+10/01/20,CLF,Cercle Brugge,3-3,Augsburg
+19/01/20,FDA,Cercle Brugge,1-2,Antwerp
+26/01/20,FDA,Cercle Brugge,1-2,Anderlecht
+01/02/20,FDA,AS Eupen,1-0,Cercle Brugge
+08/02/20,FDA,Cercle Brugge,3-2,Mechelen
+15/02/20,FDA,Sint-Truiden,0-1,Cercle Brugge
+22/02/20,FDA,Excel Mouscron,0-1,Cercle Brugge
+01/03/20,FDA,Cercle Brugge,1-0,Gent
+07/03/20,FDA,Club Brugge,2-1,Cercle Brugge
+15/03/20,FDA,Cercle Brugge,CANC,KV Oostende
+04/07/20,CLF,Zulte Waregem,2-2,Cercle Brugge
+11/07/20,CLF,Kortrijk,0-1,Cercle Brugge
+17/07/20,CLF,Cercle Brugge,0-2,Monaco
+22/07/20,CLF,Sint-Eloois-Winkel,1-2,Cercle Brugge
+25/07/20,CLF,Deinze,4-0,Cercle Brugge
+29/07/20,CLF,Knokke,CANC,Cercle Brugge
+01/08/20,CLF,KV Oostende,3-1,Cercle Brugge
+08/08/20,FDA,Standard Liège,1-0,Cercle Brugge
+16/08/20,FDA,Cercle Brugge,2-1,Antwerp
+22/08/20,FDA,Mechelen,2-3,Cercle Brugge
+29/08/20,FDA,Cercle Brugge,0-1,Kortrijk
+04/09/20,CLF,Cercle Brugge,1-1,Dunkerque
+13/09/20,FDA,Anderlecht,2-0,Cercle Brugge
+21/09/20,FDA,Cercle Brugge,3-0,Sint-Truiden
+27/09/20,FDA,Club Brugge,2-1,Cercle Brugge
+03/10/20,FDA,AS Eupen,1-2,Cercle Brugge
+17/10/20,FDA,Cercle Brugge,5-2,Gent
+31/10/20,FDA,Sporting Charleroi,3-0,Cercle Brugge
+08/11/20,FDA,Cercle Brugge,1-3,Zulte Waregem
+21/11/20,FDA,SK Beveren,0-2,Cercle Brugge
+25/11/20,FDA,Cercle Brugge,1-2,Excel Mouscron
+28/11/20,FDA,Cercle Brugge,1-5,Genk
+05/12/20,FDA,OH Leuven,2-1,Cercle Brugge
+12/12/20,FDA,Cercle Brugge,0-1,KV Oostende
+15/12/20,FDA,Cercle Brugge,3-4,Sporting Charleroi
+26/12/20,FDA,Zulte Waregem,1-0,Cercle Brugge
+09/01/21,FDA,Cercle Brugge,1-2,AS Eupen
+13/01/21,FDA,Beerschot,1-1,Cercle Brugge
+17/01/21,FDA,Cercle Brugge,0-1,Standard Liège
+20/01/21,FDA,Antwerp,1-0,Cercle Brugge
+23/01/21,FDA,Kortrijk,1-2,Cercle Brugge
+28/01/21,FDA,Cercle Brugge,1-2,Club Brugge
+31/01/21,FDA,Sint-Truiden,3-0,Cercle Brugge
+03/02/21,CUP,OH Leuven,2-3,Cercle Brugge
+03/11/18,FDA,Cercle Brugge,2-1,Excel Mouscron
+10/11/18,FDA,Cercle Brugge,2-0,SK Beveren
+24/11/18,FDA,Genk,1-2,Cercle Brugge
+01/12/18,FDA,Sporting Charleroi,3-1,Cercle Brugge
+09/12/18,FDA,Cercle Brugge,0-3,Antwerp
+16/12/18,FDA,Cercle Brugge,2-1,Anderlecht
+21/12/18,FDA,Gent,4-1,Cercle Brugge
+26/12/18,FDA,Cercle Brugge,0-1,AS Eupen
+11/01/19,CLF,Cercle Brugge,2-2,Stuttgart
+19/01/19,FDA,SK Beveren,1-1,Cercle Brugge
+26/01/19,FDA,Cercle Brugge,1-2,Sint-Truiden
+02/02/19,FDA,Zulte Waregem,3-2,Cercle Brugge
+10/02/19,FDA,Cercle Brugge,2-2,Club Brugge
+17/02/19,FDA,Excel Mouscron,3-0,Cercle Brugge
+23/02/19,FDA,Cercle Brugge,2-2,KV Oostende
+02/03/19,FDA,Kortrijk,2-1,Cercle Brugge
+10/03/19,FDA,Cercle Brugge,1-2,Standard Liège
+17/03/19,FDA,Lokeren,3-1,Cercle Brugge
+30/03/19,UEL,Union Saint-Gilloise,3-1,Cercle Brugge
+02/04/19,UEL,Cercle Brugge,3-3,Zulte Waregem
+06/04/19,UEL,Excel Mouscron,2-3,Cercle Brugge
+13/04/19,UEL,Cercle Brugge,3-2,SK Beveren
+20/04/19,UEL,Cercle Brugge,1-2,Kortrijk
+27/04/19,UEL,Zulte Waregem,6-2,Cercle Brugge
+04/05/19,UEL,Cercle Brugge,2-3,Union Saint-Gilloise
+11/05/19,UEL,SK Beveren,2-1,Cercle Brugge
+14/05/19,UEL,Cercle Brugge,0-3,Excel Mouscron
+17/05/19,UEL,Kortrijk,4-0,Cercle Brugge
+26/06/19,CLF,RWDM,0-0,Cercle Brugge
+29/06/19,CLF,Cercle Brugge,1-1,KV Oostende
+03/07/19,CLF,Cercle Brugge,2-3,Zulte Waregem
+06/07/19,CLF,Cercle Brugge,1-4,Monaco
+13/07/19,CLF,Cercle Brugge,1-1,Lens
+19/07/19,CLF,Auxerre,1-0,Cercle Brugge
+27/07/19,FDA,Cercle Brugge,0-2,Standard Liège
+03/08/19,FDA,KV Oostende,3-1,Cercle Brugge
+10/08/19,FDA,Cercle Brugge,1-3,Kortrijk
+17/08/19,FDA,Mechelen,3-1,Cercle Brugge
+24/08/19,FDA,Cercle Brugge,1-0,SK Beveren
+01/09/19,FDA,Gent,3-2,Cercle Brugge
+14/09/19,FDA,Cercle Brugge,0-2,Club Brugge
+21/09/19,FDA,Antwerp,3-1,Cercle Brugge
+24/09/19,CUP,Cercle Brugge,0-1,Rebecq
+28/09/19,FDA,Cercle Brugge,1-2,AS Eupen
+05/10/19,FDA,Zulte Waregem,6-0,Cercle Brugge
+20/10/19,FDA,Cercle Brugge,0-3,Sporting Charleroi
+26/10/19,FDA,Genk,1-0,Cercle Brugge
+29/10/19,FDA,Cercle Brugge,2-2,Excel Mouscron
+03/11/19,FDA,Anderlecht,2-1,Cercle Brugge
+09/11/19,FDA,Cercle Brugge,2-1,Sint-Truiden
+02/09/17,CPL,Cercle Brugge,2-0,Lierse
+10/09/17,CPL,Cercle Brugge,0-1,Beerschot
+17/09/17,CPL,KSV Roeselare,2-1,Cercle Brugge
+20/09/17,CUP,Cercle Brugge,0-1,Genk
+23/09/17,CPL,Cercle Brugge,4-0,Tubize
+29/09/17,CPL,Union Saint-Gilloise,1-2,Cercle Brugge
+03/10/17,CPL,Cercle Brugge,0-3,OH Leuven
+07/10/17,CPL,Beerschot,0-3,Cercle Brugge
+14/10/17,CPL,Cercle Brugge,1-1,KSV Roeselare
+21/10/17,CPL,Lierse,3-2,Cercle Brugge
+29/10/17,CPL,Tubize,1-1,Cercle Brugge
+05/11/17,CPL,Cercle Brugge,3-1,Westerlo
+12/11/17,CPL,Cercle Brugge,4-0,Beerschot
+17/11/17,CPL,Lierse,1-0,Cercle Brugge
+24/11/17,CPL,Tubize,1-1,Cercle Brugge
+02/12/17,CPL,Cercle Brugge,2-2,Union Saint-Gilloise
+08/12/17,CPL,KSV Roeselare,0-3,Cercle Brugge
+16/12/17,CPL,Westerlo,2-3,Cercle Brugge
+30/12/17,CLF,Elche,1-2,Cercle Brugge
+05/01/18,CPL,Cercle Brugge,1-0,OH Leuven
+13/01/18,CPL,Beerschot,2-3,Cercle Brugge
+19/01/18,CPL,Cercle Brugge,4-1,Lierse
+27/01/18,CPL,Cercle Brugge,1-0,KSV Roeselare
+02/02/18,CPL,OH Leuven,2-2,Cercle Brugge
+10/02/18,CPL,Cercle Brugge,0-0,Tubize
+17/02/18,CPL,Union Saint-Gilloise,1-1,Cercle Brugge
+25/02/18,CPL,Cercle Brugge,1-1,Westerlo
+04/03/18,CPL,Beerschot,1-0,Cercle Brugge
+10/03/18,CPL,Cercle Brugge,3-1,Beerschot
+27/06/18,CLF,Cercle Brugge,1-2,Mechelen
+30/06/18,CLF,Cercle Brugge,0-2,Sporting Charleroi
+04/07/18,CLF,Cercle Brugge,0-0,Lokeren
+07/07/18,CLF,SK Beveren,1-2,Cercle Brugge
+14/07/18,CLF,Cercle Brugge,2-3,Monaco
+20/07/18,CLF,Boulogne,2-2,Cercle Brugge
+21/07/18,CLF,Reims,2-1,Cercle Brugge
+28/07/18,FDA,Sint-Truiden,0-0,Cercle Brugge
+04/08/18,FDA,Cercle Brugge,3-2,Lokeren
+11/08/18,FDA,Standard Liège,0-0,Cercle Brugge
+18/08/18,FDA,Cercle Brugge,3-1,Zulte Waregem
+25/08/18,FDA,Antwerp,1-0,Cercle Brugge
+02/09/18,FDA,Cercle Brugge,0-3,Gent
+15/09/18,FDA,KV Oostende,1-1,Cercle Brugge
+23/09/18,FDA,Cercle Brugge,2-5,Genk
+26/09/18,CUP,Cercle Brugge,1-2,Beerschot
+29/09/18,FDA,Club Brugge,4-0,Cercle Brugge
+05/10/18,FDA,Cercle Brugge,2-1,Sporting Charleroi
+21/10/18,FDA,Anderlecht,4-2,Cercle Brugge
+27/10/18,FDA,Cercle Brugge,1-1,Kortrijk
+31/10/18,FDA,AS Eupen,2-0,Cercle Brugge
+16/04/16,CPL,White Star Bruxelles,1-0,Cercle Brugge
+24/04/16,CPL,Cercle Brugge,1-0,Deinze
+30/04/16,CPL,Lommel,0-2,Cercle Brugge
+06/07/16,CLF,Cercle Brugge,3-1,Westerlo
+09/07/16,CLF,Cercle Brugge,1-1,Gent
+30/07/16,CLF,Den Bosch,2-2,Cercle Brugge
+31/07/16,CLF,Gullegem,1-0,Cercle Brugge
+07/08/16,CPL,Cercle Brugge,1-1,Antwerp
+14/08/16,CPL,Lierse,2-0,Cercle Brugge
+21/08/16,CPL,Cercle Brugge,4-1,Tubize
+26/08/16,CUP,Beerschot,1-2,Cercle Brugge
+03/09/16,CPL,Lommel,1-1,Cercle Brugge
+10/09/16,CPL,Cercle Brugge,2-1,Union Saint-Gilloise
+18/09/16,CPL,KSV Roeselare,2-1,Cercle Brugge
+21/09/16,CUP,Lokeren,3-2,Cercle Brugge
+25/09/16,CPL,Cercle Brugge,2-4,OH Leuven
+01/10/16,CPL,Antwerp,2-1,Cercle Brugge
+06/10/16,CPL,Cercle Brugge,0-0,Lierse
+09/10/16,CPL,Union Saint-Gilloise,3-2,Cercle Brugge
+14/10/16,CPL,Cercle Brugge,3-1,Lommel
+22/10/16,CPL,OH Leuven,2-0,Cercle Brugge
+28/10/16,CPL,Cercle Brugge,0-3,KSV Roeselare
+06/11/16,CPL,Tubize,4-1,Cercle Brugge
+13/11/16,CPL,Antwerp,0-0,Cercle Brugge
+20/11/16,CPL,Cercle Brugge,1-0,Lommel
+27/11/16,CPL,OH Leuven,1-0,Cercle Brugge
+03/12/16,CPL,Union Saint-Gilloise,1-2,Cercle Brugge
+10/12/16,CPL,Cercle Brugge,0-1,Lierse
+17/12/16,CPL,KSV Roeselare,3-1,Cercle Brugge
+07/01/17,CPL,Cercle Brugge,2-1,Tubize
+15/01/17,CPL,Cercle Brugge,0-1,Antwerp
+21/01/17,CPL,Lierse,1-1,Cercle Brugge
+28/01/17,CPL,Cercle Brugge,2-2,KSV Roeselare
+03/02/17,CPL,Lommel,0-1,Cercle Brugge
+10/02/17,CPL,Cercle Brugge,0-1,Union Saint-Gilloise
+18/02/17,CPL,Cercle Brugge,1-0,OH Leuven
+26/02/17,CPL,Tubize,1-3,Cercle Brugge
+26/03/17,CPL,Cercle Brugge,0-5,Lommel
+31/03/17,CPL,Tubize,2-2,Cercle Brugge
+07/04/17,CPL,OH Leuven,1-0,Cercle Brugge
+14/04/17,CPL,Cercle Brugge,0-0,OH Leuven
+21/04/17,CPL,Lommel,0-1,Cercle Brugge
+28/04/17,CPL,Cercle Brugge,1-1,Tubize
+05/07/17,CLF,Oudenaarde,0-3,Cercle Brugge
+12/07/17,CLF,Cercle Brugge,2-1,Lokeren
+22/07/17,CLF,Cercle Brugge,1-1,Reading
+06/08/17,CPL,Westerlo,1-2,Cercle Brugge
+11/08/17,CPL,Cercle Brugge,2-0,Union Saint-Gilloise
+19/08/17,CPL,OH Leuven,7-1,Cercle Brugge
+24/08/17,CUP,Cercle Brugge,E3-1E,Temse
+08/02/15,FDA,Cercle Brugge,0-2,Anderlecht
+11/02/15,CUP,Cercle Brugge,2-3,Club Brugge
+14/02/15,FDA,Lierse,2-1,Cercle Brugge
+21/02/15,FDA,Cercle Brugge,2-2,Zulte Waregem
+27/02/15,FDA,Standard Liège,1-0,Cercle Brugge
+07/03/15,FDA,Kortrijk,1-0,Cercle Brugge
+15/03/15,FDA,Cercle Brugge,2-3,Mechelen
+04/04/15,FDA,Cercle Brugge,2-3,Lierse
+10/04/15,FDA,Lierse,0-1,Cercle Brugge
+17/04/15,FDA,Cercle Brugge,0-2,Lierse
+26/04/15,FDA,Lierse,3-1,Cercle Brugge
+01/05/15,FDA,Cercle Brugge,CANC,Lierse
+05/07/15,CLF,Damme,0-3,Cercle Brugge
+15/07/15,CLF,Cercle Brugge,0-0,Kortrijk
+18/07/15,CLF,RW Walhain,1-2,Cercle Brugge
+29/07/15,CLF,Eendracht Aalst,1-7,Cercle Brugge
+01/08/15,CLF,Sparta Rotterdam,1-0,Cercle Brugge
+08/08/15,CPL,Cercle Brugge,1-1,Dessel Sport
+16/08/15,CUP,Cercle Brugge,2-0,Wallonne Ciney
+22/08/15,CUP,Cercle Brugge,2-0,Liège
+06/09/15,CPL,RFC Seraing,0-3,Cercle Brugge
+09/09/15,CPL,Lierse,2-3,Cercle Brugge
+12/09/15,CPL,Cercle Brugge,3-3,Geel
+19/09/15,CPL,Patro Eisden,0-1,Cercle Brugge
+22/09/15,CUP,Westerlo,3-2,Cercle Brugge
+27/09/15,CPL,Cercle Brugge,2-0,Heist
+04/10/15,CPL,KSV Roeselare,1-1,Cercle Brugge
+07/10/15,CPL,Cercle Brugge,1-0,Coxyde
+11/10/15,CPL,Cercle Brugge,4-0,AS Eupen
+18/10/15,CPL,Union Saint-Gilloise,2-1,Cercle Brugge
+25/10/15,CPL,Excelsior Virton,2-1,Cercle Brugge
+31/10/15,CPL,Cercle Brugge,1-3,Tubize
+07/11/15,CPL,Antwerp,0-1,Cercle Brugge
+14/11/15,CPL,Cercle Brugge,1-1,White Star Bruxelles
+22/11/15,CPL,Deinze,1-4,Cercle Brugge
+29/11/15,CPL,Cercle Brugge,0-0,Lommel
+05/12/15,CPL,Dessel Sport,0-3,Cercle Brugge
+13/12/15,CPL,Cercle Brugge,2-2,Lierse
+11/01/16,CLF,Ermis,3-5,Cercle Brugge
+17/01/16,CPL,Cercle Brugge,4-0,RFC Seraing
+23/01/16,CPL,Geel,3-3,Cercle Brugge
+29/01/16,CPL,Cercle Brugge,1-1,Patro Eisden
+06/02/16,CPL,Heist,0-2,Cercle Brugge
+14/02/16,CPL,Cercle Brugge,2-1,KSV Roeselare
+21/02/16,CPL,Coxyde,2-2,Cercle Brugge
+06/03/16,CPL,AS Eupen,2-1,Cercle Brugge
+11/03/16,CPL,Cercle Brugge,1-1,Union Saint-Gilloise
+19/03/16,CPL,Cercle Brugge,2-2,Excelsior Virton
+03/04/16,CPL,Tubize,2-0,Cercle Brugge
+10/04/16,CPL,Cercle Brugge,2-2,Antwerp
+15/02/14,FDA,Zulte Waregem,2-1,Cercle Brugge
+22/02/14,FDA,Cercle Brugge,3-2,Mechelen
+01/03/14,FDA,Kortrijk,4-0,Cercle Brugge
+08/03/14,FDA,Cercle Brugge,1-4,Gent
+16/03/14,FDA,Club Brugge,2-0,Cercle Brugge
+29/03/14,FDA,Kortrijk,4-0,Cercle Brugge
+05/04/14,FDA,Cercle Brugge,0-1,Mechelen
+12/04/14,FDA,Cercle Brugge,2-4,Sporting Charleroi
+19/04/14,FDA,Sporting Charleroi,2-0,Cercle Brugge
+26/04/14,FDA,Cercle Brugge,0-4,Kortrijk
+03/05/14,FDA,Mechelen,2-0,Cercle Brugge
+25/06/14,CLF,Oudenburg,0-10,Cercle Brugge
+28/06/14,CLF,Deinze,3-4,Cercle Brugge
+03/07/14,CLF,SDC Putten,0-6,Cercle Brugge
+04/07/14,CLF,Vitesse,1-1,Cercle Brugge
+11/07/14,CLF,Cercle Brugge,0-0,Mechelen
+12/07/14,CLF,Cercle Brugge,3-0,KSV Roeselare
+16/07/14,CLF,Cercle Brugge,0-1,Westerlo
+17/07/14,CLF,Cercle Brugge,0-2,Eendracht Aalst
+20/07/14,CLF,Cercle Brugge,1-1,Al Shabab
+26/07/14,FDA,Cercle Brugge,0-0,Gent
+02/08/14,FDA,Genk,1-1,Cercle Brugge
+09/08/14,FDA,Cercle Brugge,0-1,KV Oostende
+15/08/14,FDA,Club Brugge,1-1,Cercle Brugge
+24/08/14,FDA,Cercle Brugge,1-0,Lokeren
+30/08/14,FDA,Excel Mouscron,4-0,Cercle Brugge
+13/09/14,FDA,Cercle Brugge,1-0,Sporting Charleroi
+20/09/14,FDA,Anderlecht,3-2,Cercle Brugge
+24/09/14,CUP,Sint-Gillis Waas,1-7,Cercle Brugge
+27/09/14,FDA,Cercle Brugge,1-2,Westerlo
+04/10/14,FDA,SK Beveren,1-0,Cercle Brugge
+18/10/14,FDA,Cercle Brugge,1-2,Lierse
+25/10/14,FDA,Zulte Waregem,1-2,Cercle Brugge
+29/10/14,FDA,Cercle Brugge,0-1,Standard Liège
+01/11/14,FDA,Cercle Brugge,0-4,Kortrijk
+08/11/14,FDA,Mechelen,1-1,Cercle Brugge
+22/11/14,FDA,Gent,4-0,Cercle Brugge
+29/11/14,FDA,Cercle Brugge,0-1,Genk
+02/12/14,CUP,Cercle Brugge,E3-0E,Coxyde
+06/12/14,FDA,Lokeren,0-0,Cercle Brugge
+13/12/14,FDA,Cercle Brugge,2-1,Excel Mouscron
+17/12/14,CUP,Sporting Charleroi,2-1,Cercle Brugge
+20/12/14,FDA,KV Oostende,2-0,Cercle Brugge
+27/12/14,FDA,Cercle Brugge,1-0,SK Beveren
+10/01/15,CLF,Cercle Brugge,3-1,Sint-Truiden
+17/01/15,FDA,Sporting Charleroi,0-2,Cercle Brugge
+21/01/15,CUP,Cercle Brugge,2-0,Sporting Charleroi
+25/01/15,FDA,Cercle Brugge,0-3,Club Brugge
+31/01/15,FDA,Westerlo,1-0,Cercle Brugge
+03/02/15,CUP,Club Brugge,5-1,Cercle Brugge
+13/04/13,FDA,Beerschot,1-2,Cercle Brugge
+20/04/13,FDA,Cercle Brugge,2-1,Beerschot
+26/04/13,FDA,Beerschot,CANC,Cercle Brugge
+30/04/13,CLF,Cercle Brugge,3-2,Torhout
+05/05/13,PL1,Excel Mouscron,0-3,Cercle Brugge
+09/05/13,CUP,Cercle Brugge,0-2,Genk
+12/05/13,PL1,Cercle Brugge,1-0,Westerlo
+16/05/13,PL1,Cercle Brugge,4-0,White Star Bruxelles
+19/05/13,PL1,White Star Bruxelles,1-4,Cercle Brugge
+23/05/13,PL1,Cercle Brugge,1-2,Excel Mouscron
+26/05/13,PL1,Westerlo,5-0,Cercle Brugge
+23/06/13,CLF,Damme,0-3,Cercle Brugge
+26/06/13,CLF,Gullegem,0-1,Cercle Brugge
+29/06/13,CLF,Cercle Brugge,0-3,Mons
+06/07/13,CLF,ADO Den Haag,0-1,Cercle Brugge
+12/07/13,CLF,Cercle Brugge,0-0,Kortrijk
+14/07/13,CLF,Cercle Brugge,0-1,KSV Roeselare
+17/07/13,CLF,Cercle Brugge,0-1,Westerlo
+21/07/13,CLF,Cercle Brugge,1-1,OFI
+27/07/13,FDA,Mons,1-1,Cercle Brugge
+02/08/13,FDA,Cercle Brugge,0-4,Anderlecht
+10/08/13,FDA,Lierse,1-1,Cercle Brugge
+17/08/13,FDA,Cercle Brugge,2-0,KV Oostende
+25/08/13,FDA,Genk,1-0,Cercle Brugge
+31/08/13,FDA,Cercle Brugge,1-1,OH Leuven
+14/09/13,FDA,Lokeren,3-0,Cercle Brugge
+21/09/13,FDA,Sporting Charleroi,2-0,Cercle Brugge
+25/09/13,CUP,Wolvertem,0-3,Cercle Brugge
+29/09/13,FDA,Cercle Brugge,0-5,Standard Liège
+05/10/13,FDA,Mechelen,1-2,Cercle Brugge
+19/10/13,FDA,Cercle Brugge,1-1,Zulte Waregem
+25/10/13,FDA,Gent,1-1,Cercle Brugge
+31/10/13,FDA,Cercle Brugge,2-0,Club Brugge
+03/11/13,FDA,SK Beveren,0-1,Cercle Brugge
+09/11/13,FDA,Cercle Brugge,3-1,Kortrijk
+23/11/13,FDA,Cercle Brugge,2-4,Lierse
+01/12/13,FDA,Anderlecht,2-1,Cercle Brugge
+04/12/13,CUP,Cercle Brugge,1-0,Standard Liège
+07/12/13,FDA,KV Oostende,2-0,Cercle Brugge
+14/12/13,FDA,Cercle Brugge,2-1,Mons
+18/12/13,CUP,Zulte Waregem,1-0,Cercle Brugge
+21/12/13,FDA,Cercle Brugge,1-0,Genk
+26/12/13,FDA,OH Leuven,3-0,Cercle Brugge
+07/01/14,CLF,MC Alger,0-0,Cercle Brugge
+08/01/14,CLF,FC Cartagena,1-2,Cercle Brugge
+15/01/14,CUP,Cercle Brugge,3-2,Zulte Waregem
+18/01/14,FDA,Cercle Brugge,0-3,Lokeren
+25/01/14,FDA,Cercle Brugge,3-0,Sporting Charleroi
+01/02/14,FDA,Standard Liège,4-0,Cercle Brugge
+08/02/14,FDA,Cercle Brugge,0-0,SK Beveren

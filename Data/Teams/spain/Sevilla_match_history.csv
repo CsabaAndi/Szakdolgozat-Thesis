@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+11/08/23,LAL,Sevilla,1-2,Valencia
+16/08/23,USC,Manchester City,P1-1P,Sevilla
+21/08/23,LAL,Alaves,4-3,Sevilla
+26/08/23,LAL,Sevilla,1-2,Girona
+17/09/23,LAL,Sevilla,1-0,Las Palmas
+20/09/23,UCL,Sevilla,1-1,Lens
+23/09/23,LAL,Osasuna,0-0,Sevilla
+26/09/23,LAL,Sevilla,5-1,Almeria
+29/09/23,LAL,Barcelona,1-0,Sevilla
+03/10/23,UCL,PSV,2-2,Sevilla
+07/10/23,LAL,Sevilla,2-2,Rayo Vallecano
+21/10/23,LAL,Sevilla,1-1,Real Madrid
+24/10/23,UCL,Sevilla,1-2,Arsenal
+28/10/23,LAL,Cadiz,2-2,Sevilla
+01/11/23,CDR,Quintanar,0-3,Sevilla
+04/11/23,LAL,Celta Vigo,1-1,Sevilla
+08/11/23,UCL,Arsenal,2-0,Sevilla
+12/11/23,LAL,Sevilla,1-1,Real Betis
+26/11/23,LAL,Real Sociedad,2-1,Sevilla
+29/11/23,UCL,Sevilla,2-3,PSV
+03/12/23,LAL,Sevilla,1-1,Villarreal
+06/12/23,CDR,Atlético Astorga,0-2,Sevilla
+09/12/23,LAL,Mallorca,1-0,Sevilla
+12/12/23,UCL,Lens,2-1,Sevilla
+16/12/23,LAL,Sevilla,0-3,Getafe
+19/12/23,LAL,Granada,0-3,Sevilla
+23/12/23,LAL,Atletico Madrid,1-0,Sevilla
+04/01/24,LAL,Sevilla,0-2,Athletic Bilbao
+07/01/24,CDR,Racing Ferrol,1-2,Sevilla
+12/01/24,LAL,Sevilla,2-3,Alaves
+16/01/24,CDR,Getafe,1-3,Sevilla
+21/01/24,LAL,Girona,5-1,Sevilla
+25/01/24,CDR,Atletico Madrid,1-0,Sevilla
+28/01/24,LAL,Sevilla,1-1,Osasuna
+05/02/24,LAL,Rayo Vallecano,1-2,Sevilla
+11/02/24,LAL,Sevilla,1-0,Atletico Madrid
+17/02/24,LAL,Valencia,0-0,Sevilla
+25/02/24,LAL,Real Madrid,1-0,Sevilla
+02/03/24,LAL,Sevilla,3-2,Real Sociedad
+11/03/24,LAL,Almeria,2-2,Sevilla
+17/03/24,LAL,Sevilla,1-2,Celta Vigo
+30/03/24,LAL,Getafe,0-1,Sevilla
+14/04/24,LAL,Las Palmas,0-2,Sevilla
+22/04/24,LAL,Sevilla,2-1,Mallorca
+28/04/24,LAL,Real Betis,1-1,Sevilla
+05/05/24,LAL,Sevilla,21:00,Granada
+11/05/24,LAL,Villarreal,16:15,Sevilla
+15/05/24,LAL,Sevilla,19:30,Cadiz
+19/05/24,LAL,Athletic Bilbao,-,Sevilla
+26/05/24,LAL,Sevilla,-,Barcelona
+09/11/22,LAL,Sevilla,1-2,Real Sociedad
+13/11/22,CDR,Velarde,0-2,Sevilla
+07/12/22,CLF,Sevilla,1-1,Monaco
+11/12/22,CLF,Benfica,0-1,Sevilla
+15/12/22,CLF,Sevilla,7-0,Volendam
+21/12/22,CDR,Juventud Torremolinos,0-3,Sevilla
+30/12/22,LAL,Celta Vigo,1-1,Sevilla
+04/01/23,CDR,Linares Deportivo,0-5,Sevilla
+08/01/23,LAL,Sevilla,2-1,Getafe
+14/01/23,LAL,Girona,2-1,Sevilla
+17/01/23,CDR,Alaves,0-1,Sevilla
+21/01/23,LAL,Sevilla,1-0,Cadiz
+25/01/23,CDR,Osasuna,E2-1E,Sevilla
+28/01/23,LAL,Sevilla,3-0,Elche
+05/02/23,LAL,Barcelona,3-0,Sevilla
+11/02/23,LAL,Sevilla,2-0,Mallorca
+16/02/23,UEL,Sevilla,3-0,PSV
+19/02/23,LAL,Rayo Vallecano,1-1,Sevilla
+23/02/23,UEL,PSV,2-0,Sevilla
+26/02/23,LAL,Sevilla,2-3,Osasuna
+04/03/23,LAL,Atletico Madrid,6-1,Sevilla
+09/03/23,UEL,Sevilla,2-0,Fenerbahce
+12/03/23,LAL,Sevilla,2-1,Almeria
+16/03/23,UEL,Fenerbahce,1-0,Sevilla
+19/03/23,LAL,Getafe,2-0,Sevilla
+01/04/23,LAL,Cadiz,0-2,Sevilla
+07/04/23,LAL,Sevilla,2-2,Celta Vigo
+13/04/23,UEL,Manchester United,2-2,Sevilla
+16/04/23,LAL,Valencia,0-2,Sevilla
+20/04/23,UEL,Sevilla,3-0,Manchester United
+23/04/23,LAL,Sevilla,2-1,Villarreal
+27/04/23,LAL,Athletic Bilbao,0-1,Sevilla
+01/05/23,LAL,Sevilla,0-2,Girona
+04/05/23,LAL,Sevilla,3-2,Espanyol
+11/05/23,UEL,Juventus,1-1,Sevilla
+14/05/23,LAL,Real Valladolid,0-3,Sevilla
+18/05/23,UEL,Sevilla,E2-1E,Juventus
+21/05/23,LAL,Sevilla,0-0,Real Betis
+24/05/23,LAL,Elche,1-1,Sevilla
+27/05/23,LAL,Sevilla,1-2,Real Madrid
+31/05/23,UEL,Sevilla,P1-1P,Roma
+04/06/23,LAL,Real Sociedad,2-1,Sevilla
+14/07/23,CLF,Sevilla,2-0,Córdoba
+18/07/23,CLF,Sevilla,5-2,Ceuta
+19/07/23,UCC,Sevilla,P1-1P,Independiente Valle
+22/07/23,CLF,Hansa Rostock,2-1,Sevilla
+23/07/23,CLF,Magdeburg,3-1,Sevilla
+31/07/23,CLF,Crystal Palace,P1-1P,Sevilla
+03/08/23,CLF,Sevilla,1-0,Real Betis
+06/08/23,CLF,Sevilla,1-1,Atletico Madrid
+06/01/22,CDR,Real Zaragoza,0-2,Sevilla
+09/01/22,LAL,Sevilla,1-0,Getafe
+16/01/22,CDR,Real Betis,2-1,Sevilla
+19/01/22,LAL,Valencia,1-1,Sevilla
+22/01/22,LAL,Sevilla,2-2,Celta Vigo
+05/02/22,LAL,Osasuna,0-0,Sevilla
+11/02/22,LAL,Sevilla,2-0,Elche
+17/02/22,UEL,Sevilla,3-1,Dinamo Zagreb
+20/02/22,LAL,Espanyol,1-1,Sevilla
+24/02/22,UEL,Dinamo Zagreb,1-0,Sevilla
+27/02/22,LAL,Sevilla,2-1,Real Betis
+04/03/22,LAL,Alaves,0-0,Sevilla
+10/03/22,UEL,Sevilla,1-0,West Ham United
+13/03/22,LAL,Rayo Vallecano,1-1,Sevilla
+17/03/22,UEL,West Ham United,E2-0E,Sevilla
+20/03/22,LAL,Sevilla,0-0,Real Sociedad
+03/04/22,LAL,Barcelona,1-0,Sevilla
+08/04/22,LAL,Sevilla,4-2,Granada
+17/04/22,LAL,Sevilla,2-3,Real Madrid
+21/04/22,LAL,Levante,2-3,Sevilla
+29/04/22,LAL,Sevilla,1-1,Cadiz
+08/05/22,LAL,Villarreal,1-1,Sevilla
+11/05/22,LAL,Sevilla,0-0,Mallorca
+15/05/22,LAL,Atletico Madrid,1-1,Sevilla
+22/05/22,LAL,Sevilla,1-0,Athletic Bilbao
+16/07/22,CLF,Tottenham Hotspur,1-1,Sevilla
+24/07/22,CLF,Sporting Lisbon,P1-1P,Sevilla
+27/07/22,CLF,Sevilla,6-0,Angers
+30/07/22,EMC,Arsenal,6-0,Sevilla
+31/07/22,CLF,Leicester City,1-0,Sevilla
+06/08/22,CLF,Sevilla,1-0,Cadiz
+12/08/22,LAL,Osasuna,2-1,Sevilla
+19/08/22,LAL,Sevilla,1-1,Real Valladolid
+27/08/22,LAL,Almeria,2-1,Sevilla
+03/09/22,LAL,Sevilla,0-3,Barcelona
+06/09/22,UCL,Sevilla,0-4,Manchester City
+10/09/22,LAL,Espanyol,2-3,Sevilla
+14/09/22,UCL,FC Copenhagen,0-0,Sevilla
+18/09/22,LAL,Villarreal,1-1,Sevilla
+01/10/22,LAL,Sevilla,0-2,Atletico Madrid
+05/10/22,UCL,Sevilla,1-4,Borussia Dortmund
+08/10/22,LAL,Sevilla,1-1,Athletic Bilbao
+11/10/22,UCL,Borussia Dortmund,1-1,Sevilla
+15/10/22,LAL,Mallorca,0-1,Sevilla
+18/10/22,LAL,Sevilla,1-1,Valencia
+22/10/22,LAL,Real Madrid,3-1,Sevilla
+25/10/22,UCL,Sevilla,3-0,FC Copenhagen
+29/10/22,LAL,Sevilla,0-1,Rayo Vallecano
+02/11/22,UCL,Manchester City,3-1,Sevilla
+06/11/22,LAL,Real Betis,1-1,Sevilla
+22/02/21,LAL,Osasuna,0-2,Sevilla
+27/02/21,LAL,Sevilla,0-2,Barcelona
+03/03/21,CDR,Barcelona,E3-0E,Sevilla
+06/03/21,LAL,Elche,2-1,Sevilla
+09/03/21,UCL,Borussia Dortmund,2-2,Sevilla
+14/03/21,LAL,Sevilla,1-0,Real Betis
+17/03/21,LAL,Sevilla,2-0,Elche
+20/03/21,LAL,Real Valladolid,1-1,Sevilla
+04/04/21,LAL,Sevilla,1-0,Atletico Madrid
+12/04/21,LAL,Celta Vigo,3-4,Sevilla
+18/04/21,LAL,Real Sociedad,1-2,Sevilla
+21/04/21,LAL,Levante,0-1,Sevilla
+25/04/21,LAL,Sevilla,2-1,Granada
+03/05/21,LAL,Sevilla,0-1,Athletic Bilbao
+09/05/21,LAL,Real Madrid,2-2,Sevilla
+12/05/21,LAL,Sevilla,1-0,Valencia
+16/05/21,LAL,Villarreal,4-0,Sevilla
+23/05/21,LAL,Sevilla,1-0,Alaves
+17/07/21,CLF,Sevilla,4-0,Coventry City
+22/07/21,CLF,Sevilla,1-0,Las Palmas
+27/07/21,CLF,PSG,2-2,Sevilla
+31/07/21,CLF,Roma,0-0,Sevilla
+07/08/21,CLF,Aston Villa,CANC,Sevilla
+15/08/21,LAL,Sevilla,3-0,Rayo Vallecano
+23/08/21,LAL,Getafe,0-1,Sevilla
+28/08/21,LAL,Elche,1-1,Sevilla
+14/09/21,UCL,Sevilla,1-1,Salzburg
+19/09/21,LAL,Real Sociedad,0-0,Sevilla
+22/09/21,LAL,Sevilla,3-1,Valencia
+25/09/21,LAL,Sevilla,2-0,Espanyol
+29/09/21,UCL,Wolfsburg,1-1,Sevilla
+03/10/21,LAL,Granada,1-0,Sevilla
+17/10/21,LAL,Celta Vigo,0-1,Sevilla
+20/10/21,UCL,Lille,0-0,Sevilla
+24/10/21,LAL,Sevilla,5-3,Levante
+27/10/21,LAL,Mallorca,1-1,Sevilla
+30/10/21,LAL,Sevilla,2-0,Osasuna
+02/11/21,UCL,Sevilla,1-2,Lille
+07/11/21,LAL,Real Betis,0-2,Sevilla
+20/11/21,LAL,Sevilla,2-2,Alaves
+23/11/21,UCL,Sevilla,2-0,Wolfsburg
+28/11/21,LAL,Real Madrid,2-1,Sevilla
+01/12/21,CDR,Córdoba,E0-1E,Sevilla
+04/12/21,LAL,Sevilla,1-0,Villarreal
+08/12/21,UCL,Salzburg,1-0,Sevilla
+11/12/21,LAL,Athletic Bilbao,0-1,Sevilla
+15/12/21,CDR,Andratx,P1-1P,Sevilla
+18/12/21,LAL,Sevilla,2-1,Atletico Madrid
+21/12/21,LAL,Sevilla,1-1,Barcelona
+03/01/22,LAL,Cadiz,0-1,Sevilla
+19/06/20,LAL,Sevilla,0-0,Barcelona
+22/06/20,LAL,Villarreal,2-2,Sevilla
+26/06/20,LAL,Sevilla,1-1,Real Valladolid
+30/06/20,LAL,Leganes,0-3,Sevilla
+06/07/20,LAL,Sevilla,1-0,Eibar
+09/07/20,LAL,Athletic Bilbao,1-2,Sevilla
+12/07/20,LAL,Sevilla,2-0,Mallorca
+16/07/20,LAL,Real Sociedad,0-0,Sevilla
+19/07/20,LAL,Sevilla,1-0,Valencia
+06/08/20,UEL,Sevilla,2-0,Roma
+11/08/20,UEL,Wolverhampton Wanderers,0-1,Sevilla
+16/08/20,UEL,Sevilla,2-1,Manchester United
+21/08/20,UEL,Sevilla,3-2,Inter Milan
+15/09/20,CLF,Sevilla,3-2,Levante
+24/09/20,USC,Bayern Munich,E2-1E,Sevilla
+27/09/20,LAL,Cadiz,1-3,Sevilla
+01/10/20,LAL,Sevilla,1-0,Levante
+04/10/20,LAL,Barcelona,1-1,Sevilla
+17/10/20,LAL,Granada,1-0,Sevilla
+20/10/20,UCL,Chelsea,0-0,Sevilla
+24/10/20,LAL,Sevilla,0-1,Eibar
+28/10/20,UCL,Sevilla,1-0,Rennes
+31/10/20,LAL,Athletic Bilbao,2-1,Sevilla
+04/11/20,UCL,Sevilla,3-2,Krasnodar
+07/11/20,LAL,Sevilla,1-0,Osasuna
+21/11/20,LAL,Sevilla,4-2,Celta Vigo
+24/11/20,UCL,Krasnodar,1-2,Sevilla
+28/11/20,LAL,Huesca,0-1,Sevilla
+02/12/20,UCL,Sevilla,0-4,Chelsea
+05/12/20,LAL,Sevilla,0-1,Real Madrid
+08/12/20,UCL,Rennes,1-3,Sevilla
+12/12/20,LAL,Getafe,0-1,Sevilla
+15/12/20,CDR,Ciudad de Lucena,0-3,Sevilla
+19/12/20,LAL,Sevilla,1-1,Real Valladolid
+22/12/20,LAL,Valencia,0-1,Sevilla
+29/12/20,LAL,Sevilla,2-0,Villarreal
+02/01/21,LAL,Real Betis,1-1,Sevilla
+05/01/21,CDR,Linares Deportivo,0-2,Sevilla
+09/01/21,LAL,Sevilla,3-2,Real Sociedad
+12/01/21,LAL,Atletico Madrid,2-0,Sevilla
+16/01/21,CDR,Leganes,E0-1E,Sevilla
+19/01/21,LAL,Alaves,1-2,Sevilla
+23/01/21,LAL,Sevilla,3-0,Cadiz
+27/01/21,CDR,Sevilla,3-0,Valencia
+30/01/21,LAL,Eibar,0-2,Sevilla
+02/02/21,CDR,Almeria,0-1,Sevilla
+06/02/21,LAL,Sevilla,3-0,Getafe
+10/02/21,CDR,Sevilla,2-0,Barcelona
+13/02/21,LAL,Sevilla,1-0,Huesca
+17/02/21,UCL,Sevilla,2-3,Borussia Dortmund
+23/05/19,CLF,Simba,4-5,Sevilla
+13/07/19,CLF,Sevilla,2-1,Reading
+18/07/19,CLF,Dallas,1-3,Sevilla
+22/07/19,CLF,Liverpool,1-2,Sevilla
+03/08/19,CLF,Hoffenheim,1-2,Sevilla
+09/08/19,CLF,Granada,2-1,Sevilla
+10/08/19,CLF,Extremadura UD,2-2,Sevilla
+18/08/19,LAL,Espanyol,0-2,Sevilla
+23/08/19,LAL,Granada,0-1,Sevilla
+30/08/19,LAL,Sevilla,1-1,Celta Vigo
+15/09/19,LAL,Alaves,0-1,Sevilla
+19/09/19,UEL,Qarabag,0-3,Sevilla
+22/09/19,LAL,Sevilla,0-1,Real Madrid
+26/09/19,LAL,Eibar,3-2,Sevilla
+29/09/19,LAL,Sevilla,3-2,Real Sociedad
+03/10/19,UEL,Sevilla,1-0,APOEL
+06/10/19,LAL,Barcelona,4-0,Sevilla
+20/10/19,LAL,Sevilla,1-0,Levante
+24/10/19,UEL,Sevilla,3-0,F91 Dudelange
+27/10/19,LAL,Sevilla,2-0,Getafe
+30/10/19,LAL,Valencia,1-1,Sevilla
+02/11/19,LAL,Sevilla,1-1,Atletico Madrid
+07/11/19,UEL,F91 Dudelange,2-5,Sevilla
+10/11/19,LAL,Real Betis,1-2,Sevilla
+14/11/19,CLF,Racing Ferrol,CANC,Sevilla
+24/11/19,LAL,Real Valladolid,0-1,Sevilla
+28/11/19,UEL,Sevilla,2-0,Qarabag
+01/12/19,LAL,Sevilla,1-0,Leganes
+08/12/19,LAL,Osasuna,1-1,Sevilla
+12/12/19,UEL,APOEL,1-0,Sevilla
+15/12/19,LAL,Sevilla,1-2,Villarreal
+18/12/19,CDR,Bergantiños,0-1,Sevilla
+21/12/19,LAL,Mallorca,0-2,Sevilla
+03/01/20,LAL,Sevilla,1-1,Athletic Bilbao
+12/01/20,CDR,Escobedo,0-5,Sevilla
+18/01/20,LAL,Real Madrid,2-1,Sevilla
+20/01/20,CLF,Sandhausen,3-1,Sevilla
+21/01/20,CDR,Sevilla,3-1,Levante
+25/01/20,LAL,Sevilla,2-0,Granada
+30/01/20,CDR,Mirandes,3-1,Sevilla
+02/02/20,LAL,Sevilla,1-1,Alaves
+09/02/20,LAL,Celta Vigo,2-1,Sevilla
+16/02/20,LAL,Sevilla,2-2,Espanyol
+20/02/20,UEL,CFR Cluj,1-1,Sevilla
+23/02/20,LAL,Getafe,0-3,Sevilla
+27/02/20,UEL,Sevilla,0-0,CFR Cluj
+01/03/20,LAL,Sevilla,3-2,Osasuna
+07/03/20,LAL,Atletico Madrid,2-2,Sevilla
+11/06/20,LAL,Sevilla,2-0,Real Betis
+15/06/20,LAL,Levante,1-1,Sevilla
+23/09/18,LAL,Levante,2-6,Sevilla
+26/09/18,LAL,Sevilla,3-0,Real Madrid
+29/09/18,LAL,Eibar,1-3,Sevilla
+04/10/18,UEL,Krasnodar,2-1,Sevilla
+07/10/18,LAL,Sevilla,2-1,Celta Vigo
+20/10/18,LAL,Barcelona,4-2,Sevilla
+25/10/18,UEL,Sevilla,6-0,Akhisarspor
+28/10/18,LAL,Sevilla,2-1,Huesca
+01/11/18,CDR,Villanovense,0-0,Sevilla
+04/11/18,LAL,Real Sociedad,0-0,Sevilla
+08/11/18,UEL,Akhisarspor,2-3,Sevilla
+11/11/18,LAL,Sevilla,2-1,Espanyol
+25/11/18,LAL,Sevilla,1-0,Real Valladolid
+29/11/18,UEL,Standard Liège,1-0,Sevilla
+02/12/18,LAL,Alaves,1-1,Sevilla
+05/12/18,CDR,Sevilla,1-0,Villanovense
+08/12/18,LAL,Valencia,1-1,Sevilla
+13/12/18,UEL,Sevilla,3-0,Krasnodar
+16/12/18,LAL,Sevilla,2-0,Girona
+23/12/18,LAL,Leganes,1-1,Sevilla
+06/01/19,LAL,Sevilla,1-1,Atletico Madrid
+10/01/19,CDR,Athletic Bilbao,1-3,Sevilla
+13/01/19,LAL,Athletic Bilbao,2-0,Sevilla
+16/01/19,CDR,Sevilla,0-1,Athletic Bilbao
+19/01/19,LAL,Real Madrid,2-0,Sevilla
+23/01/19,CDR,Sevilla,2-0,Barcelona
+26/01/19,LAL,Sevilla,5-0,Levante
+30/01/19,CDR,Barcelona,6-1,Sevilla
+02/02/19,LAL,Celta Vigo,1-0,Sevilla
+10/02/19,LAL,Sevilla,2-2,Eibar
+14/02/19,UEL,Lazio,0-1,Sevilla
+17/02/19,LAL,Villarreal,3-0,Sevilla
+20/02/19,UEL,Sevilla,2-0,Lazio
+23/02/19,LAL,Sevilla,2-4,Barcelona
+02/03/19,LAL,Huesca,2-1,Sevilla
+07/03/19,UEL,Sevilla,2-2,Slavia Prague
+10/03/19,LAL,Sevilla,5-2,Real Sociedad
+14/03/19,UEL,Slavia Prague,E4-3E,Sevilla
+17/03/19,LAL,Espanyol,0-1,Sevilla
+22/03/19,CLF,Sevilla,2-0,Schalke 04
+31/03/19,LAL,Sevilla,0-1,Valencia
+04/04/19,LAL,Sevilla,2-0,Alaves
+07/04/19,LAL,Real Valladolid,0-2,Sevilla
+13/04/19,LAL,Sevilla,3-2,Real Betis
+21/04/19,LAL,Getafe,3-0,Sevilla
+25/04/19,LAL,Sevilla,5-0,Rayo Vallecano
+28/04/19,LAL,Girona,1-0,Sevilla
+03/05/19,LAL,Sevilla,0-3,Leganes
+12/05/19,LAL,Atletico Madrid,1-1,Sevilla
+18/05/19,LAL,Sevilla,2-0,Athletic Bilbao
+15/12/17,LAL,Sevilla,0-0,Levante
+20/12/17,LAL,Real Sociedad,3-1,Sevilla
+03/01/18,CDR,Cadiz,0-2,Sevilla
+06/01/18,LAL,Sevilla,3-5,Real Betis
+11/01/18,CDR,Sevilla,2-1,Cadiz
+14/01/18,LAL,Alaves,1-0,Sevilla
+17/01/18,CDR,Atletico Madrid,1-2,Sevilla
+20/01/18,LAL,Espanyol,0-3,Sevilla
+23/01/18,CDR,Sevilla,3-1,Atletico Madrid
+28/01/18,LAL,Sevilla,1-1,Getafe
+31/01/18,CDR,Leganes,1-1,Sevilla
+03/02/18,LAL,Eibar,5-1,Sevilla
+07/02/18,CDR,Sevilla,2-0,Leganes
+11/02/18,LAL,Sevilla,1-0,Girona
+17/02/18,LAL,Las Palmas,1-2,Sevilla
+21/02/18,UCL,Sevilla,0-0,Manchester United
+25/02/18,LAL,Sevilla,2-5,Atletico Madrid
+28/02/18,LAL,Malaga,0-1,Sevilla
+03/03/18,LAL,Sevilla,2-0,Athletic Bilbao
+10/03/18,LAL,Sevilla,0-2,Valencia
+13/03/18,UCL,Manchester United,1-2,Sevilla
+18/03/18,LAL,Leganes,2-1,Sevilla
+31/03/18,LAL,Sevilla,2-2,Barcelona
+03/04/18,UCL,Sevilla,1-2,Bayern Munich
+07/04/18,LAL,Celta Vigo,4-0,Sevilla
+11/04/18,UCL,Bayern Munich,0-0,Sevilla
+14/04/18,LAL,Sevilla,2-2,Villarreal
+17/04/18,LAL,Deportivo La Coruña,0-0,Sevilla
+21/04/18,CDR,Sevilla,0-5,Barcelona
+27/04/18,LAL,Levante,2-1,Sevilla
+04/05/18,LAL,Sevilla,1-0,Real Sociedad
+09/05/18,LAL,Sevilla,3-2,Real Madrid
+12/05/18,LAL,Real Betis,2-2,Sevilla
+19/05/18,LAL,Sevilla,1-0,Alaves
+14/07/18,CLF,AFC Bournemouth,1-1,Sevilla
+17/07/18,CLF,Real Murcia,0-2,Sevilla
+21/07/18,CLF,Sevilla,0-1,Benfica
+26/07/18,UEL,Sevilla,4-0,Újpest
+02/08/18,UEL,Újpest,1-3,Sevilla
+04/08/18,CLF,Sevilla,2-1,Extremadura UD
+09/08/18,UEL,Sevilla,1-0,Zalgiris
+12/08/18,SUC,Sevilla,1-2,Barcelona
+16/08/18,UEL,Zalgiris,0-5,Sevilla
+19/08/18,LAL,Rayo Vallecano,1-4,Sevilla
+23/08/18,UEL,Sigma Olomouc,0-1,Sevilla
+26/08/18,LAL,Sevilla,0-0,Villarreal
+30/08/18,UEL,Sevilla,3-0,Sigma Olomouc
+02/09/18,LAL,Real Betis,1-0,Sevilla
+16/09/18,LAL,Sevilla,0-2,Getafe
+20/09/18,UEL,Sevilla,5-1,Standard Liège
+18/02/17,LAL,Sevilla,2-0,Eibar
+22/02/17,UCL,Sevilla,2-1,Leicester City
+25/02/17,LAL,Real Betis,1-2,Sevilla
+02/03/17,LAL,Sevilla,1-0,Athletic Bilbao
+06/03/17,LAL,Alaves,1-1,Sevilla
+11/03/17,LAL,Sevilla,1-1,Leganes
+14/03/17,UCL,Leicester City,2-0,Sevilla
+19/03/17,LAL,Atletico Madrid,3-1,Sevilla
+02/04/17,LAL,Sevilla,0-0,Sporting Gijon
+05/04/17,LAL,Barcelona,3-0,Sevilla
+08/04/17,LAL,Sevilla,4-2,Deportivo La Coruña
+16/04/17,LAL,Valencia,0-0,Sevilla
+21/04/17,LAL,Sevilla,2-0,Granada
+27/04/17,LAL,Sevilla,2-1,Celta Vigo
+01/05/17,LAL,Malaga,4-2,Sevilla
+05/05/17,LAL,Sevilla,1-1,Real Sociedad
+14/05/17,LAL,Real Madrid,4-1,Sevilla
+20/05/17,LAL,Sevilla,5-0,Osasuna
+17/07/17,CLF,Cerezo Osaka,1-3,Sevilla
+22/07/17,JWC,Kashima Antlers,2-0,Sevilla
+29/07/17,EMC,RB Leipzig,0-1,Sevilla
+30/07/17,EMC,Arsenal,1-2,Sevilla
+05/08/17,CLF,Southampton,2-0,Sevilla
+06/08/17,CLF,Everton,2-2,Sevilla
+10/08/17,CLF,Sevilla,2-1,Roma
+16/08/17,UCL,Istanbul Basaksehir,1-2,Sevilla
+19/08/17,LAL,Sevilla,1-1,Espanyol
+22/08/17,UCL,Sevilla,2-2,Istanbul Basaksehir
+27/08/17,LAL,Getafe,0-1,Sevilla
+09/09/17,LAL,Sevilla,3-0,Eibar
+13/09/17,UCL,Liverpool,2-2,Sevilla
+17/09/17,LAL,Girona,0-1,Sevilla
+20/09/17,LAL,Sevilla,1-0,Las Palmas
+23/09/17,LAL,Atletico Madrid,2-0,Sevilla
+26/09/17,UCL,Sevilla,3-0,Maribor
+30/09/17,LAL,Sevilla,2-0,Malaga
+14/10/17,LAL,Athletic Bilbao,1-0,Sevilla
+17/10/17,UCL,Spartak Moscow,5-1,Sevilla
+21/10/17,LAL,Valencia,4-0,Sevilla
+24/10/17,CDR,FC Cartagena,0-3,Sevilla
+28/10/17,LAL,Sevilla,2-1,Leganes
+01/11/17,UCL,Sevilla,2-1,Spartak Moscow
+04/11/17,LAL,Barcelona,2-1,Sevilla
+18/11/17,LAL,Sevilla,2-1,Celta Vigo
+21/11/17,UCL,Sevilla,3-3,Liverpool
+26/11/17,LAL,Villarreal,2-3,Sevilla
+29/11/17,CDR,Sevilla,4-0,FC Cartagena
+02/12/17,LAL,Sevilla,2-0,Deportivo La Coruña
+06/12/17,UCL,Maribor,1-1,Sevilla
+09/12/17,LAL,Real Madrid,5-0,Sevilla
+24/04/16,LAL,Sevilla,2-0,Real Betis
+28/04/16,UEL,Shakhtar Donetsk,2-2,Sevilla
+01/05/16,LAL,Espanyol,1-0,Sevilla
+05/05/16,UEL,Sevilla,3-1,Shakhtar Donetsk
+08/05/16,LAL,Sevilla,1-4,Granada
+14/05/16,LAL,Athletic Bilbao,3-1,Sevilla
+18/05/16,UEL,Liverpool,1-3,Sevilla
+22/05/16,CDR,Barcelona,E2-0E,Sevilla
+17/07/16,CLF,River Plate,1-3,Sevilla
+20/07/16,SUE,Sevilla,2-1,Independiente Santa Fe
+24/07/16,CLF,Sandhausen,1-2,Sevilla
+28/07/16,CLF,Mainz,0-1,Sevilla
+30/07/16,CLF,St. Pauli,1-2,Sevilla
+02/08/16,CLF,Granada,0-2,Sevilla
+09/08/16,USC,Real Madrid,E3-2E,Sevilla
+14/08/16,SUC,Sevilla,0-2,Barcelona
+17/08/16,SUC,Barcelona,3-0,Sevilla
+20/08/16,LAL,Sevilla,6-4,Espanyol
+28/08/16,LAL,Villarreal,0-0,Sevilla
+10/09/16,LAL,Sevilla,2-1,Las Palmas
+14/09/16,UCL,Juventus,0-0,Sevilla
+17/09/16,LAL,Eibar,1-1,Sevilla
+20/09/16,LAL,Sevilla,1-0,Real Betis
+24/09/16,LAL,Athletic Bilbao,3-1,Sevilla
+27/09/16,UCL,Sevilla,1-0,Lyon
+01/10/16,LAL,Sevilla,2-1,Alaves
+15/10/16,LAL,Leganes,2-3,Sevilla
+18/10/16,UCL,Dinamo Zagreb,0-1,Sevilla
+23/10/16,LAL,Sevilla,1-0,Atletico Madrid
+29/10/16,LAL,Sporting Gijon,1-1,Sevilla
+02/11/16,UCL,Sevilla,4-0,Dinamo Zagreb
+06/11/16,LAL,Sevilla,1-2,Barcelona
+11/11/16,CLF,Sevilla,3-4,Boca Juniors
+19/11/16,LAL,Deportivo La Coruña,2-3,Sevilla
+22/11/16,UCL,Sevilla,1-3,Juventus
+26/11/16,LAL,Sevilla,2-1,Valencia
+30/11/16,CDR,Formentera,1-5,Sevilla
+03/12/16,LAL,Granada,2-1,Sevilla
+07/12/16,UCL,Lyon,0-0,Sevilla
+11/12/16,LAL,Celta Vigo,0-3,Sevilla
+17/12/16,LAL,Sevilla,4-1,Malaga
+21/12/16,CDR,Sevilla,9-1,Formentera
+04/01/17,CDR,Real Madrid,3-0,Sevilla
+07/01/17,LAL,Real Sociedad,0-4,Sevilla
+12/01/17,CDR,Sevilla,3-3,Real Madrid
+15/01/17,LAL,Sevilla,2-1,Real Madrid
+22/01/17,LAL,Osasuna,3-4,Sevilla
+29/01/17,LAL,Espanyol,3-1,Sevilla
+05/02/17,LAL,Sevilla,0-0,Villarreal
+12/02/17,LAL,Las Palmas,0-1,Sevilla

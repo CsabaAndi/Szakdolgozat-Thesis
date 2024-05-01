@@ -1,0 +1,501 @@
+Date,Competition,Home team,Score,Away team
+08/06/23,SED,Alaves,2-0,Eibar
+11/06/23,SED,Alaves,0-0,Levante
+17/06/23,SED,Levante,E0-1E,Alaves
+22/07/23,CLF,Racing Santander,1-2,Alaves
+26/07/23,CLF,Tenerife,0-1,Alaves
+29/07/23,CLF,Valencia,2-0,Alaves
+04/08/23,CLF,Osasuna,2-3,Alaves
+06/08/23,CLF,Burgos,2-1,Alaves
+14/08/23,LAL,Cadiz,1-0,Alaves
+21/08/23,LAL,Alaves,4-3,Sevilla
+28/08/23,LAL,Getafe,1-0,Alaves
+02/09/23,LAL,Alaves,1-0,Valencia
+15/09/23,LAL,Rayo Vallecano,2-0,Alaves
+22/09/23,LAL,Alaves,0-2,Athletic Bilbao
+28/09/23,LAL,Celta Vigo,1-1,Alaves
+01/10/23,LAL,Alaves,0-2,Osasuna
+08/10/23,LAL,Alaves,1-1,Real Betis
+22/10/23,LAL,Villarreal,1-1,Alaves
+29/10/23,LAL,Atletico Madrid,2-1,Alaves
+02/11/23,CDR,Deportivo Murcia,0-10,Alaves
+05/11/23,LAL,Alaves,1-0,Almeria
+12/11/23,LAL,Barcelona,2-1,Alaves
+24/11/23,LAL,Alaves,3-1,Granada
+03/12/23,LAL,Mallorca,0-0,Alaves
+06/12/23,CDR,Terrassa,0-1,Alaves
+09/12/23,LAL,Alaves,0-1,Las Palmas
+18/12/23,LAL,Girona,3-0,Alaves
+21/12/23,LAL,Alaves,0-1,Real Madrid
+02/01/24,LAL,Real Sociedad,1-1,Alaves
+06/01/24,CDR,Alaves,1-0,Real Betis
+12/01/24,LAL,Sevilla,2-3,Alaves
+16/01/24,CDR,Athletic Bilbao,2-0,Alaves
+19/01/24,LAL,Alaves,1-0,Cadiz
+26/01/24,LAL,Almeria,0-3,Alaves
+03/02/24,LAL,Alaves,1-3,Barcelona
+10/02/24,LAL,Alaves,1-1,Villarreal
+18/02/24,LAL,Real Betis,0-0,Alaves
+24/02/24,LAL,Alaves,1-1,Mallorca
+04/03/24,LAL,Osasuna,1-0,Alaves
+10/03/24,LAL,Alaves,1-0,Rayo Vallecano
+16/03/24,LAL,Athletic Bilbao,2-0,Alaves
+31/03/24,LAL,Alaves,0-1,Real Sociedad
+14/04/24,LAL,Granada,2-0,Alaves
+21/04/24,LAL,Alaves,2-0,Atletico Madrid
+27/04/24,LAL,Alaves,3-0,Celta Vigo
+05/05/24,LAL,Valencia,18:30,Alaves
+10/05/24,LAL,Alaves,21:00,Girona
+14/05/24,LAL,Real Madrid,21:30,Alaves
+19/05/24,LAL,Alaves,-,Getafe
+26/05/24,LAL,Las Palmas,-,Alaves
+30/07/22,CLF,Alaves,0-0,Real Oviedo
+03/08/22,CLF,Alaves,P1-1P,Sporting Gijon
+06/08/22,CLF,Athletic Bilbao,1-1,Alaves
+13/08/22,SED,Leganes,1-2,Alaves
+19/08/22,SED,Alaves,1-0,Mirandes
+28/08/22,SED,Ibiza,1-1,Alaves
+03/09/22,SED,Alaves,1-1,Las Palmas
+10/09/22,SED,Lugo,1-2,Alaves
+18/09/22,SED,Alaves,2-1,Huesca
+26/09/22,SED,FC Cartagena,1-1,Alaves
+02/10/22,SED,Alaves,3-1,Ponferradina
+08/10/22,SED,Burgos,3-0,Alaves
+12/10/22,SED,Alaves,0-0,Albacete
+15/10/22,SED,FC Andorra,0-1,Alaves
+22/10/22,SED,Alaves,0-0,Sporting Gijon
+29/10/22,SED,Alaves,2-1,Real Oviedo
+01/11/22,SED,Racing Santander,1-1,Alaves
+04/11/22,SED,Alaves,1-0,Real Zaragoza
+13/11/22,CDR,Lleida Esportiu,0-1,Alaves
+20/11/22,SED,Eibar,0-0,Alaves
+26/11/22,SED,Alaves,2-0,Villarreal II
+02/12/22,SED,Granada,3-1,Alaves
+07/12/22,SED,Tenerife,2-1,Alaves
+12/12/22,SED,Alaves,0-2,Levante
+18/12/22,SED,Malaga,1-0,Alaves
+21/12/22,CDR,Mérida,0-1,Alaves
+04/01/23,CDR,Alaves,1-0,Real Valladolid
+07/01/23,SED,Alaves,1-0,Burgos
+13/01/23,SED,Real Oviedo,1-0,Alaves
+17/01/23,CDR,Alaves,0-1,Sevilla
+21/01/23,SED,Alaves,3-0,Racing Santander
+29/01/23,SED,Mirandes,1-3,Alaves
+04/02/23,SED,Alaves,2-0,Eibar
+11/02/23,SED,Real Zaragoza,1-4,Alaves
+19/02/23,SED,Alaves,4-2,Ibiza
+25/02/23,SED,Alaves,0-0,FC Cartagena
+06/03/23,SED,Villarreal II,1-0,Alaves
+11/03/23,SED,Alaves,0-0,Lugo
+18/03/23,SED,Ponferradina,1-0,Alaves
+25/03/23,SED,Alaves,1-0,Tenerife
+02/04/23,SED,Huesca,0-1,Alaves
+10/04/23,SED,Alaves,0-0,FC Andorra
+16/04/23,SED,Sporting Gijon,0-0,Alaves
+23/04/23,SED,Alaves,2-1,Leganes
+29/04/23,SED,Levante,2-0,Alaves
+05/05/23,SED,Alaves,1-1,Granada
+14/05/23,SED,Albacete,1-1,Alaves
+20/05/23,SED,Alaves,2-1,Malaga
+27/05/23,SED,Las Palmas,0-0,Alaves
+03/06/23,SED,Eibar,1-1,Alaves
+28/07/21,CLF,Alaves,1-0,Mirandes
+31/07/21,CLF,Alaves,0-1,Elche
+06/08/21,CLF,Alaves,4-3,Al Nasr
+06/08/21,CLF,Levante,0-1,Alaves
+14/08/21,LAL,Alaves,1-4,Real Madrid
+21/08/21,LAL,Alaves,0-1,Mallorca
+27/08/21,LAL,Valencia,3-0,Alaves
+18/09/21,LAL,Alaves,0-2,Osasuna
+22/09/21,LAL,Espanyol,1-0,Alaves
+25/09/21,LAL,Alaves,1-0,Atletico Madrid
+01/10/21,LAL,Athletic Bilbao,1-0,Alaves
+18/10/21,LAL,Alaves,0-1,Real Betis
+23/10/21,LAL,Cadiz,0-2,Alaves
+26/10/21,LAL,Alaves,1-0,Elche
+30/10/21,LAL,Barcelona,1-1,Alaves
+06/11/21,LAL,Alaves,2-1,Levante
+20/11/21,LAL,Sevilla,2-2,Alaves
+27/11/21,LAL,Alaves,1-2,Celta Vigo
+30/11/21,CDR,Unami,0-3,Alaves
+03/12/21,LAL,Granada,2-1,Alaves
+11/12/21,LAL,Alaves,1-1,Getafe
+14/12/21,CDR,Linares Deportivo,2-1,Alaves
+18/12/21,LAL,Rayo Vallecano,2-0,Alaves
+21/12/21,LAL,Villarreal,5-2,Alaves
+02/01/22,LAL,Alaves,1-1,Real Sociedad
+09/01/22,LAL,Alaves,0-0,Athletic Bilbao
+18/01/22,LAL,Real Betis,4-0,Alaves
+23/01/22,LAL,Alaves,0-1,Barcelona
+27/01/22,CLF,Osasuna,0-1,Alaves
+05/02/22,LAL,Elche,3-1,Alaves
+13/02/22,LAL,Alaves,2-1,Valencia
+19/02/22,LAL,Real Madrid,3-0,Alaves
+26/02/22,LAL,Getafe,2-2,Alaves
+04/03/22,LAL,Alaves,0-0,Sevilla
+13/03/22,LAL,Real Sociedad,1-0,Alaves
+19/03/22,LAL,Alaves,2-3,Granada
+25/03/22,CLF,Bordeaux,2-1,Alaves
+02/04/22,LAL,Atletico Madrid,4-1,Alaves
+10/04/22,LAL,Osasuna,1-0,Alaves
+16/04/22,LAL,Alaves,1-0,Rayo Vallecano
+19/04/22,LAL,Mallorca,2-1,Alaves
+30/04/22,LAL,Alaves,2-1,Villarreal
+07/05/22,LAL,Celta Vigo,4-0,Alaves
+11/05/22,LAL,Alaves,2-1,Espanyol
+15/05/22,LAL,Levante,3-1,Alaves
+22/05/22,LAL,Alaves,0-1,Cadiz
+16/07/22,CLF,Burgos,P1-1P,Alaves
+20/07/22,CLF,Wolverhampton Wanderers,4-0,Alaves
+23/07/22,CLF,Alaves,5-0,Intercity
+26/07/22,CLF,Besiktas,1-2,Alaves
+16/07/20,LAL,Real Betis,1-2,Alaves
+19/07/20,LAL,Alaves,0-5,Barcelona
+26/08/20,CLF,Alaves,1-2,Huesca
+29/08/20,CLF,Osasuna,2-1,Alaves
+05/09/20,CLF,Real Sociedad,2-2,Alaves
+13/09/20,LAL,Alaves,0-1,Real Betis
+20/09/20,LAL,Granada,2-1,Alaves
+26/09/20,LAL,Alaves,0-0,Getafe
+30/09/20,LAL,Villarreal,3-1,Alaves
+04/10/20,LAL,Alaves,1-0,Athletic Bilbao
+08/10/20,CLF,Alaves,0-0,Osasuna
+18/10/20,LAL,Alaves,0-2,Elche
+25/10/20,LAL,Real Valladolid,0-2,Alaves
+31/10/20,LAL,Alaves,1-1,Barcelona
+08/11/20,LAL,Levante,1-1,Alaves
+22/11/20,LAL,Alaves,2-2,Valencia
+28/11/20,LAL,Real Madrid,1-2,Alaves
+06/12/20,LAL,Alaves,0-0,Real Sociedad
+12/12/20,LAL,Huesca,1-0,Alaves
+16/12/20,CDR,Rincón,0-2,Alaves
+20/12/20,LAL,Celta Vigo,2-0,Alaves
+23/12/20,LAL,Alaves,2-1,Eibar
+31/12/20,LAL,Osasuna,1-1,Alaves
+03/01/21,LAL,Alaves,1-2,Atletico Madrid
+06/01/21,CDR,Deportivo La Coruña,0-1,Alaves
+10/01/21,LAL,Cadiz,3-1,Alaves
+16/01/21,CDR,Almeria,5-0,Alaves
+19/01/21,LAL,Alaves,1-2,Sevilla
+23/01/21,LAL,Alaves,1-4,Real Madrid
+31/01/21,LAL,Getafe,0-0,Alaves
+05/02/21,LAL,Alaves,1-0,Real Valladolid
+13/02/21,LAL,Barcelona,5-1,Alaves
+21/02/21,LAL,Real Sociedad,4-0,Alaves
+27/02/21,LAL,Alaves,0-1,Osasuna
+08/03/21,LAL,Real Betis,3-2,Alaves
+13/03/21,LAL,Alaves,1-1,Cadiz
+21/03/21,LAL,Atletico Madrid,1-0,Alaves
+04/04/21,LAL,Alaves,1-3,Celta Vigo
+10/04/21,LAL,Athletic Bilbao,0-0,Alaves
+18/04/21,LAL,Alaves,1-0,Huesca
+21/04/21,LAL,Alaves,2-1,Villarreal
+24/04/21,LAL,Valencia,1-1,Alaves
+01/05/21,LAL,Eibar,3-0,Alaves
+08/05/21,LAL,Alaves,2-2,Levante
+11/05/21,LAL,Elche,0-2,Alaves
+16/05/21,LAL,Alaves,4-2,Granada
+23/05/21,LAL,Sevilla,1-0,Alaves
+14/07/21,CLF,Alaves,1-3,SD Logroñés
+17/07/21,CLF,Alaves,5-2,Amorebieta
+24/07/21,CLF,Real Sociedad,3-1,Alaves
+27/04/19,LAL,Athletic Bilbao,1-1,Alaves
+04/05/19,LAL,Alaves,0-1,Real Sociedad
+12/05/19,LAL,Valencia,3-1,Alaves
+18/05/19,LAL,Alaves,2-1,Girona
+19/07/19,CLF,Leioa,2-3,Alaves
+25/07/19,CLF,Alaves,0-1,Fuenlabrada
+27/07/19,CLF,Albacete,1-2,Alaves
+31/07/19,CLF,Real Sociedad,1-0,Alaves
+03/08/19,CLF,Alaves,1-0,Racing Santander
+07/08/19,CLF,Real Zaragoza,P0-0P,Alaves
+10/08/19,CLF,Sporting Gijon,0-0,Alaves
+10/08/19,CLF,Real Oviedo,1-2,Alaves
+18/08/19,LAL,Alaves,1-0,Levante
+25/08/19,LAL,Alaves,0-0,Espanyol
+31/08/19,LAL,Getafe,1-1,Alaves
+05/09/19,CLF,Real Sociedad,0-0,Alaves
+15/09/19,LAL,Alaves,0-1,Sevilla
+22/09/19,LAL,Athletic Bilbao,2-0,Alaves
+26/09/19,LAL,Real Sociedad,3-0,Alaves
+29/09/19,LAL,Alaves,2-0,Mallorca
+05/10/19,LAL,Valencia,2-1,Alaves
+20/10/19,LAL,Alaves,2-0,Celta Vigo
+25/10/19,LAL,Villarreal,4-1,Alaves
+29/10/19,LAL,Alaves,1-1,Atletico Madrid
+03/11/19,LAL,Osasuna,4-2,Alaves
+09/11/19,LAL,Alaves,3-0,Real Valladolid
+24/11/19,LAL,Eibar,0-2,Alaves
+30/11/19,LAL,Alaves,1-2,Real Madrid
+07/12/19,LAL,Granada,3-0,Alaves
+13/12/19,LAL,Alaves,1-1,Leganes
+17/12/19,CDR,Real Jaén,3-1,Alaves
+21/12/19,LAL,Barcelona,4-1,Alaves
+05/01/20,LAL,Alaves,1-1,Real Betis
+18/01/20,LAL,Levante,0-1,Alaves
+25/01/20,LAL,Alaves,1-2,Villarreal
+02/02/20,LAL,Sevilla,1-1,Alaves
+07/02/20,LAL,Alaves,2-1,Eibar
+15/02/20,LAL,Mallorca,1-0,Alaves
+23/02/20,LAL,Alaves,2-1,Athletic Bilbao
+29/02/20,LAL,Leganes,1-1,Alaves
+06/03/20,LAL,Alaves,1-1,Valencia
+13/06/20,LAL,Espanyol,2-0,Alaves
+18/06/20,LAL,Alaves,2-0,Real Sociedad
+21/06/20,LAL,Celta Vigo,6-0,Alaves
+24/06/20,LAL,Alaves,0-1,Osasuna
+27/06/20,LAL,Atletico Madrid,2-1,Alaves
+01/07/20,LAL,Alaves,0-2,Granada
+04/07/20,LAL,Real Valladolid,1-0,Alaves
+10/07/20,LAL,Real Madrid,2-0,Alaves
+13/07/20,LAL,Alaves,0-0,Getafe
+19/04/18,LAL,Alaves,1-2,Girona
+22/04/18,LAL,Las Palmas,0-4,Alaves
+29/04/18,LAL,Alaves,0-1,Atletico Madrid
+06/05/18,LAL,Malaga,0-3,Alaves
+12/05/18,LAL,Alaves,3-1,Athletic Bilbao
+19/05/18,LAL,Sevilla,1-0,Alaves
+18/07/18,CLF,Racing Santander,0-0,Alaves
+21/07/18,CLF,Alaves,P1-1P,UD Logroñés
+25/07/18,CLF,Alaves,1-1,Leganes
+28/07/18,CLF,Alaves,1-1,Alcorcon
+01/08/18,CLF,Numancia,3-1,Alaves
+04/08/18,CLF,Alaves,1-0,Real Oviedo
+08/08/18,CLF,Real Sociedad,1-2,Alaves
+11/08/18,CLF,Huesca,2-1,Alaves
+18/08/18,LAL,Barcelona,3-0,Alaves
+25/08/18,LAL,Alaves,0-0,Real Betis
+02/09/18,LAL,Alaves,2-1,Espanyol
+16/09/18,LAL,Real Valladolid,0-1,Alaves
+22/09/18,LAL,Rayo Vallecano,1-5,Alaves
+27/09/18,LAL,Alaves,1-1,Getafe
+30/09/18,LAL,Levante,2-1,Alaves
+06/10/18,LAL,Alaves,1-0,Real Madrid
+19/10/18,LAL,Celta Vigo,0-1,Alaves
+28/10/18,LAL,Alaves,2-1,Villarreal
+31/10/18,CDR,Alaves,2-2,Girona
+04/11/18,LAL,Eibar,2-1,Alaves
+11/11/18,LAL,Alaves,2-1,Huesca
+23/11/18,LAL,Leganes,1-0,Alaves
+02/12/18,LAL,Alaves,1-1,Sevilla
+05/12/18,CDR,Girona,2-1,Alaves
+08/12/18,LAL,Atletico Madrid,3-0,Alaves
+17/12/18,LAL,Alaves,0-0,Athletic Bilbao
+21/12/18,LAL,Real Sociedad,0-1,Alaves
+05/01/19,LAL,Alaves,2-1,Valencia
+12/01/19,LAL,Girona,1-1,Alaves
+18/01/19,LAL,Getafe,4-0,Alaves
+28/01/19,LAL,Alaves,0-1,Rayo Vallecano
+03/02/19,LAL,Real Madrid,3-0,Alaves
+11/02/19,LAL,Alaves,2-0,Levante
+17/02/19,LAL,Real Betis,1-1,Alaves
+23/02/19,LAL,Alaves,0-0,Celta Vigo
+02/03/19,LAL,Villarreal,1-2,Alaves
+09/03/19,LAL,Alaves,1-1,Eibar
+16/03/19,LAL,Huesca,1-3,Alaves
+30/03/19,LAL,Alaves,0-4,Atletico Madrid
+04/04/19,LAL,Sevilla,2-0,Alaves
+07/04/19,LAL,Alaves,1-1,Leganes
+13/04/19,LAL,Espanyol,2-1,Alaves
+19/04/19,LAL,Alaves,2-2,Real Valladolid
+23/04/19,LAL,Alaves,0-2,Barcelona
+14/05/17,LAL,Alaves,3-1,Celta Vigo
+20/05/17,LAL,Leganes,1-1,Alaves
+27/05/17,CDR,Barcelona,3-1,Alaves
+15/07/17,CLF,Santoña,CANC,Alaves
+19/07/17,CLF,Toulouse,0-0,Alaves
+22/07/17,CLF,Alaves,1-0,UD Logroñés
+25/07/17,CLF,Alaves,3-0,Mirandes
+28/07/17,CLF,Numancia,1-1,Alaves
+02/08/17,CLF,Trabzonspor,2-0,Alaves
+06/08/17,CLF,Levante,1-1,Alaves
+09/08/17,CLF,Leganes,P1-1P,Alaves
+12/08/17,CLF,Athletic Bilbao,2-2,Alaves
+18/08/17,LAL,Leganes,1-0,Alaves
+26/08/17,LAL,Alaves,0-2,Barcelona
+10/09/17,LAL,Celta Vigo,1-0,Alaves
+17/09/17,LAL,Alaves,0-3,Villarreal
+20/09/17,LAL,Deportivo La Coruña,1-0,Alaves
+23/09/17,LAL,Alaves,1-2,Real Madrid
+30/09/17,LAL,Levante,0-2,Alaves
+14/10/17,LAL,Alaves,0-2,Real Sociedad
+21/10/17,LAL,Real Betis,2-0,Alaves
+24/10/17,CDR,Getafe,0-1,Alaves
+28/10/17,LAL,Alaves,1-2,Valencia
+04/11/17,LAL,Alaves,1-0,Espanyol
+18/11/17,LAL,Getafe,4-1,Alaves
+25/11/17,LAL,Alaves,1-2,Eibar
+30/11/17,CDR,Alaves,3-0,Getafe
+04/12/17,LAL,Girona,2-3,Alaves
+08/12/17,LAL,Alaves,2-0,Las Palmas
+16/12/17,LAL,Atletico Madrid,1-0,Alaves
+21/12/17,LAL,Alaves,1-0,Malaga
+03/01/18,CDR,Formentera,1-3,Alaves
+07/01/18,LAL,Athletic Bilbao,2-0,Alaves
+10/01/18,CDR,Alaves,2-0,Formentera
+14/01/18,LAL,Alaves,1-0,Sevilla
+17/01/18,CDR,Valencia,2-1,Alaves
+21/01/18,LAL,Alaves,2-2,Leganes
+24/01/18,CDR,Alaves,P2-1P,Valencia
+28/01/18,LAL,Barcelona,2-1,Alaves
+03/02/18,LAL,Alaves,2-1,Celta Vigo
+10/02/18,LAL,Villarreal,1-2,Alaves
+17/02/18,LAL,Alaves,1-0,Deportivo La Coruña
+24/02/18,LAL,Real Madrid,4-0,Alaves
+01/03/18,LAL,Alaves,1-0,Levante
+04/03/18,LAL,Real Sociedad,2-1,Alaves
+12/03/18,LAL,Alaves,1-3,Real Betis
+17/03/18,LAL,Valencia,3-1,Alaves
+01/04/18,LAL,Espanyol,0-0,Alaves
+07/04/18,LAL,Alaves,2-0,Getafe
+15/04/18,LAL,Eibar,0-1,Alaves
+27/07/16,CLF,Alaves,0-0,UD Logroñés
+30/07/16,CLF,Racing Santander,CANC,Alaves
+30/07/16,CLF,Alaves,1-0,Sporting Gijon
+06/08/16,CLF,Alaves,P0-0P,Real Zaragoza
+13/08/16,CLF,Real Valladolid,P1-1P,Alaves
+21/08/16,LAL,Atletico Madrid,1-1,Alaves
+28/08/16,LAL,Alaves,0-0,Sporting Gijon
+10/09/16,LAL,Barcelona,1-2,Alaves
+19/09/16,LAL,Alaves,0-0,Deportivo La Coruña
+22/09/16,LAL,Valencia,2-1,Alaves
+26/09/16,LAL,Alaves,3-1,Granada
+01/10/16,LAL,Sevilla,2-1,Alaves
+16/10/16,LAL,Alaves,1-1,Malaga
+22/10/16,LAL,Real Sociedad,3-0,Alaves
+29/10/16,LAL,Alaves,1-4,Real Madrid
+05/11/16,LAL,Osasuna,0-1,Alaves
+09/11/16,CLF,Sporting Gijon,0-2,Alaves
+20/11/16,LAL,Alaves,0-1,Espanyol
+27/11/16,LAL,Villarreal,0-2,Alaves
+01/12/16,CDR,Gimnàstic Tarragona,0-3,Alaves
+04/12/16,LAL,Alaves,1-1,Las Palmas
+11/12/16,LAL,Eibar,0-0,Alaves
+16/12/16,LAL,Alaves,1-0,Real Betis
+22/12/16,CDR,Alaves,3-0,Gimnàstic Tarragona
+03/01/17,CDR,Deportivo La Coruña,2-2,Alaves
+08/01/17,LAL,Athletic Bilbao,0-0,Alaves
+11/01/17,CDR,Alaves,1-1,Deportivo La Coruña
+15/01/17,LAL,Celta Vigo,1-0,Alaves
+18/01/17,CDR,Alcorcon,0-2,Alaves
+21/01/17,LAL,Alaves,2-2,Leganes
+24/01/17,CDR,Alaves,0-0,Alcorcon
+28/01/17,LAL,Alaves,0-0,Atletico Madrid
+02/02/17,CDR,Celta Vigo,0-0,Alaves
+05/02/17,LAL,Sporting Gijon,2-4,Alaves
+08/02/17,CDR,Alaves,1-0,Celta Vigo
+11/02/17,LAL,Alaves,0-6,Barcelona
+18/02/17,LAL,Deportivo La Coruña,0-1,Alaves
+25/02/17,LAL,Alaves,2-1,Valencia
+01/03/17,LAL,Granada,2-1,Alaves
+06/03/17,LAL,Alaves,1-1,Sevilla
+11/03/17,LAL,Malaga,1-2,Alaves
+18/03/17,LAL,Alaves,1-0,Real Sociedad
+02/04/17,LAL,Real Madrid,3-0,Alaves
+05/04/17,LAL,Alaves,0-1,Osasuna
+08/04/17,LAL,Espanyol,1-0,Alaves
+17/04/17,LAL,Alaves,2-1,Villarreal
+23/04/17,LAL,Las Palmas,1-1,Alaves
+27/04/17,LAL,Alaves,0-0,Eibar
+30/04/17,LAL,Real Betis,1-4,Alaves
+07/05/17,LAL,Alaves,1-0,Athletic Bilbao
+28/07/15,CLF,Toulouse,2-1,Alaves
+01/08/15,CLF,Alaves,0-0,UD Logroñés
+04/08/15,CLF,Alaves,P1-1P,Mirandes
+15/08/15,CLF,Burgos,2-0,Alaves
+22/08/15,SED,Huesca,2-3,Alaves
+30/08/15,SED,Alaves,2-0,Real Oviedo
+06/09/15,SED,Costa Brava,3-0,Alaves
+09/09/15,CDR,Numancia,0-1,Alaves
+12/09/15,SED,Alaves,2-3,Mirandes
+20/09/15,SED,Almeria,0-2,Alaves
+27/09/15,SED,Alaves,0-0,Leganes
+03/10/15,SED,Real Zaragoza,1-0,Alaves
+10/10/15,SED,Alaves,3-0,Osasuna
+14/10/15,CDR,Leganes,3-1,Alaves
+18/10/15,SED,Lugo,1-0,Alaves
+24/10/15,SED,Alaves,3-2,Córdoba
+01/11/15,SED,Alaves,1-1,Albacete
+07/11/15,SED,Tenerife,2-0,Alaves
+14/11/15,SED,Alaves,1-0,Girona
+21/11/15,SED,Elche,0-1,Alaves
+28/11/15,SED,Alaves,1-0,Mallorca
+05/12/15,SED,Real Valladolid,1-2,Alaves
+12/12/15,SED,Alaves,1-1,Alcorcon
+19/12/15,SED,Ponferradina,0-1,Alaves
+02/01/16,SED,Alaves,3-0,Athletic Club II
+09/01/16,SED,Numancia,0-1,Alaves
+17/01/16,SED,Alaves,1-3,Gimnàstic Tarragona
+23/01/16,SED,Alaves,1-0,Huesca
+30/01/16,SED,Real Oviedo,1-1,Alaves
+07/02/16,SED,Alaves,1-0,Costa Brava
+13/02/16,SED,Mirandes,0-0,Alaves
+21/02/16,SED,Alaves,1-1,Almeria
+28/02/16,SED,Leganes,2-0,Alaves
+06/03/16,SED,Alaves,0-0,Real Zaragoza
+13/03/16,SED,Osasuna,3-1,Alaves
+19/03/16,SED,Alaves,0-0,Lugo
+27/03/16,SED,Córdoba,1-2,Alaves
+03/04/16,SED,Albacete,0-1,Alaves
+10/04/16,SED,Alaves,2-2,Tenerife
+16/04/16,SED,Girona,1-0,Alaves
+23/04/16,SED,Alaves,0-0,Elche
+30/04/16,SED,Mallorca,0-0,Alaves
+08/05/16,SED,Alaves,2-1,Real Valladolid
+15/05/16,SED,Alcorcon,0-1,Alaves
+22/05/16,SED,Alaves,2-0,Ponferradina
+26/05/16,SED,Athletic Club II,2-3,Alaves
+29/05/16,SED,Alaves,2-0,Numancia
+04/06/16,SED,Gimnàstic Tarragona,1-1,Alaves
+16/07/16,CLF,Real Unión,0-0,Alaves
+23/07/16,CLF,Alaves,2-1,Huesca
+06/08/14,CLF,Cultural Leonesa,0-1,Alaves
+09/08/14,CLF,Alaves,2-0,Tudelano
+12/08/14,CLF,Eibar,0-4,Alaves
+16/08/14,CLF,Alaves,1-1,Numancia
+24/08/14,SED,Leganes,1-1,Alaves
+31/08/14,SED,Alaves,0-0,Recreativo Huelva
+06/09/14,SED,Osasuna,1-3,Alaves
+09/09/14,CDR,Alaves,E2-0E,Osasuna
+13/09/14,SED,Alaves,2-3,Barcelona II
+20/09/14,SED,Real Zaragoza,1-0,Alaves
+27/09/14,SED,Alaves,3-1,Sabadell
+04/10/14,SED,Alaves,0-0,Costa Brava
+11/10/14,SED,Mallorca,2-0,Alaves
+14/10/14,CDR,Mirandes,0-1,Alaves
+18/10/14,SED,Alaves,1-0,Lugo
+25/10/14,SED,Racing Santander,1-1,Alaves
+01/11/14,SED,Alaves,1-1,Alcorcon
+09/11/14,SED,Tenerife,1-1,Alaves
+15/11/14,SED,Alaves,0-0,Sporting Gijon
+23/11/14,SED,Real Betis,1-2,Alaves
+29/11/14,SED,Alaves,0-2,Numancia
+02/12/14,CDR,Alaves,0-2,Espanyol
+06/12/14,SED,Ponferradina,2-1,Alaves
+14/12/14,SED,Alaves,2-1,Albacete
+17/12/14,CDR,Espanyol,1-0,Alaves
+20/12/14,SED,Girona,2-2,Alaves
+03/01/15,SED,Alaves,1-3,Mirandes
+11/01/15,SED,Real Valladolid,2-0,Alaves
+17/01/15,SED,Alaves,1-1,Las Palmas
+24/01/15,SED,Alaves,2-0,Leganes
+01/02/15,SED,Recreativo Huelva,0-0,Alaves
+14/02/15,SED,Barcelona II,0-0,Alaves
+22/02/15,SED,Alaves,4-0,Real Zaragoza
+28/02/15,SED,Sabadell,2-1,Alaves
+08/03/15,SED,Costa Brava,3-1,Alaves
+14/03/15,SED,Alaves,2-0,Mallorca
+18/03/15,SED,Alaves,3-0,Osasuna
+22/03/15,SED,Lugo,3-2,Alaves
+28/03/15,SED,Alaves,2-1,Racing Santander
+05/04/15,SED,Alcorcon,0-1,Alaves
+11/04/15,SED,Alaves,1-0,Tenerife
+18/04/15,SED,Sporting Gijon,1-0,Alaves
+25/04/15,SED,Alaves,1-2,Real Betis
+02/05/15,SED,Numancia,1-0,Alaves
+10/05/15,SED,Alaves,2-1,Ponferradina
+16/05/15,SED,Albacete,2-3,Alaves
+20/05/15,SED,Alaves,0-3,Girona
+23/05/15,SED,Mirandes,3-0,Alaves
+31/05/15,SED,Alaves,0-2,Real Valladolid
+07/06/15,SED,Las Palmas,3-2,Alaves
