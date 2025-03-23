@@ -1,3 +1,13 @@
+# Latex files
+.Thesis/szakdolgozati_template_latex.aux
+.Thesis/szakdolgozati_template_latex.fdb_latexmk
+.Thesis/szakdolgozati_template_latex.fls
+.Thesis/szakdolgozati_template_latex.log
+.Thesis/szakdolgozati_template_latex.out
+.Thesis/szakdolgozati_template_latex.pdf
+.Thesis/szakdolgozati_template_latex.synctex.gz
+.Requirements-and-Templates/Templates/Latex/fresh
+
 # Test data folder
 test-data/
 
