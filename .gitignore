@@ -1,4 +1,14 @@
+# Thesis environments
+.Code/.venvs
+.Code/cakdoga/webscrape-app/datanode/node_modules
+
+# Thesis output folders ??
+.Code/cakdoga/output
+.Code/cakdoga/webscrape-app/datanode/output
+
+
 # Latex files
+.Thesis/b4918.png
 .Thesis/szakdolgozati_template_latex.aux
 .Thesis/szakdolgozati_template_latex.fdb_latexmk
 .Thesis/szakdolgozati_template_latex.fls
