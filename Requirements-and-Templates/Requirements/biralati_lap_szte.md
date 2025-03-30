@@ -1,4 +1,4 @@
-https://www.inf.u-szeged.hu/hallgatoknak/diplomamunka-szakdolgozat/biralati-lap, 2023.08.15
+https://www.inf.u-szeged.hu/hallgatoknak/diplomamunka-szakdolgozat/biralati-lap, 2025.03.23
 
 # Bírálati lap
 A bírálati lapot (zip kiterjesztésű) először le kell tölteni a saját gépre, kicsomagolni, majd az Adobe Reader programba betöltve szerkeszthető és menthető. Legalább Adobe Reader 8 verzió szükséges. (NEM az Abobe Acrobat 8 Professional!!!).

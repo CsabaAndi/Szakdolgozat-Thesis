@@ -6,6 +6,14 @@
 .Code/cakdoga/output
 .Code/cakdoga/webscrape-app/datanode/output
 
+# from webscrape gitignore file
+.Code/cakdoga/webscrape-app/datanode/playwright-report/
+.Code/cakdoga/webscrape-app/datanode/blob-report/
+.Code/cakdoga/webscrape-app/datanode/playwright/.chache/
+.Code/cakdoga/webscrape-app/datanode./env
+.Code/cakdoga/webscrape-app/datanode/test-results/
+.Code/cakdoga/webscrape-app/datanode/playwright/.cache/
+
 
 # Latex files
 .Thesis/b4918.png
