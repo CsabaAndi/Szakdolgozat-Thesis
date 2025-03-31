@@ -1,0 +1,1521 @@
+[
+    {
+        "Date": "08/12/24",
+        "League": "PRL",
+        "Team_X": "Tottenham Hotspur",
+        "Score": "17:30",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "12/12/24",
+        "League": "UCL",
+        "Team_X": "Astana",
+        "Score": "16:30",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "15/12/24",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "20:00",
+        "Team_Y": "Brentford"
+    },
+    {
+        "Date": "19/12/24",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "21:00",
+        "Team_Y": "Shamrock Rovers"
+    },
+    {
+        "Date": "22/12/24",
+        "League": "PRL",
+        "Team_X": "Everton",
+        "Score": "15:00",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "26/12/24",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "16:00",
+        "Team_Y": "Fulham"
+    },
+    {
+        "Date": "30/12/24",
+        "League": "PRL",
+        "Team_X": "Ipswich Town",
+        "Score": "20:45",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "04/01/25",
+        "League": "PRL",
+        "Team_X": "Crystal Palace",
+        "Score": "16:00",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "14/01/25",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "20:30",
+        "Team_Y": "AFC Bournemouth"
+    },
+    {
+        "Date": "20/01/25",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "21:00",
+        "Team_Y": "Wolverhampton Wanderers"
+    },
+    {
+        "Date": "25/01/25",
+        "League": "PRL",
+        "Team_X": "Manchester City",
+        "Score": "18:30",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "01/02/25",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "16:00",
+        "Team_Y": "West Ham United"
+    },
+    {
+        "Date": "15/02/25",
+        "League": "PRL",
+        "Team_X": "Brighton & Hove Albion",
+        "Score": "16:00",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "22/02/25",
+        "League": "PRL",
+        "Team_X": "Aston Villa",
+        "Score": "16:00",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "26/02/25",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "20:45",
+        "Team_Y": "Southampton"
+    },
+    {
+        "Date": "08/03/25",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "16:00",
+        "Team_Y": "Leicester City"
+    },
+    {
+        "Date": "15/03/25",
+        "League": "PRL",
+        "Team_X": "Arsenal",
+        "Score": "16:00",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "23/07/23",
+        "League": "PLS",
+        "Team_X": "Chelsea",
+        "Score": "4-3",
+        "Team_Y": "Brighton & Hove Albion"
+    },
+    {
+        "Date": "27/07/23",
+        "League": "PLS",
+        "Team_X": "Newcastle United",
+        "Score": "1-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "30/07/23",
+        "League": "PLS",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Fulham"
+    },
+    {
+        "Date": "03/08/23",
+        "League": "CLF",
+        "Team_X": "Chelsea",
+        "Score": "1-1",
+        "Team_Y": "Borussia Dortmund"
+    },
+    {
+        "Date": "13/08/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-1",
+        "Team_Y": "Liverpool"
+    },
+    {
+        "Date": "20/08/23",
+        "League": "PRL",
+        "Team_X": "West Ham United",
+        "Score": "3-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "25/08/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "3-0",
+        "Team_Y": "Luton Town"
+    },
+    {
+        "Date": "30/08/23",
+        "League": "LEC",
+        "Team_X": "Chelsea",
+        "Score": "2-1",
+        "Team_Y": "AFC Wimbledon"
+    },
+    {
+        "Date": "02/09/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-1",
+        "Team_Y": "Nottingham Forest"
+    },
+    {
+        "Date": "17/09/23",
+        "League": "PRL",
+        "Team_X": "AFC Bournemouth",
+        "Score": "0-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "24/09/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-1",
+        "Team_Y": "Aston Villa"
+    },
+    {
+        "Date": "27/09/23",
+        "League": "LEC",
+        "Team_X": "Chelsea",
+        "Score": "1-0",
+        "Team_Y": "Brighton & Hove Albion"
+    },
+    {
+        "Date": "02/10/23",
+        "League": "PRL",
+        "Team_X": "Fulham",
+        "Score": "0-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "07/10/23",
+        "League": "PRL",
+        "Team_X": "Burnley",
+        "Score": "1-4",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "21/10/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-2",
+        "Team_Y": "Arsenal"
+    },
+    {
+        "Date": "28/10/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-2",
+        "Team_Y": "Brentford"
+    },
+    {
+        "Date": "01/11/23",
+        "League": "LEC",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Blackburn Rovers"
+    },
+    {
+        "Date": "06/11/23",
+        "League": "PRL",
+        "Team_X": "Tottenham Hotspur",
+        "Score": "1-4",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "12/11/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "4-4",
+        "Team_Y": "Manchester City"
+    },
+    {
+        "Date": "25/11/23",
+        "League": "PRL",
+        "Team_X": "Newcastle United",
+        "Score": "4-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "03/12/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "3-2",
+        "Team_Y": "Brighton & Hove Albion"
+    },
+    {
+        "Date": "06/12/23",
+        "League": "PRL",
+        "Team_X": "Manchester United",
+        "Score": "2-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "10/12/23",
+        "League": "PRL",
+        "Team_X": "Everton",
+        "Score": "2-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "16/12/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Sheffield United"
+    },
+    {
+        "Date": "19/12/23",
+        "League": "LEC",
+        "Team_X": "Chelsea",
+        "Score": "P1-1P",
+        "Team_Y": "Newcastle United"
+    },
+    {
+        "Date": "24/12/23",
+        "League": "PRL",
+        "Team_X": "Wolverhampton Wanderers",
+        "Score": "2-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "27/12/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-1",
+        "Team_Y": "Crystal Palace"
+    },
+    {
+        "Date": "30/12/23",
+        "League": "PRL",
+        "Team_X": "Luton Town",
+        "Score": "2-3",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "06/01/24",
+        "League": "FAC",
+        "Team_X": "Chelsea",
+        "Score": "4-0",
+        "Team_Y": "Preston North End"
+    },
+    {
+        "Date": "09/01/24",
+        "League": "LEC",
+        "Team_X": "Middlesbrough",
+        "Score": "1-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "13/01/24",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-0",
+        "Team_Y": "Fulham"
+    },
+    {
+        "Date": "23/01/24",
+        "League": "LEC",
+        "Team_X": "Chelsea",
+        "Score": "6-1",
+        "Team_Y": "Middlesbrough"
+    },
+    {
+        "Date": "26/01/24",
+        "League": "FAC",
+        "Team_X": "Chelsea",
+        "Score": "0-0",
+        "Team_Y": "Aston Villa"
+    },
+    {
+        "Date": "31/01/24",
+        "League": "PRL",
+        "Team_X": "Liverpool",
+        "Score": "4-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "04/02/24",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-4",
+        "Team_Y": "Wolverhampton Wanderers"
+    },
+    {
+        "Date": "07/02/24",
+        "League": "FAC",
+        "Team_X": "Aston Villa",
+        "Score": "1-3",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "12/02/24",
+        "League": "PRL",
+        "Team_X": "Crystal Palace",
+        "Score": "1-3",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "17/02/24",
+        "League": "PRL",
+        "Team_X": "Manchester City",
+        "Score": "1-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "25/02/24",
+        "League": "LEC",
+        "Team_X": "Chelsea",
+        "Score": "E0-1E",
+        "Team_Y": "Liverpool"
+    },
+    {
+        "Date": "28/02/24",
+        "League": "FAC",
+        "Team_X": "Chelsea",
+        "Score": "3-2",
+        "Team_Y": "Leeds United"
+    },
+    {
+        "Date": "02/03/24",
+        "League": "PRL",
+        "Team_X": "Brentford",
+        "Score": "2-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "11/03/24",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "3-2",
+        "Team_Y": "Newcastle United"
+    },
+    {
+        "Date": "17/03/24",
+        "League": "FAC",
+        "Team_X": "Chelsea",
+        "Score": "4-2",
+        "Team_Y": "Leicester City"
+    },
+    {
+        "Date": "30/03/24",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-2",
+        "Team_Y": "Burnley"
+    },
+    {
+        "Date": "04/04/24",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "4-3",
+        "Team_Y": "Manchester United"
+    },
+    {
+        "Date": "07/04/24",
+        "League": "PRL",
+        "Team_X": "Sheffield United",
+        "Score": "2-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "15/04/24",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "6-0",
+        "Team_Y": "Everton"
+    },
+    {
+        "Date": "20/04/24",
+        "League": "FAC",
+        "Team_X": "Manchester City",
+        "Score": "1-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "23/04/24",
+        "League": "PRL",
+        "Team_X": "Arsenal",
+        "Score": "5-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "27/04/24",
+        "League": "PRL",
+        "Team_X": "Aston Villa",
+        "Score": "2-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "21/08/22",
+        "League": "PRL",
+        "Team_X": "Leeds United",
+        "Score": "3-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "27/08/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-1",
+        "Team_Y": "Leicester City"
+    },
+    {
+        "Date": "30/08/22",
+        "League": "PRL",
+        "Team_X": "Southampton",
+        "Score": "2-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "03/09/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-1",
+        "Team_Y": "West Ham United"
+    },
+    {
+        "Date": "06/09/22",
+        "League": "UCL",
+        "Team_X": "Dinamo Zagreb",
+        "Score": "1-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "14/09/22",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "1-1",
+        "Team_Y": "Salzburg"
+    },
+    {
+        "Date": "01/10/22",
+        "League": "PRL",
+        "Team_X": "Crystal Palace",
+        "Score": "1-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "05/10/22",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "3-0",
+        "Team_Y": "AC Milan"
+    },
+    {
+        "Date": "08/10/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "3-0",
+        "Team_Y": "Wolverhampton Wanderers"
+    },
+    {
+        "Date": "11/10/22",
+        "League": "UCL",
+        "Team_X": "AC Milan",
+        "Score": "0-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "16/10/22",
+        "League": "PRL",
+        "Team_X": "Aston Villa",
+        "Score": "0-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "19/10/22",
+        "League": "PRL",
+        "Team_X": "Brentford",
+        "Score": "0-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "22/10/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-1",
+        "Team_Y": "Manchester United"
+    },
+    {
+        "Date": "25/10/22",
+        "League": "UCL",
+        "Team_X": "Salzburg",
+        "Score": "1-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "29/10/22",
+        "League": "PRL",
+        "Team_X": "Brighton & Hove Albion",
+        "Score": "4-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "02/11/22",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "2-1",
+        "Team_Y": "Dinamo Zagreb"
+    },
+    {
+        "Date": "06/11/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-1",
+        "Team_Y": "Arsenal"
+    },
+    {
+        "Date": "09/11/22",
+        "League": "LEC",
+        "Team_X": "Manchester City",
+        "Score": "2-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "12/11/22",
+        "League": "PRL",
+        "Team_X": "Newcastle United",
+        "Score": "1-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "11/12/22",
+        "League": "CLF",
+        "Team_X": "Aston Villa",
+        "Score": "1-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "27/12/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "AFC Bournemouth"
+    },
+    {
+        "Date": "01/01/23",
+        "League": "PRL",
+        "Team_X": "Nottingham Forest",
+        "Score": "1-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "05/01/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-1",
+        "Team_Y": "Manchester City"
+    },
+    {
+        "Date": "08/01/23",
+        "League": "FAC",
+        "Team_X": "Manchester City",
+        "Score": "4-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "12/01/23",
+        "League": "PRL",
+        "Team_X": "Fulham",
+        "Score": "2-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "15/01/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-0",
+        "Team_Y": "Crystal Palace"
+    },
+    {
+        "Date": "21/01/23",
+        "League": "PRL",
+        "Team_X": "Liverpool",
+        "Score": "0-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "03/02/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-0",
+        "Team_Y": "Fulham"
+    },
+    {
+        "Date": "11/02/23",
+        "League": "PRL",
+        "Team_X": "West Ham United",
+        "Score": "1-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "15/02/23",
+        "League": "UCL",
+        "Team_X": "Borussia Dortmund",
+        "Score": "1-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "18/02/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-1",
+        "Team_Y": "Southampton"
+    },
+    {
+        "Date": "26/02/23",
+        "League": "PRL",
+        "Team_X": "Tottenham Hotspur",
+        "Score": "2-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "04/03/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-0",
+        "Team_Y": "Leeds United"
+    },
+    {
+        "Date": "07/03/23",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Borussia Dortmund"
+    },
+    {
+        "Date": "11/03/23",
+        "League": "PRL",
+        "Team_X": "Leicester City",
+        "Score": "1-3",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "18/03/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-2",
+        "Team_Y": "Everton"
+    },
+    {
+        "Date": "01/04/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-2",
+        "Team_Y": "Aston Villa"
+    },
+    {
+        "Date": "04/04/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-0",
+        "Team_Y": "Liverpool"
+    },
+    {
+        "Date": "08/04/23",
+        "League": "PRL",
+        "Team_X": "Wolverhampton Wanderers",
+        "Score": "1-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "12/04/23",
+        "League": "UCL",
+        "Team_X": "Real Madrid",
+        "Score": "2-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "15/04/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-2",
+        "Team_Y": "Brighton & Hove Albion"
+    },
+    {
+        "Date": "18/04/23",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "0-2",
+        "Team_Y": "Real Madrid"
+    },
+    {
+        "Date": "26/04/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-2",
+        "Team_Y": "Brentford"
+    },
+    {
+        "Date": "02/05/23",
+        "League": "PRL",
+        "Team_X": "Arsenal",
+        "Score": "3-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "06/05/23",
+        "League": "PRL",
+        "Team_X": "AFC Bournemouth",
+        "Score": "1-3",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "13/05/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-2",
+        "Team_Y": "Nottingham Forest"
+    },
+    {
+        "Date": "21/05/23",
+        "League": "PRL",
+        "Team_X": "Manchester City",
+        "Score": "1-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "25/05/23",
+        "League": "PRL",
+        "Team_X": "Manchester United",
+        "Score": "4-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "28/05/23",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-1",
+        "Team_Y": "Newcastle United"
+    },
+    {
+        "Date": "20/07/23",
+        "League": "FLC",
+        "Team_X": "Chelsea",
+        "Score": "5-0",
+        "Team_Y": "Wrexham"
+    },
+    {
+        "Date": "23/11/21",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "4-0",
+        "Team_Y": "Juventus"
+    },
+    {
+        "Date": "28/11/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-1",
+        "Team_Y": "Manchester United"
+    },
+    {
+        "Date": "01/12/21",
+        "League": "PRL",
+        "Team_X": "Watford",
+        "Score": "1-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "04/12/21",
+        "League": "PRL",
+        "Team_X": "West Ham United",
+        "Score": "3-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "08/12/21",
+        "League": "UCL",
+        "Team_X": "Zenit",
+        "Score": "3-3",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "11/12/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "3-2",
+        "Team_Y": "Leeds United"
+    },
+    {
+        "Date": "16/12/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-1",
+        "Team_Y": "Everton"
+    },
+    {
+        "Date": "19/12/21",
+        "League": "PRL",
+        "Team_X": "Wolverhampton Wanderers",
+        "Score": "0-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "22/12/21",
+        "League": "LEC",
+        "Team_X": "Brentford",
+        "Score": "0-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "26/12/21",
+        "League": "PRL",
+        "Team_X": "Aston Villa",
+        "Score": "1-3",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "29/12/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-1",
+        "Team_Y": "Brighton & Hove Albion"
+    },
+    {
+        "Date": "02/01/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-2",
+        "Team_Y": "Liverpool"
+    },
+    {
+        "Date": "05/01/22",
+        "League": "LEC",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Tottenham Hotspur"
+    },
+    {
+        "Date": "08/01/22",
+        "League": "FAC",
+        "Team_X": "Chelsea",
+        "Score": "5-1",
+        "Team_Y": "Chesterfield"
+    },
+    {
+        "Date": "12/01/22",
+        "League": "LEC",
+        "Team_X": "Tottenham Hotspur",
+        "Score": "0-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "15/01/22",
+        "League": "PRL",
+        "Team_X": "Manchester City",
+        "Score": "1-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "18/01/22",
+        "League": "PRL",
+        "Team_X": "Brighton & Hove Albion",
+        "Score": "1-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "23/01/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Tottenham Hotspur"
+    },
+    {
+        "Date": "05/02/22",
+        "League": "FAC",
+        "Team_X": "Chelsea",
+        "Score": "E2-1E",
+        "Team_Y": "Plymouth Argyle"
+    },
+    {
+        "Date": "09/02/22",
+        "League": "FIC",
+        "Team_X": "Al Hilal",
+        "Score": "0-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "12/02/22",
+        "League": "FIC",
+        "Team_X": "Chelsea",
+        "Score": "E2-1E",
+        "Team_Y": "Palmeiras"
+    },
+    {
+        "Date": "19/02/22",
+        "League": "PRL",
+        "Team_X": "Crystal Palace",
+        "Score": "0-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "22/02/22",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Lille"
+    },
+    {
+        "Date": "27/02/22",
+        "League": "LEC",
+        "Team_X": "Chelsea",
+        "Score": "P0-0P",
+        "Team_Y": "Liverpool"
+    },
+    {
+        "Date": "02/03/22",
+        "League": "FAC",
+        "Team_X": "Luton Town",
+        "Score": "2-3",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "05/03/22",
+        "League": "PRL",
+        "Team_X": "Burnley",
+        "Score": "0-4",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "10/03/22",
+        "League": "PRL",
+        "Team_X": "Norwich City",
+        "Score": "1-3",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "13/03/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-0",
+        "Team_Y": "Newcastle United"
+    },
+    {
+        "Date": "16/03/22",
+        "League": "UCL",
+        "Team_X": "Lille",
+        "Score": "1-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "19/03/22",
+        "League": "FAC",
+        "Team_X": "Middlesbrough",
+        "Score": "0-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "02/04/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-4",
+        "Team_Y": "Brentford"
+    },
+    {
+        "Date": "06/04/22",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "1-3",
+        "Team_Y": "Real Madrid"
+    },
+    {
+        "Date": "09/04/22",
+        "League": "PRL",
+        "Team_X": "Southampton",
+        "Score": "0-6",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "12/04/22",
+        "League": "UCL",
+        "Team_X": "Real Madrid",
+        "Score": "E2-3E",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "17/04/22",
+        "League": "FAC",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Crystal Palace"
+    },
+    {
+        "Date": "20/04/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-4",
+        "Team_Y": "Arsenal"
+    },
+    {
+        "Date": "24/04/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-0",
+        "Team_Y": "West Ham United"
+    },
+    {
+        "Date": "28/04/22",
+        "League": "PRL",
+        "Team_X": "Manchester United",
+        "Score": "1-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "01/05/22",
+        "League": "PRL",
+        "Team_X": "Everton",
+        "Score": "1-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "07/05/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-2",
+        "Team_Y": "Wolverhampton Wanderers"
+    },
+    {
+        "Date": "11/05/22",
+        "League": "PRL",
+        "Team_X": "Leeds United",
+        "Score": "0-3",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "14/05/22",
+        "League": "FAC",
+        "Team_X": "Chelsea",
+        "Score": "P0-0P",
+        "Team_Y": "Liverpool"
+    },
+    {
+        "Date": "19/05/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-1",
+        "Team_Y": "Leicester City"
+    },
+    {
+        "Date": "22/05/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-1",
+        "Team_Y": "Watford"
+    },
+    {
+        "Date": "17/07/22",
+        "League": "CLF",
+        "Team_X": "Chelsea",
+        "Score": "2-1",
+        "Team_Y": "América"
+    },
+    {
+        "Date": "21/07/22",
+        "League": "CLF",
+        "Team_X": "Charlotte",
+        "Score": "P1-1P",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "24/07/22",
+        "League": "FLC",
+        "Team_X": "Arsenal",
+        "Score": "4-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "29/07/22",
+        "League": "CLF",
+        "Team_X": "Udinese",
+        "Score": "1-3",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "06/08/22",
+        "League": "PRL",
+        "Team_X": "Everton",
+        "Score": "0-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "14/08/22",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-2",
+        "Team_Y": "Tottenham Hotspur"
+    },
+    {
+        "Date": "04/02/21",
+        "League": "PRL",
+        "Team_X": "Tottenham Hotspur",
+        "Score": "0-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "07/02/21",
+        "League": "PRL",
+        "Team_X": "Sheffield United",
+        "Score": "1-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "11/02/21",
+        "League": "FAC",
+        "Team_X": "Barnsley",
+        "Score": "0-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "15/02/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Newcastle United"
+    },
+    {
+        "Date": "20/02/21",
+        "League": "PRL",
+        "Team_X": "Southampton",
+        "Score": "1-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "23/02/21",
+        "League": "UCL",
+        "Team_X": "Atletico Madrid",
+        "Score": "0-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "28/02/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-0",
+        "Team_Y": "Manchester United"
+    },
+    {
+        "Date": "04/03/21",
+        "League": "PRL",
+        "Team_X": "Liverpool",
+        "Score": "0-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "08/03/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Everton"
+    },
+    {
+        "Date": "13/03/21",
+        "League": "PRL",
+        "Team_X": "Leeds United",
+        "Score": "0-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "17/03/21",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Atletico Madrid"
+    },
+    {
+        "Date": "21/03/21",
+        "League": "FAC",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Sheffield United"
+    },
+    {
+        "Date": "03/04/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-5",
+        "Team_Y": "West Bromwich Albion"
+    },
+    {
+        "Date": "07/04/21",
+        "League": "UCL",
+        "Team_X": "Porto",
+        "Score": "0-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "10/04/21",
+        "League": "PRL",
+        "Team_X": "Crystal Palace",
+        "Score": "1-4",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "13/04/21",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "0-1",
+        "Team_Y": "Porto"
+    },
+    {
+        "Date": "17/04/21",
+        "League": "FAC",
+        "Team_X": "Chelsea",
+        "Score": "1-0",
+        "Team_Y": "Manchester City"
+    },
+    {
+        "Date": "20/04/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-0",
+        "Team_Y": "Brighton & Hove Albion"
+    },
+    {
+        "Date": "24/04/21",
+        "League": "PRL",
+        "Team_X": "West Ham United",
+        "Score": "0-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "27/04/21",
+        "League": "UCL",
+        "Team_X": "Real Madrid",
+        "Score": "1-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "01/05/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Fulham"
+    },
+    {
+        "Date": "05/05/21",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "2-0",
+        "Team_Y": "Real Madrid"
+    },
+    {
+        "Date": "08/05/21",
+        "League": "PRL",
+        "Team_X": "Manchester City",
+        "Score": "1-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "12/05/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-1",
+        "Team_Y": "Arsenal"
+    },
+    {
+        "Date": "15/05/21",
+        "League": "FAC",
+        "Team_X": "Chelsea",
+        "Score": "0-1",
+        "Team_Y": "Leicester City"
+    },
+    {
+        "Date": "18/05/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "2-1",
+        "Team_Y": "Leicester City"
+    },
+    {
+        "Date": "23/05/21",
+        "League": "PRL",
+        "Team_X": "Aston Villa",
+        "Score": "2-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "29/05/21",
+        "League": "UCL",
+        "Team_X": "Manchester City",
+        "Score": "0-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "27/07/21",
+        "League": "CLF",
+        "Team_X": "AFC Bournemouth",
+        "Score": "1-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "01/08/21",
+        "League": "CLF",
+        "Team_X": "Arsenal",
+        "Score": "1-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "04/08/21",
+        "League": "CLF",
+        "Team_X": "Chelsea",
+        "Score": "2-2",
+        "Team_Y": "Tottenham Hotspur"
+    },
+    {
+        "Date": "11/08/21",
+        "League": "USC",
+        "Team_X": "Chelsea",
+        "Score": "P1-1P",
+        "Team_Y": "Villarreal"
+    },
+    {
+        "Date": "14/08/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "3-0",
+        "Team_Y": "Crystal Palace"
+    },
+    {
+        "Date": "22/08/21",
+        "League": "PRL",
+        "Team_X": "Arsenal",
+        "Score": "0-2",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "28/08/21",
+        "League": "PRL",
+        "Team_X": "Liverpool",
+        "Score": "1-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "11/09/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "3-0",
+        "Team_Y": "Aston Villa"
+    },
+    {
+        "Date": "14/09/21",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "1-0",
+        "Team_Y": "Zenit"
+    },
+    {
+        "Date": "19/09/21",
+        "League": "PRL",
+        "Team_X": "Tottenham Hotspur",
+        "Score": "0-3",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "22/09/21",
+        "League": "LEC",
+        "Team_X": "Chelsea",
+        "Score": "P1-1P",
+        "Team_Y": "Aston Villa"
+    },
+    {
+        "Date": "25/09/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "0-1",
+        "Team_Y": "Manchester City"
+    },
+    {
+        "Date": "29/09/21",
+        "League": "UCL",
+        "Team_X": "Juventus",
+        "Score": "1-0",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "02/10/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "3-1",
+        "Team_Y": "Southampton"
+    },
+    {
+        "Date": "16/10/21",
+        "League": "PRL",
+        "Team_X": "Brentford",
+        "Score": "0-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "20/10/21",
+        "League": "UCL",
+        "Team_X": "Chelsea",
+        "Score": "4-0",
+        "Team_Y": "Malmö"
+    },
+    {
+        "Date": "23/10/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "7-0",
+        "Team_Y": "Norwich City"
+    },
+    {
+        "Date": "26/10/21",
+        "League": "LEC",
+        "Team_X": "Chelsea",
+        "Score": "P1-1P",
+        "Team_Y": "Southampton"
+    },
+    {
+        "Date": "30/10/21",
+        "League": "PRL",
+        "Team_X": "Newcastle United",
+        "Score": "0-3",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "02/11/21",
+        "League": "UCL",
+        "Team_X": "Malmö",
+        "Score": "0-1",
+        "Team_Y": "Chelsea"
+    },
+    {
+        "Date": "06/11/21",
+        "League": "PRL",
+        "Team_X": "Chelsea",
+        "Score": "1-1",
+        "Team_Y": "Burnley"
+    },
+    {
+        "Date": "20/11/21",
+        "League": "PRL",
+        "Team_X": "Leicester City",
+        "Score": "0-3",
+        "Team_Y": "Chelsea"
+    }
+]
