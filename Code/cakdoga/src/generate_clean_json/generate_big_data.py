@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import streamlit as st
 
 def generate_mh_big_data():
     # Base directory containing country folders
@@ -45,8 +46,12 @@ def generate_mh_big_data():
     # Save the combined data for all countries
     all_countries_output_file = os.path.join(output_dir, "all_countries.json").replace("\\", "/")
     all_countries_data.to_json(all_countries_output_file)
-    all_countries_data = pd.DataFrame()
     print(f"Combined JSON for all countries saved to {all_countries_output_file}")
+    with st.container(border=True):
+        st.success(f"Combined JSON for all countries saved to {all_countries_output_file}")
+        #st.json(all_countries_data.to_json(orient="records"))
+    all_countries_data = pd.DataFrame()
+ 
     
 
 def generate_tables_big_data(config):
@@ -88,8 +93,11 @@ def generate_tables_big_data(config):
     # Save the combined data for all countries
     all_countries_output_file = os.path.join(output_dir, f"all_tables_{table_type}.json").replace("\\", "/")
     all_tables_data.to_json(all_countries_output_file)
-    all_tables_data = pd.DataFrame()
     print(f"Combined JSON for all {table_type} tables saved to {all_countries_output_file}")
+    with st.container(border=True):
+        st.success(f"Combined JSON for all '{table_type}' tables saved to {all_countries_output_file}")
+        #st.json(all_tables_data.to_json(orient="records"))
+    all_tables_data = pd.DataFrame()
     
 
 

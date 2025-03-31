@@ -34,8 +34,6 @@ def read_all_files_in_dir(page): # TODO file path
     global table_type
     global path
 
-    #Tablemodeconfig = gui.GUI_table_type_Config
-    #ModeConfig = GUI_mode_Config
     Tablemodeconfig = config.get_table_type()
     ModeConfig = config.get_mode()
 

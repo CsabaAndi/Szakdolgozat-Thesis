@@ -7,11 +7,19 @@ import { BROWSER_CONFIG } from './constans/browser.config'
 import { getLeagueTableData, getPlayerTableData, getOverUnderTableData, getWideTableData, getMatchHistoryData, getTeamLinks } from './table-parsers';
 import { matchHistory } from './match-history';
 import { readFromJson } from './update'
-
+import { Command } from 'commander';
 
 // TODO: clean imports/exports
 // TODO: browser extensions not working currently [browser path starts from appdata instead of persistent data folder in project]
 
+
+const program = new Command();
+
+program
+  .option('-p, --page <page>', 'numberic value to turn back pages', parseFloat, 1)
+  .parse(process.argv);
+
+const options = program.opts();
 
 /** Main function */
 (async () => {
@@ -55,7 +63,7 @@ import { readFromJson } from './update'
       await firstPage.content().then((x) => { html = x });
       getWideTableData(html, x);
       
-      await matchHistory(browserContext, html, "base");
+      await matchHistory(browserContext, html, "base", options.page);
 
       //readFromJson()
       

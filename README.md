@@ -21,6 +21,7 @@
 	- windwos: .venvs\env\Scripts\activate
 - cd to src/
 - execute: "python -m main"
+- for args use: "--help"
 
 
 

@@ -2,6 +2,7 @@ import subprocess
 import sys
 import os
 import psutil
+import platform
 
 # Global reference for the subprocess
 datanode_subprocess = None
@@ -13,9 +14,14 @@ def run_datanode_app():
     src_path = os.path.abspath('../webscrape-app/datanode/src')
 
     command = ["npx", "ts-node", "scraper.ts"]
-
+    
     # Run datanode
-    datanode_subprocess = subprocess.Popen(command, shell=False, cwd=src_path)
+    if platform.system() == 'Windows':
+        # Windows
+        datanode_subprocess = subprocess.Popen(command, shell=False, cwd=src_path)
+    else:  
+        # Linux, macOS, or other systems
+        datanode_subprocess = subprocess.Popen(command, shell=False, cwd=src_path)
     
     return datanode_subprocess
 
@@ -42,7 +48,6 @@ def terminate_datanode_app():
 
 
 if __name__ == "__main__":
-    import sys
     if len(sys.argv) > 1:
         function_name = sys.argv[1]
         globals()[function_name]()

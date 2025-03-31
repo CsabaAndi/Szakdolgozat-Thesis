@@ -10,9 +10,8 @@ import { emptyArrays } from './table-parsers';
  * @param html - whole page html
  * @returns Does not return anything
  */
-async function matchHistory(context: BrowserContext, html: string, mode:string = "base") {
+async function matchHistory(context: BrowserContext, html: string, mode:string = "base", turn_back_pages: number) {
     const NON_BREAKING_SPACE = String.fromCharCode(160)
-    const TURN_BACK_PAGES = 2
     const newPage = await context.newPage();
     /** For checking if new table page data loaded */
     let locatorValue: string;
@@ -35,14 +34,14 @@ async function matchHistory(context: BrowserContext, html: string, mode:string =
 
         if ( (locatorValue == NON_BREAKING_SPACE) || (locatorValue == "") || (locatorValue == " ")){ break } 
 
-        if ( await prevButton.isEnabled() && (counter < (TURN_BACK_PAGES-1))){ 
+        if ( await prevButton.isEnabled() && (counter < (turn_back_pages-1))){ 
             await prevButton.click() 
             await expect(newPage.locator(`table.matches > tbody > tr:nth-child(1) > td:nth-child(1)`)).not.toContainText(locatorValue, {timeout: 10000}) 
             locatorValue = await newPage.locator(`table.matches > tbody > tr:nth-child(1) > td:nth-child(1)`).innerText() 
         }
         counter++
 
-      }while(counter < TURN_BACK_PAGES);
+      }while(counter < turn_back_pages);
       counter = 0;
       emptyArrays(x)
 

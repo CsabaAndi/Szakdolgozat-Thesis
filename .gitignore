@@ -13,6 +13,7 @@
 .Code/cakdoga/webscrape-app/datanode./env
 .Code/cakdoga/webscrape-app/datanode/test-results/
 .Code/cakdoga/webscrape-app/datanode/playwright/.cache/
+.Code/cakdoga/webscrape-app/datanode/browser/*
 
 
 # Latex files

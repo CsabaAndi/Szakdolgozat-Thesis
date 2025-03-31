@@ -4,6 +4,7 @@ import pandas as pd
 import tensorflow as tf
 import debug_out
 import dataman
+import streamlit as st
 import plotly.express as px
 
 from sklearn.model_selection import train_test_split
@@ -71,20 +72,22 @@ def sckiittest():
 
     # Calculate accuracy and classification report
     accuracy = accuracy_score(y_test, y_pred)
-    classification_rep = classification_report(y_test, y_pred)
-
-    # Print the results
-    print(f"Accuracy: {accuracy:.2f}")
-    print("\nClassification Report:\n", classification_rep)
+    classification_rep = classification_report(y_test, y_pred, output_dict=True)
+    
+    with st.container(border=True):
+        st.markdown(f"Accuracy: {accuracy:.2f}")
+        st.markdown(f"Classification Report:")
+        st.dataframe(pd.DataFrame(classification_rep).transpose())
 
     # Sample prediction
     sample = X_test.iloc[0:1]  # Keep as DataFrame to match model input format
     prediction = rf_classifier.predict(sample)
 
-    # Retrieve and display the sample
     sample_dict = sample.iloc[0].to_dict()
-    print(f"\nSample Passenger: {sample_dict}")
-    print(f"Predicted Survival: {'Survived' if prediction[0] == 1 else 'Did Not Survive'}")
+    with st.container(border=True):
+        st.markdown(f"Sample Passenger:")
+        st.json(sample_dict)
+        st.markdown(f"Predicted Survival: :red[{'Survived' if prediction[0] == 1 else 'Did Not Survive'}]")
 
     
 
