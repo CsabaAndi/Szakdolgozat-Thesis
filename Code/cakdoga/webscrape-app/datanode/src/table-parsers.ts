@@ -43,7 +43,7 @@ function getLeagueTableData(pageHtml: string, urlPart: string[]): any {
     tableData.push(rowData)
   })
   console.log(tableData)
-  writeToJson(`data/tables/${urlPart[0]}/${urlPart[1]}/LastFive.json`, tableData);
+  writeToJson(`data/preprocessed/tables/${urlPart[0]}/${urlPart[1]}/LastFive.json`, tableData);
 }
 
 
@@ -71,7 +71,7 @@ function getPlayerTableData(pageHtml: string, urlPart: string[]): void {
     tableData.push(rowData)
   })
   console.log(tableData)
-  writeToJson(`data/tables/${urlPart[0]}/${urlPart[1]}/Player.json`, tableData);
+  writeToJson(`data/preprocessed/tables/${urlPart[0]}/${urlPart[1]}/Player.json`, tableData);
 }
 
 
@@ -97,7 +97,7 @@ function getOverUnderTableData(pageHtml: string, urlPart: string[]): void {
     tableData.push(rowData)
   })
   console.log(tableData)
-  writeToJson(`data/tables/${urlPart[0]}/${urlPart[1]}/OverUnder.json`, tableData);
+  writeToJson(`data/preprocessed/tables/${urlPart[0]}/${urlPart[1]}/OverUnder.json`, tableData);
 }
 
 
@@ -142,7 +142,7 @@ function getWideTableData(pageHtml: string, urlPart: string[]): void {
         
   })
   //console.log(tableData)
-  writeToJson(`data/tables/${urlPart[0]}/${urlPart[1]}/Wide.json`, tableData);
+  writeToJson(`data/preprocessed/tables/${urlPart[0]}/${urlPart[1]}/Wide.json`, tableData);
 }
 
 /**
@@ -193,7 +193,7 @@ function getMatchHistoryData(pageHtml: string): void {
  * Calls writeToJson() to write out the data then sets the global array length to 0
  * @returns  Does not return anything
  */
-function emptyArrays(urlPart: string[]): void { writeToJson(`data/match-history/${urlPart[0]}/${urlPart[1]}.json`, matchHistoryTableData); matchHistoryTableData.length = 0 }
+function emptyArrays(urlPart: string[]): void { writeToJson(`data/preprocessed/match-history/${urlPart[0]}/${urlPart[1]}.json`, matchHistoryTableData); matchHistoryTableData.length = 0 }
 
 
 export { getLeagueTableData, getPlayerTableData, getOverUnderTableData, getWideTableData, getMatchHistoryData, getTeamLinks, emptyArrays }

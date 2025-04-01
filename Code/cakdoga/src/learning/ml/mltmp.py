@@ -12,6 +12,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report
 import warnings
 
+
 pd.options.plotting.backend = "plotly"
 
 import streamlit as st
@@ -21,7 +22,7 @@ def baseline():
     all_mh_df = pd.read_json(r"../output/data/processed/match-history/compressed/all_countries.json")
     dataman.mh_data_man.set_df_goal_cols(df=all_mh_df)
 
-    # ez szar lesz mer nem home / away nincs nézve
+    # ez bad lesz mer nem home / away nincs nézve
     all_mh_df["gut"] = all_mh_df["Goal_X"] >= all_mh_df["Goal_Y"]
 
 

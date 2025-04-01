@@ -14,7 +14,7 @@ function readFromJson(): void {
 
 
   // read team match history json file
-  readFile("../output/data/match-history/england/chelsea-football-club.json", 'utf8', (error, data) => { if(error){console.log(error)}; console.log(JSON.parse(data)); return; })  
+  readFile("../output/data/preprocessed/match-history/england/chelsea-football-club.json", 'utf8', (error, data) => { if(error){console.log(error)}; console.log(JSON.parse(data)); return; })  
 
 }
 

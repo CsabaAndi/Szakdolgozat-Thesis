@@ -1,8 +1,8 @@
 import dataman.mh_data_man as mh_data_man
-import pandas as pd
+import pandas as pd # type: ignore
 import os
 import debug_out
-import streamlit as st
+import streamlit as st # type: ignore
 from pathlib import Path
 
 

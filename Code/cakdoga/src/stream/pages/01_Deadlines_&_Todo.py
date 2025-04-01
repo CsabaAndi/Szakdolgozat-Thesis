@@ -14,14 +14,14 @@ col = st.columns((1.5, 4.5, 2), gap='medium')
 deadline_text = f'''
 ### Deadlines:
 
-- Code:
-   - [ ] 2025.03.15
-- Documentation: 
-   - [ ] 2025.04.15
-- My Deadline: 
-   - [ ] 025.04.25
-- Final! deadline: 
-   - [ ] 2025.05.18
+- Code Beta / Documentation outline:
+   - [ ] 2025.04.03
+- Close to Done state: 
+   - [ ] 2025.04.27
+- Done state: 
+   - [ ] 025.05.07
+- Modulo upload (final): 
+   - [ ] 2025.05.24
 
 '''
 
@@ -29,15 +29,16 @@ deadline_text = f'''
 code_text = f'''
 ### Code:
 
-- [ ] TMP
-- [ ] CONFIG fix
+- [ ] Clean & Fix
+- [ ] Add Machine Learning part
+- [ ] Add Search bar to specify team data for the other parts
 
 '''
 
 document_text = f'''
 ### Documentation:
 
-- [ ] TMP
+- [ ] Placeholder
 
 '''
 

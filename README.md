@@ -30,7 +30,7 @@
 
 ## Requirements
 
-- node.js 20.19.0 
+- node.js 20.x.x (20.19.0) 
 
 - cd to webscrape-app/datanode
 - npm install
@@ -51,3 +51,6 @@
 	- navigate to the webscrape section
 	- start DataNode
 	- (Terminate DataNode)
+
+
+# User manual

@@ -119,7 +119,7 @@ if progi_button:
     #GUI_mode_Config = CONFIG.ModeConfig("MatchHistory")
     #GUI_Match_History_Config = CONFIG.MatchHistoryConfig(config_dict=handle_configout_click())
     
-    # TODO: na ez aszért szar mert init után lesz mindig értéke és ha van értlke akk szarul hivpodik a match case mostan iszar !!!!!!!
+    # TODO: na ez aszért bad mert init után lesz mindig értéke és ha van értlke akk rosszul hivpodik a match case mostan ibad !!!!!!!
     # ezé itt ""
     #GUI_table_type_Config = CONFIG.TableTypeConfig("")
     
@@ -130,6 +130,7 @@ if progi_button:
     config.set_debug(bool(debug_cb))
     
     with debug_out.timed():
+        with st.spinner('Please wait... Running the task'):
             file_io.read_all_files_in_dir(st)
             config.set_loop(False)
             config.set_debug(False)

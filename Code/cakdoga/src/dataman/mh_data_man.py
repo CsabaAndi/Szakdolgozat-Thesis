@@ -11,7 +11,7 @@ import re
 #előfeldolgozés historyn a hasznos adathoz
 def match_history_preclean(file):
 
-    # convert false azért kell mert vmiért automatic convertálja a dateket szarul
+    # convert false azért kell mert vmiért automatic convertálja a dateket rosszul
     df_mh = pd.read_json(file, convert_dates=False) 
 
     # copy
@@ -20,7 +20,7 @@ def match_history_preclean(file):
     ### df_mh_copy.replace("NaN", "asd")
 
     # kivenni ami nem rendes score eredmény
-    df_clean = df_mh_copy.loc[(~df_mh_copy["Score"].isin(["-", "CANC", "SUSP"])) & (~df_mh_copy["Score"].str.match("\d\d:\d\d", na=False))] # valamiért van nan??
+    df_clean = df_mh_copy.loc[(~df_mh_copy["Score"].isin(["-", "CANC", "SUSP", "PSTP"])) & (~df_mh_copy["Score"].str.match(r"\d\d:\d\d", na=False))] # valamiért van nan??
 
     # date convert on copied df throws warning
     pd.options.mode.chained_assignment = None  # default='warn'
@@ -76,7 +76,7 @@ def get_goals_helper(df_score_col: pd.DataFrame):
     return [s1, s2]
 
 
-# TODO: implement | tezstelésre jó de refactor mert szar az egész
+# TODO: implement | tezstelésre jó de refactor mert bad az egész
 def set_df_goal_cols(df: pd.DataFrame, column_name: str = "Score", filter: bool = False, min_goals: int = 0, max_goals: int = 100):
 
     def all(df_col):

@@ -44,7 +44,11 @@ if all_country_button:
 
 
 if start_mltmp:
-    learning.ml.mltmp.baseline()
+    with st.container():
+        with st.spinner('Please wait... Running the task'):
+            learning.ml.mltmp.baseline()
     
 if scitest:
-    learning.ml.mltmp.sckiittest()
+    with st.container():
+        with st.spinner('Please wait... Running the task'):
+            learning.ml.mltmp.sckiittest()

@@ -62,7 +62,7 @@ def read_all_files_in_dir(page): # TODO file path
                 case "Wide":
                     table_type = "Wide"
                     
-    # TODO !!! valma iszar a table loopoknál
+    # TODO !!! valma ibad a table loopoknál
     # r=root, d=directories, f = files
     for r, d, f in itertools.islice(os.walk(path, topdown=True), 1, 50, 1):
         # folderenként!

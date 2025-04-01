@@ -17,9 +17,11 @@ const program = new Command();
 
 program
   .option('-p, --page <page>', 'numberic value to turn back pages', parseFloat, 1)
+  .option('-l, --loop <loop>', 'bool, loop through all links or just first', false)
   .parse(process.argv);
 
 const options = program.opts();
+const isLoop = options.loop.toLowerCase() === 'true';
 
 /** Main function */
 (async () => {
@@ -66,16 +68,22 @@ const options = program.opts();
       await matchHistory(browserContext, html, "base", options.page);
 
       //readFromJson()
-      
-      break;
+
+      if( !isLoop ){
+        console.log("-------------------------------{negated}}----", !isLoop)
+        break;
+      }
       
     //TODO
     } catch(error) { 
-
-      await firstPage.screenshot({ path: `../output/dev/logs/errors/`+`${new Date()}`+`-error.png`, fullPage: true });
+      try{
+        await firstPage.screenshot({ path: `../output/dev/logs/errors/`+`${new Date()}`+`-error.png`, fullPage: true });
+      } catch(err) {
+        console.log("Error - Log: Problem with taking screenshot", err)
+      }
       if( error instanceof errors.TimeoutError){console.log(`${new Date()} - Timeout Error`)}
       console.log(`${new Date()} -> Other Error`)
-      console.log(error)
+      console.log("Error - Log: ", error)
     }
     
   };

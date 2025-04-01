@@ -25,7 +25,7 @@ def mh_stats(mh_preclean_df):
     most_common_team = mh_data_man.mh_get_mcommon_team(mh_preclean_df)[0]
     
 
-    # TODO: WIP | tesztnmek jo de szar refact !!
+    # TODO: WIP | tesztnmek jo de bad refact !!
     mh_data_man.set_df_goal_cols(df=mh_preclean_df, column_name="Score", filter=False, min_goals=0, max_goals=100) # what ????
 
     # set wdl column data
