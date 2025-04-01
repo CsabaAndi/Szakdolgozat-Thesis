@@ -31,6 +31,9 @@
 ## Requirements
 
 - node.js 20.x.x (20.19.0) 
+- Playwright 1.45.0 with chromium 127 (127.0.6533.17)
+	- you may need to install chromium for palywright: "npx playwright install-deps chromium"
+	- help - https://playwright.dev/docs/browsers
 
 - cd to webscrape-app/datanode
 - npm install
@@ -54,3 +57,6 @@
 
 
 # User manual
+
+
+- TBD
