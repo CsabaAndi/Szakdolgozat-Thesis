@@ -5,6 +5,7 @@
 # Thesis output folders ??
 .Code/cakdoga/output
 .Code/cakdoga/webscrape-app/datanode/output
+.Code/cakdoga/webscrape-app/datanode/logs
 
 # from webscrape gitignore file
 .Code/cakdoga/webscrape-app/datanode/playwright-report/

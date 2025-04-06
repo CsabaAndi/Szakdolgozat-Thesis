@@ -1,13 +1,14 @@
 import { firefox, devices, chromium, errors} from 'playwright';
 import { expect } from '@playwright/test';
 import { setTimeout } from "timers/promises";
-import { requestResourceBlocking } from './requests/resource-blocking';
+import { handleRequests } from './network/limit-requests';
 import { URLS_2023_2024 } from './constans/links';
 import { BROWSER_CONFIG } from './constans/browser.config'
 import { getLeagueTableData, getPlayerTableData, getOverUnderTableData, getWideTableData, getMatchHistoryData, getTeamLinks } from './table-parsers';
 import { matchHistory } from './match-history';
 import { readFromJson } from './update'
 import { Command } from 'commander';
+
 
 // TODO: clean imports/exports
 // TODO: browser extensions not working currently [browser path starts from appdata instead of persistent data folder in project]
@@ -21,7 +22,7 @@ program
   .parse(process.argv);
 
 const options = program.opts();
-const isLoop = options.loop.toLowerCase() === 'true';
+//const isLoop = options.loop.toLowerCase() === 'true';
 
 /** Main function */
 (async () => {
@@ -32,52 +33,27 @@ const isLoop = options.loop.toLowerCase() === 'true';
     args: BROWSER_CONFIG.args,
   });
 
-  requestResourceBlocking(browserContext);
+  //requestResourceBlocking(browserContext);
+  //limitRequests(browserContext);
   const firstPage = browserContext.pages()[0]
   for await (const url of URLS_2023_2024){
     console.log(url)
+    handleRequests(browserContext);
     try{ 
-      const x = url.split(`/`).slice(4, 6)
+      const x = url.split(`/`)
+      console.log(x)
+
       await firstPage.goto(url, {timeout: 0});
+      await setTimeout(5000);
+      break;
+
+
+      //await setTimeout(5000);
       
-      // headless mode debug
-      // await firstPage.screenshot({ path: 'screenshot.png', fullPage: true });
 
-  
-      await expect(firstPage.locator("table.detailed-table")).toBeVisible();
-      await firstPage.content().then((x) => { html = x });
-      getLeagueTableData(html, x);
-
-
-      await expect(firstPage.locator("table.playerstats")).toBeVisible();
-      await firstPage.content().then((x) => { html = x });
-      getPlayerTableData(html, x);
-
-      
-      await firstPage.getByRole("listitem").filter({hasText: "Over/under"}).click();
-      await expect(firstPage.locator("table.overundertable")).toBeVisible();
-      await firstPage.content().then((x) => { html = x });
-      getOverUnderTableData(html, x);
-
-
-      await firstPage.getByRole("listitem").filter({hasText: "Wide"}).click();
-      await expect(firstPage.locator("table.detailed-table.fixed-wide-table")).toBeVisible();
-      await firstPage.content().then((x) => { html = x });
-      getWideTableData(html, x);
-      
-      await matchHistory(browserContext, html, "base", options.page);
-
-      //readFromJson()
-
-      if( !isLoop ){
-        console.log("-------------------------------{negated}}----", !isLoop)
-        break;
-      }
-      
-    //TODO
     } catch(error) { 
       try{
-        await firstPage.screenshot({ path: `../output/dev/logs/errors/`+`${new Date()}`+`-error.png`, fullPage: true });
+        await firstPage.screenshot({ path: `../logs/errors/playwright`+`${new Date()}`+`-error.png`, fullPage: true });
       } catch(err) {
         console.log("Error - Log: Problem with taking screenshot", err)
       }
@@ -91,7 +67,7 @@ const isLoop = options.loop.toLowerCase() === 'true';
   console.log(`time: ${((Date.now() - start)/1000).toFixed(5)} - sec`);
   console.log("end");
   
-  await setTimeout(5000);
+  //await setTimeout(5000);
   //await setTimeout(500000);
   
   await browserContext.close();
