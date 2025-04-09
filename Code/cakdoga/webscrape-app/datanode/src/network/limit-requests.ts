@@ -1,14 +1,18 @@
 import { BrowserContext, Route } from "@playwright/test";
-import { RESOURCE_NAME_EXCLUSIONS, RESOURCE_TYPE_EXCLUSIONS } from '../constans/resources'
 import { setTimeout } from "timers/promises";
+import { config } from 'dotenv';
 import { appendLog, createNetworkLogFile, generateLogContent } from './network-logger';
 
+config({path: '../.env'})
 
 let requestCounter = 0; // To track requests 
 let isRequestInProgress = false;  // To track if a request is already being processed
 
 const options: Intl.DateTimeFormatOptions = { timeZoneName: 'short' }
 const currentTime = new Date(Date.now()).toLocaleString(undefined, options);
+
+const RESOURCE_NAME_EXCLUSIONS = process.env.RESOURCE_NAME_EXCLUSIONS?.split(',') || []
+const RESOURCE_TYPE_EXCLUSIONS = process.env.RESOURCE_TYPE_EXCLUSIONS?.split(',') || []
 
 /**
  * Function to handle each request with a X second delay.

@@ -1,17 +1,17 @@
 {
     "compilerOptions": {
-      "target": "ESNext",                     // Set the ECMAScript target to the latest version
-      "module": "ESNext",                     // Use ESNext modules (this allows the use of 'import' and 'export')
-      "moduleResolution": "node",              // Use Node.js-style module resolution
-      "strict": true,                         // Enable strict type checking options
-      "esModuleInterop": true,                // Enable compatibility for CommonJS modules
-      "skipLibCheck": true,                   // Skip type checking of declaration files
-      "forceConsistentCasingInFileNames": true, // Ensure consistent casing in file names
-      "types": ["node"]                       // Include Node.js types for accessing process.env
+      "target": "ESNext",                 
+      "module": "ESNext",                     
+      "moduleResolution": "node",             
+      "strict": true,                         
+      "esModuleInterop": true,                
+      "skipLibCheck": true,                   
+      "forceConsistentCasingInFileNames": true, 
+      "types": ["node"]                       
     },
     "include": [
-      "src/**/*.ts",                          // Include all .ts files in your src folder
-      "playwright.config.ts"                  // Include playwright config
+      "src/**/*.ts",                        
+      "playwright.config.ts"                  
     ]
+
   }
-  

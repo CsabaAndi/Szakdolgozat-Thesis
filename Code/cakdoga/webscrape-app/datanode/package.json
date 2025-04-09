@@ -2,21 +2,22 @@
   "name": "data-node",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "tsx src/scraper.ts"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
-  "devDependencies": {
-    "@playwright/test": "^1.45.0",
-    "@testomatio/reporter": "^1.4.6",
-    "@types/node": "^20.14.9",
-    "playwright": "^1.45.0",
-    "ts-node": "^10.9.2"
-  },
+  "devDependencies": {},
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "commander": "^13.1.0",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "tsx": "^4.19.3",
+    "@playwright/test": "^1.45.0",
+    "playwright": "^1.45.0",
+    "typescript": "^5.8.3",
+    "@types/node": "^20.14.9"
   }
 }

@@ -13,7 +13,7 @@ def run_datanode_app(arg_loop = False, arg_page = 2):
     # Define the path to the src folder
     src_path = os.path.abspath('../webscrape-app/datanode/src')
 
-    command = ["npx", "ts-node", "scraper.ts", "-l", f"{arg_loop}", "-p", f"{str(arg_page)}"]
+    command = ["npx", "tsx", "scraper.ts"]
     
     # Run datanode
     if platform.system() == 'Windows':

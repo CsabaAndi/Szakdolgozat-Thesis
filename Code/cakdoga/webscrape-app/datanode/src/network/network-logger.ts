@@ -1,14 +1,39 @@
-import { appendFileSync, writeFileSync, existsSync } from "fs"
+import { appendFileSync, writeFileSync, mkdirSync } from "fs"
+import { dirname, resolve } from 'path';
 import { Route } from "@playwright/test";
 
-const options: Intl.DateTimeFormatOptions = {  year: 'numeric',  month: '2-digit',  day: '2-digit', hour: '2-digit', minute: '2-digit', second: '2-digit', timeZoneName: 'short' }
-const logTimestamp: any = new Date(Date.now()).toLocaleString(undefined, options).replace(/[/, ]/g, '-')
-const logFilePath = `../logs/network/networkLogs-${logTimestamp}.txt`; // Define the path to your log file
+const options: Intl.DateTimeFormatOptions = {
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    timeZoneName: 'short',
+};
+
+// Create a formatted timestamp
+const logTimestamp: string = new Date().toLocaleString(undefined, options)
+    .replace(/\//g, '-')           // Replace slashes with dashes
+    .replace(/,/g, '')             // Remove commas
+    .replace(/ /g, '-')            // Replace spaces with dashes
+    .replace(/:/g, '-')            // Replace colons with dashes
+    .replace(/GMT.*/, '');         // Remove GMT part if not needed
+
+// Define the path to your log file
+const logFilePath = `../logs/network/networkLogs-${logTimestamp}.txt`;
 
 
 function createNetworkLogFile(): void {
     const headerContent = '-------------------- Log Start --------------------\n\n';
-    writeFileSync(logFilePath, headerContent, 'utf8');
+    console.log(process.cwd())
+
+    // Resolve the full path to the log file
+    const resolvedPath = resolve(logFilePath);
+    const dirPath = dirname(resolvedPath);
+    mkdirSync(dirPath, { recursive: true });
+
+    writeFileSync(resolvedPath, headerContent, 'utf8');
 }
 
 // Function to append to the log file synchronously
