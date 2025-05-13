@@ -1,0 +1,82 @@
+# main page translations
+"main_title": "Üdvözöljük a Futball Adat Alkalmazásban"
+"select_language": "Válasszon egy nyelvet"
+
+"thesis_title": "Adatgyűjtés, feldolgozás és elemzés megvalósítása, majd gépi tanulás alkalmazása a labdarúgásban."
+thesis_author: "Szerző"
+thesis_author_value: "Andi Csaba"
+thesis_supervisor: "Témavezető"
+thesis_supervisor_value: "Dr. Kőrösi Gábor"
+thesis_university: "Egyetem"
+thesis_university_value: "Szegedi Tudományegyetem Természettudományi és Informatikai Kar"
+thesis_year: "Év"
+
+### page navigation translations
+main_page_sidebar_title: "Üdvözlet"
+user_manual_sidebar_title: "Felhasználói útmutató"
+data_collection_sidebar_title: "Adatgyűjtés"
+cleaning_generating_sidebar_title: "Tisztítás és generálás"
+file_explorer_sidebar_title: "Fájlkezelő"
+statistics_sidebar_title: "Statisztika"
+sort_filter_sidebar_title: "Rendezés és szűrés"
+training_predictions_sidebar_title: "Tanítás és előrejelzések"
+
+sidebar_information_section_name: "Információk"
+sidebar_collecting_section_name: "Adatgyűjtés"
+sidebar_processing_section_name: "Adatfeldolgozás"
+sidebar_analysis_visualization_section_name: "Adat elemzés és vizualizáció"
+sidebar_ml_section_name: "Gépi tanulás"
+
+#01
+
+#02
+"page_nav_sf": "Rendezés & Szűrés Adatokra"
+
+#03
+"page_nav_show": "Adatok Megjelenítése"
+#04
+"page_nav_gen": "Adatok Generálása Tisztán & Mindent Egyben"
+generate_clean_main_league_files: "Tisztított Fő Liga Fájlok Generálása"
+generate_clean_extra_league_files: "Tisztított Extra Liga Fájlok Generálása"
+generate_clean_combined_season_files: "Tisztított szezonok kombinálása"
+generate_clean_all_in_one_file: "Minden adatot tartalmazó fájl generálása"
+#05
+
+#06
+"page_nav_ml":  "Gépi Tanulás"
+
+#07
+"page_nav_dc":  "Adatgyűjtés"
+webscraper_run_button: "Indítás"
+webscraper_terminate_button: "Megszakítás"
+
+#08  
+
+
+# 09 search page translations
+"choose_season": "Válasszon egy szezont"
+"choose_country": "Válasszon egy országot"
+"choose_league": "Válasszon egy ligát"
+"no_matching_league": "Nincs megfelelő liga!"
+"file_path": "Fájl elérési útja"
+
+you_selected: "Kiválasztott:"
+
+legal_notice_title: "Jogi nyilatkozat"
+legal_notice_body: "Ez a projekt kizárólag bemutató célokat szolgál. A felhasznált adatok megfelelnek a forrás weboldal Felhasználási feltételeinek, Adathasználati irányelveinek, valamint a forgalomra és webrobotokra vonatkozó korlátozásoknak. Semmilyen adatot nem tároltunk adatbázisban, és a scraper használata kizárólag ezen demonstráció keretein belül történt. Az adatok nem kerültek felhasználásra gépi tanulási modellek betanítására vagy statisztikai elemzésre."
+
+legal_note_title: "Fontos megjegyzés"
+legal_note_body: "Ez a scraper alapértelmezetten nem működőképes, manuális környezeti változók beállítására van szükség a használatához. A scraper konfigurálásával és futtatásával a felhasználó teljes felelősséget vállal a célweboldal jogi és használati szabályainak betartásáért. Ez az eszköz nem automatizált adatgyűjtésre vagy scrapingre készült, kizárólag oktatási és demonstrációs célokat szolgál."
+
+
+ml_stats_subheader_datsample: "Adatminták:"
+ml_stats_subheader_distribution: "Eredményeloszlás - [FTR]:"
+ml_stats_falseacc:  "False Accuracy (H+D):"
+ml_stats_subheader_describe: "Leíró statisztika (describe):"
+ml_stats_subheader_statistics: "Statisztikák:"
+ml_stats_min: "Minimum:"
+ml_stats_max: "Maximum:"
+ml_stats_avg: "Átlag:"
+ml_stats_med: "Medián:"
+ml_stats_std: "Szórás: (std)"
+ml_stats_dist: "Eloszlás:"

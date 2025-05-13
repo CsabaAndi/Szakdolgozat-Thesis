@@ -1,0 +1,85 @@
+# main page translations
+main_title: "Welcome to the Football Data App"
+select_language: "Select a language"
+
+"thesis_title": "Implementation of data collection, processing, and analysis, followed by the application of machine learning in football."
+thesis_author: "Author"
+thesis_author_value: "Andi Csaba"
+thesis_supervisor: "Supervisor"
+thesis_supervisor_value: "Dr. Kőrösi Gábor"
+thesis_university: "University"
+thesis_university_value: "University of Szeged, Faculty of Science and Informatics"
+thesis_year: "Year"
+
+
+### page navigation translations
+main_page_sidebar_title: "Welcome"
+user_manual_sidebar_title: "User Guide"
+data_collection_sidebar_title: "Data Collection"
+cleaning_generating_sidebar_title: "Cleaning & Generating"
+file_explorer_sidebar_title: "File Explorer"
+statistics_sidebar_title: "Statistics"
+sort_filter_sidebar_title: "Sort & Filter"
+training_predictions_sidebar_title: "Training & Predictions"
+
+sidebar_information_section_name: "Informations"
+sidebar_collecting_section_name: "Data Collection"
+sidebar_processing_section_name: "Data Processing"
+sidebar_analysis_visualization_section_name: "Data Analysis & Visualization"
+sidebar_ml_section_name: "Machine Learning"
+
+#01
+
+#02
+page_nav_sf: "Short & Filter Data"
+
+#03
+page_nav_show: "Show Data"
+#04
+page_nav_gen: "Generate Clean & All in one Data"
+generate_clean_main_league_files: "Generate Clean Main League Files"
+generate_clean_extra_league_files: "Generate Clean Extra League Files"
+generate_clean_combined_season_files: "Generate Clean Combined Season Files"
+generate_clean_all_in_one_file: "Generate All in one file"
+
+
+#05
+
+#06
+page_nav_ml: "Machine Learning"
+
+#07
+page_nav_dc: "Data Collection"
+webscraper_run_button: "Start"
+webscraper_terminate_button: "Terminate"
+
+#08   
+
+#09 search page translations
+page_nav_search: "Search files"
+choose_season: "Choose a season"
+choose_country: "Choose a country"
+choose_league: "Choose a league"
+no_matching_league: "No matching league found!"
+file_path: "File path"
+
+you_selected: "You selected"
+
+legal_notice_title: "Legal Notice"
+legal_notice_body: "This is for demonstration purposes only. The data used complies with the source website's [Terms of Use](https://www.sports-reference.com/termsofuse.html), [Data Use](https://www.sports-reference.com/data_use.html) policies, and [traffic/scraper limitations](https://www.sports-reference.com/bot-traffic.html). No data has been stored in a database, and the scraper has not been used beyond this demo context. The data has not been used in any way for model training or statistical analysis."
+
+legal_note_title: "Important Note"
+legal_note_body: "This scraper is non-functional by default and requires manual configuration of environment variables. By setting up and using these variables, the user assumes full responsibility for complying with the applicable Terms of Service and legal policies of the target website. This tool is not intended for active scraping or data collection and is provided solely for demonstration and educational purposes."
+
+ml_stats_subheader_datsample: "Data Sample:"
+ml_stats_subheader_distribution: "HDA - Distribution: [FTR]"
+ml_stats_falseacc: "False Accuracy (H+D):"
+ml_stats_subheader_describe: "Describe:"
+ml_stats_subheader_statistics: "Statistics:"
+ml_stats_min: "Minimum:"
+ml_stats_max: "Maximum:"
+ml_stats_avg: "Average:"
+ml_stats_med: "Median:"
+ml_stats_std: "Standard Deviation:"
+ml_stats_dist: "Distribution:"
+
