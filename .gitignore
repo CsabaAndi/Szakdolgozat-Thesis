@@ -1,20 +1,20 @@
 # Thesis environments
 .Code/.venvs
-.Code/cakdoga/webscrape-app/datanode/node_modules
+.Code/webscrape-app/node_modules
 
 # Thesis output folders ??
-.Code/cakdoga/output
-.Code/cakdoga/webscrape-app/datanode/output
-.Code/cakdoga/webscrape-app/datanode/logs
+.Code/output
+.Code/webscrape-app/output
+.Code/webscrape-app/logs
 
 # from webscrape gitignore file
-.Code/cakdoga/webscrape-app/datanode/playwright-report/
-.Code/cakdoga/webscrape-app/datanode/blob-report/
-.Code/cakdoga/webscrape-app/datanode/playwright/.chache/
-.Code/cakdoga/webscrape-app/datanode./env
-.Code/cakdoga/webscrape-app/datanode/test-results/
-.Code/cakdoga/webscrape-app/datanode/playwright/.cache/
-.Code/cakdoga/webscrape-app/datanode/browser/*
+.Code/webscrape-app/playwright-report/
+.Code/webscrape-app/blob-report/
+.Code/webscrape-app/playwright/.chache/
+.Code/webscrape-app./env
+.Code/webscrape-app/test-results/
+.Code/webscrape-app/playwright/.cache/
+.Code/webscrape-app/browser/*
 
 
 # Latex files
