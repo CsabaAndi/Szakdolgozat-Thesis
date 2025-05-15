@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import joblib
+from pathlib import Path
 import streamlit as st
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
@@ -9,7 +10,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.callbacks import Callback, EarlyStopping
 import data_man.data_adapter as data_adapter
-import stats.wdl_counter as wdl_counter
+import stats.filter_and_sort_df as filter_and_sort
 from config_class import Config
 
 
@@ -61,7 +62,7 @@ class StreamlitLogger(Callback):
 
 def load_data():
     path = r"../../Data/datasets/football-data-co-uk/Cleaned-Data/Main-Leagues/seasons_combined/Seasons_leagues_combined.csv"
-    df = wdl_counter.filter_and_sort_df(
+    df = filter_and_sort.filter_and_sort_df(
         data_adapter.adapt(path, extended_ml_model=True)
     )
     df = df.drop(columns=["wdl"], errors="ignore")
@@ -72,6 +73,8 @@ def train_keras_model(
     output_type="HDA",
     model_path="../trained-modells/modells/keras_model.h5",
     scaler_path="../trained-modells/scalers/keras_scaler.pkl",
+    epochs=50,
+    test_size=0.2,
     log_callback=None,
 ):
     df = load_data()
@@ -103,7 +106,7 @@ def train_keras_model(
     X_scaled = scaler.fit_transform(X)
 
     X_train, X_test, y_train, y_test = train_test_split(
-        X_scaled, y, test_size=0.2, random_state=42
+        X_scaled, y, test_size=test_size, random_state=42
     )
 
     model = Sequential(
@@ -123,7 +126,7 @@ def train_keras_model(
     model.fit(
         X_train,
         y_train,
-        epochs=50,
+        epochs=epochs,
         validation_split=0.2,
         batch_size=16,
         verbose=1,
@@ -132,6 +135,9 @@ def train_keras_model(
 
     model_path = f"../trained-modells/modells/keras-model-{output_type}.h5"
     scaler_path = f"../trained-modells/scalers/keras-scaler-{output_type}.pkl"
+    
+    Path(model_path).parent.mkdir(parents=True, exist_ok=True)
+    Path(scaler_path).parent.mkdir(parents=True, exist_ok=True)
 
     model.save(model_path)
     joblib.dump(scaler, scaler_path)
@@ -143,6 +149,7 @@ def train_rf_model(
     output_type="HDA",
     model_path="../trained-modells/modells/rf_model.pkl",
     scaler_path="../trained-modells/scalers/rf_scaler.pkl",
+    test_size=0.2,
 ):
     df = load_data()
 
@@ -161,7 +168,7 @@ def train_rf_model(
     X_scaled = scaler.fit_transform(X)
 
     X_train, X_test, y_train, y_test = train_test_split(
-        X_scaled, y, test_size=0.2, random_state=42
+        X_scaled, y, test_size=test_size, random_state=42
     )
 
     model = RandomForestClassifier(n_estimators=100, random_state=42)
@@ -172,6 +179,9 @@ def train_rf_model(
 
     model_path = f"../trained-modells/modells/rf-model-{output_type}.pkl"
     scaler_path = f"../trained-modells/scalers/rf-scaler-{output_type}.pkl"
+    
+    Path(model_path).parent.mkdir(parents=True, exist_ok=True)
+    Path(scaler_path).parent.mkdir(parents=True, exist_ok=True)
 
     joblib.dump(model, model_path)
     joblib.dump(scaler, scaler_path)

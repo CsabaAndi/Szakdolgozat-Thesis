@@ -14,6 +14,8 @@ def select_mode(filepath):
             call_data_clean_to_file(filepath)
         case "Stat":
             call_stat(filepath)
+        case "FilterSort":
+            call_filter_sort(filepath)
 
 
 def call_stat(filepath):
@@ -22,6 +24,11 @@ def call_stat(filepath):
 
     stats_wdl.df_wdl_counter(stats_filter_sort.filter_and_sort_df(filepath))
 
+def call_filter_sort(filepath):
+    if config.get_debug is True:
+        print(f"Filepath: {filepath}")
+
+    stats_filter_sort.filter_and_sort_df(filepath)
 
 def call_data_clean_to_file(filepath):
     if config.get_debug is True:

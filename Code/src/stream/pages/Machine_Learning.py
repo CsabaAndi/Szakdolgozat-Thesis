@@ -12,8 +12,29 @@ with st.sidebar:
     onextwo_rb = st.radio(
         label="Mode", options=["HDA", "1X2"], horizontal=True, key=6845687678
     )
-    start_train = st.button(label="Trai: Keras", type="secondary")
-    start_train_rf = st.button(label="Train: RF", type="secondary")
+    
+    epoch_count = st.number_input(
+        label="Epochs",
+        min_value=1,
+        max_value=100,
+        value=10,
+        step=1,
+        key=100984654560,
+    )
+    
+    test_data_size = st.number_input(
+        label="Test Size",
+        min_value=0.0,
+        max_value=0.8,
+        value=0.2,
+        step=0.1,
+        key=1009846545600,
+    )
+    
+    
+    
+    start_train = st.button(label="Trai: Neural Net", type="secondary")
+    start_train_rf = st.button(label="Train: Random Forest", type="secondary")
 
     st.header("Predict", help="Predict using the trained modells")
 
@@ -42,8 +63,8 @@ with st.sidebar:
         key=20000000,
     )
 
-    start_predict = st.button(label="Predict: Keras", type="secondary")
-    start_predict_rf = st.button(label="Predict: RF", type="secondary")
+    start_predict = st.button(label="Predict: Neural Net", type="secondary")
+    start_predict_rf = st.button(label="Predict: Random Forest", type="secondary")
 
 if start_train:
     log_area = st.empty()
@@ -54,14 +75,14 @@ if start_train:
     with st.container():
         with st.spinner("Training model"):
             model = train_modells.train_keras_model(
-                onextwo_rb, log_callback=log_callback
+                onextwo_rb, epochs=epoch_count, test_size=float(test_data_size), log_callback=log_callback
             )
     st.success("Training complete!")
 
 if start_train_rf:
     with st.container():
         with st.spinner("Training model"):
-            model = train_modells.train_rf_model(onextwo_rb)
+            model = train_modells.train_rf_model(onextwo_rb, test_size=float(test_data_size))
     st.success("Training complete!")
 
 if start_predict:

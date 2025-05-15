@@ -5,20 +5,19 @@ from pathlib import Path
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 
+
 RAW_MAIN = Path("../../Data/datasets/football-data-co-uk/Raw-Data/Main-Leagues")
 RAW_EXTRA = Path("../../Data/datasets/football-data-co-uk/Raw-Data/Extra-Leagues")
 CLEANED_MAIN = RAW_MAIN.parents[1] / "Cleaned-Data" / RAW_MAIN.name
 CLEANED_EXTRA = RAW_EXTRA.parents[1] / "Cleaned-Data" / RAW_EXTRA.name
 COMBINED_DIR = CLEANED_MAIN / "seasons_combined"
 
-
 def read_csv_safely(path):
     try:
-        return pl.read_csv(path)
+        return pd.read_csv(path)
     except Exception as e:
-        st.error(f"Failed to read {path}: {e}")
+        st.warning(f"Failed to read {path}: {e}")
         return None
-
 
 def extract_country_from_path(path, base_dir):
     parts = path.relative_to(base_dir).parts
@@ -42,7 +41,6 @@ def generate_all_in_one():
     combined_df.to_csv(output_path, index=False)
     st.success(f"Combined Seasons & Leagues file saved at: {output_path}")
 
-
 def generate_combined_seasons():
     COMBINED_DIR.mkdir(parents=True, exist_ok=True)
     league_files = defaultdict(lambda: defaultdict(list))
@@ -64,18 +62,14 @@ def generate_combined_seasons():
 
             all_cols = sorted({col for df in dfs for col in df.columns})
             dfs_std = [
-                df.with_columns(
-                    [pl.lit(None).alias(col) for col in set(all_cols) - set(df.columns)]
-                ).select(all_cols)
-                for df in dfs
+                df.reindex(columns=all_cols) for df in dfs
             ]
-            combined = pl.concat(dfs_std, how="vertical_relaxed")
+            combined = pd.concat(dfs_std, axis=0, ignore_index=True)
             out_dir = COMBINED_DIR / country
             out_dir.mkdir(parents=True, exist_ok=True)
             out_path = out_dir / league_name
-            combined.write_csv(out_path)
+            combined.to_csv(out_path, index=False)
             st.success(f"Saved: {out_path}")
-
 
 def generate_combined_season_leagues():
     generate_combined_seasons()

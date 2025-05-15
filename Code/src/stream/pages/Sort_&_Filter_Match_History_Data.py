@@ -1,6 +1,7 @@
 import streamlit as st
 import debug_out
 import data_man.data_adapter as data_adapter
+import stats.filter_and_sort_df as stats_filter_sort
 from controller import selectors, modes_controller
 from config_class import Config
 
@@ -10,8 +11,7 @@ config = Config()
 container = st.container(border=True)
 col = st.columns((1.5, 4.5, 2), gap="medium")
 
-
-def handle_configout_click():
+def handle_configout_click(show=False):
     selected_values = {
         "Side-checkbox": bool(side_filter_cb),
         "Side-value": side_rb,
@@ -37,11 +37,12 @@ def handle_configout_click():
         "Date-filter-end": end_date_dp.strftime("%d/%m/%Y"),
         "Date-sort-order": date_asc_rb == "Ascending",
     }
-
-    with col[1]:
-        container.write("### Selected Values:")
-        for key, value in selected_values.items():
-            container.write(f"- {key}: {value}")
+    
+    if show:
+        with col[1]:
+            container.write("### Selected Values:")
+            for key, value in selected_values.items():
+                container.write(f"- {key}: {value}")
 
     return selected_values
 
@@ -193,9 +194,30 @@ with st.sidebar:
     debug_cb = st.checkbox(label="(dev) debug")
 
     # reset_button = st.button(label="Reset", on_click=None, type="primary")
-    progi_button = st.button(label="Start", type="secondary")
-    configout_button = st.button(label="Configout", type="secondary")
+    table_button = st.button(label="Filter & Sort Data", type="secondary")
+    progi_button = st.button(label="Show wdl graphs", type="secondary")
+    configout_button = st.button(label="Show Configuration", type="secondary")
 
+if table_button:
+    config.set_config_dict(handle_configout_click())
+    config.set_mode("FilterSort")
+    config.set_loop(bool(loop_cb))
+    config.set_debug(bool(debug_cb))
+    config.set_country(selected_country.upper())
+    config.set_league(selected_league_display)
+    
+    with debug_out.timed():
+        with st.spinner("Please wait... Running the task"):
+            adapted_df = data_adapter.adapt(league_path, extended_ml_model=False)
+            with st.container(border=True):
+                if loop_cb:
+                    for side_team_name in unique_combined:
+                        config.set_side_team(side_team_name)
+                        df = stats_filter_sort.filter_and_sort_df(adapted_df)
+                        st.write(df)
+                else:
+                    df = stats_filter_sort.filter_and_sort_df(adapted_df)
+                    st.write(df)
 
 if progi_button:
     config.set_config_dict(handle_configout_click())
@@ -219,7 +241,7 @@ if progi_button:
             config.set_debug(False)
 
 if configout_button:
-    handle_configout_click()
+    handle_configout_click(show=True)
 
 
 if __name__ == "__main__":

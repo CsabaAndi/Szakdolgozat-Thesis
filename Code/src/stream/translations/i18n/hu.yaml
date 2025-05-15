@@ -18,7 +18,7 @@ data_collection_sidebar_title: "Adatgyűjtés"
 cleaning_generating_sidebar_title: "Tisztítás és generálás"
 file_explorer_sidebar_title: "Fájlkezelő"
 statistics_sidebar_title: "Statisztika"
-sort_filter_sidebar_title: "Rendezés és szűrés"
+sort_filter_sidebar_title: "Szűrés és Rendezés"
 training_predictions_sidebar_title: "Tanítás és előrejelzések"
 
 sidebar_information_section_name: "Információk"
@@ -71,7 +71,7 @@ legal_note_body: "Ez a scraper alapértelmezetten nem működőképes, manuális
 
 ml_stats_subheader_datsample: "Adatminták:"
 ml_stats_subheader_distribution: "Eredményeloszlás - [FTR]:"
-ml_stats_falseacc:  "False Accuracy (H+D):"
+ml_stats_hur: "HAzai veretlenség arány (H+D):"
 ml_stats_subheader_describe: "Leíró statisztika (describe):"
 ml_stats_subheader_statistics: "Statisztikák:"
 ml_stats_min: "Minimum:"

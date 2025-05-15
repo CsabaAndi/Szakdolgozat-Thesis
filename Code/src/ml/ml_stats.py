@@ -47,8 +47,8 @@ def base_stats(path):
     df = filtered_sorted_df.drop(columns=["wdl", "Goal_X", "Goal_Y"], errors="ignore")
     df = df.rename(columns={"all_goals": "goals_sum"})
 
-    correct_preds = df["FTR"].isin(["H", "D"]).sum()
-    false_accuracy = correct_preds / len(df)
+    home_draw_sum = df["FTR"].isin(["H", "D"]).sum()
+    home_unbeaten_rate = home_draw_sum / len(df)
 
     cols_to_analyze = ["FTHG", "FTAG", "goals_sum", "B365H", "B365D", "B365A"]
 
@@ -61,7 +61,7 @@ def base_stats(path):
         st.subheader(translate("ml_stats_subheader_distribution"))
         st.write(df["FTR"].value_counts())
         st.markdown(
-            f"{translate("ml_stats_falseacc")} <span style='{highlight_style}'>{false_accuracy:.2%}</span>",
+            f"{translate("ml_stats_hur")} <span style='{highlight_style}'>{home_unbeaten_rate:.2%}</span>",
             unsafe_allow_html=True,
         )
 

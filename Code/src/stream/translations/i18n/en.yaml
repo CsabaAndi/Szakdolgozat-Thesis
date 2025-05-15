@@ -19,7 +19,7 @@ data_collection_sidebar_title: "Data Collection"
 cleaning_generating_sidebar_title: "Cleaning & Generating"
 file_explorer_sidebar_title: "File Explorer"
 statistics_sidebar_title: "Statistics"
-sort_filter_sidebar_title: "Sort & Filter"
+sort_filter_sidebar_title: "Filter & Sort"
 training_predictions_sidebar_title: "Training & Predictions"
 
 sidebar_information_section_name: "Informations"
@@ -73,7 +73,7 @@ legal_note_body: "This scraper is non-functional by default and requires manual 
 
 ml_stats_subheader_datsample: "Data Sample:"
 ml_stats_subheader_distribution: "HDA - Distribution: [FTR]"
-ml_stats_falseacc: "False Accuracy (H+D):"
+ml_stats_hur: "Home unbeaten rate (H+D):"
 ml_stats_subheader_describe: "Describe:"
 ml_stats_subheader_statistics: "Statistics:"
 ml_stats_min: "Minimum:"
