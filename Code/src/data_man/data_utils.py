@@ -126,11 +126,11 @@ def filter_df_by_goals(
 ) -> pd.DataFrame:
 
     if filter:
-        if filter_mode == "all":
+        if filter_mode == "Sum Goals":
             df = df[df["all_goals"].between(all_g_between_low, all_g_between_high)]
-        elif filter_mode == "X":
+        elif filter_mode == "Home Goals":
             df = df[df["Goal_X"].between(x_g_between_low, x_g_between_high)]
-        elif filter_mode == "Y":
+        elif filter_mode == "Away Goals":
             df = df[df["Goal_Y"].between(y_g_between_low, y_g_high)]
 
     if sort:

@@ -82,14 +82,14 @@ with st.sidebar:
     goal_filter_cb = st.checkbox(label="Goal filter")
     bound_rb = st.radio(
         label="Goal Filter Values",
-        options=["all", "X", "Y"],
+        options=["Sum Goals", "Home Goals", "Away Goals"],
         horizontal=True,
         key=3,
         disabled=not goal_filter_cb,
     )
 
     all_min_bi = st.number_input(
-        label="all_min",
+        label="Sum - minimum",
         min_value=0,
         max_value=100,
         value=0,
@@ -99,7 +99,7 @@ with st.sidebar:
     )
 
     all_max_bi = st.number_input(
-        label="all_max",
+        label="Sum - maximum",
         min_value=0,
         max_value=100,
         value=100,
@@ -109,7 +109,7 @@ with st.sidebar:
     )
 
     x_min_bi = st.number_input(
-        label="x_min",
+        label="Home - minimum",
         min_value=0,
         max_value=100,
         value=0,
@@ -119,7 +119,7 @@ with st.sidebar:
     )
 
     x_max_bi = st.number_input(
-        label="x_max",
+        label="Home - maximum",
         min_value=0,
         max_value=100,
         value=100,
@@ -129,7 +129,7 @@ with st.sidebar:
     )
 
     y_min_bi = st.number_input(
-        label="y_min",
+        label="Away - minimum",
         min_value=0,
         max_value=100,
         value=0,
@@ -139,7 +139,7 @@ with st.sidebar:
     )
 
     y_max_bi = st.number_input(
-        label="y_max",
+        label="Away - maximum",
         min_value=0,
         max_value=100,
         value=100,

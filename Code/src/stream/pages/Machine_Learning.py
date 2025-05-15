@@ -33,7 +33,7 @@ with st.sidebar:
     
     
     
-    start_train = st.button(label="Trai: Neural Net", type="secondary")
+    start_train = st.button(label="Train: Neural Net", type="secondary")
     start_train_rf = st.button(label="Train: Random Forest", type="secondary")
 
     st.header("Predict", help="Predict using the trained modells")
